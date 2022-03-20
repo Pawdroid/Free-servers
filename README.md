@@ -7,9 +7,11 @@
 </blockquote>
 <strong>节点列表↓</strong>
 
-<<<<<<< HEAD
-<blockquote style='text-align: center;'>更新时间：2022-03-20 11:29:35</blockquote>
-<code>ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybUAxMzQuMTk1LjE5Ni44MTo4MDAw#🏁ZZ_3053
+<blockquote style='text-align: center;'>更新时间：2022-03-20 11:48:41</blockquote>
+<code>ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3QDE2OS4xOTcuMTQyLjQ6MjM3Ng==#🏁ZZ_3473
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRNQDEzNC4xOTUuMTk2LjY4OjQ0NDQ=#🏁ZZ_3059
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRNQDEzNC4xOTUuMTk2LjgxOjQ0Mw==#🏁ZZ_3149
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybUAxMzQuMTk1LjE5Ni44MTo4MDAw#🏁ZZ_3053
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0NAMTY5LjE5Ny4xNDIuNDozMzg5#🏁ZZ_3157
 ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklkQDEzNC4xOTUuMTk2LjgxOjUwMDM=#🏁ZZ_3508
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRNQDE2OS4xOTcuMTQyLjk5OjQ0Mw==#🏁ZZ_3119
@@ -27,36 +29,16 @@ ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybUAxNjkuMTk3LjE0Mi40OjgwMDA=#🏁ZZ_334
 ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklkQDEzNC4xOTUuMTk2LjE4Nzo1MDAz#🏁ZZ_3351
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0QDEzNC4xOTUuMTk2LjgxOjg4ODE=#🏁ZZ_3163
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0NAMTM0LjE5NS4xOTYuODE6MzMwNg==#🏁ZZ_3359
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhHQDE3Mi45OS4xOTAuOTI6NzAwMg==#🇺🇸US_2977
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0NAMTM0LjE5NS4xOTYuMTg3OjU2MDA=#🏁ZZ_3165
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0NAMTY5LjE5Ny4xNDIuNDo1NjAw#🏁ZZ_3160
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklkQDEzNC4xOTUuMTk2LjgxOjUwMDQ=#🏁ZZ_3352
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0QDEzNC4xOTUuMTk2LjgxOjg4ODI=#🏁ZZ_3090
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0NAMTM0LjE5NS4xOTYuMTg3OjMzMDY=#🏁ZZ_3052
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0NAMTM0LjE5NS4xOTYuODE6MzM4OQ==#🏁ZZ_3562
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhHQDEzNC4xOTUuMTk2LjE4Nzo3MDAx#🏁ZZ_3367</code>
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhHQDE3Mi45OS4xOTAuOTI6NzAwMg==#🇺🇸US_2977</code>
 <p>本次节点订阅地址：https://shadowshare.v2cross.com/publicserver/servers/temp/0xJuoYdKWMtqlmvk</p>
 <blockquote style='text-align: center;'>更多节点、免费订阅地址及订阅转换请下载本站提供的共享节点app软件<a href='https://shadowshare.v2cross.com'>ShadowShare</a>导出节点使用</blockquote>
-=======
-```
-免费节点，6小时更新一次，保证节点质量可用，完全免费。
-```
-节点页面地址：<https://v2cross.com/archives/1884>
-
-app端可提供节点免费订阅地址，请移步：<https://shadowshare.v2cross.com>
-
->>>>>>> d4a2d899d5db0bd34172065bee9cc479d0b35514
 <div class="nv-content-wrap entry-content">
 <h2>Clash、SS等客户端订阅地址一键转换：</h2>
 <p>SS/SSR/V2ray客户端若无法直接使用SSR节点链接，用下面链接的工具转换成订阅地址后，SSR/SSD/Surge/Quantum/Surfboard/Loon等手机、电脑的客户端就可以使用了：</p>
 <p><a href="https://bianyuan.xyz/" target="_blank" rel="noreferrer noopener nofollow">https://bianyuan.xyz/</a></p>
 <h2>V2ray/SSR安卓苹果手机/电脑客户端下载</h2>
 <h3>V2Ray客户端下载</h3>
-<<<<<<< HEAD
 <p>最新版V2ray Windows客户端、V2ray安卓客户端、苹果电脑V2ray MacOS客户端和苹果手机V2ray iOS客户端以及V2ray Linux客户端下载链接也一并送上。</p>
-=======
-<p>最新版V2ray Windows客户端、V2ray安卓客户端、苹果电脑V2ray MacOS客户端和苹果手机V2ray iOS客户端以及V2ray Linux客户端下载链接。</p>
->>>>>>> d4a2d899d5db0bd34172065bee9cc479d0b35514
 <h4>Windows7/8/10-<strong>V2ray WinPC电脑客户端</strong>程序下载</h4>
 <figure class="wp-block-table alignwide is-style-stripes"><table><tbody><tr><td>V2rayN下载</td><td><a href="https://github.com/2dust/v2rayN/releases" target="_blank" rel="noreferrer noopener">官网下载</a></td></tr><tr><td>V2rayW下载</td><td><a href="https://github.com/Cenmrev/V2RayW/releases" target="_blank" rel="noreferrer noopener">官网下载</a></td></tr><tr><td>Clash下载</td><td><a href="https://github.com/Fndroid/clash_for_windows_pkg/releases" target="_blank" rel="noreferrer noopener">官网下载</a></td></tr><tr><td>V2rayS下载</td><td><a href="https://github.com/Shinlor/V2RayS/releases" target="_blank" rel="noreferrer noopener">官网下载</a></td></tr><tr><td>Mellow下载</td><td><a href="https://github.com/mellow-io/mellow/releases" target="_blank" rel="noreferrer noopener">官网下载</a></td></tr><tr><td>Qv2ray下载</td><td><a href="https://github.com/Qv2ray/Qv2ray" target="_blank" rel="noreferrer noopener">官网下载</a></td></tr></tbody></table></figure>
 <h4><strong>Android/小米MIUI/华为EMUI-V2ray安卓手机客户端</strong>Apk程序下载</h4>
