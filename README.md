@@ -9,15 +9,11 @@
 </blockquote>
 <h4>节点列表：(这里仅展示部分节点，查看全部节点请下载app)</h4>
 
-<blockquote style='text-align: center;'>更新时间：2022-03-28 23:00:01</blockquote>
-<code>ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9TQDE2OS4xOTcuMTQyLjk5OjY2Nzk=#🏁ZZ_2556
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0NAMTM0LjE5NS4xOTYuNTE6ODg4OA==#🏁ZZ_3106
-ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVlAMTY5LjE5Ny4xNDIuOTk6OTEwMg==#🏁ZZ_3123
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhHQDE2OS4xOTcuMTQyLjk5OjcwMDE=#🏁 ZZ_2547
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9TQDE2OS4xOTcuMTQyLjk5OjY2OTc=#🏁ZZ_3600
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRNQDE2OS4xOTcuMTQyLjk5OjQ0Mw==#🏁ZZ_3101
-ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVlAMTY5LjE5Ny4xNDIuOTk6OTEwMQ==#🏁 ZZ_2556
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzRAMTM0LjE5NS4xOTYuMzo4MDA4#🏁ZZ_3087</code>
+<blockquote style='text-align: center;'>更新时间：2022-03-29 00:00:01</blockquote>
+<code>ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9TQDEzNC4xOTUuMTk2LjUxOjY2Nzk=#🏁 ZZ_2544
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzRAMTM0LjE5NS4xOTYuMzo4MDA5#🏁ZZ_3084
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklOQDEzNC4xOTUuMTk2LjUxOjgxMTk=#🏁ZZ_3058
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVlAMTcyLjk5LjE5MC45Mjo5MTAy#🇺🇸US_2180</code>
 <h5>本次节点订阅地址：https://shadowshare.v2cross.com/publicserver/servers/temp/GbLJHoEXFmaBUrON</h5>
 <p>订阅地址二维码</p>
 <img src='https://shadowshare.v2cross.com/qrcode.png' width=250 height=250>
