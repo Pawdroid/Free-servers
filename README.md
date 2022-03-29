@@ -9,11 +9,12 @@
 </blockquote>
 <h4>节点列表：(这里仅展示部分节点，查看全部节点请下载app)</h4>
 
-<blockquote style='text-align: center;'>更新时间：2022-03-29 23:00:01</blockquote>
-<code>ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9TQDE2OS4xOTcuMTQyLjk5OjY2Nzk=#🏁 ZZ_2544
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybUAxNjcuODguNjMuMTA4OjU1MDA=#🇺🇸 US_1061
-ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVlAMTcyLjk5LjE5MC45Mjo5MTAy#🇺🇸US_3009
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0NAMTM0LjE5NS4xOTYuNTE6MzM4OQ==#🏁ZZ_3281</code>
+<blockquote style='text-align: center;'>更新时间：2022-03-30 00:00:02</blockquote>
+<code>ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0NAMTY3Ljg4LjYzLjEwODo4ODg4#🇺🇸US_2949
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9TQDE2OS4xOTcuMTQyLjk5OjY2Nzk=#🏁 ZZ_2544
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9TQDE2OS4xOTcuMTQyLjk5OjY2OTc=#🏁ZZ_2567
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRNQDEzNC4xOTUuMTk4LjIxMTo0NDM=#🏁ZZ_3682
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9TQDE3Mi45OS4xOTAuOTI6NjY3OQ==#🇺🇸US_2609</code>
 <h5>本次节点订阅地址：https://shadowshare.v2cross.com/publicserver/servers/temp/tl5TjP79evGYa4dV</h5>
 <p>订阅地址二维码</p>
 <img src='https://shadowshare.v2cross.com/qrcode.png' width=250 height=250>
