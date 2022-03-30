@@ -9,12 +9,10 @@
 </blockquote>
 <h4>节点列表：(这里仅展示部分节点，查看全部节点请下载app)</h4>
 
-<blockquote style='text-align: center;'>更新时间：2022-03-30 17:00:01</blockquote>
-<code>
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9TQDE2OS4xOTcuMTQyLjk5OjY2OTc=#🏁 ZZ_2766
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0NAMTcyLjk5LjE5MC45Mjo4ODg4#🇺🇸US_2304
-ss://YWVzLTI1Ni1nY206eGJ6clRWWjB0SzNzUkVqckA5MS45MC4xOTUuNDc6NDUwNw==
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2QDE3Mi45OS4xOTAuOTI6NjM3OQ==#</code>
+<blockquote style='text-align: center;'>更新时间：2022-03-30 18:00:02</blockquote>
+<code>ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVlAMTcyLjk5LjE5MC45Mjo5MTAy#🇺🇸US_2492
+ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2QDE3Mi45OS4xOTAuOTI6NjM3OQ==#
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQQDM4Ljc1LjEzNy4xODc6NzMwNg==#🇺🇸US_2706</code>
 <h5>本次节点订阅地址：https://shadowshare.v2cross.com/publicserver/servers/temp/ODczCftHJPeqlYQ9</h5>
 <p>订阅地址二维码</p>
 <img src='https://shadowshare.v2cross.com/qrcode.png' width=250 height=250>
