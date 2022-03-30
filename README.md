@@ -9,11 +9,13 @@
 </blockquote>
 <h4>节点列表：(这里仅展示部分节点，查看全部节点请下载app)</h4>
 
-<blockquote style='text-align: center;'>更新时间：2022-03-30 15:00:01</blockquote>
-<code>ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQQDM4Ljc1LjEzNy42Njo3MzA2#🇺🇸US_2396
-ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVlAMTY5LjE5Ny4xNDIuOTk6OTEwMQ==#🏁ZZ_3448
-vmess://eyJhZGQiOiIwMzE5dHcxMjMuZmFuczgueHl6IiwidiI6IjIiLCJwcyI6IlJlbGF5X/Cfh6jwn4emQ0Et8J+HqPCfh6ZDQV8zNzgiLCJwb3J0Ijo0NDMsImlkIjoiNWM3MGRhNWQtZTY0MS0zYmY4LWI3ZGMtNWJhYmQ4NDNmZjNjIiwiYWlkIjoiMiIsIm5ldCI6IndzIiwidHlwZSI6IiIsImhvc3QiOiIwMzE5dHcxMjMuZmFuczgueHl6IiwicGF0aCI6Ii9ubXNsIiwidGxzIjoidGxzIn0=
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklOQDE2OS4xOTcuMTQyLjk5OjgxMTg=#🏁ZZ_3254</code>
+<blockquote style='text-align: center;'>更新时间：2022-03-30 16:00:02</blockquote>
+<code>trojan://TYrwBmfI@los01.v2ce.com:11181#los_cn2
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhHQDE3Mi45OS4xOTAuOTI6NzAwMg==#🇺🇸US_2075
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybUAxNjcuODguNjMuMTA4OjgwODA=#🇺🇸US_1898
+ss://YWVzLTI1Ni1nY206ZGZNc0lDM3ZPaVVoTTl0UEAyMDQuNDQuNzUuMTY3OjY0MTMy
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9TQDE3Mi45OS4xOTAuOTI6NjY3OQ==#🇺🇸 US_2090
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRNQDEzNC4xOTUuMTk4LjIxMTo0NDM=#🏁ZZ_3540</code>
 <h5>本次节点订阅地址：https://shadowshare.v2cross.com/publicserver/servers/temp/wyBNPcHAS6rXVMs4</h5>
 <p>订阅地址二维码</p>
 <img src='https://shadowshare.v2cross.com/qrcode.png' width=250 height=250>
