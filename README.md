@@ -9,10 +9,12 @@
 </blockquote>
 <h4>节点列表：(这里仅展示部分节点，查看全部节点请下载app)</h4>
 
-<blockquote style='text-align: center;'>更新时间：2022-04-14 11:00:02</blockquote>
-<code>ss://YWVzLTI1Ni1jZmI6WFB0ekE5c0N1ZzNTUFI0Y0AxMDMuMTcyLjExNi44OjkwMjU=#🏁ZZ_4398
+<blockquote style='text-align: center;'>更新时间：2022-04-14 12:00:01</blockquote>
+<code>vless://cbb14124-3579-43be-a812-6fce21066c41@185.253.46.23:443?security=xtls&encryption=none&headerType=none&type=tcp&flow=xtls-rprx-direct&sni=cz2.v2ce.com#CZ2_v2cross
+vmess://eyJhZGQiOiJoYXguaGF4MDEudGsiLCJ2IjoiMiIsInBzIjoiUmVsYXlf8J+HuvCfh7hVUy3wn4er8J+HrkZJXzM2NjUiLCJwb3J0Ijo0NDMsImlkIjoiZTJlMDczY2UtYzFkNC00M2VkLTg5ZjUtY2E5Nzg1MDc1NDhhIiwiYWlkIjoiMCIsIm5ldCI6IndzIiwidHlwZSI6IiIsImhvc3QiOiIiLCJwYXRoIjoiLyIsInRscyI6InRscyJ9
 vmess://eyJhZGQiOiJhejAzLmt1bGk4ODgueHl6IiwidiI6IjIiLCJwcyI6IlJlbGF5X/Cfh7rwn4e4VVMt8J+HuvCfh7hVU18zNzA3IiwicG9ydCI6ODAsImlkIjoiNWU4Yzk5YTctMmM3Yi0zZTBlLWEzYzktM2M1YjQxY2I3MTAxIiwiYWlkIjoiMCIsIm5ldCI6IndzIiwidHlwZSI6IiIsImhvc3QiOiJzaG91dGluZ3RvdXRpYTAzLjEwMDEwLmNvbSIsInBhdGgiOiIvdjJyYXkiLCJ0bHMiOiIifQ==
-vmess://eyJhZGQiOiJjZi5ydXRyYWNrZXItY24uY29tIiwiYWlkIjoiMCIsImhvc3QiOiJjZi5ydXRyYWNrZXItY24uY29tIiwiaWQiOiI1NWRjNDA3Ny0zZmVkLTQ5MDMtOWMzOS1hM2IxMmNiOTc5ZGIiLCJuZXQiOiJ3cyIsInBhdGgiOiIvY2R3T0NmWkMiLCJwb3J0IjoiNDQzIiwicHMiOiJVUzMiLCJzbmkiOiJjZi5ydXRyYWNrZXItY24uY29tIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=</code>
+vmess://eyJhZGQiOiIwMzIwaGs1NjcuZmFuczgueHl6IiwidiI6IjIiLCJwcyI6IlJlbGF5X/Cfj4FaWi3wn4+BWlpfNDcyMyIsInBvcnQiOjQ0MywiaWQiOiI1YzcwZGE1ZC1lNjQxLTNiZjgtYjdkYy01YmFiZDg0M2ZmM2MiLCJhaWQiOiIyIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwiaG9zdCI6IjAzMjBoazU2Ny5mYW5zOC54eXoiLCJwYXRoIjoiL3JheSIsInRscyI6InRscyJ9
+trojan://mkESr2mAVMycyIwz@los1.v2ce.com:443#US1_v2cross</code>
 <h5>本次节点订阅地址：https://shadowshare.v2cross.com/publicserver/servers/temp/4rv20zJaSiX9k3Zq</h5>
 <p>订阅地址二维码</p>
 <img src='http://shadowshare.v2cross.com/qrcode.png' width=250 height=250>
