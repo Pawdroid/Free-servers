@@ -9,13 +9,17 @@
 </blockquote>
 <h4>节点列表：(这里仅展示部分节点，查看全部节点请下载app)</h4>
 
-<blockquote style='text-align: center;'>更新时间：2022-04-18 13:00:01</blockquote>
-<code>trojan://eb40a3f4-3b04-4a1c-993d-d71b44fee92c@rbmf.speedcncnforward3.tk:10004?security=tls&type=tcp&headerType=none#US-v2cross.com
-ss://YWVzLTI1Ni1jZmI6QndjQVVaazhoVUZBa0RHTg@213.183.53.200:9031#v2cross.com%20-%20%E4%BF%84%E7%BD%97%E6%96%AF%E8%8E%AB%E6%96%AF%E7%A7%91Melbicom%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83%2011
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5NDY2MzY5Ny01MTJkLTQ3ZmUtYWQxMy0xNDk4NGUxZWJmZmE@ss-node-2.gfwairport.net:50001#US_%40v2cross.com01
-trojan://94663697-512d-47fe-ad13-14984e1ebffa@tj-node-5.gfwairport.net:50001?allowInsecure=0#US_%40v2cross.com01
-trojan://1925c4ba-616a-416f-a494-392f2ba9eb77@hkt2.node.qchwnd.moe:44614#v2cross.com%20-%20%E9%A6%99%E6%B8%AF%E7%94%B5%E8%AE%AF%E7%9B%88%E7%A7%91%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%2028
-vmess://eyJhZGQiOiAiMTA0LjE2LjE2Mi4xNiIsICJ2IjogIjIiLCAicHMiOiAidjJjcm9zcy5jb20gLSBcdTdmOGVcdTU2ZmRDbG91ZEZsYXJlXHU1MTZjXHU1M2Y4Q0ROXHU4MjgyXHU3MGI5IDIwIiwgInBvcnQiOiAyMDUzLCAiaWQiOiAiYmY2NzQzN2UtNmM5MC00NWNhLWFiYzItYzcyNDBhNWNlMmFhIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogImZveHVzLmZvdmkudGsiLCAicGF0aCI6ICIvZWlzYXNxYSIsICJ0bHMiOiAidGxzIn0=</code>
+<blockquote style='text-align: center;'>更新时间：2022-04-18 14:00:01</blockquote>
+<code>trojan://8d23f8a8-64b8-42c4-9c31-304f7c86669c@tls.us01.dnsfree.top:12345#v2cross.com%20-%20%E5%8C%97%E7%BE%8E%E5%9C%B0%E5%8C%BA%20%2014
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIk5MLXYyY3Jvc3MuY29tIiwNCiAgImFkZCI6ICIxNTIuNzAuNDkuMTc0IiwNCiAgInBvcnQiOiAiNTU5ODgiLA0KICAiaWQiOiAiMmM2NDRhNmEtNTgxNy00MGIyLWIxNDktMmYzYWM3ZWIyNDQ3IiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ0Y3AiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiLyIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiLA0KICAiYWxwbiI6ICIiDQp9
+trojan://94663697-512d-47fe-ad13-14984e1ebffa@tj-node-3.gfwairport.net:50001?allowInsecure=0#SG_%40v2cross.com01
+vmess://eyJhZGQiOiAidXMxLmxvbHZwcy54eXoiLCAidiI6ICIyIiwgInBzIjogInYyY3Jvc3MuY29tIC0gXHU1MzU3XHU5NzVlXHU4YzZhXHU3NjdiXHU3NzAxXHU3ZWE2XHU3ZmYwXHU1MTg1XHU2NWFmXHU1ODIxQ2xvdWRpbm5vdmF0aW9uXHU2NTcwXHU2MzZlXHU0ZTJkXHU1ZmMzIDI5IiwgInBvcnQiOiA2MDA2MCwgImlkIjogIjk1ODg2Yzc2LTkyMDctNDhiZC05ZTY0LWQxNDIyZTc1YWQ4OSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJ1czEubG9sdnBzLnh5eiIsICJwYXRoIjogIi9BWTkyMFVNUiIsICJ0bHMiOiAidGxzIn0=
+trojan://a37a5947-0493-4a59-ba4c-5d36dd16063b@pro.tls.hongkongaz.dnsfree.top:55091#v2cross.com%20-%20%E7%BE%8E%E5%9B%BDMicrosoft%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83%202
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkpQX0B2MmNyb3NzLmNvbTAxIiwNCiAgImFkZCI6ICJWMi1OT0RFLTEuR0ZXQUlSUE9SVC5ORVQiLA0KICAicG9ydCI6ICI1MDAwMSIsDQogICJpZCI6ICI5NDY2MzY5Ny01MTJkLTQ3ZmUtYWQxMy0xNDk4NGUxZWJmZmEiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIiIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiDQp9
+trojan://5y8y3CwxRVYhyfSY@ce.rutracker-cn.com:443?security=xtls&encryption=none&type=tcp&flow=xtls-rprx-direct&sni=ce.rutracker-cn.com#v2cross.com
+trojan://8d23f8a8-64b8-42c4-9c31-304f7c86669c@baidu.hongkong.dnsfree.top:55094#v2cross.com%20-%20%E9%A6%99%E6%B8%AF%E7%89%B9%E5%88%AB%E8%A1%8C%E6%94%BF%E5%8C%BA%205
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlVTLXYyY3Jvc3MuY29tIiwNCiAgImFkZCI6ICIxNDkuMjguNjYuODciLA0KICAicG9ydCI6ICIyMjEzNSIsDQogICJpZCI6ICI5MmNmMDM2Ni1iY2NhLTExZWMtOGNlZi01NjAwMDNmMmZmYmIiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIjE0OS4yOC42Ni44NyIsDQogICJwYXRoIjogIi9pN3FjSm82RS8iLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIiwNCiAgImFscG4iOiAiIg0KfQ==
+trojan://32f3466c-2483-4de6-83b8-f4008c750102@xjpmf.speedcncnforward2.tk:10001?security=tls&type=tcp&headerType=none#US-v2cross.com</code>
 <h5>本次节点订阅地址：https://shadowshare.v2cross.com/publicserver/servers/temp/pEPSzTYVJqlDsikC</h5>
 <p>订阅地址二维码</p>
 <img src='http://shadowshare.v2cross.com/qrcode.png' width=250 height=250>
