@@ -9,9 +9,19 @@
 </blockquote>
 <h4>节点列表：(这里仅展示部分节点，查看全部节点请下载app)</h4>
 
-<blockquote style='text-align: center;'>更新时间：2022-04-19 20:00:02</blockquote>
-<code></code>
-<h5>本次节点订阅地址：https://shadowshare.v2cross.com/publicserver/servers/temp/BzlR4uhJAZbH5Sav</h5>
+<blockquote style='text-align: center;'>更新时间：2022-04-19 21:00:02</blockquote>
+<code>vless://8723E8EE-D100-A8BF-4E77-F734A7A3651B@fr-cn-route.teacher2040.com:41225?encryption=none&flow=xtls-rprx-direct-udp443&security=xtls&sni=fr-tls-1.teacher2050.com&type=tcp&headerType=none&host=fr-tls-1.teacher2050.com#CN-v2cross.com
+vless://8723E8EE-D100-A8BF-4E77-F734A7A3651B@fr-nf-route.teacher2050.com:41225?encryption=none&flow=xtls-rprx-direct-udp443&security=xtls&sni=fr-tls-1.teacher2050.com&type=tcp&headerType=none&host=fr-tls-1.teacher2050.com#FR-v2cross.com
+ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQqQDE0LjI5LjEyNC4xNjg6MjQwMTA=#Relay_🇨🇳CN-🇹🇼TW_409
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIktSLXYyY3Jvc3MuY29tIiwNCiAgImFkZCI6ICIxNDAuMjM4LjE2LjIwMyIsDQogICJwb3J0IjogIjQ3MTExIiwNCiAgImlkIjogIjA0MDJlYTM3LTJlMTMtNGJmMy1mNWIzLTc1YTJlOWEzM2FhYyIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAidGNwIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIiIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiLA0KICAiYWxwbiI6ICIiDQp9
+vless://e9c14629-fcd5-4584-bb9e-d1431c20ee00@cf.rutracker-cn.com:443?path=%2F1GDNonF&security=tls&encryption=none&type=ws&sni=cf.rutracker-cn.com#v2cross.com
+trojan://94663697-512d-47fe-ad13-14984e1ebffa@tj-node-1.gfwairport.net:50001?allowInsecure=0#JP_%40v2cross.com01
+ss://YWVzLTI1Ni1jZmI6ZGFGWWFncURkQmRBNlZUWEAxODUuMTI2LjExNi4xMjU6OTA3Mw==#🇷🇴RO_28 | 6.60Mb
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkNOLXYyY3Jvc3MuY29tIiwNCiAgImFkZCI6ICI0MTJzZ3NnLmZhbnM4Lnh5eiIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICI1YzcwZGE1ZC1lNjQxLTNiZjgtYjdkYy01YmFiZDg0M2ZmM2MiLA0KICAiYWlkIjogIjIiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIjQxMnNnc2cuZmFuczgueHl6IiwNCiAgInBhdGgiOiAiL3JheSIsDQogICJ0bHMiOiAidGxzIiwNCiAgInNuaSI6ICIiLA0KICAiYWxwbiI6ICIiDQp9
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3QDE3Mi45OS4xOTAuMTg4OjIzNzU=#🇺🇸US_1245
+vless://8723E8EE-D100-A8BF-4E77-F734A7A3651B@nl-cn-route.teacher2040.com:41216?encryption=none&flow=xtls-rprx-direct-udp443&security=xtls&sni=nl-tls-1.teacher2040.com&type=tcp&headerType=none&host=nl-tls-1.teacher2040.com#CN-v2cross.com
+vmess://eyJhZGQiOiIxLmV6eWRmZGQuY29tIiwidiI6IjIiLCJwcyI6IlJlbGF5X/Cfh7rwn4e4VVMt8J+HuPCfh6xTR18zNjMzIiwicG9ydCI6NDQzLCJpZCI6IjBlNWI0NmI2LTY5OWQtNGFjYS04ZmIzLWE4ZTdiNDI3MGVkOSIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJob3N0IjoiMS5lenlkZmRkLmNvbSIsInBhdGgiOiIvcXdlIiwidGxzIjoidGxzIn0=</code>
+<h5>本次节点订阅地址：https://shadowshare.v2cross.com/publicserver/servers/temp/8c1adjnUxPCrhSwO</h5>
 <p>订阅地址二维码</p>
 <img src='http://shadowshare.v2cross.com/qrcode.png' width=250 height=250>
 <blockquote style='text-align: center;'>更多节点、免费订阅地址及订阅转换请下载本站提供的共享节点app软件<a href='https://shadowshare.v2cross.com'>ShadowShare</a>导出节点使用</blockquote>
