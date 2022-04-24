@@ -42,8 +42,7 @@ trojan://mMQ6qJB9xbhiRvgg@v2cross.com.01.v2ce.com:443?security=xtls&encryption=n
 ss://YWVzLTI1Ni1jZmI6NFIzaFVmWjJGSGhEbU5jUEAyMTMuMTgzLjUxLjE3MTo5MDYx#🇳🇱NL_1307
 ss://YWVzLTI1Ni1jZmI6VVdaUWVMUldua3Fna3NlcUAyMTMuMTgzLjUxLjE3MTo5MDMy#🇳🇱 NL_1173 |24.95Mb</code>
 <h5>本次节点订阅地址：https://shadowshare.v2cross.com/servers/temp/AY6E7FPOu1CUaklq</h5>
-<p>订阅地址二维码</p>
-<img src='http://shadowshare.v2cross.com/qrcode.png' width=250 height=250>
+
 <blockquote style='text-align: center;'>更多节点、免费订阅地址及订阅转换请下载本站提供的共享节点app软件<a href='https://shadowshare.v2cross.com'>ShadowShare</a>导出节点使用</blockquote>
 <div class="nv-content-wrap entry-content">
 <h2>Clash、SS等客户端订阅地址一键转换：</h2>
