@@ -9,12 +9,13 @@
 </blockquote>
 <h4>节点列表：(这里仅展示部分节点，查看全部节点请下载app)</h4>
 
-<blockquote style='text-align: center;'>更新时间：2022-05-16 00:00:01</blockquote>
-<code>ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQqQDE4MC4xNjMuNjIuOTE6MTAwNjQ=#Relay_🇨🇳CN-🇰🇷KR_379
-vless://d7e810f6-9389-47f4-be4b-438f410f3968@cz1.v2ce.com:443?path=%2FHm4aRbSa&security=tls&encryption=none&type=ws&sni=cz1.v2ce.com#v2cross.com
-trojan://280a1162-00cb-11ec-a8bf-f23c91cfbbc9@jp.tcpbbr.net:443?security=tls&sni=hgc1.tcpbbr.net&type=tcp&headerType=none#RO-%E9%AB%98%E9%80%9F%E8%8A%82%E7%82%B9%E6%8E%A8%E8%8D%90%EF%BC%9Av1.mk%2Fvip%EF%BC%88%E6%B5%8F%E8%A7%88%E5%99%A8%E6%89%93%E5%BC%80%EF%BC%89
-vmess://eyJhZGQiOiJydTEucWl1c2hpLmJ1enoiLCJ2IjoiMiIsInBzIjoiUmVsYXlf8J+Ht/Cfh7pSVS3wn4e38J+HulJVXzEzNDYiLCJwb3J0Ijo1ODU4LCJpZCI6Ijc4MjEzZGI2LTUxNmUtMzVkYi05NTc3LTE4Nzg5YTc2MWE3MCIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJob3N0IjoiIiwicGF0aCI6Ii92MnJheSIsInRscyI6InRscyJ9</code>
-<h5>本次节点订阅地址：https://shadowshare.v2cross.com/publicserver/servers/temp/4meJXsktEU3cjLVy</h5>
+<blockquote style='text-align: center;'>更新时间：2022-05-16 01:00:01</blockquote>
+<code>trojan://1Qfea1eL3zCALPJm@los2-cn2.v2ce.com:443?security=xtls&encryption=none&type=tcp&flow=xtls-rprx-direct&sni=los2-cn2.v2ce.com#v2cross.com
+ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQqQDE0LjI5LjEyNC4xNjg6MjQwMjA=#Relay_🇨🇳CN-🇹🇼TW_380
+ss://YWVzLTEyOC1nY206ZmNhZTg1YjUtYmFmMC00YzVhLWJhODAtNWY1MTNlNzA1MTJhQDE4My4yNDAuMTI0LjIwMDo0NDgyMA==#Relay_🇨🇳CN-🇭🇰HK_354
+vless://72972da9-d188-40c6-83a6-4ec28fde2c0a@cg.rutracker-cn.com:443?path=%2FxxPb49hL0C&security=tls&encryption=none&type=ws&sni=cg.rutracker-cn.com#v2cross.com
+trojan://mMQ6qJB9xbhiRvgg@v2cross.com.01.v2ce.com:443?security=xtls&encryption=none&type=tcp&flow=xtls-rprx-direct&sni=v2cross.com.01.v2ce.com#v2cross.com</code>
+<h5>本次节点订阅地址：https://shadowshare.v2cross.com/publicserver/servers/temp/RP2GusnWBJ0qKSXM</h5>
 <p>订阅地址二维码</p>
 <img src='http://shadowshare.v2cross.com/qrcode.png' width=250 height=250>
 <blockquote style='text-align: center;'>更多节点、免费订阅地址及订阅转换请下载本站提供的共享节点app软件<a href='https://shadowshare.v2cross.com'>ShadowShare</a>导出节点使用</blockquote>
