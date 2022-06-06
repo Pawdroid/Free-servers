@@ -9,14 +9,17 @@
 </blockquote>
 <h4>节点列表：(这里仅展示部分节点，查看全部节点请下载app)</h4>
 
-```ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQq@14.29.124.168:24016#%F0%9F%87%A8%F0%9F%87%B3%20%E3%80%90tg%40freevpn8%E3%80%91_%F0%9F%87%A8%F0%9F%87%B3CN-%F0%9F%87%B9%F0%9F%87%BCTW_200
+```ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQqQDE0LjI5LjEyNC4xNzQ6MTEwMzc=#Relay_🇨🇳CN-🇭🇰HK_251
+trojan://ukMzuFSmIXDvgW0h@cd.rutracker-cn.com:443?security=xtls&encryption=none&type=tcp&flow=xtls-rprx-direct&sni=cd.rutracker-cn.com#v2cross.com
+trojan://kGrwqmB1nEKUsDwE@v2cross.com.05.v2ce.com:443?security=xtls&encryption=none&type=tcp&flow=xtls-rprx-direct&sni=v2cross.com.05.v2ce.com#v2cross.com
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkNOLemrmOmAn+iKgueCueaOqOiNkO+8mnYyY3Jvc3MuY29tIiwNCiAgImFkZCI6ICJiZ3B2Mi5rdHlqc3EuY29tIiwNCiAgInBvcnQiOiAiMTIyMDUiLA0KICAiaWQiOiAiOWVhNzBkNTctOWNiNi0zYmQwLWFlNDEtNTYwMWU1MTZkY2M2IiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ0Y3AiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiIsDQogICJhbHBuIjogIiINCn0=
-ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQqQDE0LjI5LjEyNC4xNzQ6MTEwNDU=#Relay_🇨🇳CN-🇭🇰HK_237
-ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQqQDE0LjI5LjEyNC4xNzQ6MTEwMTk=#Relay_🇨🇳CN-🇭🇰HK_225
-ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQqQDE0LjI5LjEyNC4xNzQ6MTEwNDg=#Relay_🇨🇳CN-🇭🇰HK_220
+trojan://vGWCNNfBHwSY6m6M@v2cross.com.04.v2ce.com:443?security=xtls&encryption=none&type=tcp&flow=xtls-rprx-direct&sni=v2cross.com.04.v2ce.com#v2cross.com
+vless://d7e810f6-9389-47f4-be4b-438f410f3968@cz1.v2ce.com:443?path=%2FHm4aRbSa&security=tls&encryption=none&type=ws&sni=cz1.v2ce.com#v2cross.com
+ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQqQDE0LjI5LjEyNC4xNzQ6MTEwMzY=#🇨🇳CN
+vmess://eyJhZGQiOiAiNTI3aGsxLmZhbnM4Lnh5eiIsICJhaWQiOiAyLCAiaG9zdCI6ICI1MjdoazEuZmFuczgueHl6IiwgImlkIjogIjdmNGZmMmUxLWMwOGYtMzViZC1hZmU3LTRhNmEzODY5MDdhYSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvcmF5IiwgInBvcnQiOiA4MCwgInBzIjogInYyY3Jvc3MuY29tIC0gXHU1MmEwXHU2MmZmXHU1OTI3ICAxNyIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIifQ==
+vmess://eyJ2IjogIjIiLCAicHMiOiAidjJjcm9zcy5jb20gLSBcdTdmOGVcdTU2ZmRDbG91ZEZsYXJlXHU4MjgyXHU3MGI5IDM2IiwgImFkZCI6ICIxNzIuNjQuMTQ3LjcxIiwgInBvcnQiOiAiNDQzIiwgImlkIjogIjgwZTA5OGExLWY3NjgtM2RmYi1iOTdmLTZjM2E1ZDM0YmNkOCIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiNjEyLnd3ZWJsb2cucHciLCAicGF0aCI6ICIveHhYMiIsICJ0bHMiOiAidGxzIiwgInNuaSI6ICI2MTIud3dlYmxvZy5wdyJ9
+vmess://eyJhZGQiOiI1MS4yMTAuMTc5LjQ3IiwidiI6IjIiLCJwcyI6IlJlbGF5X/Cfh6vwn4e3RlIt8J+HuvCfh7hVU18xMyIsInBvcnQiOjMxMjI1LCJpZCI6ImI4YWFhNmUxLWYwYjMtYjllYy0zZGZjLWJiMjI2YzE2N2IzMyIsImFpZCI6IjAiLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiIiwiaG9zdCI6IiIsInBhdGgiOiIvIiwidGxzIjoidGxzIn0=
 ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQqQDE0LjI5LjEyNC4xNzQ6MTEwMDk=#Relay_🇨🇳CN-🇭🇰HK_211
-vmess://eyJhZGQiOiJiYWktcGlhby13YW5nLXpoZS1pcGxjNi45ODg0OC54eXoiLCJ2IjoiMiIsInBzIjoiUmVsYXlf8J+HuvCfh7hVUy3wn4e68J+HuFVTXzIzIiwicG9ydCI6MzE5NjEsImlkIjoiOTQzMTFlNzEtOTEyNS00YmQxLWZhYTItNTE1YTg2NjdjNDg2IiwiYWlkIjoiMCIsIm5ldCI6IndzIiwidHlwZSI6IiIsImhvc3QiOiJiYWktcGlhby13YW5nLXpoZS1pcGxjNi45ODg0OC54eXoiLCJwYXRoIjoiL3lvdXR1YnRA55m95auW546L6ICFIiwidGxzIjoiIn0=
-ss://YWVzLTI1Ni1jZmI6ZjVlMGVjYzRlNmI4NGE2NjhlZTllZDk4ZTBhMzBjYTlAMTQ3LjE4Mi4xNTEuMjQ6MjAxMTA=#🇺🇸US_1919
 ```
 <h5>本次节点订阅地址：https://shadowshare.v2cross.com/publicserver/servers/temp/cwLKbMpn0dkCxelI</h5>
 <p>订阅地址二维码</p>
