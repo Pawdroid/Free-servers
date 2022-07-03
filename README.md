@@ -9,14 +9,10 @@
 </blockquote>
 <h4>节点列表：(这里仅展示部分节点，查看全部节点请下载app)</h4>
 
-```trojan://mMQ6qJB9xbhiRvgg@v2cross.com.01.v2ce.com:443?security=xtls&encryption=none&type=tcp&flow=xtls-rprx-direct&sni=v2cross.com.01.v2ce.com#v2cross.com
-vless://e9c14629-fcd5-4584-bb9e-d1431c20ee00@cf.rutracker-cn.com:443?path=%2F1GDNonF&security=tls&encryption=none&type=ws&sni=cf.rutracker-cn.com#v2cross.com
-vmess://eyJhZGQiOiJpZC1sYi5zc2hraXQub3JnIiwidiI6IjIiLCJwcyI6IlJlbGF5X/Cfh7Xwn4exUEwt8J+PgVpaXzI2IiwicG9ydCI6NDQzLCJpZCI6IjZmZWExNjQ5LTQyNWItNDA5Mi1iZjUzLTI5NzkyMTUyYzkyNSIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJob3N0IjoicDE2LXRpa3Rva2Nkbi1jb20uYWthbWFpemVkLm5ldCIsInBhdGgiOiIvc3Noa2l0L2hhamphbmEvNjJiYzQ4Y2Q5N2VlMS8iLCJ0bHMiOiJ0bHMifQ==
-trojan://ukMzuFSmIXDvgW0h@cd.rutracker-cn.com:443?security=xtls&encryption=none&type=tcp&flow=xtls-rprx-direct&sni=cd.rutracker-cn.com#v2cross.com
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW9AMTk0LjEyNC4zNS40Mjo4MDk=#Pool_🇸🇬SG_1130
-ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQqQDE0LjI5LjEyNC4xNzQ6MTEwMTg=#🇨🇳 CN_37 v2cross.com
-vmess://eyJhZGQiOiJ6Yy45OTAwLnNkMjAyMTEwMDcueHl6IiwidiI6IjIiLCJwcyI6IlJlbGF5X/Cfh6jwn4ezQ04t8J+HrfCfh7BIS18yMSIsInBvcnQiOjMyMDAxLCJpZCI6IjY3YzUwZjZhLTgxNmQtMzU1NS04OWI0LTE5ZGQyOTYwOGY4YiIsImFpZCI6IjAiLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiIiwiaG9zdCI6IiIsInBhdGgiOiIvIiwidGxzIjoiIn0=
-ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQq@14.29.124.174:11012#%F0%9F%87%AD%F0%9F%87%B0%20%E3%80%90tg%40freevpn8%E3%80%91_%F0%9F%87%A8%F0%9F%87%B3CN-%F0%9F%87%AD%F0%9F%87%B0HK_199
+```vmess://eyJhZGQiOiAidmZseTgud2luIiwgImFpZCI6IDAsICJob3N0IjogInZmbHk4LndpbiIsICJpZCI6ICI4ZmM5NGZlMy1jZmIxLTRiYzctZTQzYi0yNmQ0ZDFlNWY0Y2QiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL215YmxvZyIsICJwb3J0IjogNDQzLCAicHMiOiAidjJjcm9zcy5jb20gLSBcdTdmOGVcdTU2ZmRDbG91ZEZsYXJlXHU1MTZjXHU1M2Y4Q0ROXHU4MjgyXHU3MGI5IDQxIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIn0=
+trojan://5y8y3CwxRVYhyfSY@ce.rutracker-cn.com:443?security=xtls&encryption=none&type=tcp&flow=xtls-rprx-direct&sni=ce.rutracker-cn.com#v2cross.com
+ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQqQDE0LjI5LjEyNC4xNzQ6MTEwMDU=#🇨🇳 CN_36 v2cross.com
+vmess://eyJhZGQiOiJ2cG51LmxvdW5nZXJzLmNjIiwidiI6IjIiLCJwcyI6IlJlbGF5X/Cfh7rwn4e4VVMt8J+HuvCfh7hVU18xOTk0IiwicG9ydCI6NTY4MzAsImlkIjoiZDJlOTJhMTktZjUwYy00MjZlLWNkMTUtMDNlY2U3ZjRmM2IxIiwiYWlkIjoiMzIiLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJob3N0IjoidnBudS5sb3VuZ2Vycy5jYyIsInBhdGgiOiIvd3MveC11aSIsInRscyI6InRscyJ9
 ```
 <h5>本次节点订阅地址：https://shadowshare.v2cross.com/publicserver/servers/temp/MrZUG95sWI7bFES1</h5>
 <p>订阅地址二维码</p>
