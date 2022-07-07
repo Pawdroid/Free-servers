@@ -9,10 +9,11 @@
 </blockquote>
 <h4>节点列表：(这里仅展示部分节点，查看全部节点请下载app)</h4>
 
-```vmess://eyJhZGQiOiI3M2hrMDMuZng2Njg4LnRvcCIsInYiOiIyIiwicHMiOiJSZWxheV/wn4e68J+HuFVTLfCfh7rwn4e4VVNfNTAiLCJwb3J0Ijo0NDMsImlkIjoiN2Y0ZmYyZTEtYzA4Zi0zNWJkLWFmZTctNGE2YTM4NjkwN2FhIiwiYWlkIjoiMiIsIm5ldCI6IndzIiwidHlwZSI6IiIsImhvc3QiOiI3M2hrMDMuZng2Njg4LnRvcCIsInBhdGgiOiIvcmF5IiwidGxzIjoidGxzIn0=
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVbHRyQHIwMHRfMjAxN0AxNzguNjIuMTYuMTYxOjgxMQ==#🇬🇧GB_297
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVbHRyQHIwMHRfMjAxN0AxMzguMTk3LjE2Ni4yMDU6ODEx#🇨🇦CA_94
-ss://YWVzLTI1Ni1jZmI6dkRTOUcycEAxODUuNC42NS42OjIxMjQ3#Relay_🇷🇺RU-🇷🇺RU_61
+```vmess://eyJhZGQiOiAiemMuOTkwMC5zZDIwMjExMDA3Lnh5eiIsICJ2IjogIjIiLCAicHMiOiAidjJjcm9zcy5jb20gLSBcdTVlN2ZcdTRlMWNcdTc3MDFcdTc5ZmJcdTUyYTggMTIiLCAicG9ydCI6IDMyMDAxLCAiaWQiOiAiNjdjNTBmNmEtODE2ZC0zNTU1LTg5YjQtMTlkZDI5NjA4ZjhiIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIvIiwgInRscyI6ICIifQ==
+trojan://5y8y3CwxRVYhyfSY@ce.rutracker-cn.com:443?security=xtls&encryption=none&type=tcp&flow=xtls-rprx-direct&sni=ce.rutracker-cn.com#v2cross.com
+vmess://eyJhZGQiOiJpbmdyZXNzLWkxLm9uZWJveDYub3JnIiwidiI6IjIiLCJwcyI6IlJlbGF5X/Cfh6jwn4ezQ04t8J+HufCfh7xUV18xNSIsInBvcnQiOjM4MjAxLCJpZCI6Ijc5Mzg2Njg1LTE2ZGEtMzI3Yy05ZTE0LWFhNmQ3MDJkODZiYyIsImFpZCI6IjEiLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJob3N0Ijoid3d3Lml2cG5wcm8ubmV0IiwicGF0aCI6Ii9obHMvY2N0djVwaGQubTN1OCIsInRscyI6IiJ9
+ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQq@14.29.124.174:11012#%F0%9F%87%AD%F0%9F%87%B0%20%E3%80%90tg%40freevpn8%E3%80%91_%F0%9F%87%A8%F0%9F%87%B3CN-%F0%9F%87%AD%F0%9F%87%B0HK_199
+trojan://3gLlCYBipVwr6Y5F@v2cross.com.02.v2ce.com:443?security=xtls&encryption=none&type=tcp&flow=xtls-rprx-direct&sni=v2cross.com.02.v2ce.com#v2cross.com
 ```
 <h5>本次节点订阅地址：https://shadowshare.v2cross.com/publicserver/servers/temp/cDCE94ZMbNFz2XJl</h5>
 <p>订阅地址二维码</p>
