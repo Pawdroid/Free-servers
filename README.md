@@ -9,12 +9,20 @@
 </blockquote>
 <h4>节点列表：(这里仅展示部分节点，查看全部节点请下载app)</h4>
 
-```ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQqQDE0LjI5LjEyNC4xNjg6MjQwMDU=#🇨🇳 CN_13 v2cross.com
-vmess://eyJhZGQiOiAiYXBpLnFpc2N1cy5jb20iLCAiYWlkIjogMCwgImhvc3QiOiAiYm4taWQwMS5pcHYycmF5Lnh5eiIsICJpZCI6ICI4ZjliNjBlNi0xZGIzLTQyZTQtOTdiOS0xZTMxMWY0Mjc2NDkiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL3ZtZXNzLXdzLW1ha2FlIiwgInBvcnQiOiA0NDMsICJwcyI6ICJ2MmNyb3NzLmNvbSAtIFx1N2Y4ZVx1NTZmZENsb3VkRmxhcmVcdTUxNmNcdTUzZjhDRE5cdTgyODJcdTcwYjkgMTgiLCAidGxzIjogInRscyIsICJ0eXBlIjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIn0=
-vmess://eyJ2IjogIjIiLCAicHMiOiAidjJjcm9zcy5jb20gLSBcdTdmOGVcdTU2ZmRcdTUyYTBcdTUyMjlcdTc5OGZcdTVjM2NcdTRlOWFcdTVkZGVcdTZkMWJcdTY3NDlcdTc3ZjZDb2RlY0Nsb3VkXHU2NTcwXHU2MzZlXHU0ZTJkXHU1ZmMzIDI2IiwgImFkZCI6ICJ1czMubG9sdnBzLnh5eiIsICJwb3J0IjogIjYwMDcyIiwgImlkIjogIjA4YzI4MDlmLTAwOTQtNDJjOS1iMDRhLWMxOWQwNmExZDg5OCIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAidXMzLmxvbHZwcy54eXoiLCAicGF0aCI6ICIvRzBEWFVRT00iLCAidGxzIjogInRscyIsICJzbmkiOiAiIn0=
-vmess://eyJhZGQiOiIxMjAuMjMzLjcuMjIxIiwidiI6IjIiLCJwcyI6IlJlbGF5X/Cfh6jwn4ezQ04t8J+HuvCfh7hVU18xNCIsInBvcnQiOjMyMDA2LCJpZCI6IjIxZGNiZWM4LWVlZTgtM2QyMC04MmI2LWY4YzE2ZmU2ZGM4ZCIsImFpZCI6IjAiLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiIiwiaG9zdCI6IiIsInBhdGgiOiIvIiwidGxzIjoiIn0=
+```trojan://cb5e2135-4d64-4454-be98-5bae4f2618d1@usfree2.jiantian.xyz:32462#v2cross.com%20-%20%E7%BE%8E%E5%9B%BD%20%2024
+ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQqQDE0LjI5LjEyNC4xNzQ6MTEwMzM=#🇨🇳 CN_34 v2cross.com
+ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQq@14.29.124.174:11036#%F0%9F%87%A8%F0%9F%87%B3%20CN_271%20%E3%80%90tg%40freevpn8%E3%80%91%202.34Mb
+trojan://27e58714-2c0b-4fa4-afb6-b91ec041b1cf@usfree1.jiantian.xyz:23425#v2cross.com%20-%20%E7%BE%8E%E5%9B%BD%E5%BC%97%E5%90%89%E5%B0%BC%E4%BA%9A%E5%B7%9E%E9%98%BF%E4%BB%80%E6%9C%ACOracle%E4%BA%91%E8%AE%A1%E7%AE%97%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83%2031
+vmess://eyJhZGQiOiIxMjAuMTk3LjEzMC4xMjYiLCJ2IjoiMiIsInBzIjoi8J+HqPCfh7MgQ05fNTAwIiwicG9ydCI6MTMwMDYsImlkIjoiMjFkY2JlYzgtZWVlOC0zZDIwLTgyYjYtZjhjMTZmZTZkYzhkIiwiYWlkIjoiMCIsIm5ldCI6InRjcCIsInR5cGUiOiIiLCJob3N0IjoiIiwicGF0aCI6Ii8iLCJ0bHMiOiIifQ==
+vmess://eyJhZGQiOiAiMTAzLjkwLjIyMC4yNyIsICJhaWQiOiAwLCAiaG9zdCI6ICJZb3VUdWJlLWF3ZWlrZWppIiwgImlkIjogImQ5N2VlNzM3LTdiYzAtNGRjYS1hY2YxLTg1MTM1ZWQ0ZDk3ZSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgInBvcnQiOiA4MCwgInBzIjogInYyY3Jvc3MuY29tIC0gXHU4ZDhhXHU1MzU3ICAyMyIsICJ0bHMiOiAiIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiJ9
+trojan://vGWCNNfBHwSY6m6M@v2cross.com.04.v2ce.com:443?security=xtls&encryption=none&type=tcp&flow=xtls-rprx-direct&sni=v2cross.com.04.v2ce.com#v2cross.com
+vmess://eyJhZGQiOiIxNTIuNjcuMjE4LjM4IiwidiI6IjIiLCJwcyI6IvCfh7rwn4e4VVNfMzIiLCJwb3J0Ijo0NDMsImlkIjoiYjVlOTQ4MGEtYjdhYS00MGE0LWY5YTctNTI5OWI1ZTM2M2I0IiwiYWlkIjoiMCIsIm5ldCI6IndzIiwidHlwZSI6IiIsImhvc3QiOiIxNTIuNjcuMjE4LjM4IiwicGF0aCI6Ii8iLCJ0bHMiOiIifQ==
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVbHRyQHIwMHRfMjAxN0AxMzguMTk3LjE2Ni4yMDU6ODEx#🇨🇦CA_113
+vmess://eyJhZGQiOiIxMjAuMTk3LjEzMC4xMjYiLCJ2IjoiMiIsInBzIjoiUmVsYXlf8J+HqPCfh7NDTi3wn4et8J+HsEhLXzEzNyIsInBvcnQiOjEzMDAzLCJpZCI6IjIxZGNiZWM4LWVlZTgtM2QyMC04MmI2LWY4YzE2ZmU2ZGM4ZCIsImFpZCI6IjAiLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiIiwiaG9zdCI6IiIsInBhdGgiOiIvIiwidGxzIjoiIn0=
+vmess://eyJhZGQiOiI1MS44MS4yMjMuMjAiLCJ2IjoiMiIsInBzIjoi8J+HuvCfh7hVU18xOTI4IiwicG9ydCI6NDQzLCJpZCI6ImMwMTU2NDUxLTRlZmItNDVlMi04NGZjLThkMzE1YzQ2NTBkYiIsImFpZCI6IjMyIiwibmV0IjoidGNwIiwidHlwZSI6IiIsImhvc3QiOiJpbmdyZXNzLWkxLm9uZWJveDYub3JnIiwicGF0aCI6Ii9obHMvY2N0djVwaGQubTN1OCIsInRscyI6IiJ9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVbHRyQHIwMHRfMjAxN0A1MS4zOC4xMTguNDI6ODEx#🇫🇷FR_257
 ```
-<h5>本次节点订阅地址：https://shadowshare.v2cross.com/publicserver/servers/temp/fephVk6r0GTPu3Wx</h5>
+<h5>本次节点订阅地址：https://shadowshare.v2cross.com/publicserver/servers/temp/OJuoV3KsXG0PW1ge</h5>
 <p>订阅地址二维码</p>
 <img src='http://shadowshare.v2cross.com/qrcode.png' width=250 height=250>
 <blockquote style='text-align: center;'>更多节点、免费订阅地址及订阅转换请下载本站提供的共享节点app软件<a href='https://shadowshare.v2cross.com'>ShadowShare</a>导出节点使用，支持iOS、Android下载</blockquote>
