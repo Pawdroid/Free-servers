@@ -9,14 +9,15 @@
 </blockquote>
 <h4>节点列表：(这里仅展示部分节点，查看全部节点请下载app)</h4>
 
-```trojan://123456@trojan-ctb-sg01.globalssh.xyz:443#v2cross.com%20-%20%E5%BE%B7%E5%9B%BD%20%2034
-vmess://eyJhZGQiOiAiY20wMS5kYi1saW5rLmluIiwgInYiOiAiMiIsICJwcyI6ICJ2MmNyb3NzLmNvbSAtIFx1NGUwYVx1NmQ3N1x1NWUwMlx1ODA1NFx1OTAxYSA0OSIsICJwb3J0IjogMTMzMDIsICJpZCI6ICJjNGZhMDZjYS1jMThmLTM3YTQtYmEwZS02MzUzN2MwZmI2NzIiLCAiYWlkIjogIjEiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiY20wMS5kYi1saW5rLmluIiwgInBhdGgiOiAiL2RiIiwgInRscyI6ICJ0bHMifQ==
-ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQqQDE0LjI5LjEyNC4xNzQ6MTEwMDk=#Relay_🇨🇳CN-🇭🇰HK_76
-ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQqQDE0LjI5LjEyNC4xNjg6MjQwMDI=#Relay_🇨🇳CN-🇹🇼TW_137
-trojan://0896373c-7cd9-4221-b50d-9634990d6751@tw.suntory.lol:38513#v2cross.com%20-%20%E5%8F%B0%E6%B9%BE%E7%9C%81%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E5%8D%8E%E7%94%B5%E4%BF%A1%202
-vmess://eyJhZGQiOiI1MS44MS4yMjMuMjAiLCJ2IjoiMiIsInBzIjoi8J+HuvCfh7hVU18xOTExIiwicG9ydCI6NDQzLCJpZCI6ImMwMTU2NDUxLTRlZmItNDVlMi04NGZjLThkMzE1YzQ2NTBkYiIsImFpZCI6IjMyIiwibmV0IjoidGNwIiwidHlwZSI6IiIsImhvc3QiOiJpbmdyZXNzLWkxLm9uZWJveDYub3JnIiwicGF0aCI6Ii9obHMvY2N0djVwaGQubTN1OCIsInRscyI6IiJ9
-vless://72972da9-d188-40c6-83a6-4ec28fde2c0a@cg.rutracker-cn.com:443?path=%2FxxPb49hL0C&security=tls&encryption=none&type=ws&sni=cg.rutracker-cn.com#v2cross.com
-ss://YWVzLTEyOC1nY206MTgyNjk2NzYtNzFhZS00NzZkLWI2ZDMtMjZjYTM5MTQyNGI5QGZ0cC5jbi5kZWJpYW4uY2RuZXQuaW46ODA2MA==#🇨🇳 CN_107
+```trojan://fIYU5DCiWZ6uYOou@los1.v2ce.com:443?security=xtls&encryption=none&type=tcp&flow=xtls-rprx-direct&sni=los1.v2ce.com#v2cross.com
+ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQqQDE0LjI5LjEyNC4xNjg6MjQwMDA=#🇨🇳 CN_371
+trojan://5y8y3CwxRVYhyfSY@ce.rutracker-cn.com:443?security=xtls&encryption=none&type=tcp&flow=xtls-rprx-direct&sni=ce.rutracker-cn.com#v2cross.com
+trojan://mMQ6qJB9xbhiRvgg@v2cross.com.01.v2ce.com:443?security=xtls&encryption=none&type=tcp&flow=xtls-rprx-direct&sni=v2cross.com.01.v2ce.com#v2cross.com
+vmess://eyJhZGQiOiIxMjAuMTk3LjEzMC4xMjYiLCJ2IjoiMiIsInBzIjoi8J+HqPCfh7MgQ05fNTI5IiwicG9ydCI6MTMxMDEsImlkIjoiMjFkY2JlYzgtZWVlOC0zZDIwLTgyYjYtZjhjMTZmZTZkYzhkIiwiYWlkIjoiMCIsIm5ldCI6InRjcCIsInR5cGUiOiIiLCJob3N0IjoiIiwicGF0aCI6Ii8iLCJ0bHMiOiIifQ==
+trojan://ce433528-39fa-4711-bc0d-25a5b1579574@sg-02.licom.ml:8443#v2cross.com%20-%20%E6%96%B0%E5%8A%A0%E5%9D%A1%20%2046
+trojan://0896373c-7cd9-4221-b50d-9634990d6751@tw.suntory.lol:38511#v2cross.com%20-%20%E5%8F%B0%E6%B9%BE%E7%9C%81%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E5%8D%8E%E7%94%B5%E4%BF%A1%203
+trojan://0896373c-7cd9-4221-b50d-9634990d6751@de.v2yyds.com:31911#v2cross.com%20-%20%E4%BC%8A%E6%9C%97%20%2015
+trojan://3fbb3fd9-e1a2-4c91-8380-dc2998d1fa8c@hkbgp1.jiantian.xyz:43567#v2cross.com%20-%20%E4%BF%84%E7%BD%97%E6%96%AF%20%2026
 ```
 <h5>本次节点订阅地址：https://shadowshare.v2cross.com/publicserver/servers/temp/UQB4ERxOAje8duXH</h5>
 <p>订阅地址二维码</p>
