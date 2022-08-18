@@ -9,11 +9,12 @@
 </blockquote>
 <h4>节点列表：(这里仅展示部分节点，查看全部节点请下载app)</h4>
 
-```ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVbHRyQHIwMHRfMjAxN0AxMzguNjguMjQ4LjEzMDo4MTE=#🇺🇸US_1036
-trojan://3gLlCYBipVwr6Y5F@v2cross.com.02.v2ce.com:443?security=xtls&encryption=none&type=tcp&flow=xtls-rprx-direct&sni=v2cross.com.02.v2ce.com#v2cross.com
+```trojan://177501cc-f0c2-3cc3-b9a7-8c1e8e27655f@iiiieeepppplll.zhengzhongfeizhu.xyz:34001?peer=111-47-215-139.nhost.00cdn.com#%E5%A4%A7%E8%90%9D%E5%8D%9C%E9%B8%A1%E9%A6%99%E6%B8%AF%E9%AB%98%E9%80%9F
+ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQqQDE0LjI5LjEyNC4xNzQ6MTEwMTM=#Relay_🇨🇳CN-🇭🇰HK_108
+trojan://5y8y3CwxRVYhyfSY@ce.rutracker-cn.com:443?security=xtls&encryption=none&type=tcp&flow=xtls-rprx-direct&sni=ce.rutracker-cn.com#v2cross.com
+trojan://ZD4dLSBXiMrmzdLd@v2cross.com.03.v2ce.com:443?security=xtls&encryption=none&type=tcp&flow=xtls-rprx-direct&sni=v2cross.com.03.v2ce.com#v2cross.com
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkBTU1JTVUItVjIyLeS7mOi0ueaOqOiNkDp2MmNyb3NzLmNvbSIsDQogICJhZGQiOiAiaW5ncmVzcy1pMS5vbmVib3g2Lm9yZyIsDQogICJwb3J0IjogIjM4NzAxIiwNCiAgImlkIjogIjc5Mzg2Njg1LTE2ZGEtMzI3Yy05ZTE0LWFhNmQ3MDJkODZiYyIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiYXdlaWtlamktWW91VHViZSIsDQogICJwYXRoIjogIi9obHMvY2N0djVwaGQubTN1OCIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiLA0KICAiYWxwbiI6ICIiDQp9
 trojan://2Q74kEsaZq@209.209.9.149:46539?allowInsecure=1#🇷🇼RW 1｜openit.pw
-vmess://eyJhZGQiOiAiMTQxLjE5My4yMTMuMjAiLCAiYWlkIjogMCwgImhvc3QiOiAic2FuZ2dvcm82Lm5leHR2cG4uY2MiLCAiaWQiOiAiYTU1YjdkNzctZDI1MS00ZTMxLWE3NmUtMjJkMDlhYzY5ZWIwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi92cG5uZW8iLCAicG9ydCI6IDgwLCAicHMiOiAidjJjcm9zcy5jb20gLSBcdTdmOGVcdTU2ZmRSRiBFbmdpbmVlcmluZyAzMiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogInNhbmdnb3JvNi5uZXh0dnBuLmNjIn0=
-trojan://kGrwqmB1nEKUsDwE@v2cross.com.05.v2ce.com:443?security=xtls&encryption=none&type=tcp&flow=xtls-rprx-direct&sni=v2cross.com.05.v2ce.com#v2cross.com
 ```
 <h5>本次节点订阅地址：https://shadowshare.v2cross.com/publicserver/servers/temp/yY9RArMfxz0VmlsG</h5>
 <p>订阅地址二维码</p>
