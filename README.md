@@ -9,13 +9,18 @@
 </blockquote>
 <h4>节点列表：(这里仅展示部分节点，查看全部节点请下载app)</h4>
 
-```trojan://3d6e81e4-c6df-32ad-a808-e83d4fd1ca1a@azhj001.xiba1.xyz:20715?allowInsecure=1&sni=AZHJ001.xiba1.xyz#%e7%be%8e%e5%9b%bd(TG%e9%a2%91%e9%81%93%3a%40kxswa)
-trojan://177501cc-f0c2-3cc3-b9a7-8c1e8e27655f@iiiieeepppplll.zhengzhongfeizhu.xyz:34002?allowInsecure=1#🇨🇳CN 2｜openit.pw
-trojan://4a0bf9f4-90c1-48f4-8024-2c43da76f518@41.77.244.105:43333?allowInsecure=1#🇲🇶MQ 1｜openit.pw
+```ss://YWVzLTI1Ni1jZmI6cnBnYk5uVTlyRERVNGFXWkAxODUuMTI2LjExNi4xMTk6OTA5NA==#🇷🇴 RO_591
+ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQqQDE0LjI5LjEyNC4xNjg6MjQwMDU=#Relay_🇨🇳CN-🇹🇼TW_100
+vmess://eyJhZGQiOiJpbi1zZy0xLm9uZWJveDYub3JnIiwidiI6IjIiLCJwcyI6IlJlbGF5X/Cfh6jwn4ezQ04t8J+HqfCfh6pERV8wNiIsInBvcnQiOjM4NzAxLCJpZCI6Ijc5Mzg2Njg1LTE2ZGEtMzI3Yy05ZTE0LWFhNmQ3MDJkODZiYyIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJob3N0Ijoid3d3Lml2cG5wcm8ubmV0IiwicGF0aCI6Ii9obHMvY2N0djVwaGQubTN1OCIsInRscyI6IiJ9
+ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQqQDE0LjI5LjEyNC4xNjg6MjQwMDg=#Relay_-🇹🇼TW_06
+vmess://eyJhZGQiOiJoa2JuLWhvbWUtYS56YzIwMjAwNDI2LmNsdWIiLCJ2IjoiMiIsInBzIjoiUmVsYXlf8J+HrfCfh7BISy3wn4et8J+HsEhLXzMwMyIsInBvcnQiOjM5OTk5LCJpZCI6IjY3YzUwZjZhLTgxNmQtMzU1NS04OWI0LTE5ZGQyOTYwOGY4YiIsImFpZCI6IjAiLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiIiwiaG9zdCI6ImhrYm4taG9tZS1hLnpjMjAyMDA0MjYuY2x1YiIsInBhdGgiOiIvbWljcm9zb2Z0IiwidGxzIjoidGxzIn0=
+trojan://kFyvvCcvMXQKFcJZWuxcdTZOFummlVbf@tw-tpe-h-tr.cdn.savoy.click:10089?allowInsecure=1&sni=tw-tpe-h-tr.cdn.savoy.click#%e4%b8%ad%e5%9b%bd(TG%e9%a2%91%e9%81%93%3a%40kxswa)
+trojan://935f34c1-1713-402c-bfe1-f051cf49d370@dg.yuzex.top:32451?allowInsecure=1#🇺🇸US 21｜openit.pw
+trojan://fIYU5DCiWZ6uYOou@los1.v2ce.com:443?security=xtls&encryption=none&type=tcp&flow=xtls-rprx-direct&sni=los1.v2ce.com#v2cross.com
+trojan://3d6e81e4-c6df-32ad-a808-e83d4fd1ca1a@azhj001.xiba1.xyz:20801?allowInsecure=1&sni=AZHJ001.xiba1.xyz#%e7%be%8e%e5%9b%bd(TG%e9%a2%91%e9%81%93%3a%40kxswa)
 trojan://5y8y3CwxRVYhyfSY@ce.rutracker-cn.com:443?security=xtls&encryption=none&type=tcp&flow=xtls-rprx-direct&sni=ce.rutracker-cn.com#v2cross.com
-vmess://eyJhZGQiOiAiY2RuLmRpZ2ljZXJ0Y2RuLmNvbSIsICJhaWQiOiAwLCAiaG9zdCI6ICJiaXpuZXQzLm5leHR2cG4uY2MiLCAiaWQiOiAiMzg5MDUwNWQtYTQ5Ni00NDE4LTkxYTEtNzQyZmFhMmIwYWM3IiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi92cG5uZW8iLCAicG9ydCI6IDgwLCAicHMiOiAidjJjcm9zcy5jb20gLSBcdTdmOGVcdTU2ZmRDbG91ZEZsYXJlXHU1MTZjXHU1M2Y4Q0ROXHU4MjgyXHU3MGI5IDEwIiwgInRscyI6ICIiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiYml6bmV0My5uZXh0dnBuLmNjIn0=
 ```
-<h5>本次节点订阅地址：https://shadowshare.v2cross.com/publicserver/servers/temp/kmSfz8WywVGJsXQ7</h5>
+<h5>本次节点订阅地址：https://shadowshare.v2cross.com/publicserver/servers/temp/3FCz9OBnre8GkLPJ</h5>
 <p>订阅地址二维码</p>
 <img src='http://shadowshare.v2cross.com/qrcode.png' width=250 height=250>
 <blockquote style='text-align: center;'>更多节点、免费订阅地址及订阅转换请下载本站提供的共享节点app软件<a href='https://shadowshare.v2cross.com'>ShadowShare</a>导出节点使用，支持iOS、Android下载</blockquote>
