@@ -9,18 +9,18 @@
 </blockquote>
 <h4>节点列表：(这里仅展示部分节点，查看全部节点请下载app)</h4>
 
-```ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@85.208.108.93:7002#JP_%40v2cross.com01
-ss://YWVzLTI1Ni1jZmI6NDQxNTkzNDI5NUA1MS4xOTUuMTM2LjIwOTo1MDAwNA==#🇫🇷FR_212
-ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQq@14.29.124.168:24003#%F0%9F%87%A8%F0%9F%87%B3%20Relay_%F0%9F%87%A8%F0%9F%87%B3CN-%F0%9F%87%B9%F0%9F%87%BCTW_14
-ss://YWVzLTI1Ni1jZmI6aW5zdGdyYW0uY29tL29wZW52cG5zc2hANTEuMzguMTEyLjg0OjQ0#🇫🇷FR_259
-ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQqQDE0LjI5LjEyNC4xNzQ6MTEwMDg=#🇨🇳 CN_11 v2cross.com
-trojan://mMQ6qJB9xbhiRvgg@v2cross.com.01.v2ce.com:443?security=xtls&encryption=none&type=tcp&flow=xtls-rprx-direct&sni=v2cross.com.01.v2ce.com#v2cross.com
-trojan://ZD4dLSBXiMrmzdLd@v2cross.com.03.v2ce.com:443?security=xtls&encryption=none&type=tcp&flow=xtls-rprx-direct&sni=v2cross.com.03.v2ce.com#v2cross.com
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIuS4reWbvShUR+mikemBkzpAa3hzd2EpIiwNCiAgImFkZCI6ICJhbGl5dW4uc2d6eDAxLmRvd25sb2FkbW92aWUuY24iLA0KICAicG9ydCI6ICIxMTkxMCIsDQogICJpZCI6ICIwMjUzYjU3NC04MDIwLTMxODYtYTY0Ny0wMjY3Mjk1YWM5YmIiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogImFsaXl1bi5zZ3p4MDEuZG93bmxvYWRtb3ZpZS5jbiIsDQogICJwYXRoIjogIi9yb2NrZXQiLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIg0KfQ==
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVbHRyQHIwMHRfMjAxN0AxMzguNjguMjQ4LjEzMDo4MTE=#🇺🇸US_1163
-ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQqQDE0LjI5LjEyNC4xNzQ6MTEwMTM=#Relay_🇨🇳CN-🇭🇰HK_129
+```ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVlAMTk1LjE1NC4yMDAuMTUwOjkxMDE=#🇫🇷 FR_198
+ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQqQDE0LjI5LjEyNC4xNjg6MjQwMDc=#Relay_🇨🇳CN-🇹🇼TW_121
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIuS4reWbvShUR+mikemBkzpAa3hzd2EpIiwNCiAgImFkZCI6ICJhbGl5dW4uc2d6eDAxLmRvd25sb2FkbW92aWUuY24iLA0KICAicG9ydCI6ICIxMTkxOSIsDQogICJpZCI6ICIwMjUzYjU3NC04MDIwLTMxODYtYTY0Ny0wMjY3Mjk1YWM5YmIiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogImFsaXl1bi5zZ3p4MDEuZG93bmxvYWRtb3ZpZS5jbiIsDQogICJwYXRoIjogIi9yb2NrZXQiLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIg0KfQ==
+vless://72972da9-d188-40c6-83a6-4ec28fde2c0a@cg.rutracker-cn.com:443?path=%2FxxPb49hL0C&security=tls&encryption=none&type=ws&sni=cg.rutracker-cn.com#v2cross.com
+vmess://eyJ2IjogIjIiLCAicHMiOiAidjJjcm9zcy5jb20gLSBcdTVlN2ZcdTRlMWNcdTc3MDFcdTRmNWJcdTVjNzFcdTVlMDJcdTc5ZmJcdTUyYTggMTkiLCAiYWRkIjogImluLXVzLTEub25lYm94Ni5vcmciLCAicG9ydCI6ICIzODQwMSIsICJ0eXBlIjogIm5vbmUiLCAiaWQiOiAiNzkzODY2ODUtMTZkYS0zMjdjLTllMTQtYWE2ZDcwMmQ4NmJjIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9obHMvY2N0djVwaGQubTN1OCIsICJob3N0IjogIiU3QiUyMkhvc3QlMjI6JTIyaW4tdXMtMS5vbmVib3g2Lm9yZyUyMiU3RCIsICJ0bHMiOiAiIn0=
+trojan://c3211bc6-6cde-492a-a86a-310b0c19a44b@kr1.api-aws.com:443?allowInsecure=1&sni=kr1.api-aws.com#%e9%9f%a9%e5%9b%bd(TG%e9%a2%91%e9%81%93%3a%40kxswa)
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkBTU1JTVUItVjAzLeS7mOi0ueaOqOiNkDp2MmNyb3NzLmNvbSIsDQogICJhZGQiOiAiZGF0YS1oay12MS5zaHdqZmt3LmNuIiwNCiAgInBvcnQiOiAiNTAyMDciLA0KICAiaWQiOiAiYjE0NzhlMjQtNDkxNi0zYWJlLThmMTctMTU5MzEwMTJlY2JlIiwNCiAgImFpZCI6ICIxIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJkYXRhLWhrLXYxLnNod2pma3cuY24iLA0KICAicGF0aCI6ICIvaGxzL2NjdHY1cGhkLm0zdTgiLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIiwNCiAgImFscG4iOiAiIg0KfQ==
+trojan://177501cc-f0c2-3cc3-b9a7-8c1e8e27655f@iiiieeepppplll.zhengzhongfeizhu.xyz:34002?allowInsecure=1#🇨🇳CN 4｜openit.pw
+trojan://70b2198e-ccef-4e8b-b030-b1b03d7f4175@ol.cloudorg.uk:443?allowInsecure=1#🇮🇷IR 1｜openit.pw
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklOQDg1LjIwOC4xMDguOTM6ODExOA==#Pool_🇳🇱 NL_460
 ```
-<h5>本次节点订阅地址：https://shadowshare.v2cross.com/publicserver/servers/temp/dkrT489BAs23GhOP</h5>
+<h5>本次节点订阅地址：https://shadowshare.v2cross.com/publicserver/servers/temp/e8V1oFJ9bwujYHaT</h5>
 <p>订阅地址二维码</p>
 <img src='http://shadowshare.v2cross.com/qrcode.png' width=250 height=250>
 <blockquote style='text-align: center;'>更多节点、免费订阅地址及订阅转换请下载本站提供的共享节点app软件<a href='https://shadowshare.v2cross.com'>ShadowShare</a>导出节点使用，支持iOS、Android下载</blockquote>
