@@ -9,15 +9,20 @@
 </blockquote>
 <h4>节点列表：(这里仅展示部分节点，查看全部节点请下载app)</h4>
 
-```ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3QDE2Ny44OC42MS41MDoyMzc2#🇺🇸US_1160
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQQDE0OS4yMDIuODIuMTcyOjczMDY=#🇫🇷FR_223
+```ss://YWVzLTI1Ni1jZmI6ZE1MMnNmaGJWd3Z0Zk5QZUAxODUuMTI2LjExNi4xMTk6OTA1OA==#🇷🇴RO_616
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0QDM4LjExMS4xMTQuMjQ2Ojg4ODI=#🇨🇦CA_58
+trojan://ZD4dLSBXiMrmzdLd@v2cross.com.03.v2ce.com:443?security=xtls&encryption=none&type=tcp&flow=xtls-rprx-direct&sni=v2cross.com.03.v2ce.com#v2cross.com
+ss://YWVzLTI1Ni1jZmI6U241QjdqVHFyNzZhQ0pUOEAyMTcuMzAuMTAuNjg6OTA5Nw==#🇷🇺RU_655
+ss://YWVzLTI1Ni1jZmI6cDl6NUJWQURIMllGczNNTkAxODUuMTI2LjExNi4xMTk6OTA0MA==#🇷🇴 RO_601
+ss://YWVzLTI1Ni1nY206aGc0OSRXSDg5NDNnM0A4NC4zMy4xOTMuNzk6MTg3NjA=#🇮🇹IT_284
+ss://YWVzLTI1Ni1jZmI6TnZTOE40VmY4cUFHUFNDTEAyMTcuMzAuMTAuNjg6OTA0Ng==#🇷🇺RU_660
+trojan://c9a3a61d-5d49-4158-9e60-6fa32684b122@cm.spacez.cloud:30000?allowInsecure=1&sni=cm.spacez.cloud#%e4%b8%ad%e5%9b%bd(TG%e9%a2%91%e9%81%93%3a%40kxswa)
+trojan://31f12d66-7e9b-426d-96aa-914a77644f43@821hk06.tfzhc.top:443?allowInsecure=1&sni=821hk06.tfzhc.top#%e6%96%b0%e5%8a%a0%e5%9d%a1(TG%e9%a2%91%e9%81%93%3a%40kxswa)
+trojan://fIYU5DCiWZ6uYOou@los1.v2ce.com:443?security=xtls&encryption=none&type=tcp&flow=xtls-rprx-direct&sni=los1.v2ce.com#v2cross.com
 vmess://eyJhZGQiOiAiYWNjZXNzLnpvb21pbmZvLmNvbSIsICJhaWQiOiAwLCAiaG9zdCI6ICJodXJyaWNhbmUzLm5leHR2cG4uY2MiLCAiaWQiOiAiZTVkNzA2M2ItYWZiYy00N2JiLWE5MTMtZTQ1OWE3NzE0ODMwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi92cG5uZW8iLCAicG9ydCI6IDgwLCAicHMiOiAidjJjcm9zcy5jb20gLSBcdTdmOGVcdTU2ZmRSRiBFbmdpbmVlcmluZyAxOCIsICJ0bHMiOiAiIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogImh1cnJpY2FuZTMubmV4dHZwbi5jYyJ9
-vmess://eyJhZGQiOiAiMjAzLjE4NC4xMzIuMjQ3IiwgImFpZCI6IDEsICJob3N0IjogInBwMS56aGVuZ3pob25nZmVpemh1Lnh5eiIsICJpZCI6ICJiMzE1YTkzYi1jZWMxLTM0Y2ItYTY1OC1iZTUzZmZkYTdjZDgiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL3NpdHUtaGdjMiIsICJwb3J0IjogNDM5OSwgInBzIjogInYyY3Jvc3MuY29tIC0gXHU5OTk5XHU2ZTJmXHU3M2FmXHU3NDAzXHU1MTY4XHU1N2RmXHU3NTM1XHU4YmFmIDEiLCAidGxzIjogIiIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIifQ==
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0NAMTY3Ljg4LjYzLjgyOjMzODk=#🇺🇸US_1361
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybUAxNDkuMjAyLjgyLjE3Mjo1NTAw#🇫🇷FR_236
-vmess://eyJhZGQiOiAiMjAzLjE4NC4xMzIuMjQ5IiwgImFpZCI6IDEsICJob3N0IjogInBwMS56aGVuZ3pob25nZmVpemh1Lnh5eiIsICJpZCI6ICJiMzE1YTkzYi1jZWMxLTM0Y2ItYTY1OC1iZTUzZmZkYTdjZDgiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL3NpdHUtaGdjNCIsICJwb3J0IjogNDM5OSwgInBzIjogInYyY3Jvc3MuY29tIC0gXHU5OTk5XHU2ZTJmXHU3M2FmXHU3NDAzXHU1MTY4XHU1N2RmXHU3NTM1XHU4YmFmIDQiLCAidGxzIjogIiIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIifQ==
+ss://YWVzLTI1Ni1jZmI6S25KR2FkM0ZxVHZqcWJhWEAyMTMuMTgzLjUzLjE5ODo5MDE0#🇱🇹 LT_324
 ```
-<h5>本次节点订阅地址：https://shadowshare.v2cross.com/publicserver/servers/temp/S9BACbE3kerpIqK1</h5>
+<h5>本次节点订阅地址：https://shadowshare.v2cross.com/publicserver/servers/temp/PxymQjW1bYhtTODJ</h5>
 <p>订阅地址二维码</p>
 <img src='http://shadowshare.v2cross.com/qrcode.png' width=250 height=250>
 <blockquote style='text-align: center;'>更多节点、免费订阅地址及订阅转换请下载本站提供的共享节点app软件<a href='https://shadowshare.v2cross.com'>ShadowShare</a>导出节点使用，支持iOS、Android下载</blockquote>
