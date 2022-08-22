@@ -9,19 +9,15 @@
 </blockquote>
 <h4>节点列表：(这里仅展示部分节点，查看全部节点请下载app)</h4>
 
-```trojan://vGWCNNfBHwSY6m6M@v2cross.com.04.v2ce.com:443?security=xtls&encryption=none&type=tcp&flow=xtls-rprx-direct&sni=v2cross.com.04.v2ce.com#v2cross.com
-vmess://eyJhZGQiOiIxNDYuNTYuMTg0LjI0MiIsInYiOiIyIiwicHMiOiLwn4ev8J+HtUpQXzU3IiwicG9ydCI6MTk1NzAsImlkIjoiNzBhOTk4ZTAtYmEwYi00OTk0LWFmNTAtOGRlZWQ1OGNkYmQ5IiwiYWlkIjoiMCIsIm5ldCI6InRjcCIsInR5cGUiOiIiLCJob3N0IjoiIiwicGF0aCI6Ii8iLCJ0bHMiOiIifQ==
-trojan://1Qfea1eL3zCALPJm@los2-cn2.v2ce.com:443?security=xtls&encryption=none&type=tcp&flow=xtls-rprx-direct&sni=los2-cn2.v2ce.com#v2cross.com
-ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQqQDE0LjI5LjEyNC4xNjg6MjQwMDg=#Relay_-🇹🇼TW_04
-vless://d7e810f6-9389-47f4-be4b-438f410f3968@cz1.v2ce.com:443?path=%2FHm4aRbSa&security=tls&encryption=none&type=ws&sni=cz1.v2ce.com#v2cross.com
-vless://72972da9-d188-40c6-83a6-4ec28fde2c0a@cg.rutracker-cn.com:443?path=%2FxxPb49hL0C&security=tls&encryption=none&type=ws&sni=cg.rutracker-cn.com#v2cross.com
-trojan://fIYU5DCiWZ6uYOou@los1.v2ce.com:443?security=xtls&encryption=none&type=tcp&flow=xtls-rprx-direct&sni=los1.v2ce.com#v2cross.com
-ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQqQDE0LjI5LjEyNC4xNjg6MjQwMDk=#🇨🇳 CN_383
+```trojan://274c1b23-2bfe-40ac-943c-ebc1aa044b22@41.216.177.41:443?allowInsecure=1#🇳🇱NL 1｜openit.pw
+vmess://eyJhZGQiOiAiY2RuLmRpZ2ljZXJ0Y2RuLmNvbSIsICJhaWQiOiAwLCAiaG9zdCI6ICJiaXpuZXQzLm5leHR2cG4uY2MiLCAiaWQiOiAiMzg5MDUwNWQtYTQ5Ni00NDE4LTkxYTEtNzQyZmFhMmIwYWM3IiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi92cG5uZW8iLCAicG9ydCI6IDgwLCAicHMiOiAidjJjcm9zcy5jb20gLSBcdTdmOGVcdTU2ZmRDbG91ZEZsYXJlXHU1MTZjXHU1M2Y4Q0ROXHU4MjgyXHU3MGI5IDMwIiwgInRscyI6ICIiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiYml6bmV0My5uZXh0dnBuLmNjIn0=
 vmess://eyJhZGQiOiAiMjAzLjE4NC4xMzIuMjQ4IiwgImFpZCI6IDEsICJob3N0IjogInBwMS56aGVuZ3pob25nZmVpemh1Lnh5eiIsICJpZCI6ICJiMzE1YTkzYi1jZWMxLTM0Y2ItYTY1OC1iZTUzZmZkYTdjZDgiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL3NpdHUtaGdjMyIsICJwb3J0IjogNDM5OSwgInBzIjogInYyY3Jvc3MuY29tIC0gXHU5OTk5XHU2ZTJmXHU3M2FmXHU3NDAzXHU1MTY4XHU1N2RmXHU3NTM1XHU4YmFmIDYiLCAidGxzIjogIiIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIifQ==
-trojan://mMQ6qJB9xbhiRvgg@v2cross.com.01.v2ce.com:443?security=xtls&encryption=none&type=tcp&flow=xtls-rprx-direct&sni=v2cross.com.01.v2ce.com#v2cross.com
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIuS4reWbvShUR+mikemBkzpAa3hzd2EpIiwNCiAgImFkZCI6ICJhbGl5dW4uaW5zdGFsbDA0LnZudXBnY24uY24iLA0KICAicG9ydCI6ICIxMTkyNyIsDQogICJpZCI6ICIwMjUzYjU3NC04MDIwLTMxODYtYTY0Ny0wMjY3Mjk1YWM5YmIiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogImFsaXl1bi5pbnN0YWxsMDQudm51cGdjbi5jbiIsDQogICJwYXRoIjogIi9yb2NrZXQiLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIg0KfQ==
-trojan://006bca8c-4e1f-44e0-9399-1cd4ff480a40@103.103.245.125:50350?allowInsecure=1#🇭🇰HK 3｜openit.pw
-vmess://eyJ2IjogIjIiLCAicHMiOiAidjJjcm9zcy5jb20gLSBcdTVlN2ZcdTRlMWNcdTc3MDFcdTRmNWJcdTVjNzFcdTVlMDJcdTc5ZmJcdTUyYTggMjIiLCAiYWRkIjogImluLXVzLTEub25lYm94Ni5vcmciLCAicG9ydCI6ICIzODQwMSIsICJ0eXBlIjogIm5vbmUiLCAiaWQiOiAiNzkzODY2ODUtMTZkYS0zMjdjLTllMTQtYWE2ZDcwMmQ4NmJjIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9obHMvY2N0djVwaGQubTN1OCIsICJob3N0IjogIiU3QiUyMkhvc3QlMjI6JTIyaW4tdXMtMS5vbmVib3g2Lm9yZyUyMiU3RCIsICJ0bHMiOiAiIn0=
+vmess://eyJhZGQiOiJ1czEuZ3JwYy5zdHJlYW0iLCJ2IjoiMiIsInBzIjoiUmVsYXlf8J+HuvCfh7hVUy3wn4e68J+HuFVTXzEzNTgiLCJwb3J0Ijo4MCwiaWQiOiI2MDMxYjVjMy1kOGJhLTU3NTYtYjcwOC1mNjEwODRhMmI2NzgiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwiaG9zdCI6InVzMS5ncnBjLnN0cmVhbSIsInBhdGgiOiIvdXMxIiwidGxzIjoiIn0=
+ss://YWVzLTI1Ni1nY206aGc0OSRXSDg5NDNnM0A4NC4zMy4xOTMuNzk6MTg3NjA=#🇮🇹IT_305
+trojan://c9a3a61d-5d49-4158-9e60-6fa32684b122@cm.spacez.cloud:30002?allowInsecure=1&sni=cm.spacez.cloud#%e4%b8%ad%e5%9b%bd(TG%e9%a2%91%e9%81%93%3a%40kxswa)
+trojan://c3211bc6-6cde-492a-a86a-310b0c19a44b@kr1.api-aws.com:443?allowInsecure=1&sni=kr1.api-aws.com#%e9%9f%a9%e5%9b%bd(TG%e9%a2%91%e9%81%93%3a%40kxswa)
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwM0AxOTQuNzEuMTI2LjMxOjk4OQ==#🇷🇸RS_611
+vmess://eyJhZGQiOiIxMDMuMTg2LjE0OS4xMzIiLCJ2IjoiMiIsInBzIjoi8J+PgVpaXzE1MDEiLCJwb3J0Ijo4MCwiaWQiOiJhNDc5ZmMwMi0wN2M1LTQ4NjQtODU2NC1jNGYxNDdkZmE0ODgiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwiaG9zdCI6ImZyb250aWVyLWkxOG4udGlrdG9rdi5jb20iLCJwYXRoIjoiL3Nob3B2cG4ubmV0IiwidGxzIjoiIn0=
 ```
 <h5>本次节点订阅地址：https://shadowshare.v2cross.com/publicserver/servers/temp/LcVfZOmM0wU6qYsh</h5>
 <p>订阅地址二维码</p>
