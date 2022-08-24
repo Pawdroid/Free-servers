@@ -9,30 +9,18 @@
 </blockquote>
 <h4>节点列表：(这里仅展示部分节点，查看全部节点请下载app)</h4>
 
-```trojan://935f34c1-1713-402c-bfe1-f051cf49d370@dg.hootfun.top:33231?allowInsecure=1#🇺🇸US 25 → openit.pw
-trojan://16549817-fc61-4434-9317-734348b592ec@43.248.116.201:34016#%E5%B7%B4%E8%A5%BF-tg%E9%A2%91%E9%81%93%3A%40bpjzx2-38
-vmess://eyJ2IjogIjIiLCAicHMiOiAidjJjcm9zcy5jb20gLSBcdTVlN2ZcdTRlMWNcdTc3MDFcdTRmNWJcdTVjNzFcdTVlMDJcdTc5ZmJcdTUyYTggNiIsICJhZGQiOiAiaW4tdXMtMS5vbmVib3g2Lm9yZyIsICJwb3J0IjogIjM4NDAxIiwgInR5cGUiOiAibm9uZSIsICJpZCI6ICI3OTM4NjY4NS0xNmRhLTMyN2MtOWUxNC1hYTZkNzAyZDg2YmMiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL2hscy9jY3R2NXBoZC5tM3U4IiwgImhvc3QiOiAiJTdCJTIySG9zdCUyMjolMjJpbi11cy0xLm9uZWJveDYub3JnJTIyJTdEIiwgInRscyI6ICIifQ==
-trojan://16549817-fc61-4434-9317-734348b592ec@43.248.116.201:32003#%E5%8F%B0%E6%B9%BE%E7%9C%81-tg%E9%A2%91%E9%81%93%3A%40bpjzx2-7
-trojan://kGrwqmB1nEKUsDwE@v2cross.com.05.v2ce.com:443?security=xtls&encryption=none&type=tcp&flow=xtls-rprx-direct&sni=v2cross.com.05.v2ce.com#v2cross.com
-trojan://80bcf4f2-12f7-11ed-bb74-f23c9164ca5d@us.tcpbbr.net:443?allowInsecure=1#🇺🇸US 20 → openit.pw
-trojan://dfbf0d67-f03d-4184-a224-c2d64a571f99@s3.hazz.win:12340?allowInsecure=1#US%2013%20%E2%86%92%20openit.pw
-trojan://177501cc-f0c2-3cc3-b9a7-8c1e8e27655f@pp1.zhengzhongfeizhu.xyz:32002?allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8%20US%202
-ss://YWVzLTI1Ni1jZmI6NDQxNTkzNDI5NUA1MS4xOTUuMTM2LjIwOTo1MDAwNA==#🇫🇷FR_232
-trojan://16549817-fc61-4434-9317-734348b592ec@43.248.116.201:32013#%E8%8F%B2%E5%BE%8B%E5%AE%BE-tg%E9%A2%91%E9%81%93%3A%40bpjzx2-17
-trojan://935f34c1-1713-402c-bfe1-f051cf49d370@lswjs.hootfun.top:23561?allowInsecure=1&sni=lswjs.hootfun.top#%e7%be%8e%e5%9b%bd(TG%e9%a2%91%e9%81%93%3a%40kxswa)
-vmess://eyJhZGQiOiJ2dWsyLjBiYWQuY29tIiwidiI6IjIiLCJwcyI6IlJlbGF5X/Cfh6zwn4enR0It8J+HrPCfh6dHQl8yNTgiLCJwb3J0Ijo0NDMsImlkIjoiOTI3MDk0ZDMtZDY3OC00NzYzLTg1OTEtZTI0MGQwYmNhZTg3IiwiYWlkIjoiMCIsIm5ldCI6IndzIiwidHlwZSI6IiIsImhvc3QiOiJ2dWsyLjBiYWQuY29tIiwicGF0aCI6Ii9jaGF0IiwidGxzIjoidGxzIn0=
-trojan://16549817-fc61-4434-9317-734348b592ec@43.248.116.201:32443#%E9%A6%99%E6%B8%AF-tg%E9%A2%91%E9%81%93%3A%40bpjzx2-23
-trojan://177501cc-f0c2-3cc3-b9a7-8c1e8e27655f@pp1.zhengzhongfeizhu.xyz:32001?allowInsecure=1#CN%2015%20%E2%86%92%20openit.pw
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhHQDM4LjExMS4xMTQuMjQ2OjcwMDE=#🇨🇦CA_01
-trojan://16549817-fc61-4434-9317-734348b592ec@43.248.116.201:32007#%E6%96%B0%E5%8A%A0%E5%9D%A1-tg%E9%A2%91%E9%81%93%3A%40bpjzx2-11
-trojan://16549817-fc61-4434-9317-734348b592ec@43.248.116.201:34009#%E6%B3%95%E5%9B%BD-tg%E9%A2%91%E9%81%93%3A%40bpjzx2-32
-ss://YWVzLTI1Ni1jZmI6VVdaUWVMUldua3Fna3NlcUAyMTcuMzAuMTAuNjc6OTAzMg==#🇷🇺RU_675
-trojan://16549817-fc61-4434-9317-734348b592ec@43.248.116.201:32017#%E5%8D%B0%E5%BA%A6-tg%E9%A2%91%E9%81%93%3A%40bpjzx2-20
-trojan://16549817-fc61-4434-9317-734348b592ec@43.248.116.201:34018#%E4%BF%84%E7%BD%97%E6%96%AF-tg%E9%A2%91%E9%81%93%3A%40bpjzx2-40
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.75.136.34:8090#%e7%be%8e%e5%9b%bd(TG%e9%a2%91%e9%81%93%3a%40kxswa)
-trojan://16549817-fc61-4434-9317-734348b592ec@43.248.116.201:32019#%E4%B9%8C%E5%85%8B%E5%85%B0-tg%E9%A2%91%E9%81%93%3A%40bpjzx2-22
-trojan://16549817-fc61-4434-9317-734348b592ec@43.248.116.201:32012#%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A-tg%E9%A2%91%E9%81%93%3A%40bpjzx2-16
-trojan://16549817-fc61-4434-9317-734348b592ec@43.248.116.201:32001#%E7%BE%8E%E5%9B%BD-tg%E9%A2%91%E9%81%93%3A%40bpjzx2-6
+```trojan://dd8a44f9-7c1d-4286-8f6f-4e4f19cb7998@dg.hootfun.top:32451?allowInsecure=1#US%206%20%E2%86%92%20openit.pw
+trojan://16549817-fc61-4434-9317-734348b592ec@43.248.116.201:34011#%E5%BE%B7%E5%9B%BD-tg%E9%A2%91%E9%81%93%3A%40bpjzx2-34
+vmess://eyJhZGQiOiIxMzkuNTkuMjQ0LjE0MyIsInYiOiIyIiwicHMiOiLwn4e48J+HrFNHXzc2NiIsInBvcnQiOjM4OTQxLCJpZCI6IjNkYzVjMWM5LTdkOGMtNDMyZS1kYWZmLTQ0MjIxMDNhNzkxOCIsImFpZCI6IjAiLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiIiwiaG9zdCI6IiIsInBhdGgiOiIvIiwidGxzIjoiIn0=
+trojan://16549817-fc61-4434-9317-734348b592ec@43.248.116.201:32009#%E6%B3%95%E5%9B%BD-tg%E9%A2%91%E9%81%93%3A%40bpjzx2-13
+trojan://16549817-fc61-4434-9317-734348b592ec@43.248.116.201:34005#%E9%9F%A9%E5%9B%BD-tg%E9%A2%91%E9%81%93%3A%40bpjzx2-28
+trojan://177501cc-f0c2-3cc3-b9a7-8c1e8e27655f@iiiieeepppplll.zhengzhongfeizhu.xyz:34001?allowInsecure=0#CN%2014%20%E2%86%92%20openit.pw
+trojan://16549817-fc61-4434-9317-734348b592ec@43.248.116.201:32016#%E5%B7%B4%E8%A5%BF-tg%E9%A2%91%E9%81%93%3A%40bpjzx2-19
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0NAMzguNjguMTM1LjE4OjU2MDE=#🇺🇸 US_731
+ss://YWVzLTI1Ni1nY206MjY5ZjcxYjktYzQ1Yi00M2YzLThjNDgtZWI1Zjk4NmFhNzA3@linux.nameserversv3.com:9205#🇨🇳CN 7 → openit.pw
+trojan://16549817-fc61-4434-9317-734348b592ec@43.248.116.201:34006#%E6%96%B0%E5%8A%A0%E5%9D%A1-tg%E9%A2%91%E9%81%93%3A%40bpjzx2-29
+trojan://dfbf0d67-f03d-4184-a224-c2d64a571f99@s3.hazz.win:12340?allowInsecure=1#US%207%20%E2%86%92%20openit.pw
+vmess://eyJhZGQiOiAiNTI3aGsxLmZhbnM4Lnh5eiIsICJhaWQiOiAyLCAiaG9zdCI6ICI1MjdoazEuZmFuczgueHl6IiwgImlkIjogIjJjYzEwZjljLWZiMDItM2U0NS1iNjE5LWMzYjk4Y2RlOTEyYSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvcmF5IiwgInBvcnQiOiA0NDMsICJwcyI6ICJ2MmNyb3NzLmNvbSAtIFx1NTJhMFx1NjJmZlx1NTkyNyAgMTMiLCAidGxzIjogInRscyIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIifQ==
 ```
 <h5>本次节点订阅地址：https://shadowshare.v2cross.com/publicserver/servers/temp/fiWAH8mG2wC7BeU1</h5>
 <p>订阅地址二维码</p>
