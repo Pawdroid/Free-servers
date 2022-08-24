@@ -9,20 +9,17 @@
 </blockquote>
 <h4>节点列表：(这里仅展示部分节点，查看全部节点请下载app)</h4>
 
-```trojan://dd8a44f9-7c1d-4286-8f6f-4e4f19cb7998@dg.hootfun.top:32451?allowInsecure=1#US%206%20%E2%86%92%20openit.pw
-trojan://16549817-fc61-4434-9317-734348b592ec@43.248.116.201:34011#%E5%BE%B7%E5%9B%BD-tg%E9%A2%91%E9%81%93%3A%40bpjzx2-34
-vmess://eyJhZGQiOiIxMzkuNTkuMjQ0LjE0MyIsInYiOiIyIiwicHMiOiLwn4e48J+HrFNHXzc2NiIsInBvcnQiOjM4OTQxLCJpZCI6IjNkYzVjMWM5LTdkOGMtNDMyZS1kYWZmLTQ0MjIxMDNhNzkxOCIsImFpZCI6IjAiLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiIiwiaG9zdCI6IiIsInBhdGgiOiIvIiwidGxzIjoiIn0=
-trojan://16549817-fc61-4434-9317-734348b592ec@43.248.116.201:32009#%E6%B3%95%E5%9B%BD-tg%E9%A2%91%E9%81%93%3A%40bpjzx2-13
-trojan://16549817-fc61-4434-9317-734348b592ec@43.248.116.201:34005#%E9%9F%A9%E5%9B%BD-tg%E9%A2%91%E9%81%93%3A%40bpjzx2-28
-trojan://177501cc-f0c2-3cc3-b9a7-8c1e8e27655f@iiiieeepppplll.zhengzhongfeizhu.xyz:34001?allowInsecure=0#CN%2014%20%E2%86%92%20openit.pw
-trojan://16549817-fc61-4434-9317-734348b592ec@43.248.116.201:32016#%E5%B7%B4%E8%A5%BF-tg%E9%A2%91%E9%81%93%3A%40bpjzx2-19
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0NAMzguNjguMTM1LjE4OjU2MDE=#🇺🇸 US_731
-ss://YWVzLTI1Ni1nY206MjY5ZjcxYjktYzQ1Yi00M2YzLThjNDgtZWI1Zjk4NmFhNzA3@linux.nameserversv3.com:9205#🇨🇳CN 7 → openit.pw
-trojan://16549817-fc61-4434-9317-734348b592ec@43.248.116.201:34006#%E6%96%B0%E5%8A%A0%E5%9D%A1-tg%E9%A2%91%E9%81%93%3A%40bpjzx2-29
-trojan://dfbf0d67-f03d-4184-a224-c2d64a571f99@s3.hazz.win:12340?allowInsecure=1#US%207%20%E2%86%92%20openit.pw
-vmess://eyJhZGQiOiAiNTI3aGsxLmZhbnM4Lnh5eiIsICJhaWQiOiAyLCAiaG9zdCI6ICI1MjdoazEuZmFuczgueHl6IiwgImlkIjogIjJjYzEwZjljLWZiMDItM2U0NS1iNjE5LWMzYjk4Y2RlOTEyYSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvcmF5IiwgInBvcnQiOiA0NDMsICJwcyI6ICJ2MmNyb3NzLmNvbSAtIFx1NTJhMFx1NjJmZlx1NTkyNyAgMTMiLCAidGxzIjogInRscyIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIifQ==
+```ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQq@14.29.124.174:11031#%F0%9F%87%AD%F0%9F%87%B0%20%E3%80%90tg%40freevpn8%E3%80%91_%F0%9F%87%A8%F0%9F%87%B3CN-%F0%9F%87%AD%F0%9F%87%B0HK_217
+vmess://eyJhZGQiOiI0LjMuMS5mdWNrcHBwcHAudG9kYXkiLCJ2IjoiMiIsInBzIjoiUmVsYXlf8J+HqPCfh7NDTi3wn4et8J+HsEhLXzExIiwicG9ydCI6NTg0MTgsImlkIjoiMjQ0ZWZmZDktMDIwNC0zYzRhLTg1MzctMGRjYTRlNWZkOWI1IiwiYWlkIjoiMCIsIm5ldCI6InRjcCIsInR5cGUiOiIiLCJob3N0IjoiIiwicGF0aCI6Ii8iLCJ0bHMiOiIifQ==
+trojan://kGrwqmB1nEKUsDwE@v2cross.com.05.v2ce.com:443?security=xtls&encryption=none&type=tcp&flow=xtls-rprx-direct&sni=v2cross.com.05.v2ce.com#v2cross.com
+trojan://fIYU5DCiWZ6uYOou@los1.v2ce.com:443?security=xtls&encryption=none&type=tcp&flow=xtls-rprx-direct&sni=los1.v2ce.com#v2cross.com
+vmess://eyJhZGQiOiAiMTg1LjE2Ny43Ny4xOTUiLCAiYWlkIjogMCwgImhvc3QiOiAiIiwgImlkIjogIjY2MGRiYjAyLTIyOTctNDY2Yi1jN2IyLTFiYjhhNmU2ODBlNSIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiLyIsICJwb3J0IjogMjk2NTAsICJwcyI6ICJ2MmNyb3NzLmNvbSAtIFx1ODJmMVx1NTZmZCAgMjUiLCAidGxzIjogIiIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIifQ==
+trojan://vGWCNNfBHwSY6m6M@v2cross.com.04.v2ce.com:443?security=xtls&encryption=none&type=tcp&flow=xtls-rprx-direct&sni=v2cross.com.04.v2ce.com#v2cross.com
+trojan://mMQ6qJB9xbhiRvgg@v2cross.com.01.v2ce.com:443?security=xtls&encryption=none&type=tcp&flow=xtls-rprx-direct&sni=v2cross.com.01.v2ce.com#v2cross.com
+ss://YWVzLTI1Ni1nY206MjY5ZjcxYjktYzQ1Yi00M2YzLThjNDgtZWI1Zjk4NmFhNzA3QHVpdWcuZXhwaXJhdGlvbnYzLmNvbTo5NDA3#Relay_🇨🇳CN-🇺🇸US_113
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.75.136.34:8090#%e7%be%8e%e5%9b%bd(TG%e9%a2%91%e9%81%93%3a%40kxswa)
 ```
-<h5>本次节点订阅地址：https://shadowshare.v2cross.com/publicserver/servers/temp/fiWAH8mG2wC7BeU1</h5>
+<h5>本次节点订阅地址：https://shadowshare.v2cross.com/publicserver/servers/temp/OdhEt4gvl0FHbjfA</h5>
 <p>订阅地址二维码</p>
 <img src='http://shadowshare.v2cross.com/qrcode.png' width=250 height=250>
 <blockquote style='text-align: center;'>更多节点、免费订阅地址及订阅转换请下载本站提供的共享节点app软件<a href='https://shadowshare.v2cross.com'>ShadowShare</a>导出节点使用，支持iOS、Android下载</blockquote>
