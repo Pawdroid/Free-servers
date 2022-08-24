@@ -9,12 +9,11 @@
 </blockquote>
 <h4>节点列表：(这里仅展示部分节点，查看全部节点请下载app)</h4>
 
-```vmess://eyJhZGQiOiIxNTAuMjMwLjEzMy4xMjkiLCJ2IjoiMiIsInBzIjoi8J+HuvCfh7hVU18yOCIsInBvcnQiOjg4ODgsImlkIjoiOGUyNmU4M2UtY2E0Yy00YTBkLWExODQtMDZmODk5MmU1NWY5IiwiYWlkIjoiMCIsIm5ldCI6InRjcCIsInR5cGUiOiIiLCJob3N0IjoiIiwicGF0aCI6Ii8iLCJ0bHMiOiIifQ==
-trojan://vGWCNNfBHwSY6m6M@v2cross.com.04.v2ce.com:443?security=xtls&encryption=none&type=tcp&flow=xtls-rprx-direct&sni=v2cross.com.04.v2ce.com#v2cross.com
-trojan://16549817-fc61-4434-9317-734348b592ec@43.248.116.201:32019#%E4%B9%8C%E5%85%8B%E5%85%B0-tg%E9%A2%91%E9%81%93%3A%40bpjzx2-22
-vmess://eyJhZGQiOiI0LjMuMS5mdWNrcHBwcHAudG9kYXkiLCJ2IjoiMiIsInBzIjoiUmVsYXlf8J+HqPCfh7NDTi3wn4et8J+HsEhLXzExIiwicG9ydCI6NTg0MTgsImlkIjoiMjQ0ZWZmZDktMDIwNC0zYzRhLTg1MzctMGRjYTRlNWZkOWI1IiwiYWlkIjoiMCIsIm5ldCI6InRjcCIsInR5cGUiOiIiLCJob3N0IjoiIiwicGF0aCI6Ii8iLCJ0bHMiOiIifQ==
-trojan://177501cc-f0c2-3cc3-b9a7-8c1e8e27655f@iiiieeepppplll.zhengzhongfeizhu.xyz:34002?allowInsecure=0#🇨🇳CN 16 → openit.pw
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.68.135.18:8090#v2cross.com%20-%20%E7%BE%8E%E5%9B%BD%E5%8D%8E%E7%9B%9B%E9%A1%BFCogent%E9%80%9A%E4%BF%A1%E5%85%AC%E5%8F%B8%2011
+```vless://d7e810f6-9389-47f4-be4b-438f410f3968@cz1.v2ce.com:443?path=%2FHm4aRbSa&security=tls&encryption=none&type=ws&sni=cz1.v2ce.com#v2cross.com
+trojan://274c1b23-2bfe-40ac-943c-ebc1aa044b22@41.216.177.41:443?allowInsecure=1#NL%201%20%E2%86%92%20openit.pw
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3QDM4Ljc1LjEzNi4zNDo4MDkw#🇺🇸US_16
+trojan://2Q74kEsaZq@209.209.9.149:46539?allowInsecure=1#🇷🇼RW 1 → openit.pw
+trojan://mMQ6qJB9xbhiRvgg@v2cross.com.01.v2ce.com:443?security=xtls&encryption=none&type=tcp&flow=xtls-rprx-direct&sni=v2cross.com.01.v2ce.com#v2cross.com
 ```
 <h5>本次节点订阅地址：https://shadowshare.v2cross.com/publicserver/servers/temp/HLn30cYiuw5RegDx</h5>
 <p>订阅地址二维码</p>
