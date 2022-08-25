@@ -9,31 +9,32 @@
 </blockquote>
 <h4>节点列表：(这里仅展示部分节点，查看全部节点请下载app)</h4>
 
-```trojan://16549817-fc61-4434-9317-734348b592ec@43.248.116.201:32016#%E5%B7%B4%E8%A5%BF-tg%E9%A2%91%E9%81%93%3A%40bpjzx2-19
-ss://YWVzLTI1Ni1nY206MjY5ZjcxYjktYzQ1Yi00M2YzLThjNDgtZWI1Zjk4NmFhNzA3QGxpbnV4Lm5hbWVzZXJ2ZXJzdjMuY29tOjkyMDY=#Relay_🇨🇳 CN-🇦🇺AU_78
-ss://YWVzLTI1Ni1nY206MjY5ZjcxYjktYzQ1Yi00M2YzLThjNDgtZWI1Zjk4NmFhNzA3QGxpbnV4Lm5hbWVzZXJ2ZXJzdjMuY29tOjkyMDM=#Relay_🇨🇳 CN-🇦🇺AU_80
-vmess://eyJhZGQiOiJ1cy1zamMtY3RnLTAyLXYyLm5vZGUuaW5mb3J1bi53b3JrIiwidiI6MiwicHMiOiLnvo7lm70tdGfpopHpgZM6QGJwanp4Mi00IiwicG9ydCI6Ijg4OCIsImlkIjoiZDBhZWM2ZjktYTJkMC00MjM4LTg5M2QtNzM1NzFjNGU5Y2VlIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJob3N0IjoiY2RuLnNhdm95LmNsaWNrIiwidGxzIjoidGxzIiwicGF0aCI6Ii9qZTV4M3BCTjF2ZXozTlF1ZE5rQiJ9
-vmess://eyJhZGQiOiIxMjguMS4xMzQuMTI2IiwidiI6IjIiLCJwcyI6IvCfh63wn4ewSEtfMjg1IiwicG9ydCI6NjY2NiwiaWQiOiI3ZmIzYjU3MS1jZGE4LTQwZjYtYzllNi1kYjk3NjVlYThmYWEiLCJhaWQiOiIwIiwibmV0IjoidGNwIiwidHlwZSI6IiIsImhvc3QiOiIiLCJwYXRoIjoiLyIsInRscyI6IiJ9
-vmess://eyJhZGQiOiAieXl0b2sud3ZzMjIuYnV6eiIsICJ2IjogIjIiLCAicHMiOiAidjJjcm9zcy5jb20gLSBcdTRlMmRcdTU2ZmRcdTk2M2ZcdTkxY2NcdTRlOTEgMjMiLCAicG9ydCI6IDMxODQ4LCAiaWQiOiAiYjg4ZGQ1NjYtNGZiNC00MmQwLWJiNzktN2YwNjYzOGQ0ZDYxIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIvIiwgInRscyI6ICJ0bHMifQ==
-trojan://16549817-fc61-4434-9317-734348b592ec@43.248.116.201:34004#%E6%97%A5%E6%9C%AC-tg%E9%A2%91%E9%81%93%3A%40bpjzx2-27
-vmess://eyJhZGQiOiAiYWNjZXNzLnpvb21pbmZvLmNvbSIsICJhaWQiOiAwLCAiaG9zdCI6ICJzYW5nZ29ybzYubmV4dHZwbi5jYyIsICJpZCI6ICJhNTViN2Q3Ny1kMjUxLTRlMzEtYTc2ZS0yMmQwOWFjNjllYjAiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL3Zwbm5lbyIsICJwb3J0IjogODAsICJwcyI6ICJ2MmNyb3NzLmNvbSAtIFx1N2Y4ZVx1NTZmZFJGIEVuZ2luZWVyaW5nIDE1IiwgInRscyI6ICIiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAic2FuZ2dvcm82Lm5leHR2cG4uY2MifQ==
-vmess://eyJhZGQiOiIxODUuMTY3Ljc4LjE5MyIsInYiOiIyIiwicHMiOiLwn4es8J+Hp0dCXzI3MyIsInBvcnQiOjQ3NjM0LCJpZCI6IjVjZjYzN2MwLTA0ZjItNGFmNC1jMjViLTZlNDY3YzE0ZDQ5NiIsImFpZCI6IjAiLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiIiwiaG9zdCI6IiIsInBhdGgiOiIvIiwidGxzIjoiIn0=
-trojan://16549817-fc61-4434-9317-734348b592ec@43.248.116.201:32006#%E6%96%B0%E5%8A%A0%E5%9D%A1-tg%E9%A2%91%E9%81%93%3A%40bpjzx2-10
-vless://e9c14629-fcd5-4584-bb9e-d1431c20ee00@cf.rutracker-cn.com:443?path=%2F1GDNonF&security=tls&encryption=none&type=ws&sni=cf.rutracker-cn.com#v2cross.com
-vmess://eyJhZGQiOiIxODUuMTY3Ljc3LjE5NSIsInYiOiIyIiwicHMiOiLwn4es8J+Hp0dCXzI3NSIsInBvcnQiOjQ2Mjc5LCJpZCI6IjY2NmM5NDM2LTM2ODAtNDY5NC1kMGQ2LTAyZTE2ZjcyNTg3MSIsImFpZCI6IjAiLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiIiwiaG9zdCI6IllvdVR1YmUtYXdlaWtlamkiLCJwYXRoIjoiL3JvY2tldCIsInRscyI6IiJ9
-vmess://eyJhZGQiOiI0LjMuMS5mdWNrcHBwcHAudG9kYXkiLCJ2IjoiMiIsInBzIjoiUmVsYXlf8J+HqPCfh7NDTi3wn4et8J+HsEhLXzEzNSIsInBvcnQiOjU4NDE4LCJpZCI6IjI0NGVmZmQ5LTAyMDQtM2M0YS04NTM3LTBkY2E0ZTVmZDliNSIsImFpZCI6IjAiLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiIiwiaG9zdCI6IiIsInBhdGgiOiIvIiwidGxzIjoiIn0=
-trojan://16549817-fc61-4434-9317-734348b592ec@43.248.116.201:34016#%E5%B7%B4%E8%A5%BF-tg%E9%A2%91%E9%81%93%3A%40bpjzx2-38
-ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQqQDE0LjI5LjEyNC4xNzQ6MTEwMDU=#🇨🇳 CN_349
-vmess://eyJhZGQiOiJjaGVzcy5tYWdpY2VmaXJlLmNvbSIsInYiOiIyIiwicHMiOiJSZWxheV/wn4e68J+HuFVTLfCfh7rwn4e4VVNfMTQwOCIsInBvcnQiOjQ0MywiaWQiOiI5YWE4MDAxNy0zNDI3LTQxNjUtYTUyMi1mNWY5YTExMzMwZDAiLCJhaWQiOiIwIiwibmV0IjoidGNwIiwidHlwZSI6IiIsImhvc3QiOiIiLCJwYXRoIjoiLyIsInRscyI6InRscyJ9
-trojan://16549817-fc61-4434-9317-734348b592ec@43.248.116.201:34019#%E4%B9%8C%E5%85%8B%E5%85%B0-tg%E9%A2%91%E9%81%93%3A%40bpjzx2-41
-trojan://kGrwqmB1nEKUsDwE@v2cross.com.05.v2ce.com:443?security=xtls&encryption=none&type=tcp&flow=xtls-rprx-direct&sni=v2cross.com.05.v2ce.com#v2cross.com
-trojan://RRy34GGwsPt47SuC@sky998dmit3.xyz:443?allowInsecure=1#🇺🇸US 17 → openit.pw
-trojan://2Q74kEsaZq@209.209.9.149:46539?allowInsecure=1#🇷🇼RW 1 → openit.pw
-trojan://16549817-fc61-4434-9317-734348b592ec@43.248.116.201:34010#%E4%BC%A6%E6%95%A6-tg%E9%A2%91%E9%81%93%3A%40bpjzx2-33
-ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQqQDE0LjI5LjEyNC4xNzQ6MTEwMzM=#Relay_🇨🇳CN-🇭🇰HK_110
+```trojan://16549817-fc61-4434-9317-734348b592ec@43.248.116.201:34019#%E4%B9%8C%E5%85%8B%E5%85%B0-tg%E9%A2%91%E9%81%93%3A%40bpjzx2-41
+vmess://eyJhZGQiOiIxMjguMS4xMzQuMTI2IiwidiI6IjIiLCJwcyI6IvCfh63wn4ewSEtfMjc4IiwicG9ydCI6NjY2NiwiaWQiOiI3ZmIzYjU3MS1jZGE4LTQwZjYtYzllNi1kYjk3NjVlYThmYWEiLCJhaWQiOiIwIiwibmV0IjoidGNwIiwidHlwZSI6IiIsImhvc3QiOiIiLCJwYXRoIjoiLyIsInRscyI6IiJ9
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.75.136.34:8090#v2cross.com%20-%20%E7%BE%8E%E5%9B%BD%E5%8D%8E%E7%9B%9B%E9%A1%BFCogent%E9%80%9A%E4%BF%A1%E5%85%AC%E5%8F%B8%207
+ss://YWVzLTI1Ni1jZmI6cnBnYk5uVTlyRERVNGFXWkAxODUuMTI2LjExNi4xMTk6OTA5NA==#🇷🇴 RO_625
+vmess://eyJhZGQiOiAidjJyYXkxLnVkcGd3LmNvbSIsICJhaWQiOiAwLCAiaG9zdCI6ICJ2MnJheTEudWRwZ3cuY29tIiwgImlkIjogIjA5OTYxZGNjLTg0MTQtNGVmOS1hN2YzLTFmZDIyMzVkYTM5MCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvaG93ZHkiLCAicG9ydCI6IDQ0MywgInBzIjogInYyY3Jvc3MuY29tIC0gXHU2NWIwXHU1MmEwXHU1NzYxTGlub2RlXHU2NTcwXHU2MzZlXHU0ZTJkXHU1ZmMzIDE4IiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIn0=
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3QDM4LjY4LjEzNS4xODo4MDkw#🇺🇸US_905
+trojan://16549817-fc61-4434-9317-734348b592ec@43.248.116.201:34017#%E5%8D%B0%E5%BA%A6-tg%E9%A2%91%E9%81%93%3A%40bpjzx2-39
+trojan://16549817-fc61-4434-9317-734348b592ec@43.248.116.201:32011#%E5%BE%B7%E5%9B%BD-tg%E9%A2%91%E9%81%93%3A%40bpjzx2-15
 trojan://16549817-fc61-4434-9317-734348b592ec@43.248.116.201:34009#%E6%B3%95%E5%9B%BD-tg%E9%A2%91%E9%81%93%3A%40bpjzx2-32
+trojan://eb2f8154-ff58-3b99-b393-28c8eecdbe64@pp1.zhengzhongfeizhu.xyz:32000?allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8%20US%2031
+trojan://16549817-fc61-4434-9317-734348b592ec@43.248.116.201:32006#%E6%96%B0%E5%8A%A0%E5%9D%A1-tg%E9%A2%91%E9%81%93%3A%40bpjzx2-10
+ss://YWVzLTI1Ni1jZmI6NDQxNTkzNDI5NUA1MS4xOTUuMTM2LjIwOTo1MDAwNA==#🇫🇷FR_213
+vmess://eyJhZGQiOiAiMTcyLjY0LjE1OS4zNyIsICJ2IjogMiwgInBzIjogInYyY3Jvc3MuY29tIC0gXHU3ZjhlXHU1NmZkQ2xvdWRGbGFyZVx1ODI4Mlx1NzBiOSA4IiwgInBvcnQiOiAiMjA1MiIsICJpZCI6ICI3MjczNTI5NC1iNzBlLTQ0ODYtYjBhYy1lNTJlMzc4MmJjNTgiLCAiYWlkIjogIjAiLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAienh6ei56eHpkeS5idXp6IiwgInRscyI6ICIiLCAicGF0aCI6ICIvIn0=
+vless://e9c14629-fcd5-4584-bb9e-d1431c20ee00@cf.rutracker-cn.com:443?path=%2F1GDNonF&security=tls&encryption=none&type=ws&sni=cf.rutracker-cn.com#v2cross.com
+trojan://16549817-fc61-4434-9317-734348b592ec@43.248.116.201:32008#%E4%BF%84%E7%BD%97%E6%96%AF-tg%E9%A2%91%E9%81%93%3A%40bpjzx2-12
+trojan://0f88c09d-0fd9-4e34-b3ad-8719e908d5d8@cne.cloudorg.uk:2096?allowInsecure=1#🇺🇸US 7 → openit.pw
+vmess://eyJ2IjogIjIiLCAicHMiOiAidjJjcm9zcy5jb20gLSBcdTdmOGVcdTU2ZmRcdTUyYTBcdTVkZGUgMTQiLCAiYWRkIjogInd3dy54eXhkYnAueHl6IiwgInBvcnQiOiAiMzQxMzYiLCAidHlwZSI6ICJub25lIiwgImlkIjogIjUyZTlmZmM5LTA4MzEtNGM5ZC1lOGVjLWU0MzEyY2FhZDRjNiIsICJhaWQiOiAiMCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiLyIsICJob3N0IjogInd3dy54eXhkYnAueHl6IiwgInRscyI6ICJ0bHMifQ==
+ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQqQDE0LjI5LjEyNC4xNzQ6MTEwMzM=#Relay_🇨🇳CN-🇭🇰HK_113
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.75.136.34:8091#%e7%be%8e%e5%9b%bd(TG%e9%a2%91%e9%81%93%3a%40kxswa)
+ss://YWVzLTI1Ni1jZmI6d2pUdWdYM1p0SE1COWMzWkAyMTMuMTgzLjUzLjE5ODo5MDU3#🇱🇹 LT_365
+ss://YWVzLTI1Ni1jZmI6OVh3WXlac0s4U056UUR0WUAyMTMuMTgzLjUzLjE5ODo5MDU5#🇱🇹 LT_368
+ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQqQDE0LjI5LjEyNC4xNjg6MjQwMDg=#
+trojan://16549817-fc61-4434-9317-734348b592ec@43.248.116.201:34008#%E4%BF%84%E7%BD%97%E6%96%AF-tg%E9%A2%91%E9%81%93%3A%40bpjzx2-31
+trojan://16549817-fc61-4434-9317-734348b592ec@43.248.116.201:34011#%E5%BE%B7%E5%9B%BD-tg%E9%A2%91%E9%81%93%3A%40bpjzx2-34
 ```
-<h5>本次节点订阅地址：https://shadowshare.v2cross.com/publicserver/servers/temp/x7uL9A8tOrN5IEZJ</h5>
+<h5>本次节点订阅地址：https://shadowshare.v2cross.com/publicserver/servers/temp/dpy9i46IucfEPsXQ</h5>
 <p>订阅地址二维码</p>
 <img src='http://shadowshare.v2cross.com/qrcode.png' width=250 height=250>
 <blockquote style='text-align: center;'>更多节点、免费订阅地址及订阅转换请下载本站提供的共享节点app软件<a href='https://shadowshare.v2cross.com'>ShadowShare</a>导出节点使用，支持iOS、Android下载</blockquote>
