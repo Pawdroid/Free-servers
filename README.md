@@ -9,18 +9,21 @@
 </blockquote>
 <h4>节点列表：(这里仅展示部分节点，查看全部节点请下载app)</h4>
 
-```ss://YWVzLTI1Ni1nY206MjY5ZjcxYjktYzQ1Yi00M2YzLThjNDgtZWI1Zjk4NmFhNzA3@uiug.expirationv3.com:9405#v2cross.com%20-%20%E5%B9%BF%E4%B8%9C%E7%9C%81%E6%B7%B1%E5%9C%B3%E5%B8%82%E7%A7%BB%E5%8A%A8%2031
-vmess://eyJhZGQiOiJ1cy1zamMtY3RnLTAyLXYyLm5vZGUuaW5mb3J1bi53b3JrIiwidiI6IjIiLCJwcyI6IlJlbGF5X/Cfj4EgWlot8J+PgVpaXzE0MjciLCJwb3J0Ijo4ODgsImlkIjoiZDBhZWM2ZjktYTJkMC00MjM4LTg5M2QtNzM1NzFjNGU5Y2VlIiwiYWlkIjoiMCIsIm5ldCI6IndzIiwidHlwZSI6IiIsImhvc3QiOiJjZG4uc2F2b3kuY2xpY2siLCJwYXRoIjoiL2plNXgzcEJOMXZlejNOUXVkTmtCIiwidGxzIjoidGxzIn0=
-trojan://fIYU5DCiWZ6uYOou@los1.v2ce.com:443?security=xtls&encryption=none&type=tcp&flow=xtls-rprx-direct&sni=los1.v2ce.com#v2cross.com
-trojan://0f88c09d-0fd9-4e34-b3ad-8719e908d5d8@cne.cloudorg.uk:2096#v2cross.com%20-%20%E7%BE%8E%E5%9B%BD%E5%8A%A0%E5%88%A9%E7%A6%8F%E5%B0%BC%E4%BA%9A%E5%B7%9E%E6%B4%9B%E6%9D%89%E7%9F%B6MULTACOM%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83%2019
-trojan://ukMzuFSmIXDvgW0h@cd.rutracker-cn.com:443?security=xtls&encryption=none&type=tcp&flow=xtls-rprx-direct&sni=cd.rutracker-cn.com#v2cross.com
-vmess://eyJhZGQiOiIxNDEuMTkzLjIxMy4yMSIsInYiOiIyIiwicHMiOiLwn4e68J+HuFVTXzM5IiwicG9ydCI6ODAsImlkIjoiYTU1YjdkNzctZDI1MS00ZTMxLWE3NmUtMjJkMDlhYzY5ZWIwIiwiYWlkIjoiMCIsIm5ldCI6IndzIiwidHlwZSI6IiIsImhvc3QiOiJzYW5nZ29ybzYubmV4dHZwbi5jYyIsInBhdGgiOiIvdnBubmVvIiwidGxzIjoiIn0=
-trojan://c9a3a61d-5d49-4158-9e60-6fa32684b122@cm.spacez.cloud:30003?allowInsecure=1#%E4%B8%AD%E8%BD%AC
-ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQqQDE0LjI5LjEyNC4xNzQ6MTEwMTI=#🇨🇳 CN_13 v2cross.com
-ss://YWVzLTI1Ni1jZmI6SFNadXlKUWNXZThkeE5kRkAxODUuMTI2LjExNi4xMjM6OTA0Mw==#🇷🇴 RO_615
-ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQqQDE0LjI5LjEyNC4xNjg6MjQwMDU=#🇨🇳 CN_02 v2cross.com
+```vmess://eyJhZGQiOiIyMy45MS4xMDAuMjQzIiwidiI6IjIiLCJwcyI6IvCfh63wn4ewSEtfMjI1IiwicG9ydCI6MzA4NjIsImlkIjoiM2IwZjQ0ZTQtZGQxMS00MjlkLWM4MGYtNjE1YjEwNTk1ZGI5IiwiYWlkIjoiMCIsIm5ldCI6InRjcCIsInR5cGUiOiIiLCJob3N0IjoiIiwicGF0aCI6Ii8iLCJ0bHMiOiIifQ==
+trojan://mMQ6qJB9xbhiRvgg@v2cross.com.01.v2ce.com:443?security=xtls&encryption=none&type=tcp&flow=xtls-rprx-direct&sni=v2cross.com.01.v2ce.com#v2cross.com
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0NAMzguNjguMTM1LjE4OjU2MDE=#🇺🇸US_846
+trojan://7688df6f-bf65-3368-b55e-d78efea6a582@pp1.zhengzhongfeizhu.xyz:32001?allowInsecure=1#🇨🇳CN 17 → openit.pw
+vmess://eyJhZGQiOiAiMTQ3LjEzOS43LjcxIiwgImFpZCI6IDAsICJob3N0IjogIjE0Ny4xMzkuNy43MSIsICJpZCI6ICIwOGQ2NzI5ZC04MzBlLTQzNDEtZGY3Ni02MmQzZDEyZTc1ZTgiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLyIsICJwb3J0IjogODg4LCAicHMiOiAidjJjcm9zcy5jb20gLSBcdTUzNzBcdTVlYTZcdTViNWZcdTRlNzBcdTk2M2ZcdTkxY2NcdTRlOTEgMzUiLCAidGxzIjogIiIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIifQ==
+vless://d7e810f6-9389-47f4-be4b-438f410f3968@cz1.v2ce.com:443?path=%2FHm4aRbSa&security=tls&encryption=none&type=ws&sni=cz1.v2ce.com#v2cross.com
+vmess://eyJhZGQiOiIxMjguMS4xMzQuMTI2IiwidiI6IjIiLCJwcyI6IvCfh63wn4ewSEtfMjI0IiwicG9ydCI6NjY2NiwiaWQiOiI3ZmIzYjU3MS1jZGE4LTQwZjYtYzllNi1kYjk3NjVlYThmYWEiLCJhaWQiOiIwIiwibmV0IjoidGNwIiwidHlwZSI6IiIsImhvc3QiOiIiLCJwYXRoIjoiLyIsInRscyI6IiJ9
+trojan://zFyLKH62WN@www.sxsy88.tk:44150?allowInsecure=1#🇺🇸US 23 → openit.pw
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HqPCfh7NDTiAxOSDihpIgb3Blbml0LnB3IiwiYWRkIjoiaW4tc2ctMS5vbmVib3g2Lm9yZyIsInBvcnQiOiIzODcwMSIsInR5cGUiOiJub25lIiwiaWQiOiI3OTM4NjY4NS0xNmRhLTMyN2MtOWUxNC1hYTZkNzAyZDg2YmMiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL2hscy9jY3R2NXBoZC5tM3U4IiwiaG9zdCI6Ind3dy5pdnBucHJvLm5ldCIsInRscyI6IiJ9
+trojan://e9ea8749-b54c-47d9-8274-c26253332149@tw821.tfzhc.top:443#v2cross.com%20-%20%E5%8A%A0%E6%8B%BF%E5%A4%A7%20%2029
+vmess://eyJhZGQiOiIxNzIuNjcuMTk5LjM0IiwidiI6IjIiLCJwcyI6IlJlbGF5X/Cfh7rwn4e4VVMt8J+HrvCfh6lJRF8zNSIsInBvcnQiOjgwLCJpZCI6ImY2NWE2MmJjLWVhOTMtNDgxNC05YjA4LWEwN2ZkOThlZGM2MCIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJob3N0IjoiaW5maW55czMubmV4dHZwbi5jYyIsInBhdGgiOiIvdnBubmVvIiwidGxzIjoiIn0=
+vmess://eyJ2IjogIjIiLCAicHMiOiAidjJjcm9zcy5jb20gLSBcdTVlN2ZcdTRlMWNcdTc3MDFcdTRmNWJcdTVjNzFcdTVlMDJcdTc5ZmJcdTUyYTggNSIsICJhZGQiOiAiaW4tdXMtMS5vbmVib3g2Lm9yZyIsICJwb3J0IjogIjM4NDAxIiwgInR5cGUiOiAibm9uZSIsICJpZCI6ICI3OTM4NjY4NS0xNmRhLTMyN2MtOWUxNC1hYTZkNzAyZDg2YmMiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL2hscy9jY3R2NXBoZC5tM3U4IiwgImhvc3QiOiAiJTdCJTIySG9zdCUyMjolMjJpbi11cy0xLm9uZWJveDYub3JnJTIyJTdEIiwgInRscyI6ICIifQ==
+vless://72972da9-d188-40c6-83a6-4ec28fde2c0a@cg.rutracker-cn.com:443?path=%2FxxPb49hL0C&security=tls&encryption=none&type=ws&sni=cg.rutracker-cn.com#v2cross.com
 ```
-<h5>本次节点订阅地址：https://shadowshare.v2cross.com/publicserver/servers/temp/OXq5Apg0lhuNDCFc</h5>
+<h5>本次节点订阅地址：https://shadowshare.v2cross.com/publicserver/servers/temp/oFfU76TbiJjy2leP</h5>
 <p>订阅地址二维码</p>
 <img src='http://shadowshare.v2cross.com/qrcode.png' width=250 height=250>
 <blockquote style='text-align: center;'>更多节点、免费订阅地址及订阅转换请下载本站提供的共享节点app软件<a href='https://shadowshare.v2cross.com'>ShadowShare</a>导出节点使用，支持iOS、Android下载</blockquote>
