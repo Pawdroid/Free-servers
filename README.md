@@ -9,12 +9,25 @@
 </blockquote>
 <h4>节点列表：(这里仅展示部分节点，查看全部节点请下载app)</h4>
 
-```trojan://3gLlCYBipVwr6Y5F@v2cross.com.02.v2ce.com:443?security=xtls&encryption=none&type=tcp&flow=xtls-rprx-direct&sni=v2cross.com.02.v2ce.com#v2cross.com
-trojan://fIYU5DCiWZ6uYOou@los1.v2ce.com:443?security=xtls&encryption=none&type=tcp&flow=xtls-rprx-direct&sni=los1.v2ce.com#v2cross.com
-trojan://1Qfea1eL3zCALPJm@los2-cn2.v2ce.com:443?security=xtls&encryption=none&type=tcp&flow=xtls-rprx-direct&sni=los2-cn2.v2ce.com#v2cross.com
-trojan://046c4ca7-9c88-4ad5-92e8-591723b52b25@hly.755657.xyz:443?allowInsecure=1&sni=hly.755657.xyz#%e5%8a%a0%e6%8b%bf%e5%a4%a7(TG%e9%a2%91%e9%81%93%3a%40kxswa)
-trojan://80bcf4f2-12f7-11ed-bb74-f23c9164ca5d@tw.tcpbbr.net:443#v2cross.com%20-%20%E5%8F%B0%E6%B9%BE%E7%9C%81%E6%96%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E5%8D%8E%E7%94%B5%E4%BF%A1%201
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIui2iuWNlyhUR+mikemBkzpAa3hzd2EpIiwNCiAgImFkZCI6ICJoY20tMS40Zy5ta3ZuLm5ldCIsDQogICJwb3J0IjogIjgwIiwNCiAgImlkIjogIjk1MmU5N2QyLTE3ZWYtNGU0Mi1iOGFhLWM5Zjg5MmNhNGVlZCIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiZGwua2d2bi5nYXJlbmFub3cuY29tIiwNCiAgInBhdGgiOiAiLzRnLm1rdm4ubmV0IiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiINCn0=
+```ss://YWVzLTI1Ni1jZmI6cnBnYk5uVTlyRERVNGFXWkAxMDMuMTcyLjExNi4xMDo5MDk0#🏁ZZ_1399
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklkQDE0Mi4yMDIuNDguNTI6NTAwNA==#🇺🇸US_1211
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0NAMTY5LjE5Ny4xNDIuMTg3OjU2MDE=#🏁ZZ_1477
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklkQDE0Mi4yMDIuNDguNTI6NTAwMw==#🇺🇸US_1064
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW9AMjE3LjE5Ny4xNjEuMTM2OjgwNQ==#Pool_🇸🇬SG_717
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9TQDM4LjExNC4xMTQuNjk6NjY3OQ==#🇺🇸US_887
+ss://YWVzLTI1Ni1jZmI6ZE1MMnNmaGJWd3Z0Zk5QZUAyMTMuMTgzLjUzLjE4Mjo5MDU4#🇱🇹LT_365
+ss://YWVzLTI1Ni1jZmI6ck5CZk51dUFORkNBazdLQkAxODUuMTY3LjExNi4yNTM6OTA1Ng==#🇦🇺AU_18
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybUAzOC43NS4xMzYuMzQ6NTUwMA==#🇺🇸 US_762
+ss://YWVzLTI1Ni1jZmI6ZjYzZ2c4RXJ1RG5Vcm16NEAxODUuMTI2LjExNi4xMjM6OTAxMA==#🇷🇴 RO_597
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIuW3tOilvyhUR+mikemBkzpAa3hzd2EpIiwNCiAgImFkZCI6ICJicmFzaWwuamNuZi5hcHAiLA0KICAicG9ydCI6ICI0NDMiLA0KICAiaWQiOiAiYzc1M2U4YTgtZTE4MC00ZTc2LWE0ODYtYzkxNzI3M2Q3MThiIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJicmFzaWwuamNuZi5hcHAiLA0KICAicGF0aCI6ICIvemNqZCIsDQogICJ0bHMiOiAidGxzIiwNCiAgInNuaSI6ICIiDQp9
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIuS4reWbvShUR+mikemBkzpAa3hzd2EpIiwNCiAgImFkZCI6ICJ6ZHV3Zy0xMDQ3LXYyLTEuaGtnLXIta2NkLWIuamQuY2poaC5sb2wiLA0KICAicG9ydCI6ICIzOTkxOCIsDQogICJpZCI6ICJmYmMyZWZiMC03ODZhLTQwNzQtODFlYS04YWIxMmNhNTQyMmMiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogImNkbi5jamhoLmxvbCIsDQogICJwYXRoIjogIi9qZTV4M3BCTjF2ZXozTlF1ZE5rQiIsDQogICJ0bHMiOiAidGxzIiwNCiAgInNuaSI6ICIiDQp9
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklkQDE2Ny44OC42My44Mjo1MDA0#🇺🇸US_1117
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIuS4reWbvShUR+mikemBkzpAa3hzd2EpIiwNCiAgImFkZCI6ICJha2F6ei0xMDQ4LXYyLTIudHlvLXIta2NkLWEubmQuY2poaC5tb20iLA0KICAicG9ydCI6ICIzOTkyOCIsDQogICJpZCI6ICJmYmMyZWZiMC03ODZhLTQwNzQtODFlYS04YWIxMmNhNTQyMmMiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogImVkZ2UuY2poaC5tb20iLA0KICAicGF0aCI6ICIvamU1eDNwQk4xdmV6M05RdWROa0IiLA0KICAidGxzIjogInRscyIsDQogICJzbmkiOiAiIg0KfQ==
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybUAzOC4xMTQuMTE0LjY5OjgwODA=#🇺🇸US_881
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0QDEzNC4xOTUuMTk2LjE0OTo4ODgx#🏁ZZ_1463
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3QDM4LjE0My42Ni41NTo4MDkx#🇺🇸US_822
+trojan://3gLlCYBipVwr6Y5F@v2cross.com.02.v2ce.com:443?security=xtls&encryption=none&type=tcp&flow=xtls-rprx-direct&sni=v2cross.com.02.v2ce.com#v2cross.com
+trojan://4V4kxVXmcg5Yn2DqF2@ty1-3.nigirocloud.com:443?allowInsecure=1#unknown 4 → openitsub.com
 ```
 <h5>本次节点订阅地址：https://shadowshare.v2cross.com/publicserver/servers/temp/7Zv68BdpawmLUCzP</h5>
 <p>订阅地址二维码</p>
