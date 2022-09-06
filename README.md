@@ -9,16 +9,17 @@
 </blockquote>
 <h4>节点列表：(这里仅展示部分节点，查看全部节点请下载app)</h4>
 
-```vmess://eyJ2IjogIjIiLCAicHMiOiAidjJjcm9zcy5jb20gLSBcdTUzMTdcdTdmOGVcdTU3MzBcdTUzM2EgIDgiLCAiYWRkIjogIjEwNy4xNzMuMjUwLjk0IiwgInBvcnQiOiAiNDY1NDciLCAidHlwZSI6ICJub25lIiwgImlkIjogIjAzZDg4ODA5LWNlZGQtNDFjZS1lMTA3LTdiMWMwYmYzNjQyMCIsICJhaWQiOiAiMCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiL3dzIiwgImhvc3QiOiAidXNhLWRhbGxhcy5sdnVmdC5jb20iLCAidGxzIjogIiJ9
-trojan://4V4kxVXmcg5Yn2DqF2@ty1-3.nigirocloud.com:443?allowInsecure=1&sni=ty1-3.nigirocloud.com#%e5%be%b7%e5%9b%bd(TG%e9%a2%91%e9%81%93%3a%40kxswa)
-trojan://mMQ6qJB9xbhiRvgg@v2cross.com.01.v2ce.com:443?security=xtls&encryption=none&type=tcp&flow=xtls-rprx-direct&sni=v2cross.com.01.v2ce.com#v2cross.com
-vless://e9c14629-fcd5-4584-bb9e-d1431c20ee00@cf.rutracker-cn.com:443?path=%2F1GDNonF&security=tls&encryption=none&type=ws&sni=cf.rutracker-cn.com#v2cross.com
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0NAMTY5LjE5Ny4xNDEuNTozMzA2#🏁ZZ_1400
-vmess://eyJhZGQiOiAibmwudjItcmF5LmNvbSIsICJhaWQiOiAwLCAiaG9zdCI6ICIiLCAiaWQiOiAiYmI5N2VlMGEtNmQ1Ny00MGMwLWE0NDYtNDViNzhjMzAzNjAzIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9mYXN0c3NoL2hrZ3pzMDEvNjMxNWQ0MDc2NTdmNi8iLCAicG9ydCI6IDgwLCAicHMiOiAidjJjcm9zcy5jb20gLSBcdTgzNzdcdTUxNzBcdTU0YzhcdTUyZDJcdTU5YzZPbmxpbmUgUy5BLlMgMTgiLCAidGxzIjogIiIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIifQ==
-ss://YWVzLTI1Ni1jZmI6Z1lDWVhma1VRRXMyVGFKUUAxODUuMTI2LjExNi4xMjM6OTAzOA==#🇷🇴 RO_613
-ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQqQDE0LjI5LjEyNC4xNjg6MjQwMDU=#🇨🇳 CN_27 v2cross.com
+```ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQqQDE0LjI5LjEyNC4xNzQ6MTEwMzM=#🇨🇳 CN_38 v2cross.com
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0NAMzguMTQzLjY2Ljk5OjUwMDE=#🇺🇸US_842
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0NAMTM0LjE5NS4xOTYuODU6NTAwMQ==#🏁ZZ_1449
+trojan://kGrwqmB1nEKUsDwE@v2cross.com.05.v2ce.com:443?security=xtls&encryption=none&type=tcp&flow=xtls-rprx-direct&sni=v2cross.com.05.v2ce.com#v2cross.com
+trojan://3gLlCYBipVwr6Y5F@v2cross.com.02.v2ce.com:443?security=xtls&encryption=none&type=tcp&flow=xtls-rprx-direct&sni=v2cross.com.02.v2ce.com#v2cross.com
+vmess://eyJhZGQiOiAia3Znd3YtMTAzNy12Mi0xLmhrZy1kLWNtaS5qZC5jamhoLmxvbCIsICJhaWQiOiAwLCAiaG9zdCI6ICJub2RlLmluZm9ydW4ud29yayIsICJpZCI6ICJmYmMyZWZiMC03ODZhLTQwNzQtODFlYS04YWIxMmNhNTQyMmMiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL2plNXgzcEJOMXZlejNOUXVkTmtCIiwgInBvcnQiOiA4ODgsICJwcyI6ICJ2MmNyb3NzLmNvbSAtIFx1NGU5YVx1NTkyYVx1NTczMFx1NTMzYSAgMjgiLCAidGxzIjogInRscyIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIifQ==
+trojan://ukMzuFSmIXDvgW0h@cd.rutracker-cn.com:443?security=xtls&encryption=none&type=tcp&flow=xtls-rprx-direct&sni=cd.rutracker-cn.com#v2cross.com
+trojan://iyinglong@15.237.116.79:443?allowInsecure=1#FR%201%20%E2%86%92%20openitsub.com
+trojan://4V4kxVXmcg5Yn2DqF2@ty1-3.nigirocloud.com:443?allowInsecure=1#unknown 1 → openitsub.com
 ```
-<h5>本次节点订阅地址：https://shadowshare.v2cross.com/publicserver/servers/temp/S8Ul79arwFVL6DA5</h5>
+<h5>本次节点订阅地址：https://shadowshare.v2cross.com/publicserver/servers/temp/Hi319NzBUT6pDKAf</h5>
 <p>订阅地址二维码</p>
 <img src='http://shadowshare.v2cross.com/qrcode.png' width=250 height=250>
 <blockquote style='text-align: center;'>更多节点、免费订阅地址及订阅转换请下载本站提供的共享节点app软件<a href='https://shadowshare.v2cross.com'>ShadowShare</a>导出节点使用，支持iOS、Android下载</blockquote>
