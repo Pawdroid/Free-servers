@@ -9,11 +9,14 @@
 </blockquote>
 <h4>节点列表：(这里仅展示部分节点，查看全部节点请下载app)</h4>
 
-```vmess://eyJhZGQiOiJoYW5vaTA1LnZpZmFzdC5uZXQiLCJ2IjoyLCJwcyI6Iui2iuWNly10Z+mikemBkzpAYnBqengyLTIwIiwicG9ydCI6IjgwIiwiaWQiOiI0YzJkM2YwMC04ZjliLTQ5YzItYTQzYi0xMGYwMjJiMmZkZTUiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6IiIsImhvc3QiOiJkbC5rZ3ZuLmdhcmVuYW5vdy5jb20iLCJ0bHMiOiIiLCJwYXRoIjoiLyJ9
-vmess://eyJ2IjogIjIiLCAicHMiOiAidjJjcm9zcy5jb20gLSBcdTdmOGVcdTU2ZmRDbG91ZEZsYXJlXHU4MjgyXHU3MGI5IDIzIiwgImFkZCI6ICIxNzIuNjcuMTY3LjEwMCIsICJwb3J0IjogIjQ0MyIsICJ0eXBlIjogIm5vbmUiLCAiaWQiOiAiZjVlNzRlNjYtMDI0MS00NDdjLTgzYTQtYTQwMDVmNDM4NTM2IiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9yYXkiLCAiaG9zdCI6ICJtNC52MnJheWZyZWUxLnh5eiIsICJ0bHMiOiAidGxzIn0=
-trojan://b3845d95-c82e-47f8-b626-0f27d861e8f7@los.ydnode.us:443?allowInsecure=1#🇺🇸US 6 → openitsub.com
+```trojan://3gLlCYBipVwr6Y5F@v2cross.com.02.v2ce.com:443?security=xtls&encryption=none&type=tcp&flow=xtls-rprx-direct&sni=v2cross.com.02.v2ce.com#v2cross.com
+trojan://fIYU5DCiWZ6uYOou@los1.v2ce.com:443?security=xtls&encryption=none&type=tcp&flow=xtls-rprx-direct&sni=los1.v2ce.com#v2cross.com
+trojan://1Qfea1eL3zCALPJm@los2-cn2.v2ce.com:443?security=xtls&encryption=none&type=tcp&flow=xtls-rprx-direct&sni=los2-cn2.v2ce.com#v2cross.com
+trojan://046c4ca7-9c88-4ad5-92e8-591723b52b25@hly.755657.xyz:443?allowInsecure=1&sni=hly.755657.xyz#%e5%8a%a0%e6%8b%bf%e5%a4%a7(TG%e9%a2%91%e9%81%93%3a%40kxswa)
+trojan://80bcf4f2-12f7-11ed-bb74-f23c9164ca5d@tw.tcpbbr.net:443#v2cross.com%20-%20%E5%8F%B0%E6%B9%BE%E7%9C%81%E6%96%B0%E5%8C%97%E5%B8%82%E4%B8%AD%E5%8D%8E%E7%94%B5%E4%BF%A1%201
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIui2iuWNlyhUR+mikemBkzpAa3hzd2EpIiwNCiAgImFkZCI6ICJoY20tMS40Zy5ta3ZuLm5ldCIsDQogICJwb3J0IjogIjgwIiwNCiAgImlkIjogIjk1MmU5N2QyLTE3ZWYtNGU0Mi1iOGFhLWM5Zjg5MmNhNGVlZCIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiZGwua2d2bi5nYXJlbmFub3cuY29tIiwNCiAgInBhdGgiOiAiLzRnLm1rdm4ubmV0IiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiINCn0=
 ```
-<h5>本次节点订阅地址：https://shadowshare.v2cross.com/publicserver/servers/temp/mzPMKuAY3ntj6rNS</h5>
+<h5>本次节点订阅地址：https://shadowshare.v2cross.com/publicserver/servers/temp/7Zv68BdpawmLUCzP</h5>
 <p>订阅地址二维码</p>
 <img src='http://shadowshare.v2cross.com/qrcode.png' width=250 height=250>
 <blockquote style='text-align: center;'>更多节点、免费订阅地址及订阅转换请下载本站提供的共享节点app软件<a href='https://shadowshare.v2cross.com'>ShadowShare</a>导出节点使用，支持iOS、Android下载</blockquote>
