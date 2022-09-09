@@ -9,20 +9,24 @@
 </blockquote>
 <h4>节点列表：(这里仅展示部分节点，查看全部节点请下载app)</h4>
 
-```trojan://iyinglong@54.165.2.244:443#%E7%BE%8E%E5%9B%BD-tg%E9%A2%91%E9%81%93%3A%40bpjzx2-9
-trojan://d5aea4b7-2f9c-4650-ad76-cd16072ed349@730tw01.ok365.cyou:443?allowInsecure=1&sni=730tw01.ok365.cyou#%f0%9f%87%b8%f0%9f%87%ac%e6%96%b0%e5%8a%a0%e5%9d%a1(TG%e9%a2%91%e9%81%93%3a%40kxswa)
-trojan://a1e12464-9208-4583-bd21-ab6889fdd242@139.177.189.122:443?allowInsecure=1&sni=cdn.qchwnd.moe#US%2020%20%E2%86%92%20openitsub.com
-ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQqQDE0LjI5LjEyNC4xNzQ6MTEwMDI=#🇨🇳 CN_22 v2cross.com
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkBTU1JTVUItVjA3LeS7mOi0ueaOqOiNkDp2MmNyb3NzLmNvbSIsDQogICJhZGQiOiAiMTM5LjU5LjI0NC4xNDMiLA0KICAicG9ydCI6ICIzODk0MSIsDQogICJpZCI6ICIzZGM1YzFjOS03ZDhjLTQzMmUtZGFmZi00NDIyMTAzYTc5MTgiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogInRjcCIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIxMzkuNTkuMjQ0LjE0MyIsDQogICJwYXRoIjogIi8iLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIiwNCiAgImFscG4iOiAiIg0KfQ==
-vmess://eyJhZGQiOiAiaGFub2kwNS52aWZhc3QubmV0IiwgImFpZCI6ICIwIiwgImhvc3QiOiAiZGwua2d2bi5nYXJlbmFub3cuY29tIiwgImlkIjogIjRjMmQzZjAwLThmOWItNDljMi1hNDNiLTEwZjAyMmIyZmRlNSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgInBvcnQiOiAiODAiLCAicHMiOiAidjJjcm9zcy5jb20gLSBcdThkOGFcdTUzNTcgIDE1IiwgInNlY3VyaXR5IjogImF1dG8iLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidXJsX2dyb3VwIjogInQubWUvcmlwYW9qaWVkaWFuIiwgInYiOiAiMiJ9
-vmess://eyJhZGQiOiIxMjkuMTQ2Ljg0LjI1MyIsInYiOiIyIiwicHMiOiLwn4e68J+HuCBVU183ODQiLCJwb3J0IjoyNjg3NSwiaWQiOiJiYjI0MGNiMC1hNmQyLTRiOGUtZWU4NS1hOTc2ZTQ4YWMyNDEiLCJhaWQiOiIwIiwibmV0IjoidGNwIiwidHlwZSI6IiIsImhvc3QiOiIiLCJwYXRoIjoiLyIsInRscyI6IiJ9
-trojan://ukMzuFSmIXDvgW0h@cd.rutracker-cn.com:443?security=xtls&encryption=none&type=tcp&flow=xtls-rprx-direct&sni=cd.rutracker-cn.com#v2cross.com
-ss://YWVzLTI1Ni1nY206OGEyOWVjNjYtNjA1Zi00NGU5LWE4NGUtZTdlMDc4OGZjZGVh@36.134.54.59:15242#%f0%9f%87%a8%f0%9f%87%b3%e4%b8%ad%e5%9b%bd(TG%e9%a2%91%e9%81%93%3a%40kxswa)
-vmess://eyJhZGQiOiIxNDYuNTYuMTU1LjcwIiwidiI6IjIiLCJwcyI6IvCfh6/wn4e1SlBfMTEiLCJwb3J0IjoxODA1MCwiaWQiOiJmOTc3MWMxOS1jOTFjLTQxYjUtOTA2NC04NzY4YjUxY2VjNmQiLCJhaWQiOiIwIiwibmV0IjoidGNwIiwidHlwZSI6IiIsImhvc3QiOiIiLCJwYXRoIjoiLyIsInRscyI6IiJ9
-trojan://iyinglong@34.219.183.33:443?allowInsecure=1#US%2027%20%E2%86%92%20openitsub.com
-vmess://eyJhZGQiOiJtcGRlZS0xMDQyLXYyLTAudHlvLWQta2NkLmFwLmNqaGguYmVhdXR5IiwidiI6IjIiLCJwcyI6IlJlbGF5X/Cfj4FaWi3wn4+BWlpfMTgiLCJwb3J0Ijo4ODgsImlkIjoiZmJjMmVmYjAtNzg2YS00MDc0LTgxZWEtOGFiMTJjYTU0MjJjIiwiYWlkIjoiMCIsIm5ldCI6IndzIiwidHlwZSI6IiIsImhvc3QiOiJzMy5jamhoLmJlYXV0eSIsInBhdGgiOiIvamU1eDNwQk4xdmV6M05RdWROa0IiLCJ0bHMiOiJ0bHMifQ==
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkBTU1JTVUItVjAzLeS7mOi0ueaOqOiNkDp2MmNyb3NzLmNvbSIsDQogICJhZGQiOiAiaW4tdXMtMS5vbmVib3g2Lm9yZyIsDQogICJwb3J0IjogIjM4NDAxIiwNCiAgImlkIjogIjc5Mzg2Njg1LTE2ZGEtMzI3Yy05ZTE0LWFhNmQ3MDJkODZiYyIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiJTdCJTIySG9zdCUyMjolMjJpbi11cy0xLm9uZWJveDYub3JnJTIyJTdEIiwNCiAgInBhdGgiOiAiL2hscy9jY3R2NXBoZC5tM3U4IiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiIsDQogICJhbHBuIjogIiINCn0=
-trojan://3gLlCYBipVwr6Y5F@v2cross.com.02.v2ce.com:443?security=xtls&encryption=none&type=tcp&flow=xtls-rprx-direct&sni=v2cross.com.02.v2ce.com#v2cross.com
+```ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQqQDE0LjI5LjEyNC4xNzQ6MTEwMjA=#🇨🇳 CN_55 v2cross.com
+trojan://1Qfea1eL3zCALPJm@los2-cn2.v2ce.com:443?security=xtls&encryption=none&type=tcp&flow=xtls-rprx-direct&sni=los2-cn2.v2ce.com#v2cross.com
+trojan://11b8206c-8ae2-4ab3-a92c-208cdb8cc73d@ex.755657.xyz:443?allowInsecure=1&sni=ex.755657.xyz#%f0%9f%87%ba%f0%9f%87%b8%e7%be%8e%e5%9b%bd(TG%e9%a2%91%e9%81%93%3a%40kxswa)
+ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQqQDE0LjI5LjEyNC4xNzQ6MTEwMDc=#🇨🇳 CN_48 v2cross.com
+ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQqQDE0LjI5LjEyNC4xNzQ6MTEwNDY=#🇨🇳 CN_64 v2cross.com
+ss://YWVzLTI1Ni1nY206OGEyOWVjNjYtNjA1Zi00NGU5LWE4NGUtZTdlMDc4OGZjZGVh@139.227.138.2:38987#%f0%9f%94%88%e6%9b%b4%e6%96%b0%e4%ba%8e09%2f09%2f3%3a00
+vmess://eyJhZGQiOiJmci4yMTIxOTk5Lnh5eiIsInYiOiIyIiwicHMiOiJSZWxheV/wn4e68J+HuFVTLfCfh6nwn4eqREVfMTMiLCJwb3J0Ijo4ODgwLCJpZCI6IjJhMzk1NWJlLWFjYmMtNDhiNi1hYjk2LTU1OWE5NjdhZTdmYiIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJob3N0IjoiZnIuMjEyMTk5OS54eXoiLCJwYXRoIjoiLyIsInRscyI6IiJ9
+trojan://274c1b23-2bfe-40ac-943c-ebc1aa044b22@41.216.177.41:443?allowInsecure=1#🇳🇱NL 1 → openitsub.com
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIvCfh6nwn4eq5b635Zu9KFRH6aKR6YGTOkBreHN3YSkiLA0KICAiYWRkIjogImFlLjc1NTY1Ny54eXoiLA0KICAicG9ydCI6ICI4NDQzIiwNCiAgImlkIjogIjExYjgyMDZjLThhZTItNGFiMy1hOTJjLTIwOGNkYjhjYzczZCIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiYWUuNzU1NjU3Lnh5eiIsDQogICJwYXRoIjogIi9qYXZhc2Rramh1Z2YiLA0KICAidGxzIjogInRscyIsDQogICJzbmkiOiAiIg0KfQ==
+ss://YWVzLTI1Ni1nY206OGEyOWVjNjYtNjA1Zi00NGU5LWE4NGUtZTdlMDc4OGZjZGVh@139.227.138.2:22987#%f0%9f%87%a8%f0%9f%87%b3%e4%b8%ad%e5%9b%bd(TG%e9%a2%91%e9%81%93%3a%40kxswa)
+ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQqQDE0LjI5LjEyNC4xNzQ6MTEwMzk=#🇨🇳 CN_59 v2cross.com
+trojan://iyinglong@18.140.67.76:443?allowInsecure=1#SG%202%20%E2%86%92%20openitsub.com
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIvCfh67wn4ex5Lul6Imy5YiXKFRH6aKR6YGTOkBreHN3YSkiLA0KICAiYWRkIjogInd3dy5mbGllc3dpbWluZy50ayIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICJiNzUxOWE2Zi1jMWRlLTQ2NjctZTYwNi1iNjBjNjVkMTkwNzgiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogInd3dy5mbGllc3dpbWluZy50ayIsDQogICJwYXRoIjogIi8iLA0KICAidGxzIjogInRscyIsDQogICJzbmkiOiAiIg0KfQ==
+trojan://046c4ca7-9c88-4ad5-92e8-591723b52b25@hly.755657.xyz:443?allowInsecure=1#FR%201%20%E2%86%92%20openitsub.com
+ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQq@14.29.124.174:11032#%F0%9F%87%AD%F0%9F%87%B0%20%E3%80%90tg%40freevpn8%E3%80%91_%F0%9F%87%A8%F0%9F%87%B3CN-%F0%9F%87%AD%F0%9F%87%B0HK_228
+trojan://21f204d3-b42e-466a-9cb2-b83d868dcd5f@kr1.api-aws.com:443?allowInsecure=1#🇯🇵JP 2 → openitsub.com
+ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQqQDE0LjI5LjEyNC4xNzQ6MTEwNDA=#🇨🇳 CN_60 v2cross.com
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIvCfh6jwn4ez5Lit5Zu9KFRH6aKR6YGTOkBreHN3YSkiLA0KICAiYWRkIjogInpkdXdnLTEwNDctdjItMS5oa2ctci1rY2QtYi5qZC5jamhoLmxvbCIsDQogICJwb3J0IjogIjM5OTE4IiwNCiAgImlkIjogImZiYzJlZmIwLTc4NmEtNDA3NC04MWVhLThhYjEyY2E1NDIyYyIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiemR1d2ctMTA0Ny12Mi0xLmhrZy1yLWtjZC1iLmpkLmNqaGgubG9sIiwNCiAgInBhdGgiOiAiL2plNXgzcEJOMXZlejNOUXVkTmtCIiwNCiAgInRscyI6ICJ0bHMiLA0KICAic25pIjogIiINCn0=
 ```
 <h5>本次节点订阅地址：https://shadowshare.v2cross.com/publicserver/servers/temp/0SPfDUOT839d2Bbk</h5>
 <p>订阅地址二维码</p>
