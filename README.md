@@ -9,17 +9,16 @@
 </blockquote>
 <h4>节点列表：(这里仅展示部分节点，查看全部节点请下载app)</h4>
 
-```trojan://iyinglong@52.47.99.22:443?allowInsecure=1#🇫🇷FR 1 → openitsub.com
-ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQqQDE0LjI5LjEyNC4xNzQ6MTEwNDg=#🇨🇳 CN_26 v2cross.com
-trojan://770c9e92-f51b-3e52-b932-eba13fb56801@s162.s2022.xyz:23802?allowInsecure=1#🇺🇸US 25 → openitsub.com
-trojan://fb19aac3-b532-4f60-a97f-ec5de0fbbf6b@nc.755657.xyz:443?allowInsecure=1#HK%203%20%E2%86%92%20openitsub.com
-ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQqQDE0LjI5LjEyNC4xNjg6MjQwMDU=#🇨🇳 CN_02 v2cross.com
-trojan://0Y9gOHSdRt@150.230.249.42:443?allowInsecure=1#🇺🇸US 21 → openitsub.com
-ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQqQDE0LjI5LjEyNC4xNzQ6MTEwMTE=#🇨🇳 CN_06 v2cross.com
+```ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQqQDE0LjI5LjEyNC4xNzQ6MTEwNDQ=#🇨🇳 CN_24 v2cross.com
 ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklkQDM4LjkxLjEwMi43NDo1MDAz#%E7%BE%8E%E5%9B%BD-tg%E9%A2%91%E9%81%93%3A%40bpjzx2-35
-trojan://1Qfea1eL3zCALPJm@los2-cn2.v2ce.com:443?security=xtls&encryption=none&type=tcp&flow=xtls-rprx-direct&sni=los2-cn2.v2ce.com#v2cross.com
-ss://YWVzLTI1Ni1jZmI6Yndoc2tyc2tyMDNAMTQ0LjE2OC42MC43MDoyNTI=#🇺🇸US_970
-trojan://3oquVrpxPg@wangqifei.ga:41477?allowInsecure=1#🇺🇸US 22 → openitsub.com
+trojan://iyinglong@3.9.175.102:443?allowInsecure=1#🇬🇧GB 3 → openitsub.com
+ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQqQDE0LjI5LjEyNC4xNzQ6MTEwMDY=#🇨🇳 CN_15 v2cross.com
+vmess://eyJhZGQiOiJoZy5jeWNmbHkueHl6IiwidiI6IjIiLCJwcyI6IlJlbGF5X/Cfh7rwn4e4VVMt8J+HuvCfh7hVU18xNSIsInBvcnQiOjUzNTI1LCJpZCI6IjljN2RhZWExLWVmNGItNDAzZC04Y2I5LWNlZWQ3ZDUyNmJiYSIsImFpZCI6IjAiLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiIiwiaG9zdCI6IiIsInBhdGgiOiIvIiwidGxzIjoiIn0=
+vmess://eyJhZGQiOiIzLnNnLnp6Lnh4eHh4LngtdC1mdWNrd29yZC5uZXR3b3JrIiwidiI6IjIiLCJwcyI6IlJlbGF5X/Cfh6jwn4ezQ04t8J+HrfCfh7BIS184MyIsInBvcnQiOjM2Njc5LCJpZCI6IjI0NGVmZmQ5LTAyMDQtM2M0YS04NTM3LTBkY2E0ZTVmZDliNSIsImFpZCI6IjAiLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiIiwiaG9zdCI6IiIsInBhdGgiOiIvIiwidGxzIjoiIn0=
+vmess://eyJhZGQiOiAiMTcyLjEwNS4yMzUuMTYzIiwgImFpZCI6IDAsICJob3N0IjogIiIsICJpZCI6ICI5MjcwOTRkMy1kNjc4LTQ3NjMtODU5MS1lMjQwZDBiY2FlODciLCAibmV0IjogIndzIiwgInBhdGgiOiAiL2NoYXQiLCAicG9ydCI6IDQ0MywgInBzIjogInYyY3Jvc3MuY29tIC0gXHU2NWU1XHU2NzJjXHU0ZTFjXHU0ZWFjTGlub2RlXHU2NTcwXHU2MzZlXHU0ZTJkXHU1ZmMzIDQiLCAidGxzIjogInRscyIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIifQ==
+trojan://a79da040-2e7c-11ed-91c2-1239d0255272@trojan2.udpgw.com:443?allowInsecure=1#🇸🇬SG 1 → openitsub.com
+ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQq@14.29.124.174:11003#%F0%9F%87%AD%F0%9F%87%B0%20%E3%80%90tg%40freevpn8%E3%80%91_%F0%9F%87%A8%F0%9F%87%B3CN-%F0%9F%87%AD%F0%9F%87%B0HK_255
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkBTU1JTVUItVjAxLeS7mOi0ueaOqOiNkDp2MmNyb3NzLmNvbSIsDQogICJhZGQiOiAiaW5ncmVzcy1pMS5vbmVib3g2Lm9yZyIsDQogICJwb3J0IjogIjM4NzAxIiwNCiAgImlkIjogIjc5Mzg2Njg1LTE2ZGEtMzI3Yy05ZTE0LWFhNmQ3MDJkODZiYyIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiYXdlaWtlamktWW91VHViZSIsDQogICJwYXRoIjogIi9obHMvY2N0djVwaGQubTN1OCIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiLA0KICAiYWxwbiI6ICIiDQp9
 ```
 <h5>本次节点订阅地址：https://shadowshare.v2cross.com/publicserver/servers/temp/XGVhn2cE7eH3ZyAk</h5>
 <p>订阅地址二维码</p>
