@@ -9,16 +9,13 @@
 </blockquote>
 <h4>节点列表：(这里仅展示部分节点，查看全部节点请下载app)</h4>
 
-```trojan://046c4ca7-9c88-4ad5-92e8-591723b52b25@cc.755657.xyz:443#v2cross.com%20-%20%E4%BA%9A%E5%A4%AA%E5%9C%B0%E5%8C%BA%20%2010
-vmess://eyJhZGQiOiIxNDQuMjQuODguMTAxIiwidiI6IjIiLCJwcyI6IvCfh6zwn4enR0JfMDciLCJwb3J0IjoxNjgzMywiaWQiOiJmNTQyNWNjZi0zOTQ2LTRmYjQtZWIyNC01MzkzZDc4YTM5MmYiLCJhaWQiOiIwIiwibmV0IjoidGNwIiwidHlwZSI6IiIsImhvc3QiOiJzYW5nZ29ybzYubmV4dHZwbi5jYyIsInBhdGgiOiIvdnBubmVvIiwidGxzIjoiIn0=
-ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQqQDE0LjI5LjEyNC4xNzQ6MTEwMDQ=#🇨🇳 CN_33 v2cross.com
-ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQqQDE0LjI5LjEyNC4xNjg6MjQwMDU=#🇨🇳 CN_24 v2cross.com
-trojan://ZDqCRlxB8uFj9pxNEeanya3DIpDlOYR7K0wOYX3eScA36gTAazCyZ5SC3FS428@musashino.freetrade.link:443?allowInsecure=1#🇯🇵JP 3 → TG@SCINV
-trojan://ukMzuFSmIXDvgW0h@cd.rutracker-cn.com:443?security=xtls&encryption=none&type=tcp&flow=xtls-rprx-direct&sni=cd.rutracker-cn.com#v2cross.com
-vmess://eyJhZGQiOiJhc2psZy0xMDQxLXYyLTEuaGtnLWQtaGt0Lm5kLmNqaGgubW9tIiwidiI6IjIiLCJwcyI6IlJlbGF5X/Cfh63wn4ewIEhLLfCfh63wn4ewSEtfMjA5IiwicG9ydCI6ODg4LCJpZCI6ImZiYzJlZmIwLTc4NmEtNDA3NC04MWVhLThhYjEyY2E1NDIyYyIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJob3N0IjoiZWRnZS5jamhoLm1vbSIsInBhdGgiOiIvamU1eDNwQk4xdmV6M05RdWROa0IiLCJ0bHMiOiJ0bHMifQ==
-trojan://xxoo@3.112.46.160:443?allowInsecure=1#%e6%97%a5%e6%9c%ac(TG%e9%a2%91%e9%81%93%3a%40kxswa)
-ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQqQDE0LjI5LjEyNC4xNzQ6MTEwMzI=#🇨🇳 CN_32 v2cross.com
-trojan://ef81a036-1db9-45ed-a3aa-f932a4750066@194.195.254.50:443?allowInsecure=1&sni=cdn.qchwnd.moe#🇩🇪DE 3 → TG@SCINV
+```trojan://iyinglong@54.188.168.172:443?allowInsecure=1#US%2044%20%E2%86%92%20TG%40SCINV
+ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3NAMTU2LjE0Ni4zOC4xNjM6NDQz#🇺🇸 US_671
+vmess://eyJhZGQiOiI1MS44MS4yMjMuMzIiLCJ2IjoiMiIsInBzIjoi8J+HuvCfh7hVU18wOCIsInBvcnQiOjQ0MywiaWQiOiJjMDE1NjQ1MS00ZWZiLTQ1ZTItODRmYy04ZDMxNWM0NjUwZGIiLCJhaWQiOiIzMiIsIm5ldCI6InRjcCIsInR5cGUiOiIiLCJob3N0IjoiIiwicGF0aCI6Ii8iLCJ0bHMiOiIifQ==
+ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQq@14.29.124.174:11003#%F0%9F%87%AD%F0%9F%87%B0%20%E3%80%90tg%40freevpn8%E3%80%91_%F0%9F%87%A8%F0%9F%87%B3CN-%F0%9F%87%AD%F0%9F%87%B0HK_255
+trojan://vGWCNNfBHwSY6m6M@v2cross.com.04.v2ce.com:443?security=xtls&encryption=none&type=tcp&flow=xtls-rprx-direct&sni=v2cross.com.04.v2ce.com#v2cross.com
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkBTU1JTVUItVjA0LeS7mOi0ueaOqOiNkDp2MmNyb3NzLmNvbSIsDQogICJhZGQiOiAiMjMuOTEuMTAwLjI0MyIsDQogICJwb3J0IjogIjMwODYyIiwNCiAgImlkIjogIjNiMGY0NGU0LWRkMTEtNDI5ZC1jODBmLTYxNWIxMDU5NWRiOSIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAidGNwIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIjIzLjkxLjEwMC4yNDMiLA0KICAicGF0aCI6ICIvIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiIsDQogICJhbHBuIjogIiINCn0=
+ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@85.208.108.93:6379#JP_%40v2cross.com01
 ```
 <h5>本次节点订阅地址：https://shadowshare.v2cross.com/publicserver/servers/temp/KQx0dj8Uzft1puZT</h5>
 <p>订阅地址二维码</p>
