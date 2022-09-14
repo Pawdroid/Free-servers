@@ -9,16 +9,17 @@
 </blockquote>
 <h4>节点列表：(这里仅展示部分节点，查看全部节点请下载app)</h4>
 
-```ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQqQDE0LjI5LjEyNC4xNzQ6MTEwMTE=#🇨🇳 CN_05 v2cross.com
-ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQqQDE0LjI5LjEyNC4xNjg6MjQwMDc=#🇨🇳 CN_02 v2cross.com
-vmess://eyJhZGQiOiIxNjguMTM4LjE3MS42NSIsInYiOiIyIiwicHMiOiLwn4e68J+HuCBVU183MjIiLCJwb3J0Ijo0NDMsImlkIjoiNGFmNmZkOWEtZThiNC00NmYyLWRhM2EtMjA3ZjQ1Nzc2NTZjIiwiYWlkIjoiMCIsIm5ldCI6InRjcCIsInR5cGUiOiIiLCJob3N0IjoiIiwicGF0aCI6Ii8iLCJ0bHMiOiJ0bHMifQ==
-trojan://0ba47cb6-e316-4afe-bb35-9e4853db6447@99tw02.tfzhc.top:443?allowInsecure=1&sni=99tw02.tfzhc.top#🇨🇦CA 5 → TG@SCINV
-ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQq@14.29.124.174:11019#%F0%9F%87%AD%F0%9F%87%B0%20%E3%80%90tg%40freevpn8%E3%80%91_%F0%9F%87%A8%F0%9F%87%B3CN-%F0%9F%87%AD%F0%9F%87%B0HK_259
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5MDU3NGY0Zi05NTMzLTRmYjEtYWZiMS0yZTQ4ZTU3ZTFmMGJAOTEwLjQ4eC5jYzoxOTM3NA==#%E6%97%A5%E6%9C%AC-tg%E9%A2%91%E9%81%93%3A%40bpjzx2-1
-ss://YWVzLTI1Ni1nY206Q0JZeVBjMEd3b2FROW0yb3FXZEVANjQuMTEyLjQyLjcyOjE2OTk5#🏁 ZZ_1289
-vless://d7e810f6-9389-47f4-be4b-438f410f3968@cz1.v2ce.com:443?path=%2FHm4aRbSa&security=tls&encryption=none&type=ws&sni=cz1.v2ce.com#v2cross.com
-trojan://ZCESAylB2u5jga736e8CTN3DcFCAOYz0DlDyx9F3ZpXnSp3IYRa4RwOSqe8Kax@spotted.bigkangaroo.net:443?allowInsecure=1#🇺🇸US 24 → TG@SCINV
-trojan://dfbf0d67-f03d-4184-a224-c2d64a571f99@s1.hass.win:12340?allowInsecure=1&sni=s1.hass.win#🇺🇸US 42 → TG@SCINV
+```trojan://0ba47cb6-e316-4afe-bb35-9e4853db6447@911hk02.tfzhc.top:35689?allowInsecure=1#🇯🇵JP 2 → TG@SCINV
+ss://YWVzLTI1Ni1jZmI6d2ZMQzJ5N3J6WnlDbXV5dEAxODUuMTI2LjExNi4xMTk6OTA5Mw==#🇷🇴 RO_534
+vmess://eyJhZGQiOiJ1c2Etd2FzaGluZ3Rvbi5sdnVmdC5jb20iLCJ2IjoiMiIsInBzIjoiXzE5OCIsInBvcnQiOjQ0MywiaWQiOiJhYmE1MGRkNC01NDg0LTNiMDUtYjE0YS00NjYxY2FmODYyZDUiLCJhaWQiOiI0IiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwiaG9zdCI6IiIsInBhdGgiOiIvd3MiLCJ0bHMiOiJ0bHMifQ==
+trojan://iyinglong@18.130.157.11:443?allowInsecure=1#🇬🇧GB 4 → TG@SCINV
+trojan://iyinglong@15.237.116.79:443?allowInsecure=1#🇫🇷FR 3 → TG@SCINV
+trojan://kGrwqmB1nEKUsDwE@v2cross.com.05.v2ce.com:443?security=xtls&encryption=none&type=tcp&flow=xtls-rprx-direct&sni=v2cross.com.05.v2ce.com#v2cross.com
+trojan://iyinglong@3.10.209.85:443?allowInsecure=1#🇬🇧GB 5 → TG@SCINV
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVAMTMuMTI1LjIyOC4xNjU6NDQz#JP,%20Osaka
+ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQqQDE0LjI5LjEyNC4xNzQ6MTEwMzU=#🇨🇳 CN_31 v2cross.com
+trojan://0ba47cb6-e316-4afe-bb35-9e4853db6447@913hk.tfzhc.top:443?allowInsecure=1&sni=913hk.tfzhc.top#🇯🇵JP 11 → TG@SCINV
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjYTgxNjY4OS02MjA3LTRiYmUtOWQ5Ny1jNDZjNGRkN2IxYTZAbm9kZS5hLmFjY2Vzcy5pbi5ueWFwaS5idXp6OjI1MDIw#SS%7C%E9%A6%99%E6%B8%AFA01%7CIDC%7C%20%E8%A7%A3%E9%94%81
 ```
 <h5>本次节点订阅地址：https://shadowshare.v2cross.com/publicserver/servers/temp/T4fuz8L36XxKS5My</h5>
 <p>订阅地址二维码</p>
