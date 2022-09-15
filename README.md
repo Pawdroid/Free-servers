@@ -9,14 +9,20 @@
 </blockquote>
 <h4>节点列表：(这里仅展示部分节点，查看全部节点请下载app)</h4>
 
-```ss://YWVzLTI1Ni1nY206YkJFWElxQDEyNC4yMjUuMjQuMTM1OjMxOTA1#🇨🇳 CN_28 v2cross.com
-trojan://3gLlCYBipVwr6Y5F@v2cross.com.02.v2ce.com:443?security=xtls&encryption=none&type=tcp&flow=xtls-rprx-direct&sni=v2cross.com.02.v2ce.com#v2cross.com
-trojan://ukMzuFSmIXDvgW0h@cd.rutracker-cn.com:443?security=xtls&encryption=none&type=tcp&flow=xtls-rprx-direct&sni=cd.rutracker-cn.com#v2cross.com
-vmess://eyJ2IjogIjIiLCAicHMiOiAidjJjcm9zcy5jb20gLSBcdTdmOGVcdTU2ZmRDbG91ZEZsYXJlXHU1MTZjXHU1M2Y4Q0ROXHU4MjgyXHU3MGI5IDI4IiwgImFkZCI6ICJwb3dlcnNlcnZpY2UuY29tIiwgInBvcnQiOiAiNDQzIiwgImlkIjogIjA3NjRhNTk4LTgyYzQtNGI0MS1iYTEwLTU1MWE2MjViZWVkNSIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAidWsyLnYycmF5c2Vydi5jb20iLCAicGF0aCI6ICIvc3Nob2NlYW4iLCAidGxzIjogInRscyIsICJzbmkiOiAiIn0=
-ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQqQDE0LjI5LjEyNC4xNzQ6MTEwNTA=#🇨🇳 CN_42 v2cross.com
-trojan://d02058f4f819dced@5.44.249.155:3389?allowInsecure=1#unknown 1 → TG@SCINV
-trojan://mMQ6qJB9xbhiRvgg@v2cross.com.01.v2ce.com:443?security=xtls&encryption=none&type=tcp&flow=xtls-rprx-direct&sni=v2cross.com.01.v2ce.com#v2cross.com
-vmess://eyJhZGQiOiAiMTQ2LjAuNDIuODciLCAiYWlkIjogNCwgImhvc3QiOiAiIiwgImlkIjogImFiYTUwZGQ0LTU0ODQtM2IwNS1iMTRhLTQ2NjFjYWY4NjJkNSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvd3MiLCAicG9ydCI6IDQ0MywgInBzIjogInYyY3Jvc3MuY29tIC0gXHU3ZjU3XHU5YTZjXHU1YzNjXHU0ZTlhICAxOCIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiJ9
+```ss://YWVzLTI1Ni1jZmI6QndjQVVaazhoVUZBa0RHTkAyMTMuMTgzLjU5LjE4NTo5MDMx#🇳🇱NL_484
+ss://YWVzLTI1Ni1jZmI6ODQ2MDQwMDEzMEA1LjE4My4xMDAuODc6NTAwMDM=#Pool_🇬🇧GB_215
+ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQq@14.29.124.174:11032#%F0%9F%87%AD%F0%9F%87%B0%20%E3%80%90tg%40freevpn8%E3%80%91_%F0%9F%87%A8%F0%9F%87%B3CN-%F0%9F%87%AD%F0%9F%87%B0HK_228
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRNQDE0Mi4yMDIuNDguNTI6NDQz#🇺🇸US_828
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQQDEzNC4xOTUuMTk2LjEwNzo3MzA2#🏁ZZ_1344
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3QDE5My4xMDguMTE4LjM0OjgwOTE=#🇩🇪DE_124
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0NAMzguNjguMTM1LjE4OjU2MDE=#🇺🇸US_878
+vmess://eyJhZGQiOiAiMTcyLjY3LjE5OS4zNCIsICJhaWQiOiAwLCAiaG9zdCI6ICJiaXpuZXQtcy5uZXh0dnBuLmNjIiwgImlkIjogIjBkMjMxYjMzLTY2YzMtNDJiYi1hZTc2LTBmMDFmYWFmOTcxOSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvdnBubmVvIiwgInBvcnQiOiA4MCwgInBzIjogInYyY3Jvc3MuY29tIC0gXHU3ZjhlXHU1NmZkQ2xvdWRGbGFyZVx1ODI4Mlx1NzBiOSAyNCIsICJ0bHMiOiAiIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogImJpem5ldC1zLm5leHR2cG4uY2MifQ==
+trojan://xxoo@194.156.99.39:443?allowInsecure=1#%e9%a6%99%e6%b8%af(TG%e9%a2%91%e9%81%93%3a%40kxswa)
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0NAMTQyLjIwMi40OC41MjozMzg5#🇺🇸US_723
+trojan://3oquVrpxPg@wangqifei.ga:41477?allowInsecure=1#US%2022%20%E2%86%92%20TG%40SCINV
+trojan://iyinglong@54.218.99.141:443?allowInsecure=1#🇺🇸US 20 → TG@SCINV
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0QDE5NC4xNS4xOTYuMTA2Ojg4ODI=#_90
+vmess://eyJhZGQiOiAiMTcyLjY3LjE5OS4zNCIsICJhaWQiOiAwLCAiaG9zdCI6ICJiaXpuZXQxMC5uZXh0dnBuLmNjIiwgImlkIjogIjQ0NGUyZjk3LTE3OWMtNGJmZi04NDE2LWYxZmJlZDA1MDBlYSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvdnBubmVvIiwgInBvcnQiOiA0NDMsICJwcyI6ICJ2MmNyb3NzLmNvbSAtIFx1N2Y4ZVx1NTZmZENsb3VkRmxhcmVcdTgyODJcdTcwYjkgMzEiLCAidGxzIjogInRscyIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICJiaXpuZXQxMC5uZXh0dnBuLmNjIn0=
 ```
 <h5>本次节点订阅地址：https://shadowshare.v2cross.com/publicserver/servers/temp/nB5tCymeiTbw8kLK</h5>
 <p>订阅地址二维码</p>
