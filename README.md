@@ -9,20 +9,25 @@
 </blockquote>
 <h4>节点列表：(这里仅展示部分节点，查看全部节点请下载app)</h4>
 
-```trojan://mMQ6qJB9xbhiRvgg@v2cross.com.01.v2ce.com:443?security=xtls&encryption=none&type=tcp&flow=xtls-rprx-direct&sni=v2cross.com.01.v2ce.com#v2cross.com
-trojan://462a6dca-d63e-48e5-bcb8-10b4fe2123d4@913tw.tfzhc.top:44318?allowInsecure=1#🇨🇦CA 1 → TG@SCINV
-trojan://ukMzuFSmIXDvgW0h@cd.rutracker-cn.com:443?security=xtls&encryption=none&type=tcp&flow=xtls-rprx-direct&sni=cd.rutracker-cn.com#v2cross.com
-ss://YWVzLTI1Ni1nY206Q0JZeVBjMEd3b2FROW0yb3FXZEVANjQuMTEyLjQyLjcyOjE2OTk5#🏁 ZZ_1320
-ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQqQDE0LjI5LjEyNC4xNzQ6MTEwMzI=#🇨🇳 CN_37 v2cross.com
-ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQq@14.29.124.174:11044#🇨🇳CN 4 → TG@SCINV
+```trojan://iyinglong@13.213.0.239:443?allowInsecure=1#🇺🇸US 23 → TG@SCINV
+ss://YWVzLTI1Ni1jZmI6Yndoc2tyc2tyMDNAOTcuNjQuMjYuNjM6MjUz#US,%20California
+trojan://462a6dca-d63e-48e5-bcb8-10b4fe2123d4@99tw03.tfzhc.top:443?allowInsecure=1&sni=99tw03.tfzhc.top#%e6%96%b0%e5%8a%a0%e5%9d%a1(TG%e9%a2%91%e9%81%93%3a%40kxswa)
+trojan://462a6dca-d63e-48e5-bcb8-10b4fe2123d4@913tw.tfzhc.top:44318#v2cross.com%20-%20%E5%8A%A0%E6%8B%BF%E5%A4%A7%20%2035
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkBTU1JTVUItVjA1LeS7mOi0ueaOqOiNkDp2MmNyb3NzLmNvbSIsDQogICJhZGQiOiAiMTI4LjEuMTM0LjEyNiIsDQogICJwb3J0IjogIjY2NjYiLA0KICAiaWQiOiAiN2ZiM2I1NzEtY2RhOC00MGY2LWM5ZTYtZGI5NzY1ZWE4ZmFhIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ0Y3AiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiMTI4LjEuMTM0LjEyNiIsDQogICJwYXRoIjogIi8iLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIiwNCiAgImFscG4iOiAiIg0KfQ==
+trojan://iyinglong@15.237.116.79:443?allowInsecure=1#🇫🇷FR 3 → TG@SCINV
+trojan://xxoo@138.124.183.226:443?allowInsecure=1#%e7%be%8e%e5%9b%bd(TG%e9%a2%91%e9%81%93%3a%40kxswa)
+vmess://eyJhZGQiOiAiOC4yMDkuMjIwLjM0IiwgImFpZCI6IDAsICJob3N0IjogImx1eC5qdXN0dS5tbCIsICJpZCI6ICI3NDc1OGYwNi1mNGI5LTRlZjEtYTg2Yy1mMGEwY2M4MjEwOWYiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL2FyaWVzIiwgInBvcnQiOiA4MCwgInBzIjogInYyY3Jvc3MuY29tIC0gXHU0ZTJkXHU1NmZkXHU5NjNmXHU5MWNjXHU0ZTkxIDQyIiwgInRscyI6ICIiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIn0=
 trojan://kGrwqmB1nEKUsDwE@v2cross.com.05.v2ce.com:443?security=xtls&encryption=none&type=tcp&flow=xtls-rprx-direct&sni=v2cross.com.05.v2ce.com#v2cross.com
-trojan://fIYU5DCiWZ6uYOou@los1.v2ce.com:443?security=xtls&encryption=none&type=tcp&flow=xtls-rprx-direct&sni=los1.v2ce.com#v2cross.com
+trojan://ZD4dLSBXiMrmzdLd@v2cross.com.03.v2ce.com:443?security=xtls&encryption=none&type=tcp&flow=xtls-rprx-direct&sni=v2cross.com.03.v2ce.com#v2cross.com
+vmess://eyJhZGQiOiI1MS44MS4yMjMuMzIiLCJ2IjoiMiIsInBzIjoi8J+HuvCfh7hVU18wNiIsInBvcnQiOjQ0MywiaWQiOiJjMDE1NjQ1MS00ZWZiLTQ1ZTItODRmYy04ZDMxNWM0NjUwZGIiLCJhaWQiOiIzMiIsIm5ldCI6InRjcCIsInR5cGUiOiIiLCJob3N0IjoiIiwicGF0aCI6Ii8iLCJ0bHMiOiIifQ==
+vmess://eyJhZGQiOiIzLnNnLnp6Lnh4eHh4LngtdC1mdWNrd29yZC5uZXR3b3JrIiwidiI6IjIiLCJwcyI6IlJlbGF5X/Cfh6jwn4ezQ04t8J+HrfCfh7BIS184NyIsInBvcnQiOjM2Njc5LCJpZCI6IjI0NGVmZmQ5LTAyMDQtM2M0YS04NTM3LTBkY2E0ZTVmZDliNSIsImFpZCI6IjAiLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiIiwiaG9zdCI6IiIsInBhdGgiOiIvIiwidGxzIjoiIn0=
+trojan://1Qfea1eL3zCALPJm@los2-cn2.v2ce.com:443?security=xtls&encryption=none&type=tcp&flow=xtls-rprx-direct&sni=los2-cn2.v2ce.com#v2cross.com
+vmess://eyJhZGQiOiAiMTM5LjU5LjI0NC4xNDMiLCAidiI6ICIyIiwgInBzIjogInYyY3Jvc3MuY29tIC0gXHU2NWIwXHU1MmEwXHU1NzYxRGlnaXRhbE9jZWFuXHU2NTcwXHU2MzZlXHU0ZTJkXHU1ZmMzIDI5IiwgInBvcnQiOiAzODk0MSwgImlkIjogIjNkYzVjMWM5LTdkOGMtNDMyZS1kYWZmLTQ0MjIxMDNhNzkxOCIsICJhaWQiOiAiMCIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiLyIsICJ0bHMiOiAiIn0=
+trojan://dfbf0d67-f03d-4184-a224-c2d64a571f99@s3.hazz.win:12340?allowInsecure=1#🇺🇸US 6 → TG@SCINV
 vless://72972da9-d188-40c6-83a6-4ec28fde2c0a@cg.rutracker-cn.com:443?path=%2FxxPb49hL0C&security=tls&encryption=none&type=ws&sni=cg.rutracker-cn.com#v2cross.com
-vless://e9c14629-fcd5-4584-bb9e-d1431c20ee00@cf.rutracker-cn.com:443?path=%2F1GDNonF&security=tls&encryption=none&type=ws&sni=cf.rutracker-cn.com#v2cross.com
-trojan://dfbf0d67-f03d-4184-a224-c2d64a571f99@s3.hazz.win:12340?allowInsecure=1#🇺🇸US 8 → TG@SCINV
-ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQqQDE0LjI5LjEyNC4xNzQ6MTEwMTk=#🇨🇳 CN_45 v2cross.com
+ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQqQDE0LjI5LjEyNC4xNzQ6MTEwMDc=#🇨🇳 CN_19 v2cross.com
 ```
-<h5>本次节点订阅地址：https://shadowshare.v2cross.com/publicserver/servers/temp/X2R9F7cJmALPaIU4</h5>
+<h5>本次节点订阅地址：https://shadowshare.v2cross.com/publicserver/servers/temp/7JHk1tIWPCwZqYhz</h5>
 <p>订阅地址二维码</p>
 <img src='http://shadowshare.v2cross.com/qrcode.png' width=250 height=250>
 <blockquote style='text-align: center;'>更多节点、免费订阅地址及订阅转换请下载本站提供的共享节点app软件<a href='https://shadowshare.v2cross.com'>ShadowShare</a>导出节点使用，支持iOS、Android下载</blockquote>
