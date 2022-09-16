@@ -9,12 +9,12 @@
 </blockquote>
 <h4>节点列表：(这里仅展示部分节点，查看全部节点请下载app)</h4>
 
-```trojan://iyinglong@34.219.230.191:443?allowInsecure=1#🇺🇸US 44 → TG@SCINV
-ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQq@14.29.124.174:11015#%F0%9F%87%AD%F0%9F%87%B0%20%E3%80%90tg%40freevpn8%E3%80%91_%F0%9F%87%A8%F0%9F%87%B3CN-%F0%9F%87%AD%F0%9F%87%B0HK_197
-trojan://iyinglong@54.188.171.13:443?allowInsecure=1#US%2018%20%E2%86%92%20TG%40SCINV
-trojan://dfbf0d67-f03d-4184-a224-c2d64a571f99@s3.hazz.win:12340?sni=s3.hazz.win#%E7%BE%8E%E5%9B%BD-tg%E9%A2%91%E9%81%93%3A%40bpjzx2-1
-trojan://fIYU5DCiWZ6uYOou@los1.v2ce.com:443?security=xtls&encryption=none&type=tcp&flow=xtls-rprx-direct&sni=los1.v2ce.com#v2cross.com
-trojan://4fb4381d-542e-4e13-8df4-fdc702f66ead@99tw02.tfzhc.top:443?allowInsecure=1#🇨🇦CA 1 → TG@SCINV
+```trojan://1Qfea1eL3zCALPJm@los2-cn2.v2ce.com:443?security=xtls&encryption=none&type=tcp&flow=xtls-rprx-direct&sni=los2-cn2.v2ce.com#v2cross.com
+trojan://26e219f2-5c2a-356c-9767-9fd681cc0134@103.173.254.205:443?allowInsecure=1#(TG%e9%a2%91%e9%81%93%3a%40kxswa)
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0NAODUuMjA4LjEwOC45NDo1MDAx#Pool_🇳🇱 NL_394
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0QDg1LjIwOC4xMDguOTQ6ODg4Mg==#Pool_🇳🇱 NL_404
+trojan://ZD4dLSBXiMrmzdLd@v2cross.com.03.v2ce.com:443?security=xtls&encryption=none&type=tcp&flow=xtls-rprx-direct&sni=v2cross.com.03.v2ce.com#v2cross.com
+ss://YWVzLTI1Ni1jZmI6a1NQbXZ3ZEZ6R01NVzVwWUAxODUuMTI2LjExNi4xMjU6OTAwNw==#🇷🇴 RO_145 v2cross.com
 ```
 <h5>本次节点订阅地址：https://shadowshare.v2cross.com/publicserver/servers/temp/aDXkKcUxC1lh4fv0</h5>
 <p>订阅地址二维码</p>
