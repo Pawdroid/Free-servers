@@ -9,21 +9,18 @@
 </blockquote>
 <h4>节点列表：(这里仅展示部分节点，查看全部节点请下载app)</h4>
 
-```trojan://iyinglong@35.180.202.38:443#%E6%B3%95%E5%9B%BD-tg%E9%A2%91%E9%81%93%3A%40bpjzx2-6
-trojan://iyinglong@35.180.122.151:443?allowInsecure=1#FR%203%20%E2%86%92%20TG%40SCINV
-trojan://iyinglong@13.213.69.245:443?allowInsecure=1#🇺🇸US 34 → TG@SCINV
-ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQqQDE0LjI5LjEyNC4xNzQ6MTEwMTE=#🇨🇳 CN_30 v2cross.com
+```ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQq@14.29.124.168:24007#CN%209%20%E2%86%92%20TG%40SCINV
+trojan://iyinglong@54.249.153.131:443?allowInsecure=1#🇯🇵JP 3 → TG@SCINV
+ss://YWVzLTEyOC1nY206MjY5ZjcxYjktYzQ1Yi00M2YzLThjNDgtZWI1Zjk4NmFhNzA3@unicomv3.mipglxi.cn:6618#🇨🇳CN 1 → TG@SCINV
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkBTU1JTVUItVjAxLeS7mOi0ueaOqOiNkDp2MmNyb3NzLmNvbSIsDQogICJhZGQiOiAiMjMuOTEuMTAwLjI0MyIsDQogICJwb3J0IjogIjMwODYyIiwNCiAgImlkIjogIjNiMGY0NGU0LWRkMTEtNDI5ZC1jODBmLTYxNWIxMDU5NWRiOSIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAidGNwIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIjIzLjkxLjEwMC4yNDMiLA0KICAicGF0aCI6ICIvIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiIsDQogICJhbHBuIjogIiINCn0=
+ss://YWVzLTI1Ni1jZmI6YUxwUXRmRVplNDQ1UXlIa0AxODUuMTI2LjExNi4xMjU6OTA5OA==#🇷🇴 RO_231 v2cross.com
+trojan://iyinglong@13.213.0.239:443?allowInsecure=1#🇺🇸US 30 → TG@SCINV
+trojan://xxoo@13.38.24.83:443?allowInsecure=1#%e6%b3%95%e5%9b%bd(TG%e9%a2%91%e9%81%93%3a%40kxswa)
+ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQq@14.29.124.168:24002#v2cross.com%20-%20%E5%B9%BF%E4%B8%9C%E7%9C%81%E5%B9%BF%E5%B7%9E%E5%B8%82%E7%94%B5%E4%BF%A1%2020
+vless://e9c14629-fcd5-4584-bb9e-d1431c20ee00@cf.rutracker-cn.com:443?path=%2F1GDNonF&security=tls&encryption=none&type=ws&sni=cf.rutracker-cn.com#v2cross.com
+vmess://eyJhZGQiOiI2NC4xMTIuNDIuNzMiLCJ2IjoiMiIsInBzIjoi8J+PgVpaXzM0IiwicG9ydCI6NDQzLCJpZCI6IjQ5NDZmNzc2LTBhZjMtNDlmMy1hY2FkLWQxNTc0NzVkMjUzZSIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJob3N0IjoiNjQuMTEyLjQyLjczIiwicGF0aCI6Ii9QMFM1VTdOSyIsInRscyI6InRscyJ9
+ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQqQDE0LjI5LjEyNC4xNzQ6MTEwMDc=#🇨🇳 CN_19 v2cross.com
 vmess://eyJhZGQiOiIxNjguMTM4LjE3MS42NSIsInYiOiIyIiwicHMiOiLwn4e68J+HuCBVU183MDAiLCJwb3J0Ijo0NDMsImlkIjoiNGFmNmZkOWEtZThiNC00NmYyLWRhM2EtMjA3ZjQ1Nzc2NTZjIiwiYWlkIjoiMCIsIm5ldCI6InRjcCIsInR5cGUiOiIiLCJob3N0IjoiIiwicGF0aCI6Ii8iLCJ0bHMiOiJ0bHMifQ==
-ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQqQDE0LjI5LjEyNC4xNzQ6MTEwNTA=#🇨🇳 CN_52 v2cross.com
-trojan://xxoo@34.248.69.233:443?allowInsecure=1#🇮🇪IE 1 → TG@SCINV
-ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQqQDE0LjI5LjEyNC4xNzQ6MTEwMzg=#🇨🇳 CN_47 v2cross.com
-ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQq@14.29.124.168:24004#%F0%9F%87%A8%F0%9F%87%B3%20%E3%80%90tg%40freevpn8%E3%80%91_%F0%9F%87%A8%F0%9F%87%B3CN-%F0%9F%87%B9%F0%9F%87%BCTW_245
-trojan://mMQ6qJB9xbhiRvgg@v2cross.com.01.v2ce.com:443?security=xtls&encryption=none&type=tcp&flow=xtls-rprx-direct&sni=v2cross.com.01.v2ce.com#v2cross.com
-trojan://iyinglong@35.180.247.162:443?allowInsecure=1#🇫🇷FR 5 → TG@SCINV
-trojan://iyinglong@3.8.216.52:443?allowInsecure=1#🇬🇧GB 7 → TG@SCINV
-ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQqQDE0LjI5LjEyNC4xNzQ6MTEwMzI=#🇨🇳 CN_35 v2cross.com
-trojan://iyinglong@54.245.213.176:443?allowInsecure=1#🇺🇸US 32 → TG@SCINV
-trojan://iyinglong@34.219.183.33:443?allowInsecure=1#🇺🇸US 30 → TG@SCINV
 ```
 <h5>本次节点订阅地址：https://shadowshare.v2cross.com/publicserver/servers/temp/Ne92ryzqblLZo4X1</h5>
 <p>订阅地址二维码</p>
