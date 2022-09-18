@@ -9,17 +9,28 @@
 </blockquote>
 <h4>节点列表：(这里仅展示部分节点，查看全部节点请下载app)</h4>
 
-```vmess://eyJhZGQiOiIxNjguMTM4LjE3MS42NSIsInYiOiIyIiwicHMiOiLwn4e68J+HuCBVU183MTMiLCJwb3J0Ijo0NDMsImlkIjoiNGFmNmZkOWEtZThiNC00NmYyLWRhM2EtMjA3ZjQ1Nzc2NTZjIiwiYWlkIjoiMCIsIm5ldCI6InRjcCIsInR5cGUiOiIiLCJob3N0IjoiIiwicGF0aCI6Ii8iLCJ0bHMiOiJ0bHMifQ==
-ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQqQDE0LjI5LjEyNC4xNzQ6MTEwNTA=#🇨🇳 CN_45 v2cross.com
-trojan://04eeae65-6000-45f8-ad55-275f87b0d45e@trauk1.bitznet.one:32010?allowInsecure=1&sni=cert.bitbyte.one#🇺🇸US 65 → TG@SCINV
-ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQqQDE0LjI5LjEyNC4xNzQ6MTEwMzI=#🇨🇳 CN_33 v2cross.com
-ss://YWVzLTI1Ni1jZmI6YUxwUXRmRVplNDQ1UXlIa0AxODUuMTI2LjExNi4xMjU6OTA5OA==#🇷🇴 RO_147 v2cross.com
-trojan://9d40fabf-b2f4-4964-9f83-aca3d42ff582@iplcuk1.bitznet.one:34010?allowInsecure=1&sni=cert.bitbyte.one#🇺🇸US 83 → TG@SCINV
-trojan://ce19e306-6b87-31b6-8161-df1fa9847b2e@scloud52.jafiyun.world:22052?allowInsecure=1&sni=scloud52.jafiyun.world#🇨🇳CN 7 → TG@SCINV
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkBTU1JTVUItVjEzLeS7mOi0ueaOqOiNkDp2MmNyb3NzLmNvbSIsDQogICJhZGQiOiAiMTcyLjY3LjE5OS4zNCIsDQogICJwb3J0IjogIjgwIiwNCiAgImlkIjogIjBkMjMxYjMzLTY2YzMtNDJiYi1hZTc2LTBmMDFmYWFmOTcxOSIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiYml6bmV0LXMubmV4dHZwbi5jYyIsDQogICJwYXRoIjogIi92cG5uZW8iLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIiwNCiAgImFscG4iOiAiIg0KfQ==
-ss://YWVzLTEyOC1nY206MzJhNmJmNDgtYjQ4NC00N2MxLWI1NWQtMTMxZDgwNzJhZDU5@relay1.wl-node1.com:39010#🇨🇳CN 19 → TG@SCINV
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybUAzOC4xMTQuMTE0LjEwNDo4MDgw#🇺🇸US_1051
-trojan://04eeae65-6000-45f8-ad55-275f87b0d45e@traru1.bitznet.one:32008?allowInsecure=1&sni=cert.bitbyte.one#🇺🇸US 60 → TG@SCINV
+```trojan://dfbf0d67-f03d-4184-a224-c2d64a571f99@s3.hass.win:12340?allowInsecure=1#🇺🇸US 80 → TG@SCINV
+trojan://ZD4dLSBXiMrmzdLd@v2cross.com.03.v2ce.com:443?security=xtls&encryption=none&type=tcp&flow=xtls-rprx-direct&sni=v2cross.com.03.v2ce.com#v2cross.com
+ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQqQDE0LjI5LjEyNC4xNzQ6MTEwNDk=#🇨🇳 CN_48 v2cross.com
+ss://YWVzLTEyOC1nY206MzJhNmJmNDgtYjQ4NC00N2MxLWI1NWQtMTMxZDgwNzJhZDU5@relay1.wl-node1.com:39012#🇨🇳CN 16 → TG@SCINV
+trojan://502560b1-6cb2-443e-ba50-361c94ddab3a@dtar1.bitznet.one:33015?allowInsecure=1&sni=cert.bitbyte.one#🇺🇸US 60 → TG@SCINV
+trojan://04eeae65-6000-45f8-ad55-275f87b0d45e@dtuk1.bitznet.one:33010?allowInsecure=1&sni=cert.bitbyte.one#🇺🇸US 39 → TG@SCINV
+ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQqQDE0LjI5LjEyNC4xNzQ6MTEwMDg=#🇨🇳 CN_36 v2cross.com
+trojan://04eeae65-6000-45f8-ad55-275f87b0d45e@traua1.bitznet.one:32019?allowInsecure=1&sni=cert.bitbyte.one#🇺🇸US 55 → TG@SCINV
+trojan://04eeae65-6000-45f8-ad55-275f87b0d45e@traau1.bitznet.one:32012?allowInsecure=1&sni=cert.bitbyte.one#🇺🇸US 42 → TG@SCINV
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9TQDE2OS4xOTcuMTQyLjQ4OjY2Nzk=#🏁ZZ_1381
+trojan://04eeae65-6000-45f8-ad55-275f87b0d45e@traru1.bitznet.one:32008?allowInsecure=1&sni=cert.bitbyte.one#🇺🇸US 51 → TG@SCINV
+trojan://ce19e306-6b87-31b6-8161-df1fa9847b2e@scloud30.jafiyun.world:22030?allowInsecure=1#🇨🇳CN 1 → TG@SCINV
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkBTU1JTVUItVjExLeS7mOi0ueaOqOiNkDp2MmNyb3NzLmNvbSIsDQogICJhZGQiOiAiYmxvZ3MubWljcm9zb2Z0LmNvbSIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICI0NDRlMmY5Ny0xNzljLTRiZmYtODQxNi1mMWZiZWQwNTAwZWEiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogImJpem5ldDEwLm5leHR2cG4uY2MiLA0KICAicGF0aCI6ICIvdnBubmVvIiwNCiAgInRscyI6ICJ0bHMiLA0KICAic25pIjogIiIsDQogICJhbHBuIjogIiINCn0=
+trojan://04eeae65-6000-45f8-ad55-275f87b0d45e@dtin1.bitznet.one:33017?allowInsecure=1&sni=cert.bitbyte.one#🇺🇸US 34 → TG@SCINV
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1NTk1ZjFjZi1kN2MwLTQxMjEtYTNiZi0xOWU0MjNjMWY5YTFAbWYwMi54bXNzLnZpcDoxODg4OA==#Relay_🇷🇺 RU-🇷🇺RU_574
+trojan://04eeae65-6000-45f8-ad55-275f87b0d45e@trask1.bitznet.one:32005?allowInsecure=1&sni=cert.bitbyte.one#🇺🇸US 53 → TG@SCINV
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIue+juWbvShUR+mikemBkzpAa3hzd2EpIiwNCiAgImFkZCI6ICIxNTAuMjMwLjE5OS4xNzciLA0KICAicG9ydCI6ICIyMTY5NiIsDQogICJpZCI6ICI2Yjc0NWNhZi1lN2Y2LTQ5ZjEtOWI2My1lNWM0MTYzMDNiYWMiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogInRjcCIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIiLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIg0KfQ==
+vmess://eyJhZGQiOiIzLnNnLnp6Lnh4eHh4LngtdC1mdWNrd29yZC5uZXR3b3JrIiwidiI6IjIiLCJwcyI6IlJlbGF5X/Cfh6jwn4ezQ04t8J+HrfCfh7BIS18xMDAiLCJwb3J0IjozNjY3OSwiaWQiOiIyNDRlZmZkOS0wMjA0LTNjNGEtODUzNy0wZGNhNGU1ZmQ5YjUiLCJhaWQiOiIwIiwibmV0IjoidGNwIiwidHlwZSI6IiIsImhvc3QiOiIiLCJwYXRoIjoiLyIsInRscyI6IiJ9
+trojan://9d40fabf-b2f4-4964-9f83-aca3d42ff582@iplcjp1.bitznet.one:34004?allowInsecure=1&sni=cert.bitbyte.one#🇺🇸US 71 → TG@SCINV
+ss://YWVzLTEyOC1nY206MzJhNmJmNDgtYjQ4NC00N2MxLWI1NWQtMTMxZDgwNzJhZDU5@relay1.wl-node1.com:39013#🇨🇳CN 17 → TG@SCINV
+trojan://9d40fabf-b2f4-4964-9f83-aca3d42ff582@iplchk3.bitznet.one:34000?allowInsecure=1&sni=cert.bitbyte.one#🇺🇸US 70 → TG@SCINV
+ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQqQDE0LjI5LjEyNC4xNzQ6MTEwMTU=#🇨🇳 CN_41 v2cross.com
 ```
 <h5>本次节点订阅地址：https://shadowshare.v2cross.com/publicserver/servers/temp/G2urgP6NJBHs8b7M</h5>
 <p>订阅地址二维码</p>
