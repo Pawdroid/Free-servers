@@ -9,18 +9,20 @@
 </blockquote>
 <h4>节点列表：(这里仅展示部分节点，查看全部节点请下载app)</h4>
 
-```ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQqQDE0LjI5LjEyNC4xNzQ6MTEwMDg=#🇨🇳 CN_34 v2cross.com
-trojan://vGWCNNfBHwSY6m6M@v2cross.com.04.v2ce.com:443?security=xtls&encryption=none&type=tcp&flow=xtls-rprx-direct&sni=v2cross.com.04.v2ce.com#v2cross.com
-trojan://iyinglong@13.40.154.20:443?allowInsecure=1#US%2042%20%E2%86%92%20TG%40SCINV
-vmess://eyJhZGQiOiAidmF1MS4wYmFkLmNvbSIsICJhaWQiOiAwLCAiaG9zdCI6ICJ2YXUxLjBiYWQuY29tIiwgImlkIjogIjkyNzA5NGQzLWQ2NzgtNDc2My04NTkxLWUyNDBkMGJjYWU4NyIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvY2hhdCIsICJwb3J0IjogNDQzLCAicHMiOiAidjJjcm9zcy5jb20gLSBcdTZmYjNcdTU5MjdcdTUyMjlcdTRlOWFcdTY1YjBcdTUzNTdcdTVhMDFcdTVjMTRcdTU4ZWJcdTVkZGVcdTYwODlcdTVjM2NMaW5vZGVcdTY1NzBcdTYzNmVcdTRlMmRcdTVmYzMgMTgiLCAidGxzIjogInRscyIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIifQ==
-ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQqQDE0LjI5LjEyNC4xNzQ6MTEwMDQ=#🇨🇳 CN_33 v2cross.com
-ss://YWVzLTEyOC1nY206MjY5ZjcxYjktYzQ1Yi00M2YzLThjNDgtZWI1Zjk4NmFhNzA3@moblev3.mipglxi.cn:6623#%e4%b8%ad%e5%9b%bd(TG%e9%a2%91%e9%81%93%3a%40kxswa)
-trojan://8c836caa-3d53-4829-bcfb-cbe0aa453a57@23.94.103.146:443?allowInsecure=1#🇺🇸US 21 → TG@SCINV
-ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQq@14.29.124.174:11039#%F0%9F%87%A8%F0%9F%87%B3%20CN_273%20%E3%80%90tg%40freevpn8%E3%80%9110.25Mb
-trojan://1Qfea1eL3zCALPJm@los2-cn2.v2ce.com:443?security=xtls&encryption=none&type=tcp&flow=xtls-rprx-direct&sni=los2-cn2.v2ce.com#v2cross.com
-trojan://3bfb6fba-8afd-4ec9-b6e0-1f17f97a37f2@915sg77.tfzhc.top:25678?allowInsecure=1&sni=915sg77.tfzhc.top#%e4%b8%ad%e5%9b%bd-tg%e9%a2%91%e9%81%93%3a%40bpjzx2-201
-trojan://26e219f2-5c2a-356c-9767-9fd681cc0134@scus1.ddns-pop.cyou:24567?allowInsecure=1#🇩🇪DE 2 → TG@SCINV
-ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQqQDE0LjI5LjEyNC4xNzQ6MTEwMzU=#🇨🇳 CN_30 v2cross.com
+```ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQq@14.29.124.174:11019#%F0%9F%87%AD%F0%9F%87%B0%20%E3%80%90tg%40freevpn8%E3%80%91_%F0%9F%87%A8%F0%9F%87%B3CN-%F0%9F%87%AD%F0%9F%87%B0HK_259
+ss://YWVzLTEyOC1nY206MjY5ZjcxYjktYzQ1Yi00M2YzLThjNDgtZWI1Zjk4NmFhNzA3@unicomv3.mipglxi.cn:6620#%e4%b8%ad%e5%9b%bd(TG%e9%a2%91%e9%81%93%3a%40kxswa)
+trojan://8c836caa-3d53-4829-bcfb-cbe0aa453a57@23.94.103.146:443?allowInsecure=1#🇺🇸US 29 → TG@SCINV
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1NTk1ZjFjZi1kN2MwLTQxMjEtYTNiZi0xOWU0MjNjMWY5YTFAbWYwMi54bXNzLnZpcDoxODg4OA==#Relay_🇷🇺 RU-🇳🇱NL_584
+trojan://iyinglong@13.38.55.14:443?allowInsecure=1#🇺🇸US 24 → TG@SCINV
+trojan://iyinglong@35.180.122.151:443?allowInsecure=1#🇫🇷FR 4 → TG@SCINV
+trojan://iyinglong@18.179.205.215:443?allowInsecure=1#🇯🇵JP 1 → TG@SCINV
+trojan://0Y9gOHSdRt@150.230.249.42:443?allowInsecure=1#%e7%be%8e%e5%9b%bd-tg%e9%a2%91%e9%81%93%3a%40bpjzx2-88
+ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQq@14.29.124.174:11003#%F0%9F%87%AD%F0%9F%87%B0%20%E3%80%90tg%40freevpn8%E3%80%91_%F0%9F%87%A8%F0%9F%87%B3CN-%F0%9F%87%AD%F0%9F%87%B0HK_255
+trojan://iyinglong@35.180.247.162:443?allowInsecure=1#FR%205%20%E2%86%92%20TG%40SCINV
+trojan://iyinglong@3.10.209.85:443?allowInsecure=1#GB%205%20%E2%86%92%20TG%40SCINV
+trojan://zFyLKH62WN@www.sxsy88.tk:44150?allowInsecure=1#🇺🇸US 53 → TG@SCINV
+trojan://iyinglong@54.188.171.13:443?allowInsecure=1#%e7%be%8e%e5%9b%bd(TG%e9%a2%91%e9%81%93%3a%40kxswa)
+trojan://iyinglong@34.219.183.33:443?allowInsecure=1#🇺🇸US 25 → TG@SCINV
 ```
 <h5>本次节点订阅地址：https://shadowshare.v2cross.com/publicserver/servers/temp/m5Wy1Y3wndtx4U6z</h5>
 <p>订阅地址二维码</p>
