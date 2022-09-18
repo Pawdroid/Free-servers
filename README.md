@@ -9,26 +9,26 @@
 </blockquote>
 <h4>节点列表：(这里仅展示部分节点，查看全部节点请下载app)</h4>
 
-```vmess://eyJhZGQiOiIzLnNnLnp6Lnh4eHh4LngtdC1mdWNrd29yZC5uZXR3b3JrIiwidiI6IjIiLCJwcyI6IlJlbGF5X/Cfh6jwn4ezQ04t8J+HrfCfh7BIS185NSIsInBvcnQiOjM2Njc5LCJpZCI6IjI0NGVmZmQ5LTAyMDQtM2M0YS04NTM3LTBkY2E0ZTVmZDliNSIsImFpZCI6IjAiLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiIiwiaG9zdCI6IiIsInBhdGgiOiIvIiwidGxzIjoiIn0=
-trojan://ce19e306-6b87-31b6-8161-df1fa9847b2e@scloud52.jafiyun.world:22052?allowInsecure=1&sni=scloud52.jafiyun.world#🇨🇳CN 5 → TG@SCINV
-trojan://1Qfea1eL3zCALPJm@los2-cn2.v2ce.com:443?security=xtls&encryption=none&type=tcp&flow=xtls-rprx-direct&sni=los2-cn2.v2ce.com#v2cross.com
-vmess://eyJhZGQiOiJ1c2EuamNuZi5hcHAiLCJ2IjoiMiIsInBzIjoiUmVsYXlf8J+HuvCfh7hVUy3wn4e68J+HuFVTXzE4IiwicG9ydCI6NDQzLCJpZCI6ImM3NTNlOGE4LWUxODAtNGU3Ni1hNDg2LWM5MTcyNzNkNzE4YiIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJob3N0IjoiIiwicGF0aCI6Ii96Y2pkIiwidGxzIjoidGxzIn0=
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1NTk1ZjFjZi1kN2MwLTQxMjEtYTNiZi0xOWU0MjNjMWY5YTFAbWYwMi54bXNzLnZpcDoxODg4OA==#🇷🇺 RU_469
-trojan://9d40fabf-b2f4-4964-9f83-aca3d42ff582@dtar1.bitznet.one:33015?allowInsecure=1&sni=cert.bitbyte.one#🇺🇸US 64 → TG@SCINV
-trojan://04eeae65-6000-45f8-ad55-275f87b0d45e@traru1.bitznet.one:32008?allowInsecure=1&sni=cert.bitbyte.one#🇺🇸US 49 → TG@SCINV
-trojan://04eeae65-6000-45f8-ad55-275f87b0d45e@dtfr1.bitznet.one:33009?allowInsecure=1&sni=cert.bitbyte.one#🇺🇸US 31 → TG@SCINV
-ss://YWVzLTI1Ni1jZmI6YUxwUXRmRVplNDQ1UXlIa0AxODUuMTI2LjExNi4xMjU6OTA5OA==#🇷🇴 RO_256 v2cross.com
-vmess://eyJhZGQiOiJ2MjkuaGVkdWlhbi5vbmxpbmUiLCJ2IjoiMiIsInBzIjoiUmVsYXlf8J+HuvCfh7hVUy3wn4e68J+HuFVTXzIwIiwicG9ydCI6MzA4NjYsImlkIjoiY2JiM2Y4NzctZDFmYi0zNDRjLTg3YTktZDE1M2JmZmQ1NDg0IiwiYWlkIjoiMiIsIm5ldCI6IndzIiwidHlwZSI6IiIsImhvc3QiOiJ2MjkuaGVkdWlhbi5vbmxpbmUiLCJwYXRoIjoiL29vb28iLCJ0bHMiOiIifQ==
-trojan://04eeae65-6000-45f8-ad55-275f87b0d45e@traph1.bitznet.one:32013?allowInsecure=1&sni=cert.bitbyte.one#🇺🇸US 48 → TG@SCINV
-trojan://xxoo@138.124.183.226:443?allowInsecure=1#NO%201%20%E2%86%92%20TG%40SCINV
-ss://YWVzLTI1Ni1nY206YkJFWElx@183.240.209.15:31905#v2cross.com%20-%20%E5%B9%BF%E4%B8%9C%E7%9C%81%E6%B7%B1%E5%9C%B3%E5%B8%82%E7%A7%BB%E5%8A%A8%204
-vless://72972da9-d188-40c6-83a6-4ec28fde2c0a@cg.rutracker-cn.com:443?path=%2FxxPb49hL0C&security=tls&encryption=none&type=ws&sni=cg.rutracker-cn.com#v2cross.com
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3NAMjEyLjEwMi41My44MTo0NDM=#🇬🇧 GB_214
-trojan://ukMzuFSmIXDvgW0h@cd.rutracker-cn.com:443?security=xtls&encryption=none&type=tcp&flow=xtls-rprx-direct&sni=cd.rutracker-cn.com#v2cross.com
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQQDE2Ny44OC42MS41MDo3MzA2#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD
-vmess://eyJhZGQiOiIxNTIuNzAuMjM1LjIwNyIsInYiOiIyIiwicHMiOiLwn4e68J+HuFVTXzIyIiwicG9ydCI6MzU0MTIsImlkIjoiNzBkOTUzMDgtMmE2MS00ZjkzLWYxMzktOTEwM2QwNTg3ZmQ5IiwiYWlkIjoiMCIsIm5ldCI6InRjcCIsInR5cGUiOiIiLCJob3N0IjoiIiwicGF0aCI6Ii8iLCJ0bHMiOiIifQ==
-trojan://04eeae65-6000-45f8-ad55-275f87b0d45e@dtru1.bitznet.one:33008?allowInsecure=1&sni=cert.bitbyte.one#🇺🇸US 34 → TG@SCINV
-trojan://ce19e306-6b87-31b6-8161-df1fa9847b2e@scloud51.jafiyun.world:22051?allowInsecure=1#🇨🇳CN 3 → TG@SCINV
+```ss://YWVzLTI1Ni1nY206YkJFWElx@183.240.209.15:31905#v2cross.com%20-%20%E5%B9%BF%E4%B8%9C%E7%9C%81%E6%B7%B1%E5%9C%B3%E5%B8%82%E7%A7%BB%E5%8A%A8%204
+trojan://dfbf0d67-f03d-4184-a224-c2d64a571f99@s4.hass.win:12340?allowInsecure=1#🇩🇪DE 1 → TG@SCINV
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkBTU1JTVUItVjEwLeS7mOi0ueaOqOiNkDp2MmNyb3NzLmNvbSIsDQogICJhZGQiOiAiMTcyLjEwNS4yMzUuMTYzIiwNCiAgInBvcnQiOiAiNDQzIiwNCiAgImlkIjogIjkyNzA5NGQzLWQ2NzgtNDc2My04NTkxLWUyNDBkMGJjYWU4NyIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiL2NoYXQiLA0KICAidGxzIjogInRscyIsDQogICJzbmkiOiAiIiwNCiAgImFscG4iOiAiIg0KfQ==
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@169.197.143.232:7307#v2cross.com%20-%20%E5%8C%97%E7%BE%8E%E5%9C%B0%E5%8C%BA%20%2017
+trojan://04eeae65-6000-45f8-ad55-275f87b0d45e@dtfr1.bitznet.one:33009?allowInsecure=1&sni=cert.bitbyte.one#🇺🇸US 29 → TG@SCINV
+ss://YWVzLTI1Ni1nY206Q0JZeVBjMEd3b2FROW0yb3FXZEVANjQuMTEyLjQyLjcyOjE2OTk5#🏁 ZZ_1187
+ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQq@14.29.124.174:11003#%F0%9F%87%AD%F0%9F%87%B0%20%E3%80%90tg%40freevpn8%E3%80%91_%F0%9F%87%A8%F0%9F%87%B3CN-%F0%9F%87%AD%F0%9F%87%B0HK_255
+ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQqQDE0LjI5LjEyNC4xNjg6MjQwMDA=#🇨🇳 CN_75 v2cross.com
+trojan://9d40fabf-b2f4-4964-9f83-aca3d42ff582@iplcjp1.bitznet.one:34004?allowInsecure=1&sni=cert.bitbyte.one#🇺🇸US 68 → TG@SCINV
+trojan://04eeae65-6000-45f8-ad55-275f87b0d45e@dtph1.bitznet.one:33013?allowInsecure=1&sni=cert.bitbyte.one#🇺🇸US 31 → TG@SCINV
+trojan://9d40fabf-b2f4-4964-9f83-aca3d42ff582@iplcau1.bitznet.one:34012?allowInsecure=1&sni=cert.bitbyte.one#🇺🇸US 63 → TG@SCINV
+ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQq@14.29.124.168:24004#%F0%9F%87%A8%F0%9F%87%B3%20%E3%80%90tg%40freevpn8%E3%80%91_%F0%9F%87%A8%F0%9F%87%B3CN-%F0%9F%87%B9%F0%9F%87%BCTW_245
+trojan://dfbf0d67-f03d-4184-a224-c2d64a571f99@s3.hass.win:12340?allowInsecure=1#🇺🇸US 2 → TG@SCINV
+trojan://8767cf29-2cbc-43b1-9458-933081705a55@us1.yunpan.dog:38120?allowInsecure=1#US%2022%20%E2%86%92%20TG%40SCINV
+ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQqQDE0LjI5LjEyNC4xNzQ6MTEwMzU=#🇨🇳 CN_30 v2cross.com
+trojan://ce19e306-6b87-31b6-8161-df1fa9847b2e@scloud29.jafiyun.world:22029?allowInsecure=1#🇨🇳CN 4 → TG@SCINV
+ss://YWVzLTI1Ni1jZmI6a1NQbXZ3ZEZ6R01NVzVwWUAxODUuMTY3LjExNi4yNTA6OTAwNw==#🇦🇺AU_19
+ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQqQDE0LjI5LjEyNC4xNzQ6MTEwNDM=#🇨🇳 CN_43 v2cross.com
+trojan://04eeae65-6000-45f8-ad55-275f87b0d45e@dtus1.bitznet.one:33001?allowInsecure=1&sni=cert.bitbyte.one#🇺🇸US 36 → TG@SCINV
+trojan://ce19e306-6b87-31b6-8161-df1fa9847b2e@scloud28.jafiyun.world:22028?allowInsecure=1#🇨🇳CN 1 → TG@SCINV
 ```
 <h5>本次节点订阅地址：https://shadowshare.v2cross.com/publicserver/servers/temp/hPz1BD6nwkJi8RoZ</h5>
 <p>订阅地址二维码</p>
