@@ -9,10 +9,11 @@
 </blockquote>
 <h4>节点列表：(这里仅展示部分节点，查看全部节点请下载app)</h4>
 
-```trojan://vGWCNNfBHwSY6m6M@v2cross.com.04.v2ce.com:443?security=xtls&encryption=none&type=tcp&flow=xtls-rprx-direct&sni=v2cross.com.04.v2ce.com#v2cross.com
-
+```trojan://mMQ6qJB9xbhiRvgg@v2cross.com.01.v2ce.com:443?security=xtls&encryption=none&type=tcp&flow=xtls-rprx-direct&sni=v2cross.com.01.v2ce.com#v2cross.com
+vless://72972da9-d188-40c6-83a6-4ec28fde2c0a@cg.rutracker-cn.com:443?path=%2FxxPb49hL0C&security=tls&encryption=none&type=ws&sni=cg.rutracker-cn.com#v2cross.com
+trojan://fIYU5DCiWZ6uYOou@los1.v2ce.com:443?security=xtls&encryption=none&type=tcp&flow=xtls-rprx-direct&sni=los1.v2ce.com#v2cross.com
 ```
-<h5>本次节点订阅地址：https://shadowshare.v2cross.com/publicserver/servers/temp/3bTC6A2PuFldaSwg</h5>
+<h5>本次节点订阅地址：https://shadowshare.v2cross.com/publicserver/servers/temp/X53NnLGSjOkKHmR0</h5>
 <p>订阅地址二维码</p>
 <img src='http://shadowshare.v2cross.com/qrcode.png' width=250 height=250>
 <blockquote style='text-align: center;'>更多节点、免费订阅地址及订阅转换请下载本站提供的共享节点app软件<a href='https://shadowshare.v2cross.com'>ShadowShare</a>导出节点使用，支持iOS、Android下载</blockquote>
