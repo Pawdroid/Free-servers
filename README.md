@@ -9,8 +9,8 @@
 </blockquote>
 <h4>节点列表：(这里仅展示部分节点，查看全部节点请下载app)</h4>
 
-```trojan://5y8y3CwxRVYhyfSY@ce.rutracker-cn.com:443?security=xtls&encryption=none&type=tcp&flow=xtls-rprx-direct&sni=ce.rutracker-cn.com#v2cross.com
-trojan://1Qfea1eL3zCALPJm@los2-cn2.v2ce.com:443?security=xtls&encryption=none&type=tcp&flow=xtls-rprx-direct&sni=los2-cn2.v2ce.com#v2cross.com
+```
+vless://d7e810f6-9389-47f4-be4b-438f410f3968@cz1.v2ce.com:443?path=%2FHm4aRbSa&security=tls&encryption=none&type=ws&sni=cz1.v2ce.com#v2cross.com
 ```
 <h5>本次节点订阅地址：https://shadowshare.v2cross.com/publicserver/servers/temp/Xeco6grZPj9USq1F</h5>
 <p>订阅地址二维码</p>
