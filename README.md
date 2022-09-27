@@ -9,26 +9,15 @@
 </blockquote>
 <h4>节点列表：(这里仅展示部分节点，查看全部节点请下载app)</h4>
 
-```vmess://eyJ2IjogIjIiLCAicHMiOiAiZ2l0aHViLmNvbS9mcmVlZnEgLSBcdTdmOGVcdTU2ZmQgIDQwIiwgImFkZCI6ICIxNjEuMTI5LjM0LjEwMiIsICJwb3J0IjogIjQ0MyIsICJpZCI6ICJlYzczNjQ4Mi0xNzNlLTNlZmYtOTExNC1iNDlkZjgwNTZlN2QiLCAiYWlkIjogIjAiLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogIjE2MS4xMjkuMzQuMTAyIiwgInBhdGgiOiAiLyIsICJ0bHMiOiAidGxzIiwgInNuaSI6ICIiLCAiYWxwbiI6ICIifQ==
-trojan://5125c2c4-ad7c-4d3c-8b17-73c9b8a9f8e8@913tw.tfzhc.top:44318#github.com/freefq%20-%20%E5%8A%A0%E6%8B%BF%E5%A4%A7%20%2027
-trojan://26e219f2-5c2a-356c-9767-9fd681cc0134@120.195.181.72:12336?allowInsecure=1#🇨🇳CN 16 → v2cross.com
-trojan://26e219f2-5c2a-356c-9767-9fd681cc0134@120.195.181.51:12337?allowInsecure=1#🇨🇳CN 21 → v2cross.com
-trojan://6414baac-2dc2-4a9f-bc07-86e90e3a375e@tr04.kaochangonline.online:443#github.com/freefq%20-%20%E9%A6%99%E6%B8%AFADCDATA%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83%2029
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIuiLseWbvShUR+mikemBkzpAa3hzd2EpIiwNCiAgImFkZCI6ICIyMTIuMTExLjQzLjIwOSIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICJlODljYzMzMS04MTNhLTQ4OTctODAyNC04NDE1YWNkN2UzY2EiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogInNnMS4zMzIwLnRvcCIsDQogICJwYXRoIjogIi8iLA0KICAidGxzIjogInRscyIsDQogICJzbmkiOiAiIg0KfQ==
-trojan://6f0f192d-fa1f-44db-961b-8fcc6228c966@traru1.bitznet.one:32008?allowInsecure=1&sni=cert.bitbyte.one#🇺🇸US 16 → v2cross.com
-trojan://5125c2c4-ad7c-4d3c-8b17-73c9b8a9f8e8@924hk02.tfzhc.top:443#github.com/freefq%20-%20%E6%97%A5%E6%9C%AC%20%203
-ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQq@14.29.124.174:11003#%F0%9F%87%AD%F0%9F%87%B0%20%E3%80%90tg%40freevpn8%E3%80%91_%F0%9F%87%A8%F0%9F%87%B3CN-%F0%9F%87%AD%F0%9F%87%B0HK_255
-trojan://6f0f192d-fa1f-44db-961b-8fcc6228c966@traau1.bitznet.one:32012?allowInsecure=1&sni=cert.bitbyte.one#🇺🇸US 15 → v2cross.com
-vmess://eyJ2IjogIjIiLCAicHMiOiAiZ2l0aHViLmNvbS9mcmVlZnEgLSBcdTdmOGVcdTU2ZmQgIDkiLCAiYWRkIjogImRtLXVzMDEtZGlyZWN0MTIuZG0tdXMwMS5sYy1ub2RlLmNvbSIsICJwb3J0IjogIjQ0MyIsICJpZCI6ICI5MGE4NjgyMC04OTg2LTMwYmMtOGExYy01OTdjNjczZTM0MjgiLCAiYWlkIjogIjIiLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogImRtLXVzMDEtZGlyZWN0MTIuZG0tdXMwMS5sYy1ub2RlLmNvbSIsICJwYXRoIjogIi8iLCAidGxzIjogInRscyIsICJzbmkiOiAiIn0=
-ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQqQDE0LjI5LjEyNC4xNzQ6MTEwNDM=#🇨🇳 CN_43 v2cross.com
-trojan://26e219f2-5c2a-356c-9767-9fd681cc0134@120.195.181.51:12351#%F0%9F%87%AD%F0%9F%87%B023
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIuaWsOWKoOWdoShUR+mikemBkzpAa3hzd2EpIiwNCiAgImFkZCI6ICIxOTIuNTMuMTE4LjE0IiwNCiAgInBvcnQiOiAiNDQzIiwNCiAgImlkIjogImU4OWNjMzMxLTgxM2EtNDg5Ny04MDI0LTg0MTVhY2Q3ZTNjYSIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAic2cxLjMzMjAudG9wIiwNCiAgInBhdGgiOiAiLyIsDQogICJ0bHMiOiAidGxzIiwNCiAgInNuaSI6ICIiDQp9
-trojan://26e219f2-5c2a-356c-9767-9fd681cc0134@103.173.254.205:443?allowInsecure=1#(TG%e9%a2%91%e9%81%93%3a%40kxswa)
-ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQqQDE0LjI5LjEyNC4xNzQ6MTEwMDc=#Relay_🇨🇳CN-🇭🇰HK_50
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIue+juWbvShUR+mikemBkzpAa3hzd2EpIiwNCiAgImFkZCI6ICJ6ei5mbW1tejEuY29tIiwNCiAgInBvcnQiOiAiNDgwMDAiLA0KICAiaWQiOiAiZTUyYTkxNjYtMjQ0YS0zYmEyLTg4NTAtNWM4YTdkZjJhYzhiIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJ6ei5mbW1tejEuY29tIiwNCiAgInBhdGgiOiAiL2ZtIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiINCn0=
-vmess://eyJhZGQiOiIxMjguMS4xMzQuMTI2IiwidiI6IjIiLCJwcyI6IvCfh63wn4ewSEtfMTkxIiwicG9ydCI6NjY2NiwiaWQiOiI3ZmIzYjU3MS1jZGE4LTQwZjYtYzllNi1kYjk3NjVlYThmYWEiLCJhaWQiOiIwIiwibmV0IjoidGNwIiwidHlwZSI6IiIsImhvc3QiOiIiLCJwYXRoIjoiLyIsInRscyI6IiJ9
-ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQqQDE0LjI5LjEyNC4xNjg6MjQwMDY=#🇨🇳 CN_75 v2cross.com
-vmess://eyJhZGQiOiAiMTM4LjY4LjkwLjIzMSIsICJhaWQiOiAiMCIsICJob3N0IjogIjEzOC42OC45MC4yMzEiLCAiaWQiOiAiMjk0ZmZkYzMtNTk0Mi00NWFlLWExNTQtZGM2YzkyZWFjZjFkIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9jY3R2MTMvaGQubTN1OCIsICJwb3J0IjogIjgwODAiLCAicHMiOiAiZ2l0aHViLmNvbS9mcmVlZnEgLSBcdTVmYjdcdTU2ZmRcdTllZDFcdTY4ZWVcdTVkZGVcdTZjZDVcdTUxNzBcdTUxNGJcdTc5OGZEaWdpdGFsT2NlYW5cdTY1NzBcdTYzNmVcdTRlMmRcdTVmYzMgMTMiLCAic2VjdXJpdHkiOiAiYXV0byIsICJ0bHMiOiAiIiwgInR5cGUiOiAiIiwgInVybF9ncm91cCI6ICJ0Lm1lL3JpcGFvamllZGlhbiIsICJ2IjogIjIifQ==
+```vmess://eyJhZGQiOiAieW1qa2ctMTA0Ny12Mi0wLmhrZy1yLWtjZC1iLmpkLmNqaGgubG9sIiwgImFpZCI6ICIwIiwgImhvc3QiOiAiY2RuLmNqaGgubG9sIiwgImlkIjogImZjNTQxMzAyLTdhODQtNDk1Ny04ZTkzLWI5NzQwOTRjYzdhMCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvamU1eDNwQk4xdmV6M05RdWROa0IiLCAicG9ydCI6IDM5OTE4LCAicHMiOiAiZ2l0aHViLmNvbS9mcmVlZnEgLSBcdTVlN2ZcdTRlMWNcdTc3MDFcdTVlN2ZcdTVkZGVcdTVlMDJcdTc5ZmJcdTUyYTggMjUiLCAidGxzIjogInRscyIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=
+trojan://26e219f2-5c2a-356c-9767-9fd681cc0134@120.195.181.51:12356?allowInsecure=1#🇨🇳CN 20 → v2cross.com
+trojan://26e219f2-5c2a-356c-9767-9fd681cc0134@120.195.181.72:12337?allowInsecure=1#🇨🇳CN 21 → v2cross.com
+ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQqQDE0LjI5LjEyNC4xNzQ6MTEwMzI=#Relay_🇨🇳 CN-🇭🇰HK_45
+trojan://26e219f2-5c2a-356c-9767-9fd681cc0134@120.195.181.51:12332?allowInsecure=1#🇨🇳CN 8 → v2cross.com
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIuaWsOWKoOWdoShUR+mikemBkzpAa3hzd2EpIiwNCiAgImFkZCI6ICJjZi43MzE4MDgudGsiLA0KICAicG9ydCI6ICI0NDMiLA0KICAiaWQiOiAiYjg2ZDk4NDQtNDNlZS00ZWY0LWJmNjgtNDFmZmQ2MzQ1ZTM2IiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJjYy4xODA4LmNmIiwNCiAgInBhdGgiOiAiLzJ5ZXZ3cyIsDQogICJ0bHMiOiAidGxzIiwNCiAgInNuaSI6ICIiDQp9
+trojan://0f3abc1b-5443-4edd-a012-886bf1a43898@165.154.246.195:49011?allowInsecure=1&peer=hk-b.bbbb.pw&tfo=1#Hongkong_3
+trojan://6f0f192d-fa1f-44db-961b-8fcc6228c966@dtin1.bitznet.one:33017?allowInsecure=1&sni=dtin1.bitznet.one#%e6%be%b3%e5%a4%a7%e5%88%a9%e4%ba%9a(TG%e9%a2%91%e9%81%93%3a%40kxswa)
+trojan://6f0f192d-fa1f-44db-961b-8fcc6228c966@trahk1.bitznet.one:32443?allowInsecure=1&peer=cert.bitbyte.one#%F0%9F%87%AD%F0%9F%87%B020
 ```
 <h5>上方节点（部分）永久订阅地址：https://raw.fastgit.org/Pawdroid/Free-servers/main/sub</h5>
 <p>上方订阅地址二维码</p>
