@@ -9,27 +9,27 @@
 </blockquote>
 <h4>节点列表：(这里仅展示部分节点，查看全部节点请下载app)</h4>
 
-```vmess://eyJhZGQiOiAianAyLnR6Y2N3ei5maXQiLCAiYWlkIjogMCwgImhvc3QiOiAiJTdCJTIySG9zdCUyMjolMjJqcDIudHpjY3d6LmZpdCUyMiU3RCIsICJpZCI6ICIwYzExNDlkMi1jNDlkLTQwMDAtZWNiOS1jNjAwMWU2NmEzZDAiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL2Zra2YiLCAicG9ydCI6IDQ0MywgInBzIjogImdpdGh1Yi5jb20vZnJlZWZxIC0gXHU2NWU1XHU2NzJjXHU0ZTFjXHU0ZWFjXHU5MGZkXHU1NGMxXHU1ZGRkXHU1MzNhTGlub2RlXHU2NTcwXHU2MzZlXHU0ZTJkXHU1ZmMzIDEwIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIn0=
-trojan://43e50191-ba23-4fc1-94f4-626625f936b6@dtru1.bitznet.one:33008?allowInsecure=1&sni=cert.bitbyte.one#US%2030%20%E2%86%92%20v2cross.com
-trojan://26e219f2-5c2a-356c-9767-9fd681cc0134@165.154.243.224:24568?allowInsecure=1#CA%205%20%E2%86%92%20v2cross.com
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVAMy4zNi4xMTguMTkwOjQ0Mw==#🇺🇸 US_548
-ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQqQDE0LjI5LjEyNC4xNzQ6MTEwMTU=#Relay_🇨🇳 CN-🇭🇰HK_58
-trojan://26e219f2-5c2a-356c-9767-9fd681cc0134@124.71.16.99:12351?allowInsecure=1#%e4%b8%ad%e5%9b%bd(TG%e9%a2%91%e9%81%93%3a%40kxswa)
-ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQqQDE0LjI5LjEyNC4xNjg6MjQwMDg=#🇨🇳 CN_78 v2cross.com
-trojan://26e219f2-5c2a-356c-9767-9fd681cc0134@120.195.181.51:12334?allowInsecure=1#🇨🇳CN 102 → v2cross.com
-vmess://eyJhZGQiOiAiMTAzLjEzOC43NS42NiIsICJhaWQiOiAwLCAiaG9zdCI6ICIiLCAiaWQiOiAiZmM1NDEzMDItN2E4NC00OTU3LThlOTMtYjk3NDA5NGNjN2EwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9qZTV4M3BCTjF2ZXozTlF1ZE5rQiIsICJwb3J0IjogODg4LCAicHMiOiAidjJjcm9zcy5jb20gLSBcdTdmOGVcdTU2ZmRcdTUyYTBcdTUyMjlcdTc5OGZcdTVjM2NcdTRlOWFcdTVkZGVcdThkMzlcdTUyMjlcdTg0OTlIdXJyaWNhbmUgRWxlY3RyaWNcdTUxNmNcdTUzZjggMjMiLCAidGxzIjogInRscyIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIifQ==
-trojan://26e219f2-5c2a-356c-9767-9fd681cc0134@124.71.16.99:12333?allowInsecure=1#🇨🇳CN 113 → v2cross.com
-trojan://26e219f2-5c2a-356c-9767-9fd681cc0134@124.71.16.99:12335?allowInsecure=1#🇨🇳CN 115 → v2cross.com
-trojan://8e94c4bd-6266-43e2-8c3a-dc7e3439e3be@99tw03.tfzhc.top:443#v2cross.com%20-%20%E5%8A%A0%E6%8B%BF%E5%A4%A7%20%204
-trojan://dfbf0d67-f03d-4184-a224-c2d64a571f99@s3.hass.win:12340?allowInsecure=1&sni=s3.hass.win#%e7%be%8e%e5%9b%bd(TG%e9%a2%91%e9%81%93%3a%40kxswa)
-vmess://eyJhZGQiOiAieW1qa2ctMTA0Ny12Mi0wLmhrZy1yLWtjZC1iLmpkLmNqaGgubG9sIiwgImFpZCI6ICIwIiwgImhvc3QiOiAiY2RuLmNqaGgubG9sIiwgImlkIjogImZjNTQxMzAyLTdhODQtNDk1Ny04ZTkzLWI5NzQwOTRjYzdhMCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvamU1eDNwQk4xdmV6M05RdWROa0IiLCAicG9ydCI6IDM5OTE4LCAicHMiOiAiZ2l0aHViLmNvbS9mcmVlZnEgLSBcdTVlN2ZcdTRlMWNcdTc3MDFcdTVlN2ZcdTVkZGVcdTVlMDJcdTc5ZmJcdTUyYTggMzMiLCAidGxzIjogInRscyIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=
-trojan://43e50191-ba23-4fc1-94f4-626625f936b6@iplcsk1.bitznet.one:34005?allowInsecure=1&sni=cert.bitbyte.one#US%2034%20%E2%86%92%20v2cross.com
-ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M@156.146.38.163:443#github.com/freefq%20-%20%E7%BE%8E%E5%9B%BD%20%204
+```trojan://43e50191-ba23-4fc1-94f4-626625f936b6@dtin1.bitznet.one:33017?allowInsecure=1&sni=cert.bitbyte.one#🇺🇸US 27 → v2cross.com
+vmess://eyJhZGQiOiAiMTkyLjk2LjIwNC4yNTAiLCAiYWlkIjogNCwgImhvc3QiOiAiIiwgImlkIjogImFiYTUwZGQ0LTU0ODQtM2IwNS1iMTRhLTQ2NjFjYWY4NjJkNSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvd3MiLCAicG9ydCI6IDQ0MywgInBzIjogImdpdGh1Yi5jb20vZnJlZWZxIC0gXHU3ZjhlXHU1NmZkICAyNCIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiJ9
+trojan://43e50191-ba23-4fc1-94f4-626625f936b6@traus1.bitznet.one:32001?allowInsecure=1&sni=cert.bitbyte.one#US%2038%20%E2%86%92%20v2cross.com
+vmess://eyJhZGQiOiJodm9vdS0xMDQyLXYyLTEudHlvLWQta2NkLmFwLmNqaGguYmVhdXR5IiwidiI6IjIiLCJwcyI6IlJlbGF5X/Cfj4EgWlot8J+PgVpaXzExMjIiLCJwb3J0Ijo4ODgsImlkIjoiZmM1NDEzMDItN2E4NC00OTU3LThlOTMtYjk3NDA5NGNjN2EwIiwiYWlkIjoiMCIsIm5ldCI6IndzIiwidHlwZSI6IiIsImhvc3QiOiIlN0IlMjJIb3N0JTIyOiUyMnMzLmNqaGguYmVhdXR5JTIyJTdEIiwicGF0aCI6Ii9qZTV4M3BCTjF2ZXozTlF1ZE5rQiIsInRscyI6InRscyJ9
 ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQqQDE0LjI5LjEyNC4xNzQ6MTEwNTA=#Relay_🇨🇳CN-🇭🇰HK_76
-vmess://eyJ2IjogIjIiLCAicHMiOiAiZ2l0aHViLmNvbS9mcmVlZnEgLSBcdTZlNTZcdTUzNTdcdTc3MDFcdTYwMDBcdTUzMTZcdTVlMDJcdTc5ZmJcdTUyYTggMTUiLCAiYWRkIjogIjExMS4yMy4yNTIuMjE4IiwgInBvcnQiOiAiNTIxMDIiLCAiaWQiOiAiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwgImFpZCI6ICI2NCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAiIiwgInNuaSI6ICIifQ==
-trojan://43e50191-ba23-4fc1-94f4-626625f936b6@traus1.bitznet.one:32001?allowInsecure=1&sni=cert.bitbyte.one#US%2042%20%E2%86%92%20v2cross.com
-trojan://26e219f2-5c2a-356c-9767-9fd681cc0134@120.195.181.51:12336?allowInsecure=1#🇨🇳CN 101 → v2cross.com
-vmess://eyJhZGQiOiAiYXouaGswMS5wYW9wYW9jbG91ZC5jeW91IiwgImFpZCI6IDAsICJob3N0IjogImF6LmhrMDEucGFvcGFvY2xvdWQuY3lvdSIsICJpZCI6ICJkOGM1YjQ4Ni04NGJiLTM4ODctYTFkOS0wNzQ1NWVhNjA4ZjIiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLyIsICJwb3J0IjogMTAwMDIsICJwcyI6ICJnaXRodWIuY29tL2ZyZWVmcSAtIFx1OTk5OVx1NmUyZk1pY3Jvc29mdFx1NjU3MFx1NjM2ZVx1NGUyZFx1NWZjMyAxIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIn0=
+ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQqQDE0LjI5LjEyNC4xNzQ6MTEwMTk=#Relay_🇨🇳 CN-🇭🇰HK_69
+trojan://26e219f2-5c2a-356c-9767-9fd681cc0134@124.71.16.99:12335?allowInsecure=1#CN%2029%20%E2%86%92%20v2cross.com
+vmess://eyJhZGQiOiI0LmhrLnp6Lnh4eHh4LngtdC1mdWNrd29yZC5uZXR3b3JrIiwidiI6IjIiLCJwcyI6IlJlbGF5X/Cfh6jwn4ezQ04t8J+Ht/Cfh7pSVV84MCIsInBvcnQiOjM2Njc2LCJpZCI6IjI0NGVmZmQ5LTAyMDQtM2M0YS04NTM3LTBkY2E0ZTVmZDliNSIsImFpZCI6IjAiLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiIiwiaG9zdCI6IiIsInBhdGgiOiIvIiwidGxzIjoiIn0=
+ss://YWVzLTEyOC1nY206NDI2OTE2Y2QtNWQ0YS00ZTY3LWIyMDktOTgwZjhjMjRhZTM0@relay.wl-node1.com:39002#🇨🇳CN 69 → v2cross.com
+ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQqQDE0LjI5LjEyNC4xNzQ6MTEwMDQ=#Relay_🇨🇳 CN-🇭🇰HK_70
+trojan://43e50191-ba23-4fc1-94f4-626625f936b6@trahk5.bitznet.one:32000?allowInsecure=1&sni=cert.bitbyte.one#US%2029%20%E2%86%92%20v2cross.com
+trojan://26e219f2-5c2a-356c-9767-9fd681cc0134@120.195.181.72:12334?allowInsecure=1#🇨🇳CN 33 → v2cross.com
+trojan://fffe09c3-32c3-44ac-9201-27e12dc2bd7c@train1.bitznet.one:32017?allowInsecure=1&sni=cert.bitbyte.one#US%2049%20%E2%86%92%20v2cross.com
+trojan://26e219f2-5c2a-356c-9767-9fd681cc0134@120.195.181.72:12356?allowInsecure=1#%e4%b8%ad%e5%9b%bd(TG%e9%a2%91%e9%81%93%3a%40kxswa)
+trojan://43e50191-ba23-4fc1-94f4-626625f936b6@dtuk1.bitznet.one:33010?allowInsecure=1&sni=cert.bitbyte.one#🇺🇸US 33 → v2cross.com
+vmess://eyJhZGQiOiAieW1qa2ctMTA0Ny12Mi0wLmhrZy1yLWtjZC1iLmpkLmNqaGgubG9sIiwgImFpZCI6ICIwIiwgImhvc3QiOiAiY2RuLmNqaGgubG9sIiwgImlkIjogImZjNTQxMzAyLTdhODQtNDk1Ny04ZTkzLWI5NzQwOTRjYzdhMCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvamU1eDNwQk4xdmV6M05RdWROa0IiLCAicG9ydCI6IDM5OTE4LCAicHMiOiAidjJjcm9zcy5jb20gLSBcdTVlN2ZcdTRlMWNcdTc3MDFcdTVlN2ZcdTVkZGVcdTVlMDJcdTc5ZmJcdTUyYTggMTgiLCAidGxzIjogInRscyIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=
+trojan://43e50191-ba23-4fc1-94f4-626625f936b6@traru1.bitznet.one:32008?allowInsecure=1&sni=cert.bitbyte.one#US%2061%20%E2%86%92%20v2cross.com
+vmess://eyJhZGQiOiAiMTAzLjEzOC43NS4yNyIsICJhaWQiOiAwLCAiaG9zdCI6ICIiLCAiaWQiOiAiZmM1NDEzMDItN2E4NC00OTU3LThlOTMtYjk3NDA5NGNjN2EwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9qZTV4M3BCTjF2ZXozTlF1ZE5rQiIsICJwb3J0IjogODg4LCAicHMiOiAiZ2l0aHViLmNvbS9mcmVlZnEgLSBcdTdmOGVcdTU2ZmRcdTUyYTBcdTUyMjlcdTc5OGZcdTVjM2NcdTRlOWFcdTVkZGVcdThkMzlcdTUyMjlcdTg0OTlIdXJyaWNhbmUgRWxlY3RyaWNcdTUxNmNcdTUzZjggMjYiLCAidGxzIjogInRscyIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIifQ==
+ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQqQDE0LjI5LjEyNC4xNzQ6MTEwMDk=#🇨🇳 CN_40 v2cross.com
+vmess://eyJhZGQiOiJ3d3cuZmxpZXN3aW1pbmcudGsiLCJ2IjoiMiIsInBzIjoiXzE5NSIsInBvcnQiOjQ0MywiaWQiOiJiNzUxOWE2Zi1jMWRlLTQ2NjctZTYwNi1iNjBjNjVkMTkwNzgiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiJ0bHMifQ==
+ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQqQDE0LjI5LjEyNC4xNjg6MjQwMDk=#🇨🇳 CN_81 v2cross.com
 ```
 <h5>本次节点订阅地址：https://shadowshare.v2cross.com/publicserver/servers/temp/RV8dzt2goKmrCf30</h5>
 <p>订阅地址二维码</p>
