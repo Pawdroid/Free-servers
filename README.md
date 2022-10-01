@@ -9,23 +9,20 @@
 </blockquote>
 <h4>节点列表：(这里仅展示部分节点，查看全部节点请下载app)</h4>
 
-```trojan://5d36674a-1a01-41e9-b246-72bc762faa82@sssvip011.goumaituijian.xyz:16888?allowInsecure=1&tfo=1#%E5%8F%B0%E6%B9%BE-IPLC-01
-vmess://eyJhZGQiOiAiMjMuODMuMjI3LjMwIiwgImFpZCI6IDAsICJob3N0IjogIiIsICJpZCI6ICIwZjgzZjFjMi1hZTg3LTRkZmItODdiYi1mMDJiZDY1Y2JiZjgiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogNTAxOCwgInBzIjogImdpdGh1Yi5jb20vUGF3ZHJvaWQgLSBcdTdmOGVcdTU2ZmRcdTUyYTBcdTUyMjlcdTc5OGZcdTVjM2NcdTRlOWFcdTVkZGVcdThkMzlcdTUyMjlcdTg0OTlJVDdcdTdmNTFcdTdlZGMgNCIsICJ0bHMiOiAiIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiJ9
-trojan://b62a64c0-4b87-436e-aef1-28eb22da69b7@99jp.tfzhc.top:44311?peer=99jp.tfzhc.top#11
-trojan://c576e79d-c999-4523-8d4a-6df352542f70@dttw1.bitznet.one:33003?allowInsecure=1&sni=cert.bitbyte.one#%e6%be%b3%e5%a4%a7%e5%88%a9%e4%ba%9a(TG%e9%a2%91%e9%81%93%3a%40kxswa)
-trojan://1ff040d2-3fa5-4998-9e48-505af8389f1e@dtbr1.bitznet.one:33016?allowInsecure=1&sni=cert.bitbyte.one#🇺🇸US 32 → v2cross.com
-trojan://1d4907c5-22a7-4d4a-8a8e-28744f22fe31@trajp1.bitznet.one:32004?allowInsecure=1&sni=cert.bitbyte.one#🇺🇸US 19 → v2cross.com
-vmess://eyJ2IjogIjIiLCAicHMiOiAiZ2l0aHViLmNvbS9QYXdkcm9pZCAtIFx1N2Y4ZVx1NTZmZFx1NTJhMFx1NTIyOVx1Nzk4Zlx1NWMzY1x1NGU5YVx1NWRkZVx1NWYxN1x1OTFjY1x1ODQ5OVx1NzI3OVx1NWUwMkxpbm9kZVx1NTE2Y1x1NTNmOCA1IiwgImFkZCI6ICJ1czAyLmhlbmV0LmN5b3UiLCAicG9ydCI6ICIyMDAwMCIsICJpZCI6ICIyMGJmY2QwYS1lZmE4LTQ3ZjktYWE1OS0xYzA0OTM0NTA1NDgiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogImNjdHYuY29tIiwgInBhdGgiOiAiL2xpdmUiLCAidGxzIjogIiJ9
-vmess://eyJ2IjogIjIiLCAicHMiOiAidjJjcm9zcy5jb20gLSBcdTdmOGVcdTU2ZmRcdTUyYTBcdTVkZGUgMTEiLCAiYWRkIjogIjY0LjExMi40Mi41MyIsICJwb3J0IjogIjE2OTk5IiwgInR5cGUiOiAibm9uZSIsICJpZCI6ICI0OGZiMjdhNC1lNmZlLTQyY2YtOTViZi0xMDNkMjMxOGVkNWQiLCAiYWlkIjogIjAiLCAibmV0IjogInRjcCIsICJwYXRoIjogIi8iLCAiaG9zdCI6ICIiLCAidGxzIjogIiJ9
-vmess://eyJhZGQiOiAiMTYxLjM1LjIyOS45NCIsICJhaWQiOiAwLCAiaG9zdCI6ICIiLCAiaWQiOiAiMjc4NDg3MzktN2U2Mi00MTM4LTlmZDMtMDk4YTYzOTY0YjZiIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi90ZWNoIiwgInBvcnQiOiA0NDMsICJwcyI6ICJnaXRodWIuY29tL1Bhd2Ryb2lkIC0gXHU3ZjhlXHU1NmZkICA2IiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIn0=
-trojan://9c48615a-d5e7-366c-907f-19a105b17451@174.136.205.28:443?allowInsecure=1#🇷🇼RW 1 → v2cross.com
-vmess://eyJhZGQiOiAiNjQuMTEyLjQyLjczIiwgImFpZCI6IDAsICJob3N0IjogInd3dy5zaHVueGluLm1sIiwgImlkIjogIjQ5NDZmNzc2LTBhZjMtNDlmMy1hY2FkLWQxNTc0NzVkMjUzZSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvUDBTNVU3TksiLCAicG9ydCI6IDQ0MywgInBzIjogImdpdGh1Yi5jb20vUGF3ZHJvaWQgLSBcdTdmOGVcdTU2ZmRcdTUyYTBcdTVkZGUgNDAiLCAidGxzIjogInRscyIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIifQ==
-trojan://d91e58e8-0ce1-495d-b7a7-0bb96200884e@iplcsg1.bitznet.one:34006?allowInsecure=1&sni=cert.bitbyte.one#🇺🇸US 48 → v2cross.com
-trojan://bbab60b8-779f-31e2-916e-571f7d7023c4@zz2.zahuopu.top:35111?peer=jd1.zahuopu.top#%F0%9F%87%B9%F0%9F%87%BC%20v1-%7C%E5%8F%B0%E6%B9%BE3%7C%E4%B8%AD%E8%BD%AC%7C%E8%A7%A3%E9%94%81%E6%B5%81%E5%AA%92%E4%BD%93%7C
-vmess://eyJhZGQiOiJyaW9wLm1pYW9nZTExMC5jZiIsInYiOiIyIiwicHMiOiJSZWxheV/wn4e68J+HuCBVUy3wn4e68J+HuFVTXzQ2MyIsInBvcnQiOjQ0MywiaWQiOiI0ODkzZWQzZS04YTVmLTQ4ZGMtYWExZS1iYmMyZTY3YTA2NWIiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwiaG9zdCI6InJpb3AubWlhb2dlMTEwLmNmIiwicGF0aCI6Ii8iLCJ0bHMiOiIifQ==
-trojan://4bc92fb7-2d61-484c-a5e8-561f81197271@sssvip09.goumaituijian.xyz:29556#github.com/Pawdroid%20-%20%E7%BE%8E%E5%9B%BD%E7%BA%BD%E7%BA%A6%E5%B7%9E%E7%BA%BD%E7%BA%A6DigitalOcean%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83%2021
-vmess://eyJhZGQiOiIxMzkuOTkuOTEuOTUiLCJ2IjoiMiIsInBzIjoi8J+HqPCfh6YgQ0FfMTYiLCJwb3J0Ijo0NDMsImlkIjoiYzAxNTY0NTEtNGVmYi00NWUyLTg0ZmMtOGQzMTVjNDY1MGRiIiwiYWlkIjoiMzIiLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiIiwiaG9zdCI6IiIsInBhdGgiOiIvIiwidGxzIjoiIn0=
-trojan://1d4907c5-22a7-4d4a-8a8e-28744f22fe31@iplcbr1.bitznet.one:34016?allowInsecure=1&sni=cert.bitbyte.one#🇺🇸US 23 → v2cross.com
+```vmess://eyJhZGQiOiAiNjQuMTEyLjQyLjczIiwgImFpZCI6IDAsICJob3N0IjogInd3dy5zaHVueGluLm1sIiwgImlkIjogIjQ5NDZmNzc2LTBhZjMtNDlmMy1hY2FkLWQxNTc0NzVkMjUzZSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvUDBTNVU3TksiLCAicG9ydCI6IDQ0MywgInBzIjogImdpdGh1Yi5jb20vUGF3ZHJvaWQgLSBcdTdmOGVcdTU2ZmRcdTUyYTBcdTVkZGUgNDAiLCAidGxzIjogInRscyIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIifQ==
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklOQDE3Mi45OS4xOTAuODc6ODExOA==#_146
+ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQqQDE0LjI5LjEyNC4xNzQ6MTEwNTA=#Relay_🇨🇳CN-🇭🇰HK_61
+trojan://bbab60b8-779f-31e2-916e-571f7d7023c4@zz1.zahuopu.top:35114?peer=jd4.zahuopu.top#%F0%9F%87%AF%F0%9F%87%B5%20v1-%7C%E6%97%A5%E6%9C%AC2%7C%E4%B8%AD%E8%BD%AC%7C%E8%A7%A3%E9%94%81%E6%B5%81%E5%AA%92%E4%BD%93%7C
+ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@139.99.68.21:6379#github.com/Pawdroid%20-%20%E6%96%B0%E5%8A%A0%E5%9D%A1OVH%2037
+vmess://eyJhZGQiOiJ2NC5oZWR1aWFuLm9ubGluZSIsInYiOiIyIiwicHMiOiJSZWxheV/wn4e68J+HuCBVUy3wn4e68J+HuFVTXzQ3MSIsInBvcnQiOjMwODY2LCJpZCI6ImNiYjNmODc3LWQxZmItMzQ0Yy04N2E5LWQxNTNiZmZkNTQ4NCIsImFpZCI6IjIiLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJob3N0IjoiYmFpZHUuY29tIiwicGF0aCI6Ii9vb29vIiwidGxzIjoiIn0=
+trojan://c576e79d-c999-4523-8d4a-6df352542f70@dtph1.bitznet.one:33013?allowInsecure=1&sni=cert.bitbyte.one#🇺🇸US 42 → v2cross.com
+trojan://c9b101d4-3b3d-4001-af0f-eb81d1f2607b@traua1.bitznet.one:32019?allowInsecure=1&sni=cert.bitbyte.one#🇺🇸US 65 → v2cross.com
+trojan://e392bfdd-d4ce-4df2-9534-fef23f037121@27fr.networklinkpro.net:443#github.com/Pawdroid%20-%20%E6%8C%AA%E5%A8%81%20%2013
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklkQDE3Mi45OS4xOTAuMzk6NTAwMw==#_85
+trojan://6b1b5af1-31c2-4841-b56c-dff351e32e00@202.8.9.27:28443?allowInsecure=1&sni=glc.hruqoaw.cn#🇦🇺AU 2 → v2cross.com
+trojan://bb5b1337-fa9e-4e00-b8c6-1110e626171d@sg-01.tiktokcdn.top:443#github.com/Pawdroid%20-%20%E7%BE%8E%E5%9B%BD%20%2041
+ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQqQDE0LjI5LjEyNC4xNzQ6MTEwNDg=#🇨🇳 CN_236
+trojan://dDbBcidENX@a.laolei.ml:50757?allowInsecure=1#🇺🇸US 69 → v2cross.com
 ```
 <h5>上方节点（部分）永久订阅地址：https://raw.fastgit.org/Pawdroid/Free-servers/main/sub</h5>
 <p>上方订阅地址二维码</p>
