@@ -9,20 +9,29 @@
 </blockquote>
 <h4>节点列表：(这里仅展示部分节点，查看全部节点请下载app)</h4>
 
-```trojan://f818af82-bd17-35ea-8272-5088e3a5cd76@211.99.96.117:65300?allowInsecure=1#🇨🇳CN 1 → v2cross.com
-trojan://5bc96fd6-8432-31b2-9524-9910eabaa4aa@cn-sh.sasg4e.ccddn4.icu:65523?allowInsecure=1#🇨🇳CN 48 → v2cross.com
+```trojan://5bc96fd6-8432-31b2-9524-9910eabaa4aa@120.241.126.83:65201?allowInsecure=1#🇨🇳CN 17 → v2cross.com
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU2NmY0XHU2NWIwXHU0ZThlOjEwLTEyIDA0OjAwIC1ieSBCdUxpbmsueHl6LSBcdTRlZTVcdTRlMGJcdTgyODJcdTcwYjlcdTRlMGRcdThiYTFcdTZkNDFcdTkxY2YiLCAiYWRkIjogIlx1NGY3Zlx1NzUyOFx1NTI0ZFx1OGJiMFx1NWY5N1x1NjZmNFx1NjViMFx1OGJhMlx1OTYwNSIsICJwb3J0IjogIjAiLCAiaWQiOiAiNmEzYmNjMDgtOWM3Ny00YzAyLTg0NGItNGE2OTRjNGYyZmVhIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiIiwgInRscyI6ICIifQ==
+trojan://289xWT@139.227.182.114:28134?allowInsecure=1&sni=download.windowsupdate.com#🇨🇳CN 143 → v2cross.com
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybUAxNzIuOTkuMTkwLjE0OTo4MDgw#🇺🇸US_861
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIuS4reWbvShUR+mikemBkzopIiwNCiAgImFkZCI6ICIxMTYuMTI5LjI1NC42IiwNCiAgInBvcnQiOiAiMTE5MDgiLA0KICAiaWQiOiAiMmNjMTUzMjYtY2QwZi0zNGRhLWJiZmItZjhjZGM5YjcxZWIyIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ0Y3AiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiINCn0=
+ss://YWVzLTI1Ni1jZmI6MzEzNTc3MTYxOQ@83.229.73.60:50000#github.com/Pawdroid%20-%20%E5%8A%A0%E8%93%AC%20%2020
+vmess://eyJhZGQiOiAiMTg1LjExMi44Mi4xMzYiLCAiYWlkIjogNjQsICJob3N0IjogIiIsICJpZCI6ICIzYzliNzc1Zi0xZmZjLTRkNzEtYWI0Ni00OWFkYzAwMTM4ODgiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL3BhdGgvMDUxMTExMjMwOTEwIiwgInBvcnQiOiA0NDMsICJwcyI6ICJnaXRodWIuY29tL1Bhd2Ryb2lkIC0gXHU4MmFjXHU1MTcwICAyNiIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiJ9
+trojan://5bc96fd6-8432-31b2-9524-9910eabaa4aa@116.129.254.5:4568?allowInsecure=1&sni=hnhkhkt.cc.tjcct.xyz#🇨🇳CN 81 → v2cross.com
+trojan://d02058f4f819dced@116.129.253.134:3381#%E4%B8%AD%E5%9B%BD-tg%E9%A2%91%E9%81%93%3A%40bpjzx2-6
+vmess://eyJhZGQiOiJ1czAxLnhpYW9xaTk5LmNmIiwidiI6IjIiLCJwcyI6IlJlbGF5X/Cfh7rwn4e4IFVTLfCfh7jwn4esU0dfNTQzIiwicG9ydCI6NjM2MzIsImlkIjoiOTJjMGNmZDAtYmI5Zi00MjU4LWJkMGMtODAwMGFhMWExZDYyIiwiYWlkIjoiMCIsIm5ldCI6IndzIiwidHlwZSI6IiIsImhvc3QiOiJ1czAxLnhpYW9xaTk5LmNmIiwicGF0aCI6Ii8iLCJ0bHMiOiIifQ==
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0NAMTcyLjk5LjE5MC4zOTo1MDAx#_60
+trojan://5bc96fd6-8432-31b2-9524-9910eabaa4aa@211.99.96.117:65025?allowInsecure=1#🇨🇳CN 5 → v2cross.com
+trojan://289xWT@139.227.182.110:28113?allowInsecure=1&sni=ctldl.windowsupdate.com#🇨🇳CN 96 → v2cross.com
+trojan://5bc96fd6-8432-31b2-9524-9910eabaa4aa@shcuac.aag436.ccddn4.icu:65526?allowInsecure=1#🇨🇳CN 47 → v2cross.com
 vmess://eyJhZGQiOiIxNzIuNjQuMTQ0LjEwMCIsInYiOjIsInBzIjoi8J+HuvCfh7hfVVNf576O5Zu9LT7wn4ep8J+Hql9ERV/lvrflm71fMyIsInBvcnQiOjQ0MywiaWQiOiI2ZTkyMTdkZS1hZDdlLTRhNjctYmQxNy1hNmRjYTk1MTczM2IiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJob3N0IjoibGczLnpodWppY24yLmNvbSIsInRscyI6InRscyIsInBhdGgiOiIvZG9uZ3RhaXdhbmcuY29tIn0=
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0QDE3Mi45OS4xOTAuMzk6ODg4MQ==#🇺🇸US_576
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@212.102.53.78:443#github.com/Pawdroid%20-%20%E6%84%8F%E5%A4%A7%E5%88%A9%20%202
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhHQDE3Mi45OS4xOTAuODc6NzAwMg==#_164
-trojan://b473e4c5-0ae7-31e5-98fb-1aac5701f9e7@120.241.126.83:65212?allowInsecure=1#🇨🇳CN 31 → v2cross.com
-trojan://PGp7fn@139.227.182.124:28102?allowInsecure=1&sni=ctldl.windowsupdate.com#🇨🇳CN 104 → v2cross.com
-vmess://eyJhZGQiOiAiaGsxdmRmLW5vZGUuYWlxaWNoZTEyMy5jb20iLCAiYWlkIjogMTAsICJob3N0IjogIiIsICJpZCI6ICJhOTA1OTdjMS1iYWIzLTQyMTctYWQ2Zi0wODM4Njc1Yzg2MzgiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogODE4OSwgInBzIjogImdpdGh1Yi5jb20vUGF3ZHJvaWQgLSBcdTdmOGVcdTU2ZmQgIDE0IiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIn0=
-trojan://PGp7fn@139.227.182.124:28131?allowInsecure=1&sni=ctldl.windowsupdate.com#🇨🇳CN 135 → v2cross.com
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3QDE3Mi45OS4xOTAuMTQ5OjIzNzU=#🇺🇸US_972
-trojan://f1dc4e1e-2095-38e4-bf3d-ffda333686dc@cn-sh.sasg4e.ccddn4.icu:65520?allowInsecure=1#🇨🇳CN 44 → v2cross.com
-trojan://e27cce7a-617d-48cb-b628-e9717be9c175@113.fastea.top:53313?allowInsecure=1#🇯🇵JP 3 → v2cross.com
-trojan://eJ8cHw@14.215.107.23:28107?allowInsecure=1&sni=download.windowsupdate.com#🇨🇳CN 103 → v2cross.com
+trojan://f1dc4e1e-2095-38e4-bf3d-ffda333686dc@shcuac.aag436.ccddn4.icu:65523?allowInsecure=1#🇨🇳CN 71 → v2cross.com
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVlAMTcyLjk5LjE5MC4zOTo5MTAx#_73
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0NAMTcyLjk5LjE5MC44Nzo1MDAw#_133
+vmess://eyJ2IjogIjIiLCAicHMiOiAiZ2l0aHViLmNvbS9QYXdkcm9pZCAtIFx1NGZjNFx1N2Y1N1x1NjVhZiAgMjMiLCAiYWRkIjogIjkxLjI0My44Mi4xODciLCAicG9ydCI6ICIyMDAwNSIsICJpZCI6ICIyRjA5NDg0NS1FMkJELUVCRjctREVCNy05OTU5OTI0MzZGQUYiLCAiYWlkIjogIjAiLCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIiLCAidGxzIjogInRscyIsICJzbmkiOiAiIn0=
+trojan://b473e4c5-0ae7-31e5-98fb-1aac5701f9e7@cn-sh.sasg4e.ccddn4.icu:65521?allowInsecure=1#🇨🇳CN 34 → v2cross.com
+trojan://5bc96fd6-8432-31b2-9524-9910eabaa4aa@120.241.126.83:65207?allowInsecure=1#🇨🇳CN 19 → v2cross.com
+trojan://289xWT@139.227.182.110:28108?allowInsecure=1&sni=ctldl.windowsupdate.com#🇨🇳CN 93 → v2cross.com
+trojan://dacbc926-ea36-4be2-9f52-f343d353a2de@b-t.us.hyperlinkvpn.xyz:50500#v2cross.com%20-%20%E7%BE%8E%E5%9B%BD%E5%AE%BE%E5%A4%95%E6%B3%95%E5%B0%BC%E4%BA%9A%E5%B7%9E%E6%8B%89%E5%85%8B%E4%B8%87%E7%BA%B3%E5%8E%BF%E5%85%8B%E6%8B%89%E5%85%8B%E6%96%AF%E8%90%A8%E5%AF%86%E7%89%B9%E8%87%AA%E6%B2%BB%E5%8C%BAVolumeDrive%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%201
 ```
 <h5>上方节点（部分）永久订阅地址：https://raw.fastgit.org/Pawdroid/Free-servers/main/sub</h5>
 <p>上方订阅地址二维码</p>
