@@ -9,12 +9,13 @@
 </blockquote>
 <h4>节点列表：(这里仅展示部分节点，查看全部节点请下载app)</h4>
 
-```trojan://28bccca2-43d2-47f8-bd63-b1361ce7d362@kh.iamnotagoodman.com:443#github.com/Pawdroid%20-%20%E7%BE%8E%E5%9B%BDDXC%20Technology%203
-trojan://24913fd0-a94b-4ed9-9b0e-fddb06af63d3@183.245.146.6:21001?allowInsecure=1&peer=65-108-102-32.nhost.00cdn.com&tfo=1#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AF%20%E5%AF%A6%E9%A9%97%E6%80%A7C/03%20x1.0
-trojan://1c515de9-d180-4554-bab8-a207d3711fdf@sinash01.dghjkjhertyuihgfddfghjasdertyuudfghjaxcvbj.com:30052?allowInsecure=1&sni=sinash01.dghjkjhertyuihgfddfghjasdertyuudfghjaxcvbj.com#%e4%b8%ad%e5%9b%bd(TG%e9%a2%91%e9%81%93%3a%40kxswa)
-trojan://24913fd0-a94b-4ed9-9b0e-fddb06af63d3@117.164.185.222:61001?allowInsecure=1&sni=65-108-102-32.nhost.00cdn.com#%e4%b8%ad%e5%9b%bd(TG%e9%a2%91%e9%81%93%3a%40kxswa)
-vmess://eyJhZGQiOiAiaGswMS54bml1bml1ODg4Lnh5eiIsICJhaWQiOiAyLCAiaG9zdCI6ICIiLCAiaWQiOiAiMmEzYjQ4MzMtYmUyZS0zYmMyLTljYWEtYzM1YWYxNDlkZTZkIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIiLCAicG9ydCI6IDMwMTA0LCAicHMiOiAiZ2l0aHViLmNvbS9QYXdkcm9pZCAtIFx1NTMxN1x1NGVhY1x1NWUwMlx1NWZhZVx1OGY2ZihcdTRlMmRcdTU2ZmQpXHU2NzA5XHU5NjUwXHU1MTZjXHU1M2Y4IDE5IiwgInRscyI6ICIiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIn0=
-trojan://24913fd0-a94b-4ed9-9b0e-fddb06af63d3@117.164.185.222:21002?allowInsecure=1&sni=65-108-102-32.nhost.00cdn.com#%e4%b8%ad%e5%9b%bd(TG%e9%a2%91%e9%81%93%3a%40kxswa)
+```trojan://24913fd0-a94b-4ed9-9b0e-fddb06af63d3@117.164.185.222:21002?allowInsecure=1&sni=65-108-102-32.nhost.00cdn.com#%e4%b8%ad%e5%9b%bd(TG%e9%a2%91%e9%81%93%3a%40kxswa)
+trojan://F3CSSRxD8uljgF73IAn34C3aE9wSqAzZDp5ZOCpxDBRacNYelOYayKTe826Xy0@219.76.13.180:443?allowInsecure=1&sni=stutter.freetrade.link#🇭🇰HK 1 → v2cross.com
+ss://YWVzLTI1Ni1jZmI6ZGFGWWFncURkQmRBNlZUWA@103.172.116.6:9073#github.com/Pawdroid%20-%20%E4%BA%9A%E5%A4%AA%E5%9C%B0%E5%8C%BA%20%2010
+vmess://eyJ2IjogIjIiLCAicHMiOiAiZ2l0aHViLmNvbS9QYXdkcm9pZCAtIFx1N2Y4ZVx1NTZmZENsb3VkRmxhcmVcdTgyODJcdTcwYjkgMTEiLCAiYWRkIjogIjE0MS4xMDEuMTE1LjEyMCIsICJwb3J0IjogIjQ0MyIsICJpZCI6ICIzM2FhNTdkZi0xYzkzLTQzMTgtOWZjZS1lODUwNDM3ZWU3ODEiLCAiYWlkIjogIjAiLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogImxnMS5jZmNkbjMueHl6IiwgInBhdGgiOiAiL2Rvbmd0YWl3YW5nLmNvbSIsICJ0bHMiOiAidGxzIiwgInNuaSI6ICIifQ==
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIue+juWbvShUR+mikemBkzopIiwNCiAgImFkZCI6ICJkZS5wMS5nYXkiLA0KICAicG9ydCI6ICIyNTYxMiIsDQogICJpZCI6ICJlMWY4MDQxNi01Mzk0LTRmY2QtYWY4MC0xMmVmOTc5OWE5MmMiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogImRlLnAxLmdheSIsDQogICJwYXRoIjogIi9ob290IiwNCiAgInRscyI6ICJ0bHMiLA0KICAic25pIjogIiINCn0=
+trojan://24913fd0-a94b-4ed9-9b0e-fddb06af63d3@117.164.185.220:21001?allowInsecure=1&peer=65-108-102-32.nhost.00cdn.com&tfo=1#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AF%20A/01%20x1.0
+vmess://eyJhZGQiOiAiMjAuMTg3LjExOS4xMCIsICJhaWQiOiAwLCAiaG9zdCI6ICIyMC4xODcuMTE5LjEwIiwgImlkIjogIjEyZDNmM2ZhLWJjNzUtMzYzMC1iMzc2LWE2NWE5ZjU1YTA4YyIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvZm0iLCAicG9ydCI6IDQ4MDAwLCAicHMiOiAiZ2l0aHViLmNvbS9QYXdkcm9pZCAtIFx1OTk5OVx1NmUyZk1pY3Jvc29mdFx1NjU3MFx1NjM2ZVx1NGUyZFx1NWZjMyAxNCIsICJ0bHMiOiAiIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiJ9
 ```
 <h5>上方节点（部分）永久订阅地址：https://raw.fastgit.org/Pawdroid/Free-servers/main/sub</h5>
 <p>上方订阅地址二维码</p>
