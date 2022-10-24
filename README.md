@@ -9,13 +9,14 @@
 </blockquote>
 <h4>节点列表：(这里仅展示部分节点，查看全部节点请下载app)</h4>
 
-```ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3QDE3Mi45OS4xOTAuMTQ5OjIzNzU=#🇺🇸US_797
-trojan://origin@content-provider12.cdn-delivery.akamaicd.com:443?allowInsecure=1#🇫🇷FR 2 → v2cross.com
-trojan://d45e6245-926b-4283-8c72-91e229d6c5f5@jp2.sanfen001.pics:443?allowInsecure=1&sni=jp1.sanfen001.pics#🇯🇵JP 2 → v2cross.com
-vmess://eyJhZGQiOiIxMTEuNDUuMjIuMTM2IiwidiI6IjIiLCJwcyI6IlJlbGF5X/Cfh6jwn4ezQ04t8J+Hs/Cfh7FOTF82NCIsInBvcnQiOjExOTE1LCJpZCI6IjJjYzE1MzI2LWNkMGYtMzRkYS1iYmZiLWY4Y2RjOWI3MWViMiIsImFpZCI6IjAiLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiIiwiaG9zdCI6ImtyMS5zYW5mZW4wMDEucGljcyIsInBhdGgiOiIvIiwidGxzIjoiIn0=
-vmess://eyJhZGQiOiJsYy1rcjAyLWRpcmVjdDAxLmxjLWtyMDIubGMtbm9kZS5jb20iLCJ2IjoiMiIsInBzIjoiUmVsYXlf8J+HuvCfh7hVUy3wn4e68J+HuFVTXzEyMTUiLCJwb3J0Ijo0NDMsImlkIjoiZWM3MzY0ODItMTczZS0zZWZmLTkxMTQtYjQ5ZGY4MDU2ZTdkIiwiYWlkIjoiMiIsIm5ldCI6IndzIiwidHlwZSI6IiIsImhvc3QiOiJsYy1rcjAyLWRpcmVjdDAxLmxjLWtyMDIubGMtbm9kZS5jb20iLCJwYXRoIjoiLyIsInRscyI6InRscyJ9
-trojan://05115a9b-067c-3cfa-9d8a-c696c3fc5660@222.84.250.35:19225#%E6%96%B0%E5%8A%A0%E5%9D%A1%3Dtg%E9%A2%91%E9%81%93%3A%40bpjzx2%3D47
-vmess://eyJhZGQiOiAieHhyZW5kZXJ4eC5vbnJlbmRlci5jb20iLCAiYWlkIjogMCwgImhvc3QiOiAiIiwgImlkIjogIjYwZDk1ZDc5LTAzNTUtNDU5My1hNjY5LTkzM2MyOWNmOWU2NCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvNjBkOTVkNzktMDM1NS00NTkzLWE2NjktOTMzYzI5Y2Y5ZTY0IiwgInBvcnQiOiA0NDMsICJwcyI6ICJnaXRodWIuY29tL1Bhd2Ryb2lkIC0gXHU3ZjhlXHU1NmZkXHU1MmEwXHU1ZGRlIDgiLCAidGxzIjogInRscyIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIifQ==
+```vmess://eyJhZGQiOiAiMTExLjQ1LjIyLjIzOSIsICJhaWQiOiAiNjQiLCAiZW5jcnlwdGlvbiI6ICJhdXRvIiwgImhvc3QiOiAiIiwgImlkIjogIjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiMzAzMDIiLCAicHMiOiAiZ2l0aHViLmNvbS9QYXdkcm9pZCAtIFx1NWU3Zlx1NGUxY1x1NzcwMVx1NWU3Zlx1NWRkZVx1NWUwMlx1NzUzNVx1NGZlMUlEQ1x1NjczYVx1NjIzZiAxMyIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiBmYWxzZSwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInVybF9ncm91cCI6ICJ0Lm1lL3JpcGFvamllZGlhbiIsICJ2IjogIjIifQ==
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0QDE3Mi45OS4xOTAuMTQ5Ojg4ODE=#_04
+trojan://05115a9b-067c-3cfa-9d8a-c696c3fc5660@222.84.250.35:19223#%E6%96%B0%E5%8A%A0%E5%9D%A1%3Dtg%E9%A2%91%E9%81%93%3A%40bpjzx2%3D7
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3QDE3Mi45OS4xOTAuMTQ5OjgwOTE=#🇺🇸US_806
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklOQDE3Mi45OS4xOTAuMTQ5OjgxMTk=#_61
+vmess://eyJhZGQiOiIxMTEuNDUuMjIuMTM2IiwidiI6IjIiLCJwcyI6IlJlbGF5X/Cfh6jwn4ezQ04t8J+HuvCfh7hVU182NSIsInBvcnQiOjExOTIxLCJpZCI6IjJjYzE1MzI2LWNkMGYtMzRkYS1iYmZiLWY4Y2RjOWI3MWViMiIsImFpZCI6IjAiLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiIiwiaG9zdCI6ImtyMS5zYW5mZW4wMDEucGljcyIsInBhdGgiOiIvIiwidGxzIjoiIn0=
+trojan://idc117okt@idc1.vpn-akcelluler.my.id:443?security=tls&sni=idc1.vpn-akcelluler.my.id&type=tcp&headerType=none#%28TG%E9%A2%91%E9%81%93%3A%40kxswa%29
+trojan://05115a9b-067c-3cfa-9d8a-c696c3fc5660@222.84.250.35:19216#%E5%8F%B0%E6%B9%BE%3Dtg%E9%A2%91%E9%81%93%3A%40bpjzx2%3D22
 ```
 <h5>上方节点（部分）永久订阅地址：https://raw.fastgit.org/Pawdroid/Free-servers/main/sub</h5>
 <p>上方订阅地址二维码</p>
