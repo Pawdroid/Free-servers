@@ -9,19 +9,13 @@
 </blockquote>
 <h4>节点列表：(这里仅展示部分节点，查看全部节点请下载app)</h4>
 
-```trojan://24913fd0-a94b-4ed9-9b0e-fddb06af63d3@183.245.146.6:11001?allowInsecure=1#%e4%b8%ad%e5%9b%bd(TG%e9%a2%91%e9%81%93%3a%40kxswa)
-trojan://24913fd0-a94b-4ed9-9b0e-fddb06af63d3@117.164.185.220:11002?allowInsecure=1&sni=65-108-102-32.nhost.00cdn.com#%e4%b8%ad%e5%9b%bd(TG%e9%a2%91%e9%81%93%3a%40kxswa)
-trojan://05115a9b-067c-3cfa-9d8a-c696c3fc5660@182.151.8.150:19215#%E5%8F%B0%E6%B9%BE%3Dtg%E9%A2%91%E9%81%93%3A%40bpjzx2%3D34
+```trojan://24913fd0-a94b-4ed9-9b0e-fddb06af63d3@117.164.185.222:21003?allowInsecure=1&sni=65-108-102-32.nhost.00cdn.com#%e4%b8%ad%e5%9b%bd(TG%e9%a2%91%e9%81%93%3a%40kxswa)
+trojan://24913fd0-a94b-4ed9-9b0e-fddb06af63d3@117.164.185.220:21001?allowInsecure=1&peer=65-108-102-32.nhost.00cdn.com&tfo=1#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AF%20A/01%20x1.0
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklkQDE3Mi45OS4xOTAuMTQ5OjUwMDM=#🇺🇸US_811
+vmess://eyJ2IjogIjIiLCAicHMiOiAiZ2l0aHViLmNvbS9QYXdkcm9pZCAtIFx1N2Y4ZVx1NTZmZCAgNSIsICJhZGQiOiAiMTI5LjE1MC40Ny4xNDIiLCAicG9ydCI6ICIyMjYyNCIsICJpZCI6ICJlOWIzMzYyNy1jN2I3LTRiYmYtYTZmNi0yZmE1MGMwZDdiZjAiLCAiYWlkIjogIjAiLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogIjEyOS4xNTAuNDcuMTQyIiwgInBhdGgiOiAiLyIsICJ0bHMiOiAiIiwgInNuaSI6ICIifQ==
+trojan://24913fd0-a94b-4ed9-9b0e-fddb06af63d3@117.164.185.222:21004?allowInsecure=1&sni=65-108-102-32.nhost.00cdn.com#%e4%b8%ad%e5%9b%bd(TG%e9%a2%91%e9%81%93%3a%40kxswa)
 vmess://eyJ2IjogIjIiLCAicHMiOiAiZ2l0aHViLmNvbS9QYXdkcm9pZCAtIFx1NjM3N1x1NTE0YiAgMTYiLCAiYWRkIjogIjE5NS4xMjMuMjQ2LjEyMCIsICJwb3J0IjogIjEwMDAwIiwgInR5cGUiOiAibm9uZSIsICJpZCI6ICJiM2E0MGI1ZS00ZjgyLTExZWQtOTE4ZC01MmNmMDBlNDYxYWQiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL3ZwbmphbnRpdCIsICJob3N0IjogIjE5NS4xMjMuMjQ2LjEyMCIsICJ0bHMiOiAiIn0=
-vmess://eyJhZGQiOiAiMTUyLjcwLjg4LjQ3IiwgImFpZCI6IDAsICJob3N0IjogIiIsICJpZCI6ICI5ZWFhYmI5MC1jOThiLTRmYTMtOTg5MC04NjIyZDUzYzg3OGMiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLyIsICJwb3J0IjogMTA0ODYsICJwcyI6ICJnaXRodWIuY29tL1Bhd2Ryb2lkIC0gXHU3ZjhlXHU1NmZkICAzIiwgInRscyI6ICIiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIn0=
-trojan://05115a9b-067c-3cfa-9d8a-c696c3fc5660@182.151.8.150:19204#%E9%A6%99%E6%B8%AF%3Dtg%E9%A2%91%E9%81%93%3A%40bpjzx2%3D41
-trojan://05115a9b-067c-3cfa-9d8a-c696c3fc5660@222.84.250.35:19222#%E6%96%B0%E5%8A%A0%E5%9D%A1%3Dtg%E9%A2%91%E9%81%93%3A%40bpjzx2%3D15
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW9AMTcyLjI0NS4yMTguMTYyOjgwNQ==#🇺🇸US_1008
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0NAMTcyLjk5LjE5MC4xNDk6NTYwMQ==#🇺🇸US_802
 trojan://182228812d1e0f23@5.44.249.156:3389?sni=5.44.249.156#%E6%96%B0%E5%8A%A0%E5%9D%A1%3Dtg%E9%A2%91%E9%81%93%3A%40bpjzx2%3D27
-trojan://05115a9b-067c-3cfa-9d8a-c696c3fc5660@223.111.202.148:19222#%E6%96%B0%E5%8A%A0%E5%9D%A1%3Dtg%E9%A2%91%E9%81%93%3A%40bpjzx2%3D20
-vmess://eyJhZGQiOiAiaWRudXNhMi52cG4tYWtjZWxsdWxlci5teS5pZCIsICJhaWQiOiAwLCAiaG9zdCI6ICJpZG51c2EyLnZwbi1ha2NlbGx1bGVyLm15LmlkIiwgImlkIjogImZjOWMxMmUwLWY0ZjItNGZjNC1hMzBlLWZjNDg4YmFjNzEyMSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvdjJyYXkiLCAicG9ydCI6IDQ0MywgInBzIjogImdpdGh1Yi5jb20vUGF3ZHJvaWQgLSBcdTUzNzBcdTVlYTZcdTVjM2NcdTg5N2ZcdTRlOWFcdTUzMTdcdTgyY2ZcdTk1ZThcdTdiNTRcdTgxNGFcdTc3MDFcdTY4YzlcdTUxNzBOdXNhbmV0IDEyIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIn0=
-trojan://24913fd0-a94b-4ed9-9b0e-fddb06af63d3@111.29.60.217:41001?allowInsecure=1&peer=65-108-102-32.nhost.00cdn.com&tfo=1#%F0%9F%87%A8%F0%9F%87%B3%E5%8F%B0%E7%81%A3%20B/01%20x1.0
 ```
 <h5>上方节点（部分）永久订阅地址：https://raw.fastgit.org/Pawdroid/Free-servers/main/sub</h5>
 <p>上方订阅地址二维码</p>
