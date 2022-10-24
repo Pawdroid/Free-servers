@@ -9,18 +9,12 @@
 </blockquote>
 <h4>节点列表：(这里仅展示部分节点，查看全部节点请下载app)</h4>
 
-```trojan://24913fd0-a94b-4ed9-9b0e-fddb06af63d3@111.29.60.217:11001?allowInsecure=1&peer=65-108-102-32.nhost.00cdn.com&tfo=1#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC%20B/01%20x1.0
-vmess://eyJhZGQiOiIxNjguMTM4LjE3MS42NSIsInYiOiIyIiwicHMiOiLwn4e68J+HuFVTXzExNjciLCJwb3J0Ijo0NDMsImlkIjoiNGFmNmZkOWEtZThiNC00NmYyLWRhM2EtMjA3ZjQ1Nzc2NTZjIiwiYWlkIjoiMCIsIm5ldCI6InRjcCIsInR5cGUiOiIiLCJob3N0IjoiIiwicGF0aCI6Ii8iLCJ0bHMiOiJ0bHMifQ==
-trojan://Sp3eDVp@51.77.71.131:443?allowInsecure=1#🇫🇷FR 1 → v2cross.com
-trojan://05115a9b-067c-3cfa-9d8a-c696c3fc5660@182.151.8.150:19228#%E6%96%B0%E5%8A%A0%E5%9D%A1%3Dtg%E9%A2%91%E9%81%93%3A%40bpjzx2%3D9
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0NAMTcyLjk5LjE5MC4xNDk6NTYwMQ==#_108
-vmess://eyJhZGQiOiAiMTExLjQ1LjIyLjIzOSIsICJhaWQiOiAiNjQiLCAiZW5jcnlwdGlvbiI6ICJhdXRvIiwgImhvc3QiOiAiIiwgImlkIjogIjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiMzAzMDIiLCAicHMiOiAiZ2l0aHViLmNvbS9QYXdkcm9pZCAtIFx1NWU3Zlx1NGUxY1x1NzcwMVx1NWU3Zlx1NWRkZVx1NWUwMlx1NzUzNVx1NGZlMUlEQ1x1NjczYVx1NjIzZiAxMyIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiBmYWxzZSwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInVybF9ncm91cCI6ICJ0Lm1lL3JpcGFvamllZGlhbiIsICJ2IjogIjIifQ==
-trojan://idc117okt@103.176.78.153:443?security=tls&type=tcp&headerType=none#%28TG%E9%A2%91%E9%81%93%3A%40kxswa%29
-trojan://24913fd0-a94b-4ed9-9b0e-fddb06af63d3@117.164.185.220:41001?allowInsecure=1&peer=65-108-102-32.nhost.00cdn.com&tfo=1#%F0%9F%87%A8%F0%9F%87%B3%E5%8F%B0%E7%81%A3%20A/01%20x1.0
-ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVlAMTcyLjk5LjE5MC4xNDk6OTEwMQ==#_02
+```trojan://idc117okt@103.176.78.153:443?security=tls&type=tcp&headerType=none#%28TG%E9%A2%91%E9%81%93%3A%40kxswa%29
+trojan://05115a9b-067c-3cfa-9d8a-c696c3fc5660@222.84.250.35:19203#%E9%A6%99%E6%B8%AF%3Dtg%E9%A2%91%E9%81%93%3A%40bpjzx2%3D1
+trojan://05115a9b-067c-3cfa-9d8a-c696c3fc5660@223.111.202.148:19226#%E6%96%B0%E5%8A%A0%E5%9D%A1%3Dtg%E9%A2%91%E9%81%93%3A%40bpjzx2%3D18
+trojan://24913fd0-a94b-4ed9-9b0e-fddb06af63d3@111.29.60.217:21005?allowInsecure=1&peer=65-108-102-32.nhost.00cdn.com&tfo=1#%F0%9F%87%AD%F0%9F%87%B0%E9%A6%99%E6%B8%AF%20B/05%20x1.0
 vmess://eyJhZGQiOiAiOTQuMTc3LjguODciLCAiYWlkIjogMCwgImhvc3QiOiAidmllLm5hcHN0ZXJuZXR2LmNvbSIsICJpZCI6ICIyRjA5NDg0NS1FMkJELUVCRjctREVCNy05OTU5OTI0MzZGQUYiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL3NwZWVkdGVzdCIsICJwb3J0IjogNDQzLCAicHMiOiAidjJjcm9zcy5jb20gLSBcdTdmNTdcdTlhNmNcdTVjM2NcdTRlOWEgIDkiLCAidGxzIjogInRscyIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIifQ==
-vmess://eyJ2IjogIjIiLCAicHMiOiAiZ2l0aHViLmNvbS9QYXdkcm9pZCAtIFx1N2Y4ZVx1NTZmZENsb3VkRmxhcmVcdTgyODJcdTcwYjkgNyIsICJhZGQiOiAiMTQxLjEwMS4xMTQuMzMiLCAicG9ydCI6ICI0NDMiLCAidHlwZSI6ICJub25lIiwgImlkIjogImU1YTg4Y2UyLWZjMWItNDVkMS05YzVmLTU1MzcyMWQyODAwNCIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvZG9uZ3RhaXdhbmcuY29tIiwgImhvc3QiOiAidjJyYXkxLnpodWppY24yLm9yZyIsICJ0bHMiOiAidGxzIn0=
-trojan://idc117okt@idc1.vpn-akcelluler.my.id:443?security=tls&sni=idc1.vpn-akcelluler.my.id&type=tcp&headerType=none#%28TG%E9%A2%91%E9%81%93%3A%40kxswa%29
+vmess://eyJhZGQiOiAibGMta3IwMi1kaXJlY3QwMS5sYy1rcjAyLmxjLW5vZGUuY29tIiwgImFpZCI6IDAsICJob3N0IjogIiIsICJpZCI6ICJlYzczNjQ4Mi0xNzNlLTNlZmYtOTExNC1iNDlkZjgwNTZlN2QiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLyIsICJwb3J0IjogNDQzLCAicHMiOiAiZ2l0aHViLmNvbS9QYXdkcm9pZCAtIFx1N2Y4ZVx1NTZmZCAgMiIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiJ9
 ```
 <h5>上方节点（部分）永久订阅地址：https://raw.fastgit.org/Pawdroid/Free-servers/main/sub</h5>
 <p>上方订阅地址二维码</p>
