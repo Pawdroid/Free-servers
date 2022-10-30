@@ -9,14 +9,15 @@
 </blockquote>
 <h4>节点列表：(这里仅展示部分节点，查看全部节点请下载app)</h4>
 
-```vmess://eyJhZGQiOiAidHcuMzN5dW4ueHl6IiwgImFpZCI6IDAsICJob3N0IjogInR3LjMzeXVuLnh5eiIsICJpZCI6ICI2MmIxMjQ2My0xYzczLTQwZWQtYWRmZi03MjQ3NTZiOWE2ZjAiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLyIsICJwb3J0IjogODAsICJwcyI6ICJnaXRodWIuY29tL1Bhd2Ryb2lkIC0gXHU1M2YwXHU2ZTdlXHU3NzAxXHU1M2YwXHU1MzE3XHU1ZTAyXHU0ZTJkXHU1MzRlXHU3NTM1XHU0ZmUxIDIyIiwgInRscyI6ICIiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIn0=
-trojan://275d9aa8-b271-43d1-b1cf-1f3e6e881047@zf1.windowsupdate1.com:50090?peer=glc.hruqoaw.cn&tfo=1#%E8%8D%B7%E5%85%B0
-vmess://eyJ2IjogIjIiLCAicHMiOiAiZ2l0aHViLmNvbS9QYXdkcm9pZCAtIFx1N2Y4ZVx1NTZmZENsb3VkRmxhcmVcdTgyODJcdTcwYjkgOSIsICJhZGQiOiAiMTQxLjEwMS4xMTQuMjAwIiwgInBvcnQiOiAiNDQzIiwgInR5cGUiOiAibm9uZSIsICJpZCI6ICIwNDc5ZWI5ZC05OTlkLTRiZmYtYWUzZi00ZjdjYzQ0MGNlNDYiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL2Rvbmd0YWl3YW5nLmNvbSIsICJob3N0IjogInYycmF5Mi5zc3ItZnJlZTIueHl6IiwgInRscyI6ICJ0bHMifQ==
-trojan://2f95d996-e911-4b1b-82b1-1d86bf2c517d@23.100.91.134:443?allowInsecure=1&sni=rprknb2lcp.eastasia.cloudapp.azure.com#🇭🇰HK 1 → v2cross.com
-trojan://c2b0106e-178a-4a41-ad37-380c587cf08a@traua1.bnnodeservice.com:32019?allowInsecure=1&sni=cert.bitbyte.one#🇺🇸US 22 → v2cross.com
-trojan://c2b0106e-178a-4a41-ad37-380c587cf08a@traru1.bnnodeservice.com:32008?allowInsecure=1&sni=cert.bitbyte.one#🇺🇸US 21 → v2cross.com
-vmess://eyJhZGQiOiAidHcuMzN5dW4ueHl6IiwgImFpZCI6IDAsICJob3N0IjogInR3LjMzeXVuLnh5eiIsICJpZCI6ICI2MmIxMjQ2My0xYzczLTQwZWQtYWRmZi03MjQ3NTZiOWE2ZjAiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLyIsICJwb3J0IjogODAsICJwcyI6ICJ2MmNyb3NzLmNvbSAtIFx1NTNmMFx1NmU3ZVx1NzcwMVx1ODJiMVx1ODNiMlx1NTNiZlx1NGUyZFx1NTM0ZVx1NzUzNVx1NGZlMSAxIiwgInRscyI6ICIiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIn0=
-vmess://eyJhZGQiOiAiY2EyLnYycmF5c2Vydi5jb20iLCAidiI6IDIsICJwcyI6ICJnaXRodWIuY29tL1Bhd2Ryb2lkIC0gXHU4MmYxXHU1NmZkXHU3OTNlXHU0ZjFhXHU0ZmRkXHU5NjY5XHU1Yjg5XHU1MTY4XHU5MGU4IDQiLCAicG9ydCI6ICI4MCIsICJpZCI6ICJlM2ViYTNhYy01YmVhLTQwOWYtYWM1Yy02Yzk2NGUwNGQwYzQiLCAiYWlkIjogIjAiLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiY2EyLnYycmF5c2Vydi5jb20iLCAidGxzIjogIiIsICJwYXRoIjogIi9zc2hvY2VhbiJ9
+```trojan://c2b0106e-178a-4a41-ad37-380c587cf08a@dttw1.bnnodeservice.com:33003?allowInsecure=1&sni=cert.bitbyte.one#🇺🇸US 2 → v2cross.com
+trojan://Sam123321@samkr.xyz:443?security=tls&sni=samkr.xyz&type=tcp&headerType=none#%E7%BE%8E%E5%9B%BD%28TG%E9%A2%91%E9%81%93%3A%40kxswa%29
+trojan://275d9aa8-b271-43d1-b1cf-1f3e6e881047@223.111.122.199:30020?peer=glc.hruqoaw.cn&tfo=1#%E7%BE%8E%E5%9B%BD%E5%9C%A3%E4%BD%95%E5%A1%9E-%E6%B1%9F%E7%A7%BB%20%7C%20%E8%A7%A3%E9%94%81%E6%B5%81%E5%AA%92%E4%BD%93
+trojan://275d9aa8-b271-43d1-b1cf-1f3e6e881047@223.111.122.199:30100?peer=glc.hruqoaw.cn&tfo=1#%E9%A6%99%E6%B8%AFHKT-%E6%B1%9F%E7%A7%BB%20%7C%20%E8%A7%A3%E9%94%81%E6%B5%81%E5%AA%92%E4%BD%93
+trojan://c2b0106e-178a-4a41-ad37-380c587cf08a@trade1.bnnodeservice.com:32011?allowInsecure=1&sni=cert.bitbyte.one#🇺🇸US 16 → v2cross.com
+vmess://eyJ2IjogIjIiLCAicHMiOiAiZ2l0aHViLmNvbS9QYXdkcm9pZCAtIFx1NWU3Zlx1NGUxY1x1NzcwMVx1NWU3Zlx1NWRkZVx1NWUwMlx1NzUzNVx1NGZlMUlEQ1x1NjczYVx1NjIzZiAyNCIsICJhZGQiOiAiMTExLjQ1LjIyLjEzNiIsICJwb3J0IjogIjkwMDYiLCAiaWQiOiAiNDU0Zjg2NWYtMjY2MC0zYWNiLWE0NTMtN2MyMzgyOTU0MTk2IiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiIiwgInRscyI6ICIiLCAic25pIjogIiIsICJhbHBuIjogIiJ9
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIuabtOaWsOS6jjEwLzI5LzIyOjA1IiwNCiAgImFkZCI6ICJwZi5uYXBzdGVybmV0di5jb20iLA0KICAicG9ydCI6ICIzNDE0NyIsDQogICJpZCI6ICIyRjA5NDg0NS1FMkJELUVCRjctREVCNy05OTU5OTI0MzZGQUYiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogInRjcCIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIiLA0KICAidGxzIjogInRscyIsDQogICJzbmkiOiAiIiwNCiAgImFscG4iOiAiIg0KfQ==
+trojan://2f95d996-e911-4b1b-82b1-1d86bf2c517d@20.247.38.251:443?allowInsecure=1&sni=rprknb2lcp.eastasia.cloudapp.azure.com#🇺🇸US 12 → v2cross.com
+vmess://eyJhZGQiOiAibG9uZG9uMS5uYS5pbnZhcmkubmEub29udmFyaS5jb20iLCAiYWlkIjogMCwgImhvc3QiOiAibG9uZG9uMS5uYS5pbnZhcmkubmEub29udmFyaS5jb20iLCAiaWQiOiAiM2YzYzUyZjUtMGU1MC00ZmNmLThlZTItYzhiN2UwYzhhYmFiIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9hYWY0NGRiNzNkZmMvIiwgInBvcnQiOiA0NDMsICJwcyI6ICJnaXRodWIuY29tL1Bhd2Ryb2lkIC0gXHU0ZjBhXHU2NzE3ICA2IiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIn0=
 ```
 <h5>上方节点（部分）永久订阅地址：https://raw.fastgit.org/Pawdroid/Free-servers/main/sub</h5>
 <p>上方订阅地址二维码</p>
