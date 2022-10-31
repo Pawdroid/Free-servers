@@ -9,23 +9,15 @@
 </blockquote>
 <h4>节点列表：(这里仅展示部分节点，查看全部节点请下载app)</h4>
 
-```trojan://2f95d996-e911-4b1b-82b1-1d86bf2c517d@23.100.91.134:443?allowInsecure=1&sni=rprknb2lcp.eastasia.cloudapp.azure.com#🇭🇰HK 3 → v2cross.com
-trojan://2147db6c-3b80-3f0e-add8-1dbabb9743ad@19204tj.matrixxx888.com:19204?allowInsecure=1&sni=eplcgame.com#🇨🇳CN 2 → v2cross.com
-trojan://275d9aa8-b271-43d1-b1cf-1f3e6e881047@zf1.windowsupdate1.com:50090?peer=glc.hruqoaw.cn&tfo=1#%E8%8D%B7%E5%85%B0
-vmess://eyJ2IjogIjIiLCAicHMiOiAiZ2l0aHViLmNvbS9QYXdkcm9pZCAtIFx1N2Y4ZVx1NTZmZENsb3VkRmxhcmVcdTgyODJcdTcwYjkgMTEiLCAiYWRkIjogIjE3Mi42NC4xNTQuMjAxIiwgInBvcnQiOiAiNDQzIiwgImlkIjogIjkxNjQ2ZjlhLWI0ZTktNGFjYS1iZmUzLTg4OTJiM2U1OGZlNyIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAibGczMC5jZmNkbjMueHl6IiwgInBhdGgiOiAiL3JheSIsICJ0bHMiOiAidGxzIiwgInNuaSI6ICIifQ==
-vmess://eyJ2IjogIjIiLCAicHMiOiAiZ2l0aHViLmNvbS9QYXdkcm9pZCAtICIsICJhZGQiOiAiY2YuZm92aS50ayIsICJwb3J0IjogIjQ0MyIsICJ0eXBlIjogIm5vbmUiLCAiaWQiOiAiYmY2NzQzN2UtNmM5MC00NWNhLWFiYzItYzcyNDBhNWNlMmFhIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9laXNhc3FhIiwgImhvc3QiOiAiZm94cG9sLmZvdmkudGsiLCAidGxzIjogInRscyJ9
-trojan://5c777277-17f2-4272-ae65-7bd00fa4fbaa@ap-northeast.6641634715834932.me:443?allowInsecure=1&sni=wel-kr.optage.moe#🇺🇸US 6 → v2cross.com
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQQDE3Mi45OS4xOTAuMTQ5OjczMDY=#_158
-trojan://275d9aa8-b271-43d1-b1cf-1f3e6e881047@223.111.122.199:30070?allowInsecure=1&sni=glc.hruqoaw.cn#🇨🇳CN 18 → v2cross.com
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIuW+t+WbvShUR+mikemBkzopIiwNCiAgImFkZCI6ICJsb25kb24xLm5hLmludmFyaS5uYS5vb252YXJpLmNvbSIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICIzZjNjNTJmNS0wZTUwLTRmY2YtOGVlMi1jOGI3ZTBjOGFiYWIiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogImxvbmRvbjEubmEuaW52YXJpLm5hLm9vbnZhcmkuY29tIiwNCiAgInBhdGgiOiAiL2FhZjQ0ZGI3M2RmYy8iLA0KICAidGxzIjogInRscyIsDQogICJzbmkiOiAiIiwNCiAgImFscG4iOiAiIg0KfQ==
-trojan://6d8d2ced-54da-4e79-bfae-2ed55345b954@23.100.91.146:443?allowInsecure=1&sni=rprknb2lcp.eastasia.cloudapp.azure.com#🇭🇰HK 4 → v2cross.com
-trojan://275d9aa8-b271-43d1-b1cf-1f3e6e881047@223.111.122.199:30020?peer=glc.hruqoaw.cn&tfo=1#%E7%BE%8E%E5%9B%BD%E5%9C%A3%E4%BD%95%E5%A1%9E-%E6%B1%9F%E7%A7%BB%20%7C%20%E8%A7%A3%E9%94%81%E6%B5%81%E5%AA%92%E4%BD%93
-vmess://eyJ2IjogIjIiLCAicHMiOiAidjJjcm9zcy5jb20gLSBcdTRlMmRcdTU2ZmRcdTk2M2ZcdTkxY2NcdTRlOTEgMTkiLCAiYWRkIjogIjguMjA5LjExMi4xNTEiLCAicG9ydCI6ICI0NDMiLCAidHlwZSI6ICJub25lIiwgImlkIjogIjkxNjQ2ZjlhLWI0ZTktNGFjYS1iZmUzLTg4OTJiM2U1OGZlNyIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvcmF5IiwgImhvc3QiOiAibGczMC5jZmNkbjMueHl6IiwgInRscyI6ICJ0bHMifQ==
+```ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0NAMTcyLjk5LjE5MC4xNDk6NTYwMQ==#_99
 trojan://5c777277-17f2-4272-ae65-7bd00fa4fbaa@15.152.224.125:443?allowInsecure=1&sni=wel-hkt.optage.moe#🇺🇸US 4 → v2cross.com
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIuabtOaWsOS6jjEwLzI5LzIyOjA1IiwNCiAgImFkZCI6ICJwZi5uYXBzdGVybmV0di5jb20iLA0KICAicG9ydCI6ICIzNDE0NyIsDQogICJpZCI6ICIyRjA5NDg0NS1FMkJELUVCRjctREVCNy05OTU5OTI0MzZGQUYiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogInRjcCIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIiLA0KICAidGxzIjogInRscyIsDQogICJzbmkiOiAiIiwNCiAgImFscG4iOiAiIg0KfQ==
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIummmea4ryhUR+mikemBkzopIiwNCiAgImFkZCI6ICJ4dDAwMC54eXoiLA0KICAicG9ydCI6ICI0NDMiLA0KICAiaWQiOiAiMTdhNThmZWYtY2YzZi00MmZlLWI3NmEtNzZiNTkyZGM5OGVlIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJ4dDAwMC54eXoiLA0KICAicGF0aCI6ICIvMVRwcWVYIiwNCiAgInRscyI6ICJ0bHMiLA0KICAic25pIjogIiIsDQogICJhbHBuIjogIiINCn0=
+trojan://e392bfdd-d4ce-4df2-9534-fef23f037121@13in.networklinkpro.net:443?allowInsecure=1#🇺🇸US 5 → v2cross.com
+trojan://2f95d996-e911-4b1b-82b1-1d86bf2c517d@23.100.91.134:443?allowInsecure=1&sni=rprknb2lcp.eastasia.cloudapp.azure.com#🇭🇰HK 3 → v2cross.com
+trojan://6d8d2ced-54da-4e79-bfae-2ed55345b954@dl-jp2.efpan.one:443?allowInsecure=1&sni=rprknb2lcp.eastasia.cloudapp.azure.com#JP%201%20%E2%86%92%20v2cross.com
 trojan://275d9aa8-b271-43d1-b1cf-1f3e6e881047@223.111.122.199:30090?peer=glc.hruqoaw.cn&tfo=1#%E8%8D%B7%E5%85%B0-%E6%B1%9F%E7%A7%BB%20%7C%20%E8%A7%A3%E9%94%81%E6%B5%81%E5%AA%92%E4%BD%93
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRNQDE3Mi45OS4xOTAuMTQ5OjQ0Mw==#_129
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIuS4reWbvShUR+mikemBkzopIiwNCiAgImFkZCI6ICIxMTEuNDUuMjIuMTM2IiwNCiAgInBvcnQiOiAiMTE5MDciLA0KICAiaWQiOiAiNDU0Zjg2NWYtMjY2MC0zYWNiLWE0NTMtN2MyMzgyOTU0MTk2IiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ0Y3AiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiIsDQogICJhbHBuIjogIiINCn0=
-vmess://eyJhZGQiOiJ2anAxLjBiYWQuY29tIiwidiI6IjIiLCJwcyI6IlJlbGF5X/Cfh6/wn4e1SlAt8J+Hr/Cfh7VKUF8zNTUiLCJwb3J0Ijo0NDMsImlkIjoiOTI3MDk0ZDMtZDY3OC00NzYzLTg1OTEtZTI0MGQwYmNhZTg3IiwiYWlkIjoiMCIsIm5ldCI6IndzIiwidHlwZSI6IiIsImhvc3QiOiJ2anAxLjBiYWQuY29tIiwicGF0aCI6Ii9jaGF0IiwidGxzIjoidGxzIn0=
+vmess://eyJhZGQiOiIxMTEuNDUuMjIuMTM2IiwidiI6IjIiLCJwcyI6IlJlbGF5X/Cfh6jwn4ezQ04t8J+Hp/Cfh61CSF8xMzAiLCJwb3J0Ijo5MDI2LCJpZCI6IjQ1NGY4NjVmLTI2NjAtM2FjYi1hNDUzLTdjMjM4Mjk1NDE5NiIsImFpZCI6IjAiLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiIiwiaG9zdCI6InJvZXdlc3UuZXUub3JnIiwicGF0aCI6Ii8wY2M2NTFhZWU3NmM3LyIsInRscyI6IiJ9
 ```
 <h5>上方节点（部分）永久订阅地址：https://raw.fastgit.org/Pawdroid/Free-servers/main/sub</h5>
 <p>上方订阅地址二维码</p>
