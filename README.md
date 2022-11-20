@@ -9,13 +9,14 @@
 </blockquote>
 <h4>节点列表：(这里仅展示部分节点，查看全部节点请下载app)</h4>
 
-```trojan://4153A805-9312-11F8-03C5-760C234B5394@cos-ap-guangzhou.westdatacloud.top:20007?allowInsecure=1&sni=v12.kwaicdn.com#🇨🇳CN 51 → v2cross.com
-vmess://eyJhZGQiOiAiMTg4LjExNC45Ny4xMTEiLCAiYWlkIjogMCwgImhvc3QiOiAidjJmbHkuc2FtcnQud2Vic2l0ZSIsICJpZCI6ICI5ZTZjZWVmZi0yNTQ2LTM2OTAtYWMwMC02ZmNkZjMxZGVjOTQiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL2NoY2FyYSIsICJwb3J0IjogNDQzLCAicHMiOiAiZ2l0aHViLmNvbS9QYXdkcm9pZCAtIFx1NWRmNFx1ODk3Zlx1NTcyM1x1NGZkZFx1N2Y1N0Nsb3VkRmxhcmVcdTgyODJcdTcwYjkgMTMiLCAidGxzIjogInRscyIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIifQ==
-trojan://4153A805-9312-11F8-03C5-760C234B5394@cos-ap-guangzhou.westdatacloud.top:20011?allowInsecure=1&sni=v12.kwaicdn.com#🇨🇳CN 68 → v2cross.com
-trojan://4153A805-9312-11F8-03C5-760C234B5394@cos-ap-guangzhou.westdatacloud.top:20069?allowInsecure=1&sni=v12.kwaicdn.com#🇨🇳CN 75 → v2cross.com
-trojan://4153A805-9312-11F8-03C5-760C234B5394@cos-ap-guangzhou.westdatacloud.top:20027?allowInsecure=1&sni=v12.kwaicdn.com#🇨🇳CN 69 → v2cross.com
-trojan://4153A805-9312-11F8-03C5-760C234B5394@cos-ap-guangzhou.westdatacloud.top:20012?allowInsecure=1&sni=v12.kwaicdn.com#🇨🇳CN 57 → v2cross.com
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIihUR+mikemBkzopIiwNCiAgImFkZCI6ICJpcC5za2subW9lIiwNCiAgInBvcnQiOiAiMjA4NiIsDQogICJpZCI6ICJlOTFjNDVjOS0yYzBmLTQ2YTktYzU2ZC0yMTY2M2I5ZTJjMTgiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogImJ1eXZtLmNsb3VkZmxhcmUucXVlc3QiLA0KICAicGF0aCI6ICIvYXJpZXMiLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIg0KfQ==
+```trojan://4153A805-9312-11F8-03C5-760C234B5394@cos-ap-guangzhou.westdatacloud.top:20003?allowInsecure=1&sni=v12.kwaicdn.com#🇨🇳CN 47 → v2cross.com
+vmess://eyJ2IjogIjIiLCAicHMiOiAiZ2l0aHViLmNvbS9QYXdkcm9pZCAtIFx1N2Y4ZVx1NTZmZENsb3VkRmxhcmVcdTgyODJcdTcwYjkgMTEiLCAiYWRkIjogIjE5OC40MS4yMDMuMyIsICJwb3J0IjogIjQ0MyIsICJ0eXBlIjogIm5vbmUiLCAiaWQiOiAiMzNhYTU3ZGYtMWM5My00MzE4LTlmY2UtZTg1MDQzN2VlNzgxIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9kb25ndGFpd2FuZy5jb20iLCAiaG9zdCI6ICJsZzEuY2ZjZG4zLnh5eiIsICJ0bHMiOiAidGxzIn0=
+trojan://4153A805-9312-11F8-03C5-760C234B5394@cos-ap-guangzhou.westdatacloud.top:20061?allowInsecure=1&sni=v12.kwaicdn.com#🇨🇳CN 77 → v2cross.com
+trojan://6938D15E-3DFD-2697-C761-96BA3E33E402@cos-ap-beijing.westdatacloud.xyz:20052?allowInsecure=1&sni=v12.kwaicdn.com#🇨🇳CN 80 → v2cross.com
+trojan://4153A805-9312-11F8-03C5-760C234B5394@cos-ap-beijing.westdatacloud.top:20054?allowInsecure=1&sni=v12.kwaicdn.com#🇨🇳CN 64 → v2cross.com
+trojan://4153A805-9312-11F8-03C5-760C234B5394@cos-ap-guangzhou.westdatacloud.top:20014?allowInsecure=1&sni=v12.kwaicdn.com#🇨🇳CN 53 → v2cross.com
+trojan://4153A805-9312-11F8-03C5-760C234B5394@cos-ap-beijing.westdatacloud.top:20057?allowInsecure=1&sni=v12.kwaicdn.com#🇨🇳CN 66 → v2cross.com
+trojan://4153A805-9312-11F8-03C5-760C234B5394@cos-ap-guangzhou.westdatacloud.top:20004?allowInsecure=1&sni=v12.kwaicdn.com#🇨🇳CN 58 → v2cross.com
 ```
 <h5>上方节点（部分）永久订阅地址：https://raw.fastgit.org/Pawdroid/Free-servers/main/sub</h5>
 <p>上方订阅地址二维码</p>
