@@ -9,16 +9,15 @@
 </blockquote>
 <h4>节点列表：(这里仅展示部分节点，查看全部节点请下载app)</h4>
 
-```trojan://4153A805-9312-11F8-03C5-760C234B5394@cos-ap-beijing.westdatacloud.top:20058?allowInsecure=1&sni=v12.kwaicdn.com#🇨🇳CN 76 → v2cross.com
-trojan://4153A805-9312-11F8-03C5-760C234B5394@cos-ap-guangzhou.westdatacloud.top:20069?allowInsecure=1&sni=v12.kwaicdn.com#🇨🇳CN 75 → v2cross.com
-trojan://4153A805-9312-11F8-03C5-760C234B5394@cos-ap-guangzhou.westdatacloud.top:20005?allowInsecure=1&sni=v12.kwaicdn.com#🇨🇳CN 50 → v2cross.com
-trojan://F3CSSRxD8uljgF73IAn34C3aE9wSqAzZDp5ZOCpxDBRacNYelOYayKTe826Xy0@219.76.13.180:443?allowInsecure=1&sni=stutter.freetrade.link#🇭🇰HK 1 → v2cross.com
-trojan://4153A805-9312-11F8-03C5-760C234B5394@cos-ap-guangzhou.westdatacloud.top:20017?allowInsecure=1&sni=v12.kwaicdn.com#🇨🇳CN 56 → v2cross.com
-vmess://eyJhZGQiOiAiMTQxLjEwMS4xMTUuMjAiLCAiYWlkIjogMCwgImhvc3QiOiAiY2xhc2gxLnRydW1wMjAyMy5uZXQiLCAiaWQiOiAiMTc2YjU5OGYtNDQ1Yi00MWFjLTlkMmEtNDMwYzVjNGRmMjZhIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9kb25ndGFpd2FuZy5jb20iLCAicG9ydCI6IDQ0MywgInBzIjogInYyY3Jvc3MuY29tIC0gXHU3ZjhlXHU1NmZkQ2xvdWRGbGFyZVx1ODI4Mlx1NzBiOSAxNCIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiJ9
-trojan://4153A805-9312-11F8-03C5-760C234B5394@cos-ap-guangzhou.westdatacloud.top:20001?allowInsecure=1&sni=v12.kwaicdn.com#🇨🇳CN 48 → v2cross.com
-trojan://E5EAC840-9593-2C94-5D3B-1E9E18ACEE4D@cos-ap-beijing.westdatacloud.top:20052?allowInsecure=1&sni=v12.kwaicdn.com#🇨🇳CN 81 → v2cross.com
-trojan://4153A805-9312-11F8-03C5-760C234B5394@cos-ap-beijing.westdatacloud.top:20057?allowInsecure=1&sni=v12.kwaicdn.com#🇨🇳CN 66 → v2cross.com
-vmess://eyJhZGQiOiAidGd1bml2c3Rhci0xMzgtMi03MC0yMTMuc3NsaXAuaW8iLCAiYWlkIjogNjQsICJob3N0IjogInZuMy50aGFuaGhhaXZwbi5uYW1lLnZuIiwgImlkIjogImQ3ZjJiNTkyLTJlNTYtNGExMi04ZjI0LTIwZjU1YjQyMmVmMiIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgInBvcnQiOiA4MCwgInBzIjogImdpdGh1Yi5jb20vUGF3ZHJvaWQgLSBcdTdmOGVcdTU2ZmQgIDE3IiwgInRscyI6ICIiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIn0=
+```trojan://4153A805-9312-11F8-03C5-760C234B5394@cos-ap-guangzhou.westdatacloud.top:20027?allowInsecure=1&sni=v12.kwaicdn.com#🇨🇳CN 69 → v2cross.com
+vmess://eyJhZGQiOiAiZjFmMzIyNy52OC5nbGFkb3MtY29uZmlnLm5ldCIsICJhaWQiOiAwLCAiaG9zdCI6ICJhcGkuaWNsb3VkLmNvbSIsICJpZCI6ICI1N2UwY2I0ZC1lYWU1LTQ4ZWMtODA5MS0xNDlkYzJiMzA5ZTAiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL3MvZjFmMzIyNy5mbS5hcHBsZS5jb206MTExNTQ4IiwgInBvcnQiOiAzMzMxLCAicHMiOiAiZ2l0aHViLmNvbS9QYXdkcm9pZCAtIFx1NjVlNVx1NjcyY1x1NGUxY1x1NGVhY0xpbm9kZVx1NjU3MFx1NjM2ZVx1NGUyZFx1NWZjMyA1IiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIn0=
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkBTU1JTVUItVjAyLeS7mOi0ueaOqOiNkDp2MmNyb3NzLmNvbSIsDQogICJhZGQiOiAiaXAuc2trLm1vZSIsDQogICJwb3J0IjogIjIwODIiLA0KICAiaWQiOiAiYWIxOWRlZTMtM2U3MC00ZjcwLWFhNTQtNmYwYWY4ZGQxYTZmIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJ2dTEuY2xvdWRmbGFyZS5xdWVzdCIsDQogICJwYXRoIjogIi9hcmllcyIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiLA0KICAiYWxwbiI6ICIiDQp9
+trojan://4153A805-9312-11F8-03C5-760C234B5394@cos-ap-guangzhou.westdatacloud.top:20022?allowInsecure=1&sni=v12.kwaicdn.com#🇨🇳CN 59 → v2cross.com
+trojan://4153A805-9312-11F8-03C5-760C234B5394@cos-ap-guangzhou.westdatacloud.top:20004?allowInsecure=1&sni=v12.kwaicdn.com#🇨🇳CN 58 → v2cross.com
+vmess://eyJob3N0IjogIiIsICJwYXRoIjogIi9nZXR3ZWF0aGVyIiwgInBvcnQiOiAiNDQzIiwgInRscyI6ICJ0bHMiLCAicHMiOiAiZ2l0aHViLmNvbS9QYXdkcm9pZCAtIFx1NWUwY1x1ODE0YSAgNiIsICJpZCI6ICI2MmU2MjU1YS02ZGEzLTExZWQtOGRlMi0wMDAwMTcwMjIwMDgiLCAiYWRkIjogImFvcC5zc2ZyZWUucnUiLCAidiI6ICIyIiwgImFpZCI6ICI2NCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIn0=
+trojan://8a4b7ed7-3e24-48d5-93d2-2c58a2e8305d@20.247.111.40:42310?allowInsecure=1#🇺🇸US 2 → v2cross.com
+trojan://4153A805-9312-11F8-03C5-760C234B5394@cos-ap-guangzhou.westdatacloud.top:20061?allowInsecure=1&sni=v12.kwaicdn.com#🇨🇳CN 77 → v2cross.com
+vmess://eyJ2IjogIjIiLCAicHMiOiAiZ2l0aHViLmNvbS9QYXdkcm9pZCAtIFx1N2Y4ZVx1NTZmZENsb3VkRmxhcmVcdTgyODJcdTcwYjkgMTUiLCAiYWRkIjogIjE0MS4xMDEuMTE0LjIwIiwgInBvcnQiOiAiNDQzIiwgInR5cGUiOiAibm9uZSIsICJpZCI6ICIxNzZiNTk4Zi00NDViLTQxYWMtOWQyYS00MzBjNWM0ZGYyNmEiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL2Rvbmd0YWl3YW5nLmNvbSIsICJob3N0IjogImNsYXNoMS50cnVtcDIwMjMubmV0IiwgInRscyI6ICJ0bHMifQ==
 ```
 <h5>上方节点（部分）永久订阅地址：https://raw.fastgit.org/Pawdroid/Free-servers/main/sub</h5>
 <p>上方订阅地址二维码</p>
