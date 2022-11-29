@@ -9,12 +9,12 @@
 </blockquote>
 <h4>节点列表：(这里仅展示部分节点，查看全部节点请下载app)</h4>
 
-```trojan://28efc0b0-4158-4c6e-9b91-13158a8e989a@202.78.174.8:9884?allowInsecure=1&sni=tr1.qq.com#🇮🇳IN 1 → v2cross.com
-trojan://4153A805-9312-11F8-03C5-760C234B5394@cos-ap-beijing.westdatacloud.top:20059?allowInsecure=1&sni=v12.kwaicdn.com#CN%2071%20%E2%86%92%20v2cross.com
-trojan://4153A805-9312-11F8-03C5-760C234B5394@cos-ap-guangzhou.westdatacloud.top:20025?allowInsecure=1&sni=v12.kwaicdn.com#🇨🇳CN 70 → v2cross.com
-trojan://4153A805-9312-11F8-03C5-760C234B5394@cos-ap-guangzhou.westdatacloud.top:20003?allowInsecure=1&sni=v12.kwaicdn.com#🇨🇳CN 47 → v2cross.com
-trojan://4153A805-9312-11F8-03C5-760C234B5394@cos-ap-beijing.westdatacloud.top:20057?allowInsecure=1&sni=v12.kwaicdn.com#🇨🇳CN 66 → v2cross.com
-trojan://4153A805-9312-11F8-03C5-760C234B5394@cos-ap-guangzhou.westdatacloud.top:20012?allowInsecure=1&sni=v12.kwaicdn.com#🇨🇳CN 57 → v2cross.com
+```trojan://4153A805-9312-11F8-03C5-760C234B5394@cos-ap-guangzhou.westdatacloud.top:20008?allowInsecure=1&sni=v12.kwaicdn.com#🇨🇳CN 61 → v2cross.com
+trojan://28efc0b0-4158-4c6e-9b91-13158a8e989a@3.24.215.212:19375?allowInsecure=1&sni=au1.qq.com#AU%201%20%E2%86%92%20v2cross.com
+trojan://4153A805-9312-11F8-03C5-760C234B5394@cos-ap-guangzhou.westdatacloud.top:20005?allowInsecure=1&sni=v12.kwaicdn.com#🇨🇳CN 50 → v2cross.com
+trojan://28efc0b0-4158-4c6e-9b91-13158a8e989a@202.78.174.8:9884?allowInsecure=1&sni=tr1.qq.com#🇮🇳IN 1 → v2cross.com
+trojan://4153A805-9312-11F8-03C5-760C234B5394@cos-ap-guangzhou.westdatacloud.top:20006?allowInsecure=1&sni=v12.kwaicdn.com#🇨🇳CN 49 → v2cross.com
+vmess://eyJhZGQiOiAibmV3cy5taWNyb3NvZnQuY29tIiwgImFpZCI6IDAsICJob3N0IjogImxnMS5jZmNkbjMueHl6IiwgImlkIjogIjMzYWE1N2RmLTFjOTMtNDMxOC05ZmNlLWU4NTA0MzdlZTc4MSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvZG9uZ3RhaXdhbmcuY29tIiwgInBvcnQiOiA0NDMsICJwcyI6ICJnaXRodWIuY29tL1Bhd2Ryb2lkIC0gXHU3ZjhlXHU1NmZkUkYgRW5naW5lZXJpbmcgMTEiLCAidGxzIjogInRscyIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICJsZzEuY2ZjZG4zLnh5eiJ9
 ```
 <h5>上方节点（部分）永久订阅地址：https://raw.fastgit.org/Pawdroid/Free-servers/main/sub</h5>
 <p>上方订阅地址二维码</p>
