@@ -9,11 +9,11 @@
 </blockquote>
 <h4>节点列表：(这里仅展示部分节点，查看全部节点请下载app)</h4>
 
-```trojan://0b86d368-f585-3c89-b8b5-30630f54cf15@182.151.15.29:19222?type=tcp&security=tls&allowInsecure=1#%E5%9B%9B%E5%B7%9D%E7%9C%81%E6%88%90%E9%83%BD%E5%B8%82+%E7%94%B5%E4%BF%A1
-trojan://0b86d368-f585-3c89-b8b5-30630f54cf15@222.219.135.41:19240?type=tcp&security=tls&allowInsecure=1#%E4%BA%91%E5%8D%97%E7%9C%81%E6%A5%9A%E9%9B%84%E5%B7%9E+%E7%94%B5%E4%BF%A1
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAiYWRkIjogIm5vLmFyaWVzLm92aCIsICJwb3J0IjogIjIwNTIiLCAiaWQiOiAiMTQxNTc4OTAtODkwYi00ZmJiLWFkMWEtNWU1OGRkMTg5YzJhIiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICJlZS5jbG91ZGZsYXJlLnF1ZXN0IiwgInBhdGgiOiAiL2FyaWVzP2VkPTIwNDgiLCAidGxzIjogIiIsICJzbmkiOiAiIiwgImFscG4iOiAiIn0=
-trojan://0b86d368-f585-3c89-b8b5-30630f54cf15@120.226.39.25:19204?type=tcp&security=tls&allowInsecure=1#%E6%B9%96%E5%8D%97%E7%9C%81+%E7%A7%BB%E5%8A%A8
-vmess://eyJhZGQiOiAiY2YtbHQuc2hhcmVjZW50cmUub25saW5lIiwgImFpZCI6IDAsICJob3N0IjogInNzcnN1Yi52MTAuYXN1a2EuYnV6eiIsICJpZCI6ICJlNTliZDc2Mi1kYWNkLTQ0NWMtOGUyYS1lMWM1ODEyOTQ5Y2IiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL2FwaS92My9kb3dubG9hZC5nZXRGaWxlIiwgInBvcnQiOiA4ODgwLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAidGxzIjogIiIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIifQ==
+```trojan://0b86d368-f585-3c89-b8b5-30630f54cf15@120.226.39.25:19222?type=tcp&security=tls&allowInsecure=1#%E6%B9%96%E5%8D%97%E7%9C%81+%E7%A7%BB%E5%8A%A8
+trojan://0b86d368-f585-3c89-b8b5-30630f54cf15@120.226.39.25:19202?type=tcp&security=tls&allowInsecure=1#%E6%B9%96%E5%8D%97%E7%9C%81+%E7%A7%BB%E5%8A%A8
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU2YjI3XHU3NmRmIFYyQ1JPU1MuQ09NIiwgImFkZCI6ICI0NS44NS4xMTguODgiLCAicG9ydCI6ICI4NDQzIiwgImlkIjogImRjNGE2MGZmLWNhNDMtNDI4YS1kNzJkLWUzYjZmYTQ3M2M4NSIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAibWFoYW5maXgudGFoZXJtb2xsYWVpLnB3IiwgInBhdGgiOiAiLyIsICJ0bHMiOiAidGxzIiwgInNuaSI6ICIiLCAiYWxwbiI6ICIifQ==
+trojan://5d922216-6f50-44c6-af2c-e9ca65b3664a@awshk4-tg-data.amazonwebservicess.com:443?peer=data.amazonwebservicess.com&tfo=1#%E6%97%A5%E6%9C%AC+V2CROSS.COM
+trojan://21e10785-99c6-316e-a184-a03384ee06e5@hn.xiaohouzi.club:18835?allowInsecure=1&sni=$feilvbin.xiaohouzi.club#%E6%B2%B3%E5%8D%97%E7%9C%81%E6%B4%9B%E9%98%B3%E5%B8%82+%E7%A7%BB%E5%8A%A8
 ```
 <h5>上方节点（部分）永久订阅地址：https://raw.fastgit.org/Pawdroid/Free-servers/main/sub</h5>
 <p>上方订阅地址二维码</p>
