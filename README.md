@@ -9,12 +9,11 @@
 </blockquote>
 <h4>节点列表：(这里仅展示部分节点，查看全部节点请下载app)</h4>
 
-```trojan://0f098bb2-9fad-3cc3-8acf-2a3268c1eb27@hn.xiaohouzi.club:48431?security=tls&sni=hn.xiaohouzi.club&type=tcp&headerType=none#%E6%B2%B3%E5%8D%97%E7%9C%81%E6%B4%9B%E9%98%B3%E5%B8%82+%E7%A7%BB%E5%8A%A8
-vmess://eyJhZGQiOiAiaGF4LXVzNC5zdWRveGluLnRrIiwgImFpZCI6IDAsICJob3N0IjogImhheC11czQuc3Vkb3hpbi50ayIsICJpZCI6ICJjOGUwZjgwOC0yNWQ2LTQ5MTEtODMzZS01MGI5ZjUwNTBiYTYiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL2M4ZTBmODA4LTI1ZDYtNDkxMS04MzNlLTUwYjlmNTA1MGJhNiIsICJwb3J0IjogNDQzLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAidGxzIjogInRscyIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIifQ==
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@167.88.63.79:8118#%E7%91%9E%E5%85%B8+V2CROSS.COM
-trojan://0f098bb2-9fad-3cc3-8acf-2a3268c1eb27@gz01.xiaohouzi.club:14705?security=tls&sni=gz01.xiaohouzi.club&type=tcp&headerType=none#%E6%B2%B3%E5%8D%97%E7%9C%81%E6%B4%9B%E9%98%B3%E5%B8%82+%E7%A7%BB%E5%8A%A8
-trojan://0f098bb2-9fad-3cc3-8acf-2a3268c1eb27@hn.xiaohouzi.club:48434?security=tls&sni=hn.xiaohouzi.club&type=tcp&headerType=none#%E6%B2%B3%E5%8D%97%E7%9C%81%E6%B4%9B%E9%98%B3%E5%B8%82+%E7%A7%BB%E5%8A%A8
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAiYWRkIjogIm5vLmFyaWVzLm92aCIsICJwb3J0IjogIjg4ODAiLCAiaWQiOiAiZTU5YmQ3NjItZGFjZC00NDVjLThlMmEtZTFjNTgxMjk0OWNiIiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICJzc3JzdWIudjEwLmFzdWthLmJ1enoiLCAicGF0aCI6ICIvYXBpL3YzL2Rvd25sb2FkLmdldEZpbGUiLCAidGxzIjogIiIsICJzbmkiOiAiIiwgImFscG4iOiAiIn0=
+```trojan://0f098bb2-9fad-3cc3-8acf-2a3268c1eb27@hnm.xiaohouzi.club:17107?security=tls&sni=hnm.xiaohouzi.club&type=tcp&headerType=none#%E6%B2%B3%E5%8D%97%E7%9C%81%E6%B4%9B%E9%98%B3%E5%B8%82+%E7%A7%BB%E5%8A%A8
+trojan://0b86d368-f585-3c89-b8b5-30630f54cf15@120.226.39.25:19224?type=tcp&security=tls&allowInsecure=1#%E6%B9%96%E5%8D%97%E7%9C%81+%E7%A7%BB%E5%8A%A8
+trojan://0f098bb2-9fad-3cc3-8acf-2a3268c1eb27@hn.xiaohouzi.club:48431?security=tls&sni=hn.xiaohouzi.club&type=tcp&headerType=none#%E6%B2%B3%E5%8D%97%E7%9C%81%E6%B4%9B%E9%98%B3%E5%B8%82+%E7%A7%BB%E5%8A%A8
+trojan://0b86d368-f585-3c89-b8b5-30630f54cf15@182.151.15.29:19223?type=tcp&security=tls&allowInsecure=1#%E5%9B%9B%E5%B7%9D%E7%9C%81%E6%88%90%E9%83%BD%E5%B8%82+%E7%94%B5%E4%BF%A1
+trojan://21e10785-99c6-316e-a184-a03384ee06e5@hnm.xiaohouzi.club:27094?security=tls&sni=hnm.xiaohouzi.club&type=tcp&headerType=none#%E6%B2%B3%E5%8D%97%E7%9C%81%E6%B4%9B%E9%98%B3%E5%B8%82+%E7%A7%BB%E5%8A%A8
 ```
 <h5>上方节点（部分）永久订阅地址：https://raw.fastgit.org/Pawdroid/Free-servers/main/sub</h5>
 <p>上方订阅地址二维码</p>
