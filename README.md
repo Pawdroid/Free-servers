@@ -9,19 +9,11 @@
 </blockquote>
 <h4>节点列表：(这里仅展示部分节点，查看全部节点请下载app)</h4>
 
-```trojan://0e0e8057-810e-3b64-b8f5-19baa5f8fa2f@222.219.135.41:19225?type=tcp&security=tls&allowInsecure=1#%E4%BA%91%E5%8D%97%E7%9C%81%E6%A5%9A%E9%9B%84%E5%B7%9E+%E7%94%B5%E4%BF%A1
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAiYWRkIjogImNiYjgudjk5NjYuc2hvcCIsICJwb3J0IjogIjgwIiwgImlkIjogIjI4Yzk4NWIwLWMxYjktMTFlZC1iNTMwLTIwNWM2ZDVmNWQ3OCIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiY2JiOC52OTk2Ni5zaG9wIiwgInBhdGgiOiAiLyIsICJ0bHMiOiAiIiwgInNuaSI6ICIiLCAiYWxwbiI6ICIifQ==
-vmess://eyJhZGQiOiAiZmlubGFuZDEueWoyMDIyLmdhIiwgImFpZCI6IDAsICJob3N0IjogIiIsICJpZCI6ICI0YjVlNDU2NS0zMjJmLTQyMjMtYTg5MS03OGE4NGYxODk3MjYiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL1dLdHplTjExR0xxd1ZOQlRwOW1YIiwgInBvcnQiOiA0NDMsICJwcyI6ICJcdTdmOGVcdTU2ZmQgQ2xvdWRGbGFyZVx1ODI4Mlx1NzBiOSIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiJ9
-trojan://0e0e8057-810e-3b64-b8f5-19baa5f8fa2f@106.225.132.4:19206?type=tcp&security=tls&allowInsecure=1#%E6%B1%9F%E8%A5%BF%E7%9C%81%E5%8D%97%E6%98%8C%E5%B8%82+%E7%94%B5%E4%BF%A1
-trojan://0e0e8057-810e-3b64-b8f5-19baa5f8fa2f@61.139.119.20:19223?type=tcp&security=tls&allowInsecure=1#%E5%9B%9B%E5%B7%9D%E7%9C%81%E6%88%90%E9%83%BD%E5%B8%82+%E7%94%B5%E4%BF%A1
+```vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAiYWRkIjogIjE3Mi42Ny4yMTkuNSIsICJwb3J0IjogIjQ0MyIsICJpZCI6ICIwMEJCRjVCOC0xNzNFLTY4MTgtOTkyNy01QUQxQUEwNzNDN0QiLCAiYWlkIjogIjAiLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogIkthbnNhcy52MnJheS5vbmxpbmUiLCAicGF0aCI6ICIvc3BlZWR0ZXN0IiwgInRscyI6ICJ0bHMiLCAic25pIjogIkthbnNhcy52MnJheS5vbmxpbmUiLCAiYWxwbiI6ICIifQ==
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAiYWRkIjogImRmN2Uudjk5NjYuc2hvcCIsICJwb3J0IjogIjQ0MyIsICJ0eXBlIjogIm5vbmUiLCAiaWQiOiAiYTI3OTgzYTAtYzFiOS0xMWVkLWIzMzMtMjA1YzZkNWY1ZDc4IiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi8iLCAiaG9zdCI6ICJkZjdlLnY5OTY2LnNob3AiLCAidGxzIjogInRscyJ9
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTUxNmNcdTUzZjhDRE5cdTgyODJcdTcwYjkoc2hvcGlmeSkiLCAiYWRkIjogIjIzLjIyNy4zOC4xMSIsICJwb3J0IjogIjQ0MyIsICJpZCI6ICI5Mzc5ZmVhMC0wMDZkLTRmZDMtOGUzNS1kNDVhNWFmNzJhYTIiLCAiYWlkIjogIjAiLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogImZyZ3QxLnNzci1mcmVlMi54eXoiLCAicGF0aCI6ICIvVU1XMzYyNjIiLCAidGxzIjogInRscyIsICJzbmkiOiAiIn0=
 trojan://0e0e8057-810e-3b64-b8f5-19baa5f8fa2f@120.226.39.25:19224?type=tcp&security=tls&allowInsecure=1#%E6%B9%96%E5%8D%97%E7%9C%81+%E7%A7%BB%E5%8A%A8
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAiYWRkIjogIjhiN2Eudjk5NjYuc2hvcCIsICJwb3J0IjogIjQ0MyIsICJpZCI6ICJhMDRiMjYyMC1jMWJhLTExZWQtYjYzOS0yMDVjNmQ1ZjVkNzgiLCAiYWlkIjogIjAiLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogIjhiN2Eudjk5NjYuc2hvcCIsICJwYXRoIjogIi8iLCAidGxzIjogInRscyIsICJzbmkiOiAiIiwgImFscG4iOiAiIn0=
-trojan://626351FA-3CA6-8118-FADF-CCDBCD620871@oss-cn-shanghai.westdatacloud.top:20048?allowInsecure=1&sni=oss-cn-shanghai.westdatacloud.top#%E4%B8%8A%E6%B5%B7%E5%B8%82+%E7%94%B5%E4%BF%A1
-trojan://0e0e8057-810e-3b64-b8f5-19baa5f8fa2f@106.225.132.4:19232?type=tcp&security=tls&allowInsecure=1#%E6%B1%9F%E8%A5%BF%E7%9C%81%E5%8D%97%E6%98%8C%E5%B8%82+%E7%94%B5%E4%BF%A1
-trojan://0e0e8057-810e-3b64-b8f5-19baa5f8fa2f@120.226.39.25:19228?type=tcp&security=tls&allowInsecure=1#%E6%B9%96%E5%8D%97%E7%9C%81+%E7%A7%BB%E5%8A%A8
-trojan://0e0e8057-810e-3b64-b8f5-19baa5f8fa2f@61.139.119.20:19238?type=tcp&security=tls&allowInsecure=1#%E5%9B%9B%E5%B7%9D%E7%9C%81%E6%88%90%E9%83%BD%E5%B8%82+%E7%94%B5%E4%BF%A1
-trojan://0e0e8057-810e-3b64-b8f5-19baa5f8fa2f@120.226.39.25:19222?type=tcp&security=tls&allowInsecure=1#%E6%B9%96%E5%8D%97%E7%9C%81+%E7%A7%BB%E5%8A%A8
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@85.208.108.60:7306#%E6%B2%99%E7%89%B9%E9%98%BF%E6%8B%89%E4%BC%AF+Arabic+Computer+System+Co.
+trojan://0e0e8057-810e-3b64-b8f5-19baa5f8fa2f@61.139.119.20:19234?type=tcp&security=tls&allowInsecure=1#%E5%9B%9B%E5%B7%9D%E7%9C%81%E6%88%90%E9%83%BD%E5%B8%82+%E7%94%B5%E4%BF%A1
 ```
 <h5>上方节点（部分）永久订阅地址：https://raw.fastgit.org/Pawdroid/Free-servers/main/sub</h5>
 <p>上方订阅地址二维码</p>
