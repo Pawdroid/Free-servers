@@ -9,11 +9,11 @@
 </blockquote>
 <h4>节点列表：(这里仅展示部分节点，查看全部节点请下载app)</h4>
 
-```ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@85.208.108.60:8881#%E6%B2%99%E7%89%B9%E9%98%BF%E6%8B%89%E4%BC%AF+Arabic+Computer+System+Co.
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAiYWRkIjogIjE3Mi42Ny4xMzYuMTUwIiwgInBvcnQiOiAiNDQzIiwgImlkIjogIjQ0YmFiMzBiLWQxZGEtNDBiNC1iNjVkLWUwYTNhOThjMGRlNiIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAic3MuMjM5MDAwLnh5eiIsICJwYXRoIjogIi92bWVzc3dzIiwgInRscyI6ICJ0bHMiLCAic25pIjogIiJ9
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@85.208.108.60:6379#%E6%B2%99%E7%89%B9%E9%98%BF%E6%8B%89%E4%BC%AF+Arabic+Computer+System+Co.
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@85.208.108.60:7001#%E6%B2%99%E7%89%B9%E9%98%BF%E6%8B%89%E4%BC%AF+Arabic+Computer+System+Co.
+```ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@85.208.108.60:6379#%E6%B2%99%E7%89%B9%E9%98%BF%E6%8B%89%E4%BC%AF+Arabic+Computer+System+Co.
 trojan://626351FA-3CA6-8118-FADF-CCDBCD620871@oss-cn-shanghai.westdatacloud.top:20048?type=tcp&security=tls&sni=oss-cn-shanghai.westdatacloud.top&allowInsecure=1#%E4%B8%8A%E6%B5%B7%E5%B8%82+%E7%94%B5%E4%BF%A1
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@85.208.108.60:8881#%E6%B2%99%E7%89%B9%E9%98%BF%E6%8B%89%E4%BC%AF+Arabic+Computer+System+Co.
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAiYWRkIjogImNmLm5vYXJpZXMuZGUiLCAicG9ydCI6ICI4MCIsICJpZCI6ICJlMWJhZjc2NS1kZGIyLTRlNDEtOWYxOS1lMzM4ODU0M2M5YWEiLCAiYWlkIjogIjAiLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogInNzcnN1Yi52MTAuYXN1a2EuYnV6eiIsICJwYXRoIjogIi9hcGkvdjMvZG93bmxvYWQuZ2V0RmlsZSIsICJ0bHMiOiAiIiwgInNuaSI6ICIiLCAiYWxwbiI6ICIifQ==
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@85.208.108.60:3306#%E6%B2%99%E7%89%B9%E9%98%BF%E6%8B%89%E4%BC%AF+Arabic+Computer+System+Co.
 ```
 <h5>上方节点（部分）永久订阅地址：https://raw.fastgit.org/Pawdroid/Free-servers/main/sub</h5>
 <p>上方订阅地址二维码</p>
