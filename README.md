@@ -9,12 +9,21 @@
 </blockquote>
 <h4>节点列表：(这里仅展示部分节点，查看全部节点请下载app)</h4>
 
-```ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@ak1749.www.outline.network.fr8678825324247b8176d59f83c30bd94d23d2e3ac5cd4a743bkwqeikvdyufr.cyou:4444#%E8%8B%B1%E5%9B%BD+V2CROSS.COM
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAiYWRkIjogIjEwOC4xNjIuMTk2LjQwIiwgInBvcnQiOiAiNDQzIiwgImlkIjogImU4ODNmZjc2LTNiYjQtNDAwOC1jMDY4LTZiNWIxZDk2MGVhNyIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAidXlhYS52dGNzcy50b3AiLCAicGF0aCI6ICIvcXdlcjA4IiwgInRscyI6ICJ0bHMiLCAic25pIjogIiJ9
+```trojan://4aeda200-44c9-4168-8f2a-a00a72176d35@awsjp16-data.amazon-azure.com:443?type=tcp&security=tls&sni=data.amazon-azure.com#%E6%97%A5%E6%9C%AC+V2CROSS.COM
+vmess://eyJhZGQiOiAiMTQyLjQuMTA2LjI0MyIsICJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIFx1NTJhMFx1NTIyOVx1Nzk4Zlx1NWMzY1x1NGU5YVx1NWRkZVx1NTcyM1x1NGY1NVx1NTg1ZVBFRyBURUNIIiwgInBvcnQiOiA1MjkwMiwgImlkIjogIjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsICJhaWQiOiAiNjQiLCAibmV0IjogInRjcCIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIi8iLCAidGxzIjogIiJ9
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@169.197.141.187:8882#%E5%8C%97%E7%BE%8E%E5%9C%B0%E5%8C%BA+V2CROSS.COM
+vmess://eyJhZGQiOiAiNDUuODUuMTE4LjE2NSIsICJ2IjogIjIiLCAicHMiOiAiXHU2YjI3XHU3NmRmIFYyQ1JPU1MuQ09NIiwgInBvcnQiOiA0NDMsICJpZCI6ICJDQkRCMTkwMi02QjlCLTQ4NzItQjIwQy1FOTRBM0JEMkY2M0QiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiRHVzc2VsZG9yZi5rb3RpY2suc2l0ZSIsICJwYXRoIjogIi9zcGVlZHRlc3QiLCAidGxzIjogInRscyJ9
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@169.197.141.187:8091#%E5%8C%97%E7%BE%8E%E5%9C%B0%E5%8C%BA+V2CROSS.COM
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@ak1749.www.outline.network.fr8678825324247b8176d59f83c30bd94d23d2e3ac5cd4a743bkwqeikvdyufr.cyou:4444#%E8%8B%B1%E5%9B%BD+V2CROSS.COM
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@172.99.190.149:8091#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
+ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@169.197.141.187:6379#%E5%8C%97%E7%BE%8E%E5%9C%B0%E5%8C%BA+V2CROSS.COM
+trojan://d906afe5-7c3c-4ddc-aaa4-61c154a82e5e@152.70.74.66:443?security=tls&type=tcp&headerType=none#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
+trojan://794d739c-89a0-444c-b2e7-acce12af3042@awssg20-data.amazon-azure.com:443?type=tcp&security=tls&sni=data.amazon-azure.com#%E7%BE%8E%E5%9B%BD+Xerox
+trojan://794d739c-89a0-444c-b2e7-acce12af3042@awsjp15-data.amazon-azure.com:443?type=tcp&security=tls&sni=data.amazon-azure.com#%E6%97%A5%E6%9C%AC+V2CROSS.COM
 trojan://794d739c-89a0-444c-b2e7-acce12af3042@awssg17-data.amazon-azure.com:443?type=tcp&security=tls&sni=data.amazon-azure.com#%E7%BE%8E%E5%9B%BD+Xerox
-trojan://4062b33c-be7a-4b69-94f5-4c738a4def8f@awsjp11-data.amazon-azure.com:443?type=tcp&sni=data.amazon-azure.com&allowInsecure=1#%E6%97%A5%E6%9C%AC+V2CROSS.COM
-vmess://eyJhZGQiOiAiMTkyLjc0LjIyOS4yMTUiLCAidiI6ICIyIiwgInBzIjogIlx1N2Y4ZVx1NTZmZCBcdTUyYTBcdTUyMjlcdTc5OGZcdTVjM2NcdTRlOWFcdTVkZGVcdTU3MjNcdTRmNTVcdTU4NWVQRUcgVEVDSFx1NjU3MFx1NjM2ZVx1NGUyZFx1NWZjMyIsICJwb3J0IjogNTE1OTIsICJpZCI6ICI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCAiYWlkIjogIjY0IiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIvIiwgInRscyI6ICIifQ==
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU2YjI3XHU3NmRmIFYyQ1JPU1MuQ09NIiwgImFkZCI6ICJtY2l4LmlwY2YuY2xvdWQiLCAicG9ydCI6ICI0NDMiLCAiaWQiOiAiQ0JEQjE5MDItNkI5Qi00ODcyLUIyMEMtRTk0QTNCRDJGNjNEIiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICJEdXNzZWxkb3JmLmtvdGljay5zaXRlIiwgInBhdGgiOiAiL3NwZWVkdGVzdCIsICJ0bHMiOiAidGxzIiwgInNuaSI6ICJEdXNzZWxkb3JmLmtvdGljay5zaXRlIn0=
+vmess://eyJhZGQiOiAibGEzLjEyMTIxOS54eXoiLCAidiI6ICIyIiwgInBzIjogIlx1OTk5OVx1NmUyZiBcdTk2M2ZcdTkxY2NcdTRlOTEiLCAicG9ydCI6IDQ0MywgImlkIjogIjY0YjNkODJmLWQ2NzMtM2JiMC1iZjNhLWZkYzMzOGY0YWFkOSIsICJhaWQiOiAiNCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIvdjJyYXkiLCAidGxzIjogInRscyJ9
+trojan://794d739c-89a0-444c-b2e7-acce12af3042@awsjp3-data.amazon-azure.com:443?type=tcp&security=tls&sni=data.amazon-azure.com#%E6%97%A5%E6%9C%AC+V2CROSS.COM
+trojan://794d739c-89a0-444c-b2e7-acce12af3042@azsg2-tg-data.amazonwebservicess.com:443?type=tcp&security=tls&sni=data.amazonwebservicess.com#%E7%BE%8E%E5%9B%BD+Xerox
 ```
 <h5>上方节点（部分）永久订阅地址：https://raw.fastgit.org/Pawdroid/Free-servers/main/sub</h5>
 <p>上方订阅地址二维码</p>
