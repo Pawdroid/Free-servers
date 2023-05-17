@@ -9,18 +9,16 @@
 </blockquote>
 <h4>节点列表：(这里仅展示部分节点，查看全部节点请下载app)</h4>
 
-```trojan://ca7febc2-bb45-4e6d-810e-ab0af6009c4e@stw3-tg-data.amazonwebservicess.com:443#%E5%8F%B0%E6%B9%BE%E7%9C%81%E5%8F%B0%E5%8C%97%E5%B8%82+scloud.sg
-trojan://ca7febc2-bb45-4e6d-810e-ab0af6009c4e@awshk8-data.amazon-azure.com:443#%E7%BE%8E%E5%9B%BD+%E6%83%A0%E6%99%AEHP
+```vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAiYWRkIjogInRlY2gubm9hcmllcy5kZSIsICJwb3J0IjogIjgwIiwgImlkIjogIjJkNWQ4YjljLThlYzQtNGEzNy1iNjEwLTc4ZTcxZTEzZWFlZiIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAibmwuc2hhcmVjZW50cmVwcm8uY29tIiwgInBhdGgiOiAiL3NoaXJrZXIiLCAidGxzIjogIiIsICJzbmkiOiAiIiwgImFscG4iOiAiIn0=
 vmess://eyJhZGQiOiAiMTcyLjY3LjE1Ni4xMzgiLCAidiI6ICIyIiwgInBzIjogIlx1N2Y4ZVx1NTZmZCBDbG91ZEZsYXJlXHU4MjgyXHU3MGI5IiwgInBvcnQiOiA0NDMsICJpZCI6ICIyRjA5NDg0NS1FMkJELUVCRjctREVCNy05OTU5OTI0MzZGQUYiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiS2Fuc2FzLmtvdGljay5zaXRlIiwgInBhdGgiOiAiL3NwZWVkdGVzdCIsICJ0bHMiOiAidGxzIn0=
-vmess://eyJhZGQiOiAicnUyLmVsa2Nsb3VkLmdxIiwgInYiOiAiMiIsICJwcyI6ICJcdTRmYzRcdTdmNTdcdTY1YWYgVjJDUk9TUy5DT00iLCAicG9ydCI6IDgwLCAiaWQiOiAiMzMwNTE2ZjItNDVjMy0zZDhiLWJkN2MtYWUxYjUzMDM3N2Q1IiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogInJ1Mi5lbGtjbG91ZC5ncSIsICJwYXRoIjogIi8iLCAidGxzIjogIiJ9
-trojan://ca7febc2-bb45-4e6d-810e-ab0af6009c4e@scloudtw2-tg-data.amazonwebservicess.com:443#%E5%8F%B0%E6%B9%BE%E7%9C%81%E5%8F%B0%E5%8C%97%E5%B8%82+scloud.sg
+trojan://af4dc66a-ec88-4057-9e46-777b584577f7@vn.mjt001.com:443#%E7%BE%8E%E5%9B%BD+Microsoft%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
+trojan://ca7febc2-bb45-4e6d-810e-ab0af6009c4e@awshk4-tg-data.amazonwebservicess.com:443?peer=data.amazonwebservicess.com&tfo=1#%E7%BE%8E%E5%9B%BD+%E6%83%A0%E6%99%AEHP
+trojan://af4dc66a-ec88-4057-9e46-777b584577f7@ua.mjt001.com:443#%E7%BE%8E%E5%9B%BD+%E5%8A%A0%E5%88%A9%E7%A6%8F%E5%B0%BC%E4%BA%9A%E5%B7%9E%E6%B4%9B%E6%9D%89%E7%9F%B6Level3%E9%80%9A%E4%BF%A1%28DIA%29
+trojan://af4dc66a-ec88-4057-9e46-777b584577f7@pt.mjt001.com:443#%E7%BE%8E%E5%9B%BD+Microsoft%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
+vmess://eyJhZGQiOiAianAwNi12bTAuZW50cnkuanBvanBvaC5hcnQiLCAidiI6ICIyIiwgInBzIjogIlx1NjVlNVx1NjcyYyBWMkNST1NTLkNPTSIsICJwb3J0IjogMjg3ODUsICJpZCI6ICIyMmFjYzQ2Ny03NDQwLTM4NmEtOTI3YS1kODRiZTU1NGIzN2UiLCAiYWlkIjogIjEiLCAibmV0IjogInRjcCIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIi8iLCAidGxzIjogInRscyJ9
+vmess://eyJhZGQiOiAiMTA0LjI0LjE2LjEwOSIsICJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAicG9ydCI6IDgwLCAiaWQiOiAiYzVjOTg0NGQtMDUwZS00NGYxLWNiNmQtZWM1MTY2NzcyNjMxIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogInpzbGJzLnZ0Y3NzLnRvcCIsICJwYXRoIjogIi9xd2VyIiwgInRscyI6ICIifQ==
+trojan://af4dc66a-ec88-4057-9e46-777b584577f7@ar.mjt001.com:443#%E7%BE%8E%E5%9B%BD+Microsoft%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
 trojan://ca7febc2-bb45-4e6d-810e-ab0af6009c4e@awshk9-tg-data.amazonwebservicess.com:443#%E7%BE%8E%E5%9B%BD+%E6%83%A0%E6%99%AEHP
-vmess://eyJhZGQiOiAiMTcyLjY3LjEzNC4xMjMiLCAidiI6ICIyIiwgInBzIjogIlx1N2Y4ZVx1NTZmZCBDbG91ZEZsYXJlXHU4MjgyXHU3MGI5IiwgInBvcnQiOiA0NDMsICJpZCI6ICI4MzU3ODE2Yi02OGU0LTRhMmItODMwYy1lOWJkZDM2OWVhMjIiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiZW4uZm9yaXJhbi5saXZlIiwgInBhdGgiOiAiLzdvdVd3ajFqSDJJYnVPZlFqMmNoZyIsICJ0bHMiOiAidGxzIn0=
-vmess://eyJhZGQiOiAiNDUuMTIuMTQ0LjgwIiwgInYiOiAiMiIsICJwcyI6ICJcdTZiMjdcdTc2ZGYgVjJDUk9TUy5DT00iLCAicG9ydCI6IDQ3MTI3LCAiaWQiOiAiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwgImFpZCI6ICI2NCIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiLyIsICJ0bHMiOiAiIn0=
-trojan://af4dc66a-ec88-4057-9e46-777b584577f7@usla.mjt001.com:443#%E9%A6%99%E6%B8%AF+%E7%89%B9%E5%88%AB%E8%A1%8C%E6%94%BF%E5%8C%BA
-vmess://eyJhZGQiOiAianAwNS12bTAuZW50cnkuc3J0aGR3LmFydCIsICJ2IjogIjIiLCAicHMiOiAiXHU2NWU1XHU2NzJjIFx1NGUxY1x1NGVhY0FtYXpvblx1NjU3MFx1NjM2ZVx1NGUyZFx1NWZjMyIsICJwb3J0IjogMzA1OTMsICJpZCI6ICIxYmM1MjMwOC0wYmQ5LTMwZDAtOTBmZC1jZWYzMzc4NzVkMTAiLCAiYWlkIjogIjEiLCAibmV0IjogInRjcCIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIi8iLCAidGxzIjogIiJ9
-trojan://af4dc66a-ec88-4057-9e46-777b584577f7@il.mjt001.com:443?type=tcp&sni=il.mjt001.com&allowInsecure=1#%E9%A6%99%E6%B8%AF+%E7%89%B9%E5%88%AB%E8%A1%8C%E6%94%BF%E5%8C%BA
-trojan://GaON64N6@shabi.masscloud.cf:443#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
 ```
 <h5>上方节点（部分）永久订阅地址：https://raw.fastgit.org/Pawdroid/Free-servers/main/sub</h5>
 <p>上方订阅地址二维码</p>
