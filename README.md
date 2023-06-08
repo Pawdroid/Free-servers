@@ -9,14 +9,11 @@
 </blockquote>
 <h4>节点列表：(这里仅展示部分节点，查看全部节点请下载app)</h4>
 
-```trojan://TJCfE7Mx2YcA8kX8zg@jp3.chuqiangtou.net:4003#%E4%BB%A5%E8%89%B2%E5%88%97+V2CROSS.COM
-trojan://a2dc16a1-b60e-4e40-860e-4f8a560795ca@sg.stablize.top:443#%E7%BE%8E%E5%9B%BD+Microsoft%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@172.99.190.87:8881#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAiYWRkIjogImNmLWR4LWRucy5zaGFyZWNlbnRyZS5vbmxpbmUiLCAicG9ydCI6ICI4MCIsICJpZCI6ICIyZDVkOGI5Yy04ZWM0LTRhMzctYjYxMC03OGU3MWUxM2VhZWYiLCAiYWlkIjogIjAiLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogImluLnNoYXJlY2VudHJlcHJvLmNvbSIsICJwYXRoIjogIi9zaGlya2VyIiwgInRscyI6ICIiLCAic25pIjogIiIsICJhbHBuIjogIiJ9
-trojan://TJCfE7Mx2YcA8kX8zg@us1.chuqiangtou.net:4003#%E4%BB%A5%E8%89%B2%E5%88%97+V2CROSS.COM
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAiYWRkIjogImNmLWx0LnNoYXJlY2VudHJlLm9ubGluZSIsICJwb3J0IjogIjQ0MyIsICJpZCI6ICIyZDVkOGI5Yy04ZWM0LTRhMzctYjYxMC03OGU3MWUxM2VhZWYiLCAiYWlkIjogIjAiLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogImNhLmlsb3Zlc2NwLmNvbSIsICJwYXRoIjogIi9zaGlya2VyIiwgInRscyI6ICJ0bHMiLCAic25pIjogIiIsICJhbHBuIjogIiJ9
-trojan://a1956156-b1d6-468e-b22f-59765172b07d@hinet.mjt001.com:443?type=tcp&security=tls&sni=hinet.mjt001.com&allowInsecure=1#%E7%BE%8E%E5%9B%BD+Microsoft%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
-trojan://TJCfE7Mx2YcA8kX8zg@hk1.chuqiangtou.net:4003#%E4%BB%A5%E8%89%B2%E5%88%97+V2CROSS.COM
+```vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAiYWRkIjogInZpc2EuY24iLCAicG9ydCI6IDgwLCAiaWQiOiAiOGE2OTRjZmItZDE0My00Mzc4LWNiODUtZmFhY2RjNjllNWUxIiwgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAiaG9zdCI6ICJhc3MuNjY5OTkwLnh5eiIsICJwYXRoIjogIi8iLCAidGxzIjogIiJ9
+trojan://8844efd9-1858-4d83-be27-d5fdd2aba132@fscsg.fscloud123456789.com:443?type=tcp&security=tls&allowInsecure=1#%E7%BE%8E%E5%9B%BD+Microsoft%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAiYWRkIjogIjE2Mi4xNTkuMTUyLjk1IiwgInBvcnQiOiAiNDQzIiwgImlkIjogImRkZGQwYjI5LTE1NzYtNDAwMy05OTkwLWQ3Y2VhMzQyNjRkYiIsICJhaWQiOiAiMCIsICJzY3kiOiAiYWVzLTEyOC1nY20iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogImRlZGkyLjE4MDguY2YiLCAicGF0aCI6ICIvODM1NzU3IiwgInRscyI6ICJ0bHMiLCAic25pIjogIiJ9
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAiYWRkIjogImNmLWx0LnNoYXJlY2VudHJlLm9ubGluZSIsICJwb3J0IjogIjgwIiwgImlkIjogIjJkNWQ4YjljLThlYzQtNGEzNy1iNjEwLTc4ZTcxZTEzZWFlZiIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiZG8uc2hhcmVjZW50cmVwcm8uY29tIiwgInBhdGgiOiAiL3NoaXJrZXIiLCAidGxzIjogIiIsICJzbmkiOiAiIiwgImFscG4iOiAiIn0=
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@172.99.190.87:5500#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
 ```
 <h5>上方节点（部分）永久订阅地址：https://raw.fastgit.org/Pawdroid/Free-servers/main/sub</h5>
 <p>上方订阅地址二维码</p>
