@@ -9,11 +9,12 @@
 </blockquote>
 <h4>节点列表：(这里仅展示部分节点，查看全部节点请下载app)</h4>
 
-```trojan://e0d44ae7-cb7d-4acc-a8c0-9861a6f5eaad@51.91.11.29:80?type=tcp&allowInsecure=1#%E8%8B%B1%E5%9B%BD+%E7%A4%BE%E4%BC%9A%E4%BF%9D%E9%99%A9%E5%AE%89%E5%85%A8%E9%83%A8
+```vmess://eyJhZGQiOiAiMTcyLjY3Ljk5LjczIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogInNscy5zaGFiaWppY2hhbmcuY29tIiwgImlkIjogIjYyNzhkYzgzLTEzODktNGQxNi04ZWJiLTBiODU5MGIwMzU4MiIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgInBvcnQiOiAiODAiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiIiwgInYiOiAiMiJ9
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU1ZTdmXHU0ZTFjXHU3NzAxXHU1ZTdmXHU1ZGRlXHU1ZTAyIFx1NzlmYlx1NTJhOCIsICJhZGQiOiAiMTgzLjIzMy4xODcuMjMzIiwgInBvcnQiOiAiNDk1NTMiLCAiaWQiOiAiNzcwZWU3MzAtMjQ1MC00ZTNjLWE2YzYtMzkzMmJkMzJhZmJkIiwgImFpZCI6ICI2NCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogIiIsICJwYXRoIjogIi8iLCAidGxzIjogIiIsICJzbmkiOiAiIiwgImFscG4iOiAiIn0=
+trojan://LYaOvuNXdQGTZNonhlRUKqOJcKVihzKY@fgddt-1082-tr-4.r-kcd-a.tuil.xyz:39909?security=tls&sni=s3.cjhh.beauty&type=tcp&headerType=none#%E5%B9%BF%E4%B8%9C%E7%9C%81%E6%B7%B1%E5%9C%B3%E5%B8%82+%E7%A7%BB%E5%8A%A8
+trojan://LYaOvuNXdQGTZNonhlRUKqOJcKVihzKY@ufxeq-1080-tr-9.d-kcd.tuil.xyz:39929?type=tcp&sni=edge.cjhh.mom&allowInsecure=1#%E5%B9%BF%E4%B8%9C%E7%9C%81%E6%B7%B1%E5%9C%B3%E5%B8%82+%E7%A7%BB%E5%8A%A8
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmMTQ5NzExZi0xOWZkLTRhZjUtOTJlYS01MjRiMWM0ZWZjYWM=@free.node.kk-proxy.pro:24961#%E4%B8%8A%E6%B5%B7%E5%B8%82+%E7%94%B5%E4%BF%A1
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAiYWRkIjogIm5zMS52Mi12aXAuZnVuIiwgInBvcnQiOiA4ODgwLCAiaWQiOiAiNjE3YzliYzQtNDExNi00MWM2LTk5ZTAtYWNlNDlhMzhmY2RiIiwgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAiaG9zdCI6ICJmcjcudGVobWUxMDAuZnVuIiwgInBhdGgiOiAiL0pudjhWaVpPVVZnaWpqT2gwcDV1R2pIblhJaVkiLCAidGxzIjogIiJ9
-vmess://eyJhZGQiOiAiMTA0LjIwLjIyNC45NSIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICJsZC5zaGFiaWppY2hhbmcuY29tIiwgImlkIjogImU2YmU2MGQ3LThiNzktNGJkMy04NmJhLTYyOTFiMWVhZDJmNyIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgInBvcnQiOiAiODAiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiIiwgInYiOiAiMiJ9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmMTQ5NzExZi0xOWZkLTRhZjUtOTJlYS01MjRiMWM0ZWZjYWM=@free.node.kk-proxy.pro:54455#%E4%B8%8A%E6%B5%B7%E5%B8%82+%E7%94%B5%E4%BF%A1
+vmess://eyJhZGQiOiAiMTcyLjY3Ljk5LjczIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogInNscy5zaGFiaWppY2hhbmcuY29tIiwgImlkIjogIjYyNzhkYzgzLTEzODktNGQxNi04ZWJiLTBiODU5MGIwMzU4MiIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgInBvcnQiOiAiODAiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiIiwgInYiOiAiMiJ9
 ```
 <h5>上方节点（部分）永久订阅地址：https://ghproxy.com/https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub</h5>
 <p>上方订阅地址二维码</p>
