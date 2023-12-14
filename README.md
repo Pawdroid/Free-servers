@@ -9,9 +9,9 @@
 </blockquote>
 <h4>节点列表：(这里仅展示部分节点，查看全部节点请下载app)</h4>
 
-```trojan://29ea82cf-f956-42b2-a5dc-35feea39e7ff@download2hkt.windowsupdatea.com:443?security=tls&sni=glc-hkt2.windowsupdatea.com&type=tcp&headerType=none#%E9%A6%99%E6%B8%AF+%E7%94%B5%E8%AE%AF%E7%9B%88%E7%A7%91%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8
+```trojan://57edfecf-5694-4a34-8072-54a4f0636a62@frontend.kuangbiaoyun.com:40007?sni=frontend.kuangbiaoyun.com#%E7%BE%8E%E5%9B%BD+%E5%AE%BE%E5%A4%95%E6%B3%95%E5%B0%BC%E4%BA%9A%E5%B7%9ECoudersport
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkODljYTM3MS1lOTRiLTRkZmUtYWQ2Zi0wMmJkMTNlZGY3YzQ=@service.ouluyun9803.com:50001#%E5%B9%BF%E4%B8%9C%E7%9C%81%E5%B9%BF%E5%B7%9E%E5%B8%82+%E7%A7%BB%E5%8A%A8
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkODljYTM3MS1lOTRiLTRkZmUtYWQ2Zi0wMmJkMTNlZGY3YzQ=@service.ouluyun9803.com:20001#%E5%B9%BF%E4%B8%9C%E7%9C%81%E5%B9%BF%E5%B7%9E%E5%B8%82+%E7%A7%BB%E5%8A%A8
-trojan://telegram-id-privatevpns@3.71.132.91:22222?sni=trj.rollingnext.co.uk#%E7%BE%8E%E5%9B%BD+Amazon+EC2%E6%9C%8D%E5%8A%A1%E5%99%A8
 ```
 <h5>上方节点（部分）永久订阅地址：https://gh.api.99988866.xyz/https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub</h5>
 <p>上方订阅地址二维码</p>
