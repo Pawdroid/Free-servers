@@ -9,17 +9,17 @@
 </blockquote>
 <h4>节点列表：(这里仅展示部分节点，查看全部节点请下载app)</h4>
 
-```trojan://DUvWfvC7xH@104.18.213.21:2096?security=tls&sni=my.gjgjhjvjjjjgjbvxhkinkhgijmvy02.cfd&type=grpc&fp=chrome&alpn=h2#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
-trojan://b99b5064-3f4e-484e-9279-ca0eaa21be07@183.236.51.6:10831?allowInsecure=1&sni=cloudflare.node-ssl.cdn-alibaba.com#%E5%B9%BF%E4%B8%9C%E7%9C%81%E5%B9%BF%E5%B7%9E%E5%B8%82+%E7%A7%BB%E5%8A%A8
-trojan://a6292090-afe1-4640-97a7-4f1d1d877cf1@104.25.255.254:443?security=tls&sni=hdfy8c1.foriran.me&type=grpc&serviceName=8bHUAD5IX0lC5KffvrsN6rqb#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.194:443#%E6%84%8F%E5%A4%A7%E5%88%A9+V2CROSS.COM
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAiYWRkIjogIjEwNC4xNy4yLjE4MyIsICJwb3J0IjogODAsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogImYyNTZhM2FlLTBmODUtNGExZC1kMGNkLTJkMGI0YjczZjRmMSIsICJob3N0IjogInYzcmEzZG8ud2FrZXVwdGltZXJhcC5zaG9wIiwgInBhdGgiOiAiLyJ9
+```ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4OTM1NjJkMi0yZTM2LTRjODctYWViYy0zY2EzZmM3OGRlM2U=@nc.cn2.go002.xyz:19511#%E5%B9%BF%E4%B8%9C%E7%9C%81+%E7%A7%BB%E5%8A%A8
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAiYWRkIjogImdsYVNjby5meC10ckFkZXIuc2hvcCIsICJwb3J0IjogODAsICJpZCI6ICJjZGJiMDg5OS03MTEzLTRkNGUtZjg2OC0zMTMzOWM3NWFkM2MiLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJob3N0IjogInZ2djJ2YXlvMi5ldmVyeXRoaW5naXNyZXZlLnNob3AiLCAicGF0aCI6ICIvIiwgInRscyI6ICIifQ==
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAiYWRkIjogIjEwNC4xNy4yLjE4MyIsICJwb3J0IjogODAsICJpZCI6ICJmMjU2YTNhZS0wZjg1LTRhMWQtZDBjZC0yZDBiNGI3M2Y0ZjEiLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJob3N0IjogInYzcmEzZG8ud2FrZXVwdGltZXJhcC5zaG9wIiwgInBhdGgiOiAiLyIsICJ0bHMiOiAiIn0=
+trojan://telegram-id-privatevpns@54.73.5.101:22222?security=tls&sni=trojan.miwan.co.uk&type=tcp&alpn=http/1.1#%E7%88%B1%E5%B0%94%E5%85%B0+%E9%83%BD%E6%9F%8F%E6%9E%97Amazon%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
+ss://eGNoYWNoYTIwLWlldGYtcG9seTEzMDU6N2RuQmZ4U0xWN0hyMDVmOEljVW5rWlJNWXE2R2ZxM2VDZWxXWW5QR282ST0=@78.153.139.102:41782#%E4%BF%84%E7%BD%97%E6%96%AF+V2CROSS.COM
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU4ZDhhXHU1MzU3IFYyQ1JPU1MuQ09NIiwgImFkZCI6ICI0Mi45Ni4zLjIyMyIsICJwb3J0IjogIjgwIiwgImlkIjogImYyZDUxZGRiLTFkZWEtNDE0ZC1iMTc5LTM4ODBlN2E2MGFkNiIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAibGllbnF1YW4uZ2FyZW5hLnZuIiwgInBhdGgiOiAiIiwgInRscyI6ICIiLCAic25pIjogIiIsICJhbHBuIjogIiJ9
+trojan://72c433ae-7f01-4026-9291-25b0a66b7603@js-cn.jdyzyjd.xyz:40214?security=tls&sni=chunshuan001.jindouyunjc.com&type=tcp&headerType=none#%E6%B1%9F%E8%8B%8F%E7%9C%81%E9%95%87%E6%B1%9F%E5%B8%82+%E7%A7%BB%E5%8A%A8
+trojan://DUvWfvC7xH@104.20.219.67:2096?security=tls&sni=my1.xgfhghfjjbffjbbjbjfxjjvg01.cfd&type=grpc&fp=firefox&alpn=h2,http/1.1#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
+trojan://55ed7f3f-86d1-455b-b4d0-43342de056c7@183.236.51.7:10829?allowInsecure=1&sni=cloudflare.node-ssl.cdn-alibaba.com#%E5%B9%BF%E4%B8%9C%E7%9C%81%E5%B9%BF%E5%B7%9E%E5%B8%82+%E7%A7%BB%E5%8A%A8
 trojan://5bae27f5-3b8e-48f3-b91f-30fc680ea78f@103.154.63.16:443?sni=lienquan.garena.vn#%E4%BA%9A%E5%A4%AA%E5%9C%B0%E5%8C%BA+V2CROSS.COM
-trojan://fbccfed7-1aeb-416a-a4fd-7af1747f9f3b@skyht2.vpndata.vn:443?sni=lienquan.garena.vn#%E8%B6%8A%E5%8D%97+V2CROSS.COM
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiNDAzY2MzNC0xYmQ0LTQxZjgtYWI3YS02NDhmODg3MDU3YWM=@sg.sg02.763998.top:51053#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
-trojan://01596265-168b-46a7-bcb7-25662c7a9546@188.114.98.0:443?security=tls&sni=hdfy7c1.foriran2.eu.org&type=grpc&serviceName=fYn1ncaQMA1foaK1hpquM#%E5%B7%B4%E8%A5%BF%E5%9C%A3%E4%BF%9D%E7%BD%97+CloudFlare%E8%8A%82%E7%82%B9
-trojan://589813d0-01da-4f15-bc4d-03f6964b03ce@183.236.51.7:10802?allowInsecure=1&sni=cloudflare.node-ssl.cdn-alibaba.com#%E5%B9%BF%E4%B8%9C%E7%9C%81%E5%B9%BF%E5%B7%9E%E5%B8%82+%E7%A7%BB%E5%8A%A8
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLTzR0MWZpVDBPcDgyTGc4eDdVU3JU@95.164.68.112:46478#%E4%B9%8C%E5%85%8B%E5%85%B0+V2CROSS.COM
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAiYWRkIjogIjEwNC4xNy4yNS4xIiwgInBvcnQiOiAiODAiLCAidHlwZSI6ICJub25lIiwgImlkIjogImQ4NzMzOWU0LWQ1N2QtNDQ3NS1lZjc2LWE3ODIwNWRhYTkwZSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgImhvc3QiOiAiMS5jYXRuaXBiYWxscy5nYXkiLCAidGxzIjogIiJ9
 ```
 <h5>上方节点（部分）永久订阅地址：https://gh.api.99988866.xyz/https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub</h5>
 <p>上方订阅地址二维码</p>
