@@ -9,16 +9,17 @@
 </blockquote>
 <h4>节点列表：(这里仅展示部分节点，查看全部节点请下载app)</h4>
 
-```ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443#%E7%BE%8E%E5%9B%BD+Amazon%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
-trojan://27876_t7d7f4e3f@los16.ttddd.xyz:443/?type=tcp&security=tls#%E5%8C%97%E7%BE%8E%E5%9C%B0%E5%8C%BA+V2CROSS.COM
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAiYWRkIjogIjEwNC4xNy4yNS4xIiwgInBvcnQiOiAiODAiLCAidHlwZSI6ICJub25lIiwgImlkIjogImQ4NzMzOWU0LWQ1N2QtNDQ3NS1lZjc2LWE3ODIwNWRhYTkwZSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgImhvc3QiOiAiMS5jYXRuaXBiYWxscy5nYXkiLCAidGxzIjogIiJ9
-trojan://DUvWfvC7xH@104.20.219.67:2096?security=tls&sni=my1.xgfhghfjjbffjbbjbjfxjjvg01.cfd&type=grpc&fp=firefox&alpn=h2,http/1.1#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
-trojan://a6292090-afe1-4640-97a7-4f1d1d877cf1@104.25.255.254:443?security=tls&sni=hdfy8c1.foriran.me&type=grpc&serviceName=8bHUAD5IX0lC5KffvrsN6rqb#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU1ZGY0XHU1MmQyXHU2NWFmXHU1NzY2IFYyQ1JPU1MuQ09NIiwgImFkZCI6ICI4Mi4yMTMuNS41MCIsICJwb3J0IjogODAsICJpZCI6ICJmMjFiY2RiNi01ZGM2LTRjNGItOWEzNC0zYjE4NWY2NzQ3YzQiLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJob3N0IjogInRhYnlhbjIwNS5zZXJ2ZWZ0cC5jb20iLCAicGF0aCI6ICIvQGZvcndhcmR2MnJheSIsICJ0bHMiOiAiIn0=
-trojan://Z0WkxNpiSVEFa9fCO4K8LQ@104.21.69.44:443?security=tls&sni=cdn2.gsmvp.com&type=grpc&serviceName=443trojan&fp=chrome&alpn=h2,http/1.1#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
-trojan://JH5MO2oFH9@172.67.137.186:2096?security=tls&sni=engpro.hollandpro.ir&type=grpc&serviceName=sourceforge.net&fp=chrome&alpn=h2,http/1.1#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJVURuclhFeHBiMElWVkhzRXhzS1dM@51.21.126.136:443#%E8%8B%B1%E5%9B%BD+%E7%A4%BE%E4%BC%9A%E4%BF%9D%E9%99%A9%E5%AE%89%E5%85%A8%E9%83%A8
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiNDAzY2MzNC0xYmQ0LTQxZjgtYWI3YS02NDhmODg3MDU3YWM=@sg.sg02.763998.top:51053#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
+```ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiNDAzY2MzNC0xYmQ0LTQxZjgtYWI3YS02NDhmODg3MDU3YWM=@sg.sg02.763998.top:51053#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
+vmess://eyJhZGQiOiAiMTcyLjk5LjE5MC4xMDkiLCAidiI6ICIyIiwgInBzIjogIlx1N2Y4ZVx1NTZmZCBWMkNST1NTLkNPTSIsICJwb3J0IjogNDQzLCAiaWQiOiAiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogImxpbmt2d3MiLCAidGxzIjogInRscyJ9
+trojan://72c433ae-7f01-4026-9291-25b0a66b7603@js-cn.jdyzyjd.xyz:40214?security=tls&sni=chunshuan001.jindouyunjc.com&type=tcp&headerType=none#%E6%B1%9F%E8%8B%8F%E7%9C%81%E9%95%87%E6%B1%9F%E5%B8%82+%E7%A7%BB%E5%8A%A8
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#%E7%BE%8E%E5%9B%BD+Amazon%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
+trojan://telegram-id-directvpn@16.170.32.224:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#%E7%BE%8E%E5%9B%BD+%E6%83%A0%E6%99%AEHP
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiNDAzY2MzNC0xYmQ0LTQxZjgtYWI3YS02NDhmODg3MDU3YWM=@152.69.218.7:51053#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@18.168.20.44:443#%E7%BE%8E%E5%9B%BD+Amazon%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
+trojan://55ed7f3f-86d1-455b-b4d0-43342de056c7@183.236.51.7:10829?allowInsecure=1&sni=cloudflare.node-ssl.cdn-alibaba.com#%E5%B9%BF%E4%B8%9C%E7%9C%81%E5%B9%BF%E5%B7%9E%E5%B8%82+%E7%A7%BB%E5%8A%A8
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAiYWRkIjogIjEwNC4xNy4yLjE4MyIsICJwb3J0IjogODAsICJpZCI6ICJmMjU2YTNhZS0wZjg1LTRhMWQtZDBjZC0yZDBiNGI3M2Y0ZjEiLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJob3N0IjogInYzcmEzZG8ud2FrZXVwdGltZXJhcC5zaG9wIiwgInBhdGgiOiAiLyIsICJ0bHMiOiAiIn0=
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443#%E7%BE%8E%E5%9B%BD+Amazon%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAiYWRkIjogImdsYVNjby5meC10ckFkZXIuc2hvcCIsICJwb3J0IjogODAsICJpZCI6ICJjZGJiMDg5OS03MTEzLTRkNGUtZjg2OC0zMTMzOWM3NWFkM2MiLCAiYWlkIjogMCwgInNjeSI6ICJhZXMtMTI4LWdjbSIsICJuZXQiOiAid3MiLCAiaG9zdCI6ICJ2dnYydmF5bzIuZXZlcnl0aGluZ2lzcmV2ZS5zaG9wIiwgInBhdGgiOiAiLyIsICJ0bHMiOiAiIn0=
 ```
 <h5>上方节点（部分）永久订阅地址：https://gh.api.99988866.xyz/https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub</h5>
 <p>上方订阅地址二维码</p>
