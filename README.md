@@ -9,16 +9,16 @@
 </blockquote>
 <h4>节点列表：(这里仅展示部分节点，查看全部节点请下载app)</h4>
 
-```vmess://eyJhZGQiOiAiMTA0LjE4LjIwMi4yMzIiLCAidiI6ICIyIiwgInBzIjogIlx1N2Y4ZVx1NTZmZCBDbG91ZEZsYXJlXHU4MjgyXHU3MGI5IiwgInBvcnQiOiA4MCwgImlkIjogIjU4ZmUxNTQyLTUyOTAtNDBhZC04MTVhLTc3NzA3YTgxYWZlNSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJjYTQudGVobWUyLmZ1biIsICJwYXRoIjogIi9JT2ViaExNaGwxQ1RiRkhiTDk1bXlmUlgyIiwgInRscyI6ICIifQ==
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAiYWRkIjogImNmY2RuMy5zYW5mZW5jZG45LmNvbSIsICJwb3J0IjogIjIwNTIiLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJpZCI6ICIyN2M3ZTE4Mi04OGJmLTRmYzYtYmJkZC04MzQ1MzA2MWY0N2YiLCAic25pIjogIiIsICJob3N0IjogInd0eXd3Y3J6anA1LnlvZm5oa2ZjLnh5eiIsICJwYXRoIjogIi92aWRlby85VGZWRXlrdSJ9
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU0ZTRjXHU1MTRiXHU1MTcwIFYyQ1JPU1MuQ09NIiwgImFkZCI6ICI5NS4xNjQuODkuMjI1IiwgInBvcnQiOiAiMzgxNTMiLCAidHlwZSI6ICJub25lIiwgImlkIjogIjcwYTY5NGM4LWJhNjUtNGQxZC05NDJkLTRmYzQ4OWRhMWI1ZiIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgImhvc3QiOiAiIiwgInRscyI6ICIifQ==
-trojan://telegram-id-directvpn@13.40.0.124:22222?security=tls&sni=trojan.miwan.co.uk&type=tcp&alpn=http/1.1#%E7%BE%8E%E5%9B%BD+Amazon%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
-vmess://eyJhZGQiOiAiY2YuZm92aS50ayIsICJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAicG9ydCI6IDQ0MywgImlkIjogImJmNjc0MzdlLTZjOTAtNDVjYS1hYmMyLWM3MjQwYTVjZTJhYSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJmb3hsdXguZm92aS50ayIsICJwYXRoIjogIi9laXNhc3FhIiwgInRscyI6ICJ0bHMifQ==
-trojan://414dff55-922a-4dc8-b5d3-b6517942b25a@east.eeeeeef998.buzz:15005?allowInsecure=1&sni=data.steamdownload.top#%E6%B1%9F%E8%8B%8F%E7%9C%81+%E7%A7%BB%E5%8A%A8
-trojan://fbccfed7-1aeb-416a-a4fd-7af1747f9f3b@skyht2.vpndata.vn:443?sni=lienquan.garena.vn#%E8%B6%8A%E5%8D%97+V2CROSS.COM
-ss://Y2hhY2hhMjAtcG9seTEzMDU6Qm9nMEVMbU1NOURTeERkUQ==@13.42.251.166:443#%E7%BE%8E%E5%9B%BD+Amazon%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
-trojan://telegram-id-directvpn@18.170.240.121:22222?security=tls&sni=trojan.miwan.co.uk&type=tcp&alpn=http/1.1#%E7%BE%8E%E5%9B%BD+Amazon%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU0ZTRjXHU1MTRiXHU1MTcwIFYyQ1JPU1MuQ09NIiwgImFkZCI6ICI5NC4xMzEuOC4zMiIsICJwb3J0IjogIjgwIiwgInR5cGUiOiAibm9uZSIsICJpZCI6ICI1N2UzN2E3NC1iYWRjLTRiNzEtODdjNy01YjllMjA4NzliNTgiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL3ZtZXNzIiwgImhvc3QiOiAiIiwgInRscyI6ICIifQ==
+```ss://Y2hhY2hhMjAtcG9seTEzMDU6Qm9nMEVMbU1NOURTeERkUQ==@13.42.251.166:443#%E7%BE%8E%E5%9B%BD+Amazon%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
+trojan://telegram-id-directvpn@54.195.225.40:22222?security=tls&sni=trojan.miwan.co.uk&type=tcp&alpn=http/1.1#%E7%88%B1%E5%B0%94%E5%85%B0+%E9%83%BD%E6%9F%8F%E6%9E%97Amazon%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.samanehha.co:443#%E7%BE%8E%E5%9B%BD+Amazon%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
+trojan://27876_t7d7f4e3f@23.142.200.175:443/?type=tcp&security=tls&sni=los16.ttddd.xyz#%E5%8C%97%E7%BE%8E%E5%9C%B0%E5%8C%BA+V2CROSS.COM
+trojan://5bae27f5-3b8e-48f3-b91f-30fc680ea78f@103.154.62.22:443?sni=lienquan.garena.vn#%E4%BA%9A%E5%A4%AA%E5%9C%B0%E5%8C%BA+V2CROSS.COM
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAiYWRkIjogImdsYVNjby5meC10ckFkZXIuc2hvcCIsICJwb3J0IjogIjgwIiwgInR5cGUiOiAibm9uZSIsICJpZCI6ICJjZGJiMDg5OS03MTEzLTRkNGUtZjg2OC0zMTMzOWM3NWFkM2MiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLyIsICJob3N0IjogInZ2djJ2YXlvMi5ldmVyeXRoaW5naXNyZXZlLnNob3AiLCAidGxzIjogIiJ9
+trojan://5bae27f5-3b8e-48f3-b91f-30fc680ea78f@103.154.63.16:443?sni=lienquan.garena.vn#%E4%BA%9A%E5%A4%AA%E5%9C%B0%E5%8C%BA+V2CROSS.COM
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU1M2YwXHU2ZTdlXHU3NzAxXHU2NWIwXHU3YWY5XHU1ZTAyIFx1NGUyZFx1NTM0ZVx1NzUzNVx1NGZlMSIsICJhZGQiOiAiYjIzLm50YnEuZHludS5uZXQiLCAicG9ydCI6ICIyMDI0IiwgInR5cGUiOiAiYXV0byIsICJpZCI6ICI5OWUzOTA0Ny05Mjk4LTQwNGUtYjYzMi0xODY3ZjdlZDFiMzciLCAiYWlkIjogIjAiLCAibmV0IjogInRjcCIsICJwYXRoIjogIi8iLCAiaG9zdCI6ICJiMjMubnRicS5keW51Lm5ldCIsICJ0bHMiOiAiIn0=
+trojan://DUvWfvC7xH@104.20.219.67:2096?security=tls&sni=my1.xgfhghfjjbffjbbjbjfxjjvg01.cfd&type=grpc&fp=firefox&alpn=h2,http/1.1#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
+trojan://da6aed6a-767d-4049-b801-85c38ab0d797@104.20.17.40:443?security=tls&sni=store.registration.network&type=ws&host=store.registration.network&path=%2FJTkcEocBhvGrNGANpkrsKSZFy&fp=firefox&alpn=http/1.1#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
 ```
 <h5>上方节点（部分）永久订阅地址：https://gh.api.99988866.xyz/https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub</h5>
 <p>上方订阅地址二维码</p>
