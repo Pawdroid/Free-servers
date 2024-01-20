@@ -9,18 +9,16 @@
 </blockquote>
 <h4>节点列表：(这里仅展示部分节点，查看全部节点请下载app)</h4>
 
-```trojan://telegram-id-privatevpns@13.50.113.57:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk#%E7%BE%8E%E5%9B%BD+Xerox
-vmess://eyJhZGQiOiAiMTcyLjk5LjE5MC4xMDkiLCAidiI6ICIyIiwgInBzIjogIlx1N2Y4ZVx1NTZmZCBWMkNST1NTLkNPTSIsICJwb3J0IjogNDQzLCAiaWQiOiAiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogImxpbmt2d3MiLCAidGxzIjogInRscyJ9
+```trojan://DUvWfvC7xH@104.18.213.21:2096?security=tls&sni=my.gjgjhjvjjjjgjbvxhkinkhgijmvy02.cfd&type=grpc&fp=chrome&alpn=h2#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
+trojan://01596265-168b-46a7-bcb7-25662c7a9546@188.114.98.0:443?security=tls&sni=hdfy7c1.foriran2.eu.org&type=grpc&serviceName=fYn1ncaQMA1foaK1hpquM#%E5%B7%B4%E8%A5%BF%E5%9C%A3%E4%BF%9D%E7%BD%97+CloudFlare%E8%8A%82%E7%82%B9
+trojan://telegram-id-privatevpns@18.153.228.244:22222?security=tls&sni=trojan.miwan.co.uk&type=tcp&alpn=http/1.1#%E7%BE%8E%E5%9B%BD+Amazon%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.75.136.135:7306#%E7%BE%8E%E5%9B%BD+%E5%8D%8E%E7%9B%9B%E9%A1%BFCogent%E9%80%9A%E4%BF%A1%E5%85%AC%E5%8F%B8
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.75.136.135:8091#%E7%BE%8E%E5%9B%BD+%E5%8D%8E%E7%9B%9B%E9%A1%BFCogent%E9%80%9A%E4%BF%A1%E5%85%AC%E5%8F%B8
+trojan://5bae27f5-3b8e-48f3-b91f-30fc680ea78f@103.154.63.16:443?sni=lienquan.garena.vn#%E4%BA%9A%E5%A4%AA%E5%9C%B0%E5%8C%BA+V2CROSS.COM
+trojan://2@104.18.203.232:2095?security=none&type=ws&host=hajimamadvpn-join-bede.cfz-hajimmad.site&path=%2F#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
+trojan://DUvWfvC7xH@104.20.219.67:2096?security=tls&sni=my1.xgfhghfjjbffjbbjbjfxjjvg01.cfd&type=grpc&fp=firefox&alpn=h2,http/1.1#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
 vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU1ZTdmXHU0ZTFjXHU3NzAxIFx1NzlmYlx1NTJhOCIsICJhZGQiOiAiZGF0YS11cy12MS5zaHdqZmt3LmNuIiwgInBvcnQiOiAiMjA0MDEiLCAidHlwZSI6ICJub25lIiwgImlkIjogImIxNDc4ZTI0LTQ5MTYtM2FiZS04ZjE3LTE1OTMxMDEyZWNiZSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvZGViaWFuIiwgImhvc3QiOiAiZGF0YS11cy12MS5zaHdqZmt3LmNuIiwgInRscyI6ICIifQ==
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIFYyQ1JPU1MuQ09NIiwgImFkZCI6ICJjb2xkLWRhd24tOTI0Ni5mbHkuZGV2IiwgInBvcnQiOiA0NDMsICJpZCI6ICJlYTQ5MDllZi03Y2E2LTRiNDYtYmYyZS02YzA3ODk2ZWYzMzgiLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJob3N0IjogImNvbGQtZGF3bi05MjQ2LmZseS5kZXYiLCAicGF0aCI6ICIvZWE0OTA5ZWYtN2NhNi00YjQ2LWJmMmUtNmMwNzg5NmVmMzM4LXZtIiwgInRscyI6ICJ0bHMifQ==
-trojan://2@104.18.202.232:2095?security=none&type=ws&host=hajimamadvpn-join-bede.cfz-hajimmad.site&path=%2F#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
-trojan://892e4ff3-f8bb-42ac-9bd5-e103f235fc78@kr01.333210.xyz:40000?sni=400567.xyz#%E7%BE%8E%E5%9B%BD+Amazon+EC2%E6%9C%8D%E5%8A%A1%E5%99%A8
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAiYWRkIjogInMxYy52Mi52MDAxc3NzLnh5eiIsICJwb3J0IjogIjIwODIiLCAiaWQiOiAiMTEyYWMzNmYtM2Y1My00ZTI2LTgzNzEtZDI1YzAyOGUxYjlhIiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICJzMWMudjIudjAwMXNzcy54eXoiLCAicGF0aCI6ICIvIiwgInRscyI6ICIiLCAic25pIjogIiIsICJhbHBuIjogIiJ9
-trojan://Z0WkxNpiSVEFa9fCO4K8LQ@104.21.69.44:443?security=tls&sni=cdn2.gsmvp.com&type=grpc&serviceName=443trojan&fp=chrome&alpn=h2,http/1.1#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
-trojan://5bae27f5-3b8e-48f3-b91f-30fc680ea78f@103.154.62.23:443?sni=lienquan.garena.vn#%E4%BA%9A%E5%A4%AA%E5%9C%B0%E5%8C%BA+V2CROSS.COM
-trojan://a6292090-afe1-4640-97a7-4f1d1d877cf1@64.68.192.77:443?security=tls&sni=hdfy8c1.foriran.me&type=grpc&serviceName=8bHUAD5IX0lC5KffvrsN6rqb#%E7%BE%8E%E5%9B%BD+EasyDNS+Anycast%E8%8A%82%E7%82%B9%28Cloudflare%E8%8A%82%E7%82%B9%29
-vmess://eyJhZGQiOiAiMTA0LjIxLjIyOS43OCIsICJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAicG9ydCI6IDIwODIsICJpZCI6ICIyN2M3ZTE4Mi04OGJmLTRmYzYtYmJkZC04MzQ1MzA2MWY0N2YiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAidXM0QmI1b1NnSkEuZnpicWZyc2UueHl6IiwgInBhdGgiOiAiL3ZpZGVvL0N1VHk4N3pBelYvIiwgInRscyI6ICIifQ==
-trojan://DUvWfvC7xH@104.18.213.21:2096?security=tls&sni=my.gjgjhjvjjjjgjbvxhkinkhgijmvy02.cfd&type=grpc&fp=chrome&alpn=h2#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
+trojan://telegram-id-directvpn@54.220.196.45:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.miwan.co.uk&type=tcp#%E7%88%B1%E5%B0%94%E5%85%B0+%E9%83%BD%E6%9F%8F%E6%9E%97Amazon%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
 ```
 <h5>上方节点（部分）永久订阅地址：https://gh.api.99988866.xyz/https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub</h5>
 <p>上方订阅地址二维码</p>
