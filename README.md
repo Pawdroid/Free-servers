@@ -23,6 +23,10 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5NDlmNzU0Mi03MjQwLTQzYmEtYTNjYy1kY2Y3YzdiMmU
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkNjEwNWJiZC1iZTBkLTQ1YjItODJhZC0zMWZkMTA3MWMxZDI=@service.ouluyun9803.com:26667#%E6%84%8F%E5%A4%A7%E5%88%A9+V2CROSS.COM
 vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAiYWRkIjogIjEwNC4yMS41NC4yNTIiLCAicG9ydCI6ICI4MDgwIiwgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiMjI4MjZiNDQtNWMxYS00YjRiLWRiYWEtODNhMmU4YmQ5NWYwIiwgInNuaSI6ICIiLCAiaG9zdCI6ICJ3d3cudmVsdmV0bW91bnRhaW4uc2hvcCIsICJwYXRoIjogIi8ifQ==
 ```
+if anything not worked then this will work
+```
+vmess://eyJhZGQiOiIxMy4yMTIuMjM0LjE4MyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJiMzM5MTg3Yi05Y2RlLTc2ZDQtMjMwNi01YmE3MWFhMDAxMjgiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjEwMDg2IiwicHMiOiJubnQiLCJzY3kiOiJjaGFjaGEyMC1wb2x5MTMwNSIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
+```
 <h5>上方节点（部分）永久订阅地址：https://proxy.v2gh.com/https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub</h5>
 <p>上方订阅地址二维码</p>
 <img src='https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub.png' width=250 height=250>
