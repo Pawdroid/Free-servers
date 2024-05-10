@@ -1,4 +1,8 @@
 
+<h2>点击加入 Telegram 电报交流群：</h2>
+<blockquote>
+<p style="text-align: center;"><a href="https://t.me/shadowrocket_android">https://t.me/shadowrocket_android</a></p>
+</blockquote>
 <h2>免费节点及订阅地址：</h2>
 <blockquote>
 <p style="text-align: center;">优质节点每天实时测速更新，6小时更新一次</p>
