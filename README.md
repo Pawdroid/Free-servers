@@ -13,10 +13,7 @@
 </blockquote>
 <h4>节点列表：(这里仅展示部分节点，查看全部节点请下载app)</h4>
 
-```vmess://eyJhZGQiOiAiMTAzLjIxNC42OC41NyIsICJ2IjogIjIiLCAicHMiOiAiXHU5N2U5XHU1NmZkIFx1ODYxMVx1ODNjN1x1NGUzYlx1NjczYUJHUFx1NjU3MFx1NjM2ZVx1NGUyZFx1NWZjMyIsICJwb3J0IjogMTAwMDEsICJpZCI6ICJlYmNhNWY2OC1iZjU5LTQwODEtZTY1OC1mMTU4ODM5YzJmNWMiLCAiYWlkIjogIjAiLCAibmV0IjogInRjcCIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAidGxzIn0=
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAiYWRkIjogIjE2Mi4xNTkuMy4xMSIsICJwb3J0IjogIjgwODAiLCAidHlwZSI6ICJub25lIiwgImlkIjogIjRmMWY4ZjFlLTkyNmMtNGVkYi1hMzk4LTg2MjcxMTA5NzNmMSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvYXJpZXM/ZWQ9MjA0OCIsICJob3N0IjogImRvLWF1LmFsaXBheS5vdmgiLCAidGxzIjogIiJ9
-trojan://6x8HcghsjS@103.214.68.57:10003?allowInsecure=0&sni=yes998.chickenkiller.com#%E9%9F%A9%E5%9B%BD+%E8%98%91%E8%8F%87%E4%B8%BB%E6%9C%BABGP%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
-trojan://f0eb8c92ce8946aaba856569cff1a16b@104.19.159.2:443?security=tls&sni=avianrecruit.com&type=ws&host=avianrecruit.com&path=/6b777a91#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
+```
 ```
 <h5>上方节点（部分）永久订阅地址：https://proxy.v2gh.com/https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub</h5>
 <p>上方订阅地址二维码</p>
@@ -27,7 +24,7 @@ trojan://f0eb8c92ce8946aaba856569cff1a16b@104.19.159.2:443?security=tls&sni=avia
 <blockquote style='text-align: center;'>更多节点、免费订阅地址及订阅转换请下载本站提供的共享节点app软件<a href='https://shadowsharing.com'>ShadowShare</a>导出节点使用，支持iOS、Android下载，Android用户建议直接使用<a href='https://github.com/Pawdroid/shadowrocket_for_android'>shadowrocket for android</a>安卓小火箭，内置所有免费节点。</blockquote>
 <h4>建议国内iOS用户及早 <a href='https://apps.apple.com/cn/app/shadowshare/id1612647259'>App Store下载</a> 留存，可能会在未来的某个时间下架</h4>
 
-<h4>最新发布优质VPN <a href='https://letsgovpn.com'>快走VPN</a> 已支持Android、Windows平台，欢迎下载使用。</h4>
+<h4>最新发布高速优质VPN <a href='https://letsgovpn.com'>快走VPN</a> 已支持Android、Windows平台，欢迎下载使用，限时提供无限免费试用。</h4>
 
 <div class="nv-content-wrap entry-content">
 <h2>Clash、SS等客户端订阅地址一键转换：</h2>
