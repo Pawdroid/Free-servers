@@ -13,10 +13,7 @@
 </blockquote>
 <h4>节点列表：(这里仅展示部分节点，查看全部节点请下载app)</h4>
 
-```ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@15.204.87.222:5600#%E7%BE%8E%E5%9B%BD+%E6%83%A0%E6%99%AEHP
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU1ZTdmXHU0ZTFjXHU3NzAxXHU0ZjViXHU1YzcxXHU1ZTAyIFx1NzlmYlx1NTJhOCIsICJhZGQiOiAiMTgzLjIzMi4xOTkuMjgiLCAicG9ydCI6ICIyMTAwNiIsICJpZCI6ICJhYWFhYWFhYS1hYWFhLWFhYWEtYWFhYS1kYWFhYWFhYWFhYWQiLCAiYWlkIjogIjAiLCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIiLCAidGxzIjogIiIsICJzbmkiOiAiIiwgImFscG4iOiAiIn0=
-trojan://iLF3ps2LBUbj@13.215.251.201:12934?sni=appsvs.shop#%E7%BE%8E%E5%9B%BD+Xerox
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@15.204.87.222:5001#%E7%BE%8E%E5%9B%BD+%E6%83%A0%E6%99%AEHP
+```
 ```
 <h5>上方节点（部分）永久订阅地址：https://proxy.v2gh.com/https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub</h5>
 <p>上方订阅地址二维码</p>
