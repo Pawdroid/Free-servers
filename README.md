@@ -13,9 +13,9 @@
 </blockquote>
 <h4>节点列表：(这里仅展示部分节点，查看全部节点请下载app)</h4>
 
-```trojan://telegram-id-directvpn@15.236.243.216:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%E7%BE%8E%E5%9B%BD+%E6%83%A0%E6%99%AE%E5%85%AC%E5%8F%B8
+```vmess://eyJhZGQiOiAiNDYuMTcuNDUuMTMiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogIjU1OGZmNjg4LWQ3MGQtNDIxOS05ZTU5LTc0ODI4OTUyODI1NiIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiMTc2OTciLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAibm9uZSIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIiwgInBzIjogIlx1NGZjNFx1N2Y1N1x1NjVhZiBcdTk3OTFcdTk3N2NcdTY1YWZcdTU3NjZcdTU1ODBcdTVjNzFqdXN0aG9zdCJ9
+trojan://telegram-id-directvpn@15.236.243.216:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%E7%BE%8E%E5%9B%BD+%E6%83%A0%E6%99%AE%E5%85%AC%E5%8F%B8
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmZWNjZDJkMC02NGQ3LTQzNzYtYjBiNS1iZWEwNzEzOGUxZTc=@45.8.158.254:13501#%E4%BF%84%E7%BD%97%E6%96%AF+%E6%96%B0%E8%A5%BF%E4%BC%AF%E5%88%A9%E4%BA%9Ajusthost
-vmess://eyJhZGQiOiAiNDYuMTcuNDUuMTMiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogIjU1OGZmNjg4LWQ3MGQtNDIxOS05ZTU5LTc0ODI4OTUyODI1NiIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiMTc2OTciLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAibm9uZSIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIiwgInBzIjogIlx1NGZjNFx1N2Y1N1x1NjVhZiBcdTk3OTFcdTk3N2NcdTY1YWZcdTU3NjZcdTU1ODBcdTVjNzFqdXN0aG9zdCJ9
 ```
 <h5>上方节点（部分）永久订阅地址：https://proxy.v2gh.com/https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub</h5>
 <p>上方订阅地址二维码</p>
