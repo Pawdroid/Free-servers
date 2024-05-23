@@ -13,9 +13,9 @@
 </blockquote>
 <h4>节点列表：(这里仅展示部分节点，查看全部节点请下载app)</h4>
 
-```vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU1ZTdmXHU0ZTFjXHU3NzAxIFx1NzlmYlx1NTJhOCIsICJhZGQiOiAiZGF0YS11cy12MS5zaHdqZmt3LmNuIiwgInBvcnQiOiAyMDQwMSwgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiYjE0NzhlMjQtNDkxNi0zYWJlLThmMTctMTU5MzEwMTJlY2JlIiwgImhvc3QiOiAiZGF0YS11cy12MS5zaHdqZmt3LmNuIiwgInBhdGgiOiAiL2RlYmlhbiJ9
-trojan://qj1Dz1CJmFQRhWr1SP80aA@172.67.204.84:443?security=tls&sni=cdn-21.gsmxreality.com&type=grpc&serviceName=443trojan&mode=gun#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5OTMwMWQ1NS1hNDFmLTQ5MTktOTg2Yi0xNDM1OTk2NTMzYWE=@deepf.hjkdsak2.com:20003#%E5%B9%BF%E4%B8%9C%E7%9C%81%E6%B1%9F%E9%97%A8%E5%B8%82+%E7%A7%BB%E5%8A%A8
+```vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU0ZmM0XHU3ZjU3XHU2NWFmIFx1ODNhYlx1NjVhZlx1NzlkMUp1c3RIb3N0IiwgImFkZCI6ICI0NS4xMzYuMjQ1LjI0MCIsICJwb3J0IjogIjEyOTEwIiwgImlkIjogIjgyNTljYjFjLWRkNmMtNDczOS05Yzg4LWFmNTUwZDk3NzUyNSIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiIiwgInRscyI6ICJ0bHMiLCAic25pIjogIjIyLmx3ZGgudXMiLCAidGVzdF9uYW1lIjogIlJVXHU0ZmM0XHU3ZjU3XHU2NWFmMiJ9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpabVJpTQ==@95.164.47.219:8388#%E4%B9%8C%E5%85%8B%E5%85%B0+V2CROSS.COM
+trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.53.10:443?security=tls&type=ws&sni=tjjd.yzyx1.v6.army&path=/?ed=2048&Telegram🇨🇳 @WangCai2&host=tjjd.yzyx1.v6.army#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
 ```
 <h5>上方节点（部分）永久订阅地址：https://proxy.v2gh.com/https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub</h5>
 <p>上方订阅地址二维码</p>
