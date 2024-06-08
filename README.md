@@ -13,22 +13,51 @@
 </blockquote>
 <h4>节点列表：(这里仅展示部分节点，查看全部节点请下载app)</h4>
 
-```trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.52.234:2087?security=tls&sni=tjjd.yzyx1.v6.army&type=ws&host=tjjd.yzyx1.v6.army&path=%2F%3Fed%3D2048%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&allowInsecure=1#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@149.202.82.172:5001#%E6%B3%95%E5%9B%BD+OVH%E6%9C%BA%E6%88%BFSAS%E7%A1%AC%E7%9B%98BGP%E4%B8%BB%E6%9C%BA
-ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@51.77.53.200:9102#%E6%B3%95%E5%9B%BD+OVH
-trojan://1DbW71O0JJ8m@13.213.48.68:17010?sni=appsvs.shop#%E6%96%B0%E5%8A%A0%E5%9D%A1+Amazon%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
+```ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@51.77.53.200:8000#%E6%B3%95%E5%9B%BD+OVH
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@149.202.82.172:8881#%E6%B3%95%E5%9B%BD+OVH%E6%9C%BA%E6%88%BFSAS%E7%A1%AC%E7%9B%98BGP%E4%B8%BB%E6%9C%BA
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@51.77.53.200:5003#%E6%B3%95%E5%9B%BD+OVH
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@38.114.114.207:8009#%E7%BE%8E%E5%9B%BD+%E5%8D%8E%E7%9B%9B%E9%A1%BFCogent%E9%80%9A%E4%BF%A1%E5%85%AC%E5%8F%B8
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@51.77.53.200:4444#%E6%B3%95%E5%9B%BD+OVH
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@51.77.53.200:2375#%E6%B3%95%E5%9B%BD+OVH
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@149.202.82.172:5500#%E6%B3%95%E5%9B%BD+OVH%E6%9C%BA%E6%88%BFSAS%E7%A1%AC%E7%9B%98BGP%E4%B8%BB%E6%9C%BA
+trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.52.179:2083?security=tls&sni=tjjd.yzyx1.v6.army&type=ws&host=tjjd.yzyx1.v6.army&path=%2F#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
+trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.53.95:8443?security=tls&type=ws&sni=tjjd.yzyx1.v6.army&path=/?ed=2048&host=tjjd.yzyx1.v6.army#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@51.77.53.200:8009#%E6%B3%95%E5%9B%BD+OVH
+vmess://eyJhZGQiOiAiZGUwNC5wYXRyaW90aWNwcmluY2Vzcy5vbmxpbmUiLCAiYWlkIjogMCwgImhvc3QiOiAiZGUwNC5wYXRyaW90aWNwcmluY2Vzcy5vbmxpbmUiLCAiaWQiOiAiODc4NTk2ZTEtZWJmZS00N2U3LTllNjUtNTNlMjhjZWZmYjZmIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi8iLCAicG9ydCI6IDgwLCAicHMiOiAiXHU1ZmI3XHU1NmZkIFx1OWVkMVx1NjhlZVx1NWRkZVx1NmNkNVx1NTE3MFx1NTE0Ylx1Nzk4ZkFtYXpvblx1NjU3MFx1NjM2ZVx1NGUyZFx1NWZjMyIsICJ0bHMiOiAiIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiJ9
+vmess://eyJ2IjogIjIiLCAiYWRkIjogIjY0LjE3Ni4xNS43NCIsICJwb3J0IjogIjMzODkiLCAidHlwZSI6ICJodHRwIiwgImlkIjogIjljMDUwYTg2LWQ2MTItNDhmMS1lYzMyLWU1NzNkZjA4YTFiNyIsICJhaWQiOiAiMCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiLyIsICJob3N0IjogInZrdmQxMjcubXljZG4ubWUiLCAidGxzIjogIiIsICJwcyI6ICJcdTdmOGVcdTU2ZmQgXHU1MmEwXHU1MjI5XHU3OThmXHU1YzNjXHU0ZTlhIn0=
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.114.114.207:5000#%E7%BE%8E%E5%9B%BD+%E5%8D%8E%E7%9B%9B%E9%A1%BFCogent%E9%80%9A%E4%BF%A1%E5%85%AC%E5%8F%B8
+trojan://OasaGNKeYD6v@35.177.103.94:17124?sni=appsvs.shop#%E7%BE%8E%E5%9B%BD+%E5%8D%8E%E7%9B%9B%E9%A1%BF%E5%B7%9E%E8%A5%BF%E9%9B%85%E5%9B%BE%E5%B8%82%E4%BA%9A%E9%A9%AC%E9%80%8A%28Amazon%29%E5%85%AC%E5%8F%B8%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU1Yjg5XHU1ZmJkXHU3NzAxIFx1NzlmYlx1NTJhOFx1NjU3MFx1NjM2ZVx1NGUwYVx1N2Y1MVx1NTE2Y1x1NTE3MVx1NTFmYVx1NTNlMyIsICJhZGQiOiAiaW4wNi5kbnMyMDI0Lm9yZyIsICJwb3J0IjogIjYxMDE3IiwgInR5cGUiOiAibm9uZSIsICJpZCI6ICI5ZWFjODgzMC01ZGE1LTNlZTItYTRiMi1iNDk1OTgyNzU2MjMiLCAiYWlkIjogIjAiLCAibmV0IjogInRjcCIsICJwYXRoIjogIi8iLCAiaG9zdCI6ICJpbjA2LmRuczIwMjQub3JnIiwgInRscyI6ICIifQ==
+vmess://eyJhZGQiOiAiNDYuMTcuNDEuMTYxIiwgInYiOiAiMiIsICJwcyI6ICJcdTRmYzRcdTdmNTdcdTY1YWYgXHU5NzkxXHU5NzdjXHU2NWFmXHU1NzY2XHU1NTgwXHU1YzcxanVzdGhvc3QiLCAicG9ydCI6IDU0MzIxLCAiaWQiOiAiMzhhN2Y0NjctZjFjOC00MzkyLWE2ZTktMGVkMjNlOTM3NzVjIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIi9pcGhvbmUiLCAidGxzIjogIiJ9
+trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.53.132:8443?security=tls&type=ws&sni=tjjd.yzyx1.v6.army&path=/?ed=2048&Telegram🇨🇳 @WangCai2&host=tjjd.yzyx1.v6.army#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
+trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.53.245:2096?security=tls&type=ws&sni=tjjd.yzyx1.v6.army&path=/&host=tjjd.yzyx1.v6.army#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
+trojan://0fd9b883-0551-4ed1-b978-528183b459a2@47.243.139.243:2087?security=tls&type=ws&sni=mfjd.591haoka.com&path=/?ed=2560&host=mfjd.591haoka.com#%E9%A6%99%E6%B8%AF+%E9%98%BF%E9%87%8C%E4%BA%91
+trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.53.115:2096?security=tls&sni=tjjd.yzyx1.v6.army&type=ws&host=tjjd.yzyx1.v6.army&path=%2F%3Fed%3D2048%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&allowInsecure=1#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
+trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.52.16:2096?security=tls&sni=tjjd.yzyx1.v6.army&type=ws&host=tjjd.yzyx1.v6.army&path=%2F%3Fed%3D2048%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&allowInsecure=1#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@149.202.82.172:5601#%E6%B3%95%E5%9B%BD+OVH%E6%9C%BA%E6%88%BFSAS%E7%A1%AC%E7%9B%98BGP%E4%B8%BB%E6%9C%BA
+trojan://TeleGram-VPNCTVIP@164.38.155.61:443?security=tls&sni=trojan-ws.vpnctvip.dns-dynamic.NeT&type=ws&host=trojan-ws.vpnctvip.dns-dynamic.NeT&path=%2FproxyIP%3Dproxyip.us.fxxk.dedyn.io&fp=random&alpn=h3,h2,http/1.1#%E8%8B%B1%E5%9B%BD+V2CROSS.COM
+trojan://f85e2ad7-3e26-4589-b478-b0b15b9b5907@104.21.20.148:2087?security=tls&sni=us1.trojanvpn.de&type=grpc&serviceName=grpc#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
+trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.52.78:2053?security=tls&sni=tjjd.yzyx1.v6.army&type=ws&host=tjjd.yzyx1.v6.army&path=%2F#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
+trojan://62fowEwheEtH@3.38.182.70:17110?sni=appsvs.shop#%E7%BE%8E%E5%9B%BD+Amazon+EC2%E6%9C%8D%E5%8A%A1%E5%99%A8
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@51.77.53.200:8888#%E6%B3%95%E5%9B%BD+OVH
+trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.52.2:2096?security=tls&type=ws&sni=tjjd.yzyx1.v6.army&path=/?ed=2048&host=tjjd.yzyx1.v6.army#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
+trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.52.232:2083?security=tls&sni=tjjd.yzyx1.v6.army&type=ws&host=tjjd.yzyx1.v6.army&path=%2F%3Fed%3D2048%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&allowInsecure=1#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNb3hNcGdNM01MaEJ3MERCRHZQQW5C@77.221.137.197:25067#%E4%BF%84%E7%BD%97%E6%96%AF+V2CROSS.COM
+trojan://rDgoag8etD@185.253.7.201:31673?security=none&type=tcp#%E7%88%B1%E6%B2%99%E5%B0%BC%E4%BA%9A+V2CROSS.COM
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@51.77.53.200:6679#%E6%B3%95%E5%9B%BD+OVH
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDc0c3NmhsWFlPQVl3ZTl3c0pKVmgw@51.145.20.205:20283#%E8%8B%B1%E5%9B%BD+%E4%BC%A6%E6%95%A6Microsoft%E5%85%AC%E5%8F%B8
 ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@51.77.53.200:9101#%E6%B3%95%E5%9B%BD+OVH
-trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.52.185:2083?security=tls&type=ws&sni=tjjd.yzyx1.v6.army&path=/?ed=2048&Telegram🇨🇳 @WangCai2&host=tjjd.yzyx1.v6.army#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
-trojan://b84d16a244460e09@5.44.249.44:3306?security=tls&sni=n2.gladns.com&type=ws&host=TG.WangCai_1&path=/gateway/connect#%E8%8B%B1%E5%9B%BD+V2CROSS.COM
-trojan://e406f37e-e164-443e-a4c0-d1ebb700f3db@usa.lydurlclub.top:443?security=tls&sni=usa.lydurlclub.top#%E9%A6%99%E6%B8%AF+Microsoft%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@149.202.82.172:8888#%E6%B3%95%E5%9B%BD+OVH%E6%9C%BA%E6%88%BFSAS%E7%A1%AC%E7%9B%98BGP%E4%B8%BB%E6%9C%BA
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@149.202.82.172:8118#%E6%B3%95%E5%9B%BD+OVH%E6%9C%BA%E6%88%BFSAS%E7%A1%AC%E7%9B%98BGP%E4%B8%BB%E6%9C%BA
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@51.77.53.200:8091#%E6%B3%95%E5%9B%BD+OVH
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2elIzc0JZSktJVEVuZUdqZ3ZpN1Zs@23.26.133.154:443#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmTEFJYno3NkJuT21KNkhOdUsycXZt@172.233.51.128:80#%E7%BE%8E%E5%9B%BD+Akamai%E7%A7%91%E6%8A%80%E5%85%AC%E5%8F%B8CDN%E7%BD%91%E7%BB%9C%E8%8A%82%E7%82%B9
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.114.114.207:7001#%E7%BE%8E%E5%9B%BD+%E5%8D%8E%E7%9B%9B%E9%A1%BFCogent%E9%80%9A%E4%BF%A1%E5%85%AC%E5%8F%B8
-trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.53.132:8443?security=tls&type=ws&sni=tjjd.yzyx1.v6.army&path=/?ed=2048&host=tjjd.yzyx1.v6.army#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@51.77.53.200:7307#%E6%B3%95%E5%9B%BD+OVH
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1Y29yZHAyMmpSYmI2RnJDM0dLTTk4@51.141.239.0:43131#%E8%8B%B1%E5%9B%BD+%E5%A8%81%E5%B0%94%E5%A3%AB%E5%8A%A0%E7%9A%84%E5%A4%ABMicrosoft%E5%85%AC%E5%8F%B8
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.121.43.248:8882#%E7%BE%8E%E5%9B%BD+%E5%8D%8E%E7%9B%9B%E9%A1%BFCogent%E9%80%9A%E4%BF%A1%E5%85%AC%E5%8F%B8
+vmess://eyJhZGQiOiAiZGUwNC53aWxsZnJlZS5vbmxpbmUiLCAidiI6ICIyIiwgInBzIjogIlx1NWZiN1x1NTZmZCBcdTllZDFcdTY4ZWVcdTVkZGVcdTZjZDVcdTUxNzBcdTUxNGJcdTc5OGZBbWF6b25cdTY1NzBcdTYzNmVcdTRlMmRcdTVmYzMiLCAicG9ydCI6IDgwLCAiaWQiOiAiODc4NTk2ZTEtZWJmZS00N2U3LTllNjUtNTNlMjhjZWZmYjZmIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogImRlMDQud2lsbGZyZWUub25saW5lIiwgInBhdGgiOiAiLyIsICJ0bHMiOiAiIn0=
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@149.202.82.172:7307#%E6%B3%95%E5%9B%BD+OVH%E6%9C%BA%E6%88%BFSAS%E7%A1%AC%E7%9B%98BGP%E4%B8%BB%E6%9C%BA
+trojan://DAYmUIQ1BL2Y@43.203.237.168:17118?sni=appsvs.shop#%E6%97%A5%E6%9C%AC+V2CROSS.COM
+vmess://eyJhZGQiOiAiY2ZjZG4zLnNhbmZlbmNkbjkuY29tIiwgInYiOiAiMiIsICJwcyI6ICJcdTdmOGVcdTU2ZmQgQ2xvdWRGbGFyZVx1ODI4Mlx1NzBiOSIsICJwb3J0IjogMjA1MiwgImlkIjogImJmNDc1ZTZjLWE2MDctNDE1ZS1hN2Y3LTQ1Yzg4OTMyMDYzMyIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJ3dHl3d2NyempwNS55b2ZuaGtmYy54eXoiLCAicGF0aCI6ICIvdmlkZW8vOVRmVkV5a3UiLCAidGxzIjogIiJ9
+ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@51.77.53.200:6379#%E6%B3%95%E5%9B%BD+OVH
+trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.53.126:2087?security=tls&sni=tjjd.yzyx1.v6.army&type=ws&host=tjjd.yzyx1.v6.army&path=/?ed=2048&Telegram🇨🇳 @WangCai2&allowInsecure=1#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@149.202.82.172:7002#%E6%B3%95%E5%9B%BD+OVH%E6%9C%BA%E6%88%BFSAS%E7%A1%AC%E7%9B%98BGP%E4%B8%BB%E6%9C%BA
+trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.53.187:2087?security=tls&type=ws&sni=tjjd.yzyx1.v6.army&path=/?ed=2048&Telegram🇨🇳 @WangCai2&host=tjjd.yzyx1.v6.army#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
+trojan://gkviEOYc@223.113.54.160:23223?allowInsecure=1#%E6%B1%9F%E8%8B%8F%E7%9C%81%E5%BE%90%E5%B7%9E%E5%B8%82+%E7%A7%BB%E5%8A%A8
 ```
 <h5>上方节点（部分）永久订阅地址：https://proxy.v2gh.com/https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub</h5>
 <p>上方订阅地址二维码</p>
