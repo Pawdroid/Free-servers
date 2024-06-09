@@ -13,29 +13,29 @@
 </blockquote>
 <h4>节点列表：(这里仅展示部分节点，查看全部节点请下载app)</h4>
 
-```vmess://eyJhZGQiOiAiMTA0LjE5LjMzLjIyNCIsICJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAicG9ydCI6IDgwLCAiaWQiOiAiYzA0NTNhMTYtNjdlOS00ZWFiLWJkYzktYjk2MjRhZDZiZDI5IiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogInNndjYueGxiOC5ldS5vcmciLCAicGF0aCI6ICIvP2VkPTIwNDgmVGVsZWdyYW1cdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZjMgQFdhbmdDYWlfOCIsICJ0bHMiOiAiIn0=
-trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.52.213:2096?security=tls&sni=tjjd.yzyx1.v6.army&type=ws&host=tjjd.yzyx1.v6.army&path=%2F%3Fed%3D2048%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&allowInsecure=1#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
-trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.53.126:2087?security=tls&sni=tjjd.yzyx1.v6.army&type=ws&host=tjjd.yzyx1.v6.army&path=%2F%3Fed%3D2048%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&allowInsecure=1#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@51.77.53.200:2375#%E6%B3%95%E5%9B%BD+OVH
+```ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@149.202.82.172:5004#%E6%B3%95%E5%9B%BD+OVH%E6%9C%BA%E6%88%BFSAS%E7%A1%AC%E7%9B%98BGP%E4%B8%BB%E6%9C%BA
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@149.202.82.172:7001#%E6%B3%95%E5%9B%BD+OVH%E6%9C%BA%E6%88%BFSAS%E7%A1%AC%E7%9B%98BGP%E4%B8%BB%E6%9C%BA
 vmess://eyJ2IjogIjIiLCAiYWRkIjogIjY0LjE3Ni4xNS43NCIsICJwb3J0IjogIjMzODkiLCAidHlwZSI6ICJodHRwIiwgImlkIjogIjljMDUwYTg2LWQ2MTItNDhmMS1lYzMyLWU1NzNkZjA4YTFiNyIsICJhaWQiOiAiMCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiLyIsICJob3N0IjogInZrdmQxMjcubXljZG4ubWUiLCAidGxzIjogIiIsICJwcyI6ICJcdTdmOGVcdTU2ZmQgXHU1MmEwXHU1MjI5XHU3OThmXHU1YzNjXHU0ZTlhIn0=
-trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.52.11:2087?security=tls&type=ws&sni=tjjd.yzyx1.v6.army&path=/&host=tjjd.yzyx1.v6.army#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
-trojan://NISHIKUITAN222@47.236.202.91:8443?security=tls&type=ws&sni=t009.ylks.link&path=/&host=t009.ylks.link#%E7%BE%8E%E5%9B%BD+%E9%98%BF%E9%87%8C%E4%BA%91
-trojan://0fd9b883-0551-4ed1-b978-528183b459a2@8.210.85.222:2087?security=tls&sni=mfjd.591haoka.com&type=ws&host=mfjd.591haoka.com&path=%2F%3Fed%3D2560#%E9%A6%99%E6%B8%AF+%E9%98%BF%E9%87%8C%E4%BA%91
-trojan://NISHIKUITAN222@8.219.199.220:8443?security=tls&sni=t009.ylks.link&type=ws&host=t009.ylks.link&path=%2F#%E4%B8%AD%E5%9B%BD+%E9%98%BF%E9%87%8C%E4%BA%91
-trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.52.229:2096?security=tls&sni=tjjd.yzyx1.v6.army&type=ws&host=tjjd.yzyx1.v6.army&path=%2F#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
-trojan://NISHIKUITAN222@8.219.117.198:8443?security=tls&sni=t009.ylks.link&type=ws&host=t009.ylks.link&path=/#%E4%B8%AD%E5%9B%BD+%E9%98%BF%E9%87%8C%E4%BA%91
-vmess://eyJ2IjogIjIiLCAiYWRkIjogIjEwNC4xOS40NC4xNjUiLCAicG9ydCI6ICI4MDgwIiwgImlkIjogIjNmZGY5ZDQ4LTU3OGEtNDJkYy05ZmRkLTBkZmNlZmEzZDBjNSIsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgImhvc3QiOiAiYW1kMi43MjAyMDgueHl6IiwgInBhdGgiOiAiLz9lZD0yMDQ4JlRlbGVncmFtXHVkODNjXHVkZGU4XHVkODNjXHVkZGYzIEBXYW5nQ2FpXzgiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkifQ==
-trojan://NISHIKUITAN222@8.219.98.13:8443?security=tls&type=ws&sni=t009.ylks.link&path=/&host=t009.ylks.link#%E4%B8%AD%E5%9B%BD+%E9%98%BF%E9%87%8C%E4%BA%91
-trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.52.247:443?security=tls&sni=tjjd.yzyx1.v6.army&type=ws&host=tjjd.yzyx1.v6.army&path=%2F%3Fed%3D2048%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&allowInsecure=1#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
+trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.53.21:2087?security=tls&type=ws&sni=tjjd.yzyx1.v6.army&path=/?ed=2048&Telegram🇨🇳 @WangCai2&host=tjjd.yzyx1.v6.army#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
+trojan://gkviEOYc@183.232.139.22:50611?allowInsecure=1#%E5%B9%BF%E4%B8%9C%E7%9C%81%E4%BA%91%E6%B5%AE%E5%B8%82+%E7%A7%BB%E5%8A%A8
+trojan://0fd9b883-0551-4ed1-b978-528183b459a2@47.242.119.104:2087?security=tls&sni=mfjd.591haoka.com&type=ws&host=mfjd.591haoka.com&path=%2F%3Fed%3D2560#%E9%A6%99%E6%B8%AF+%E9%98%BF%E9%87%8C%E4%BA%91
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@149.202.82.172:5600#%E6%B3%95%E5%9B%BD+OVH%E6%9C%BA%E6%88%BFSAS%E7%A1%AC%E7%9B%98BGP%E4%B8%BB%E6%9C%BA
+vmess://eyJhZGQiOiAiMTA0LjE5LjQ3LjE0OSIsICJhaWQiOiAwLCAiaG9zdCI6ICJvaWljdHcueXlkc2lpLmNvbSIsICJpZCI6ICJiNTUxYWEyMi0yMmFmLTExZWUtYjhkOC1mMjNjOTMyZWI2OGQiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLz9lZD0yMDQ4IiwgInBvcnQiOiA4MDgwLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAidGxzIjogIiIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIifQ==
+trojan://NISHIKUITAN222@47.236.189.92:8443?security=tls&sni=t009.ylks.link&type=ws&host=t009.ylks.link&path=/#%E7%BE%8E%E5%9B%BD+%E9%98%BF%E9%87%8C%E4%BA%91
 trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.52.2:2053?security=tls&sni=tjjd.yzyx1.v6.army&type=ws&host=tjjd.yzyx1.v6.army&path=%2F#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@51.77.53.200:5001#%E6%B3%95%E5%9B%BD+OVH
-trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.52.187:2087?security=tls&sni=tjjd.yzyx1.v6.army&type=ws&host=tjjd.yzyx1.v6.army&path=%2F#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
-trojan://telegram-id-privatevpns@51.44.63.141:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%E8%8B%B1%E5%9B%BD+%E7%A4%BE%E4%BC%9A%E4%BF%9D%E9%99%A9%E5%AE%89%E5%85%A8%E9%83%A8
-trojan://0fd9b883-0551-4ed1-b978-528183b459a2@8.217.154.218:2083?security=tls&sni=mfjd.591haoka.com&type=ws&host=mfjd.591haoka.com&path=%2F%3Fed%3D2560#%E4%B8%AD%E5%9B%BD+%E9%98%BF%E9%87%8C%E4%BA%91
+trojan://NISHIKUITAN222@104.21.76.195:2053?security=tls&sni=t009.ylks.link&type=ws&host=t009.ylks.link&path=%2F#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@51.77.53.200:2375#%E6%B3%95%E5%9B%BD+OVH
+trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.52.125:8443?security=tls&type=ws&sni=tjjd.yzyx1.v6.army&path=/?ed=2048&Telegram🇨🇳 @WangCai2&host=tjjd.yzyx1.v6.army#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
+trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.53.126:2087?security=tls&sni=tjjd.yzyx1.v6.army&type=ws&host=tjjd.yzyx1.v6.army&path=%2F%3Fed%3D2048%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&allowInsecure=1#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
+trojan://NISHIKUITAN222@168.138.171.185:8443?type=ws&host=t009.ylks.link&path=/&security=tls&sni=t009.ylks.link#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
+trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.52.247:443?security=tls&sni=tjjd.yzyx1.v6.army&type=ws&host=tjjd.yzyx1.v6.army&path=%2F%3Fed%3D2048%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&allowInsecure=1#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@51.77.53.200:8009#%E6%B3%95%E5%9B%BD+OVH
+trojan://NISHIKUITAN222@8.219.117.198:8443?security=tls&sni=t009.ylks.link&type=ws&host=t009.ylks.link&path=/#%E4%B8%AD%E5%9B%BD+%E9%98%BF%E9%87%8C%E4%BA%91
+trojan://8557692d-c228-48f0-b6f9-50d44d4a2096@104.19.52.13:443?security=tls&type=ws&sni=tjjd.yzyx1.v6.army&path=/?ed=2048&Telegram🇨🇳 @WangCai2&host=tjjd.yzyx1.v6.army#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@51.77.53.200:7306#%E6%B3%95%E5%9B%BD+OVH
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@51.77.53.200:4444#%E6%B3%95%E5%9B%BD+OVH
+trojan://NISHIKUITAN222@8.222.214.231:8443?security=tls&sni=t009.ylks.link&type=ws&host=t009.ylks.link&path=%2F#%E4%B8%AD%E5%9B%BD+%E9%98%BF%E9%87%8C%E4%BA%91
 trojan://NISHIKUITAN222@47.237.8.82:8443?security=tls&type=ws&sni=t009.ylks.link&path=/&host=t009.ylks.link#%E7%BE%8E%E5%9B%BD+%E9%98%BF%E9%87%8C%E4%BA%91
-trojan://NISHIKUITAN222@8.222.193.65:8443?security=tls&type=ws&sni=t009.ylks.link&path=/&host=t009.ylks.link#%E4%B8%AD%E5%9B%BD+%E9%98%BF%E9%87%8C%E4%BA%91
-trojan://NISHIKUITAN222@47.236.254.120:8443?security=tls&type=ws&sni=t009.ylks.link&path=/&host=t009.ylks.link#%E7%BE%8E%E5%9B%BD+%E9%98%BF%E9%87%8C%E4%BA%91
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@149.202.82.172:7002#%E6%B3%95%E5%9B%BD+OVH%E6%9C%BA%E6%88%BFSAS%E7%A1%AC%E7%9B%98BGP%E4%B8%BB%E6%9C%BA
 ```
 <h5>上方节点（部分）永久订阅地址：https://proxy.v2gh.com/https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub</h5>
 <p>上方订阅地址二维码</p>
