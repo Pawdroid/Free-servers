@@ -13,8 +13,8 @@
 </blockquote>
 <h4>节点列表：(这里仅展示部分节点，查看全部节点请下载app)</h4>
 
-```trojan://1mVWBVkrBpoQ@3.96.137.145:14525?sni=appsvs.shop#%E7%BE%8E%E5%9B%BD+Amazon+EC2%E6%9C%8D%E5%8A%A1%E5%99%A8
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5b09UNnRYUDVMZE15eVU1SVFEY0du@13.79.72.88:21190#%E7%88%B1%E5%B0%94%E5%85%B0+V2CROSS.COM
+```ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5b09UNnRYUDVMZE15eVU1SVFEY0du@13.79.72.88:21190#%E7%88%B1%E5%B0%94%E5%85%B0+V2CROSS.COM
+trojan://1mVWBVkrBpoQ@3.96.137.145:14525?sni=appsvs.shop#%E7%BE%8E%E5%9B%BD+Amazon+EC2%E6%9C%8D%E5%8A%A1%E5%99%A8
 trojan://telegram-id-directvpn@13.50.185.192:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%E7%BE%8E%E5%9B%BD+Xerox
 ```
 <h5>上方节点（部分）永久订阅地址：https://proxy.v2gh.com/https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub</h5>
