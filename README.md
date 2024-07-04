@@ -13,9 +13,9 @@
 </blockquote>
 <h4>节点列表：(这里仅展示部分节点，查看全部节点请下载app)</h4>
 
-```ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuRXlPVFdtdFBHNXRkZ1pxTVFFcTRS@51.141.73.244:29814#%E8%8B%B1%E5%9B%BD+%E5%A8%81%E5%B0%94%E5%A3%AB%E5%8A%A0%E7%9A%84%E5%A4%ABMicrosoft%E5%85%AC%E5%8F%B8
+```trojan://WadJXcl0dAqz@47.128.154.237:14950?sni=appsvs.shop#%E5%8A%A0%E6%8B%BF%E5%A4%A7+V2CROSS.COM
+trojan://09191dbf-e7f7-4e7d-b405-c4785ea992bf@95.164.9.196:2053?allowInsecure=1&sni=ftp.debian.org#%E4%B9%8C%E5%85%8B%E5%85%B0+V2CROSS.COM
 vmess://eyJhZGQiOiAiMTA0LjE5LjQ1LjQyIiwgInYiOiAiMiIsICJwcyI6ICJcdTdmOGVcdTU2ZmQgQ2xvdWRGbGFyZVx1ODI4Mlx1NzBiOSIsICJwb3J0IjogMjA4NiwgImlkIjogImU5ZTNjYzEzLWRiNDgtNGNjMS04YzI0LTc2MjY0MzlhNTMzOSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJpcDEuMTQ1NzIzMC54eXoiLCAicGF0aCI6ICJnaXRodWIuY29tL0FsdmluOTk5OSIsICJ0bHMiOiAiIn0=
-trojan://WadJXcl0dAqz@47.128.154.237:14950?sni=appsvs.shop#%E5%8A%A0%E6%8B%BF%E5%A4%A7+V2CROSS.COM
 ```
 <h5>上方节点（部分）永久订阅地址：https://proxy.v2gh.com/https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub</h5>
 <p>上方订阅地址二维码</p>
