@@ -4,19 +4,22 @@
 **Languages:**
 
 [![Chinese](https://img.shields.io/badge/Language-Chinese-red?style=for-the-badge)](README.md)
-[![English](https://img.shields.io/badge/Language-English-red?style=for-the-badge)](README-en.md)
-[![Vietnamese](https://img.shields.io/badge/Language-Vietnamese-red?style=for-the-badge)](README-vi.md)
-[![Indonesian](https://img.shields.io/badge/Language-Indonesian-red?style=for-the-badge)](README.id-ID.md)
-[![Urdu](https://img.shields.io/badge/Language-Urdu-red?style=for-the-badge)](README.ur-PK.md)
-[![Portuguese](https://img.shields.io/badge/Language-Portuguese-red?style=for-the-badge)](README.pt-br.md)
-[![Spanish](https://img.shields.io/badge/Language-Spanish-red?style=for-the-badge)](README-es.md)
-[![Russian](https://img.shields.io/badge/Language-Russian-red?style=for-the-badge)](README.ru.md)
-[![Polish](https://img.shields.io/badge/Language-Polish-red?style=for-the-badge)](README.pl.md)
-[![Korean](https://img.shields.io/badge/Language-Korean-red?style=for-the-badge)](README.ko-kr.md)
-[![French](https://img.shields.io/badge/Language-French-red?style=for-the-badge)](README-fr.md)
-[![Japanese](https://img.shields.io/badge/Language-Japanese-red?style=for-the-badge)](README.ja-JP.md)
-[![Hindi](https://img.shields.io/badge/Language-Hindi-red?style=for-the-badge)](README-hi.md)
-[![Bangla](https://img.shields.io/badge/Language-Bangla-red?style=for-the-badge)](README-bn.md)
+[![English](https://img.shields.io/badge/Language-English-red?style=for-the-badge)](static/README-en.md)
+[![Arabic](https://img.shields.io/badge/Language-English-red?style=for-the-badge)](static/README-ar.md)
+[![German](https://img.shields.io/badge/Language-English-red?style=for-the-badge)](static/README-de.md)
+[![Vietnamese](https://img.shields.io/badge/Language-Vietnamese-red?style=for-the-badge)](static/README-vi.md)
+[![Indonesian](https://img.shields.io/badge/Language-Indonesian-red?style=for-the-badge)](static/README.id-ID.md)
+[![Urdu](https://img.shields.io/badge/Language-Urdu-red?style=for-the-badge)](static/README.ur-PK.md)
+[![Portuguese](https://img.shields.io/badge/Language-Portuguese-red?style=for-the-badge)](static/README.pt-BR.md)
+[![Spanish](https://img.shields.io/badge/Language-Spanish-red?style=for-the-badge)](static/README-es.md)
+[![Russian](https://img.shields.io/badge/Language-Russian-red?style=for-the-badge)](static/README.ru.md)
+[![Polish](https://img.shields.io/badge/Language-Polish-red?style=for-the-badge)](static/README.pl.md)
+[![Korean](https://img.shields.io/badge/Language-Korean-red?style=for-the-badge)](static/README.ko-KR.md)
+[![French](https://img.shields.io/badge/Language-French-red?style=for-the-badge)](static/README-fr.md)
+[![Japanese](https://img.shields.io/badge/Language-Japanese-red?style=for-the-badge)](static/README.ja.md)
+[![Hindi](https://img.shields.io/badge/Language-Hindi-red?style=for-the-badge)](static/README-hi.md)
+[![Bangla](https://img.shields.io/badge/Language-Bangla-red?style=for-the-badge)](static/README-bn.md)
+
   
 </div>
 <h2>点击加入 Telegram 电报交流群：</h2>
@@ -34,10 +37,10 @@
 <h4>节点列表：(这里仅展示部分节点，查看全部节点请下载app)</h4>
 
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkNjEwNWJiZC1iZTBkLTQ1YjItODJhZC0zMWZkMTA3MWMxZDI=@service.ouluyun9803.com:20005#%E5%BE%B7%E5%9B%BD%E4%B8%8B%E8%90%A8%E5%85%8B%E6%A3%AE%E5%B7%9E%E8%90%A8%E5%B0%94%E8%8C%A8%E5%90%89%E7%89%B9+%E5%BE%B7%E5%9B%BD%E7%94%B5%E4%BF%A1
-vmess://eyJhZGQiOiAiMTA0LjIxLjgyLjE4MyIsICJhaWQiOiAwLCAiaG9zdCI6ICJzZXJ2ZXIyNi5iZWhlc2h0YmFuZWguY29tIiwgImlkIjogIjVhNzAyMWUwLTI2YjQtNDVkNi1iMTc1LWZlNTUxNjAxY2E5NyIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgInBvcnQiOiA4ODgwLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAidGxzIjogIiIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIifQ==
+vmess://eyJhZGQiOiAiMjAyLjc4LjE2Mi41IiwgImFpZCI6IDAsICJob3N0IjogImlyc29mdC5zeXRlcy5uZXQiLCAiaWQiOiAiMmZmOTdjNmQtODU1Ny00MmE0LWI0M2YtMTljNzdjNTk1OWVhIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9AZm9yd2FyZHYycmF5IiwgInBvcnQiOiA0NDMsICJwcyI6ICJcdTUzNzBcdTVlYTYgVjJDUk9TUy5DT00iLCAidGxzIjogInRscyIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIifQ==
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNlpDSGVhYlVTZktqZlFFdko0SERW@185.242.86.156:54170#%E4%BF%84%E7%BD%97%E6%96%AF+V2CROSS.COM
-vmess://eyJhZGQiOiAiZ292LnVrIiwgInYiOiAiMiIsICJwcyI6ICJcdTdmOGVcdTU2ZmQgRmFzdGx5XHU1MTY4XHU3NDAzQW55Y2FzdFx1ODI4Mlx1NzBiOSIsICJwb3J0IjogNDQzLCAiaWQiOiAiNzc4NDg4MjQtOTNiNy00Yjg5LWZmZDAtZTkxYWZmZjQwNmNlIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogInpoZXNoaXNjcC5jb20iLCAicGF0aCI6ICIvNzc4NDg4MjQiLCAidGxzIjogInRscyJ9
+vmess://eyJhZGQiOiAic2VydmVyMzEuYmVoZXNodGJhbmVoLmNvbSIsICJhaWQiOiAwLCAiaG9zdCI6ICJzZXJ2ZXIzMS5iZWhlc2h0YmFuZWguY29tIiwgImlkIjogIjQxNTQxNDNjLWJiYmEtNDdhNC05Zjc5LWMyZWQwODdjYmNjOSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgInBvcnQiOiA4ODgwLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAidGxzIjogIiIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIifQ==
+ss://YWVzLTI1Ni1nY206N0JjTGRzTzFXd2VvR0QwWA==@193.243.147.128:40368#%E6%B3%A2%E5%85%B0+V2CROSS.COM
 ```
 
 <h5>上方节点（部分）永久订阅地址：https://proxy.v2gh.com/https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub</h5>
