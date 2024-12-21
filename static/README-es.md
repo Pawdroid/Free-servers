@@ -35,31 +35,31 @@
  <h4>Lista de nodos: (aquí solo se muestran algunos nodos; descargue la aplicación para ver todos los nodos)</h4>
     
 ```
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.110.1.122:8090#Estados+Unidos
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyRXRQcW42SFlqVU5jSG9oTGZVcEZRd25makNDUTVtaDFtSmRFTUNCdWN1V1o5UDF1ZGtSS0huVnh1bzU1azFLWHoyRm82anJndDE4VzY2b3B0eTFlNGJtMWp6ZkNmQmI=@84.19.31.63:50841#Alemania
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@23.157.40.87:5003#Estados+Unidos
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.244:443#Estados+Unidos
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXZm14S1gyRkJKUlUwSWU5VkxJWURM@141.98.234.93:20012#Hong+Kong
-vmess://eyJhZGQiOiAiMTcyLjExMS4zNi4xMDgiLCAidiI6ICIyIiwgInBzIjogIkVzdGFkb3MgVW5pZG9zIiwgInBvcnQiOiA0NDMsICJpZCI6ICIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAid3JtZWxtd3hsZi5na3RldmxycXpud3Fxb3p5LmZhYnBmczY2Z2l6bW5vamhjdnF4d2wua3l0cmNmenFsYTg3Z3ZndnM2Yzdram5ydWJ1aC5jYyIsICJwYXRoIjogIi9saW5rdndzIiwgInRscyI6ICJ0bHMifQ==
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplU0hFZEp6OTZycU5rT0NBemQ1Q3N2@94.131.123.147:7383#Turqu%C3%ADa
-vmess://eyJhZGQiOiAiMTQ5LjcuMTYuNzMiLCAidiI6ICIyIiwgInBzIjogIlJlaW5vIFVuaWRvIiwgInBvcnQiOiA0NDMsICJpZCI6ICIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiL2xpbmt2d3MiLCAidGxzIjogInRscyJ9
-vmess://eyJhZGQiOiAiMTM0LjE5NS4xOTguNjEiLCAidiI6ICIyIiwgInBzIjogIkNhbmFkXHUwMGUxIiwgInBvcnQiOiA0NDMsICJpZCI6ICIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAibm92aWEubWFrZXVwIiwgInBhdGgiOiAiL2xpbmt2d3MiLCAidGxzIjogInRscyJ9
-vmess://eyJhZGQiOiAiMTQ5LjcuMTYuNzUiLCAidiI6ICIyIiwgInBzIjogIlJlaW5vIFVuaWRvIiwgInBvcnQiOiA0NDMsICJpZCI6ICIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiaW5uYS5jZmQiLCAicGF0aCI6ICIvbGlua3Z3cyIsICJ0bHMiOiAidGxzIn0=
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.68.134.202:443#Estados+Unidos
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1ZzRGdTc5U0VSRWRGR2x0MnNVeVQ0@shadowsocks.ctsubvpn.ggff.net:2927#Austria
-trojan://xjN4xcuPGg55@h.522226.xyz:45800#Estados+Unidos
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@169.197.142.216:6697#Estados+Unidos
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@149.202.82.172:7306#Francia
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0cDhYaXA1UjUwcjJndVdncmZmTFVn@3.147.48.100:36325#Estados+Unidos
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@92.118.205.228:990#Polonia
+vmess://eyJhZGQiOiAiMjAyLjc4LjE2Mi41IiwgImFpZCI6IDAsICJob3N0IjogImlyc29mdC5zeXRlcy5uZXQiLCAiaWQiOiAiMmZmOTdjNmQtODU1Ny00MmE0LWI0M2YtMTljNzdjNTk1OWVhIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9AZm9yd2FyZHYycmF5IiwgInBvcnQiOiA0NDMsICJwcyI6ICJMdXhlbWJ1cmdvIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIn0=
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.110.1.35:8888#Estados+Unidos
+vmess://eyJhZGQiOiAiNTEuNzcuMjAuMTMyIiwgInYiOiAiMiIsICJwcyI6ICJQb2xvbmlhIiwgInBvcnQiOiA0NDMsICJpZCI6ICIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiYS5iYXJhZGloYS5jb20iLCAicGF0aCI6ICIvbGlua3Z3cyIsICJ0bHMiOiAidGxzIn0=
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@69.50.95.53:5003#Estados+Unidos
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.75.137.71:3389#Estados+Unidos
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@23.157.40.87:8882#Estados+Unidos
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@149.202.82.172:5601#Francia
+vmess://eyJhZGQiOiAiYXowNS5iZXlvbmR5LmNmZCIsICJhaWQiOiAwLCAiaG9zdCI6ICJhejA1LmJleW9uZHkuY2ZkIiwgImlkIjogIjNmNjM4ZjM0LThkYmEtNDE4Ni1iYzQzLTI3MTZhN2RkZDRiZSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvbGluayIsICJwb3J0IjogNDQzLCAicHMiOiAiRnJhbmNpYSIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiJ9
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.110.1.46:5500#Estados+Unidos
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@69.50.95.218:8881#Estados+Unidos
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@119.59.98.58:990#Tailandia
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@145.239.6.202:3306#Reino+Unido
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@23.157.40.5:8008#Estados+Unidos
+trojan://xjN4xcuPGg55@152.70.115.209:45800?security=tls&sni=h.522226.xyz&allowInsecure=1#Estados+Unidos
+trojan://telegram-id-directvpn@13.36.198.167:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#Francia
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@67.220.95.102:5004#Estados+Unidos
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.150.152.56:5001#Estados+Unidos
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.86.135.211:8080#Estados+Unidos
+trojan://telegram-id-privatevpns@3.79.133.159:22222?sni=trojan.burgerip.co.uk#Alemania
+trojan://3648425794742788096@35.168.124.79:443?allowInsecure=1&sni=humble-rodent.treefrog761.one#Estados+Unidos
+ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@23.157.40.20:6379#Estados+Unidos
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@23.157.40.103:8000#Estados+Unidos
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@23.157.40.113:6679#Estados+Unidos
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@69.50.95.53:6379#Estados+Unidos
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.114.114.69:7307#Estados+Unidos
-ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@23.157.40.103:5499#Estados+Unidos
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@23.157.40.113:8091#Estados+Unidos
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@23.157.40.47:6679#Estados+Unidos
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoZ0xDZ2ZMUmdCNmQ=@205.134.180.145:443#Estados+Unidos
-trojan://xjN4xcuPGg55@152.70.115.209:45800?sni=h.522226.xyz#Estados+Unidos
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@23.157.40.113:2375#Estados+Unidos
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@15.204.87.217:6697#Estados+Unidos
 ```
 <h5>La dirección de suscripción permanente del nodo superior (parte): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_es</h5>
  <p>Código QR para la dirección de suscripción anterior</p>
