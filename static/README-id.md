@@ -35,31 +35,31 @@
  <h4>Daftar node: (Hanya beberapa node yang ditampilkan di sini, silakan unduh aplikasi untuk melihat semua node)</h4>
     
 ```
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.167:443#United+States
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@51.77.53.200:2376#Poland
-trojan://trojan@172.64.155.16:2053?security=tls&sni=ana-service-anaservice--anaservice-antenircomorg.fmwlmluu.workers.dev&type=ws&host=ana-service-anaservice--anaservice-antenircomorg.fmwlmluu.workers.dev&path=%2F%3Fed%3D2560#United+States
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.75.136.49:7307#United+States
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@142.202.49.84:8090#United+States
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.120:3389#United+States
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@67.220.95.102:8091#United+States
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.114.114.69:8080#United+States
-vmess://eyJhZGQiOiAiMTA3LjE0OC4yMDcuMjQ5IiwgInYiOiAiMiIsICJwcyI6ICJVbml0ZWQgU3RhdGVzIiwgInBvcnQiOiA0ODcxMiwgImlkIjogIjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsICJhaWQiOiAiNjQiLCAibmV0IjogInRjcCIsICJ0eXBlIjogIiIsICJob3N0IjogImFwcHN2cy5zaG9wIiwgInBhdGgiOiAiIiwgInRscyI6ICIifQ==
-vmess://eyJhZGQiOiAiNDMuMjI5LjEzNS42NSIsICJ2IjogIjIiLCAicHMiOiAiVGhhaWxhbmQiLCAicG9ydCI6IDgwLCAiaWQiOiAiNDc2MDJhYWEtZWUxNy00NThhLWIxNDktMjNkNTM0MjEzOTA0IiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIi92bWVzcyIsICJ0bHMiOiAiIn0=
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprYm13QVBoRXJQdHlmUHJHRnVzRW9GNnU0emNxSksvRGpPR0JKTExhYjlJPQ==@3.v2.a.www.speedtest.net.2.op.jahesh-tolid.website:443#Germany
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@23.166.88.198:4444#United+States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvX0E3aW5OMXlxZVd0T1RM@207.246.101.50:1633#United+States
-ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@23.157.40.87:5499#United+States
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@167.88.61.235:6679#United+States
-vmess://eyJhZGQiOiAiNjguMTY4LjMxLjI0MiIsICJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIEtpbmdkb20iLCAicG9ydCI6IDQ0MywgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICI2OC4xNjguMzEuMjQyIiwgInBhdGgiOiAiL2xpbmt2d3MiLCAidGxzIjogInRscyJ9
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@54.36.174.181:5004#France
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@67.220.95.102:5601#United+States
-trojan://auto@185.146.173.158:443?security=tls&sni=esetsecuritylicense.bwnsmv.workers.dev&type=ws&host=esetsecuritylicense.bwnsmv.workers.dev&path=%2FTelegram@proxy_mtm%2F%3Fed%3D2560#Sweden
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@23.157.40.5:8119#United+States
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@23.157.40.47:5003#United+States
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.75.136.21:5003#United+States
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.20:3306#United+States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2WnI4TWxVWFVpaE5FbmRxSXBqRHhRZFNlcWkzN0ZiZ29IQm1RMXN5eTZaamtiQm4=@103.174.86.113:51348#India
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.75.136.49:7306#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@ca225.vpnbook.com:80#Canada
+vmess://eyJhZGQiOiAiMi41OC44Ny4yMjEiLCAiYWlkIjogMCwgImhvc3QiOiAiIiwgImlkIjogImRiODVmZjBlLWMzM2YtNDAxZC1jNDE1LTRjN2NjZTEzNTcwNCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgInBvcnQiOiAxMjI2OSwgInBzIjogIlVuaXRlZCBTdGF0ZXMiLCAidGxzIjogIiIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIifQ==
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.110.1.105:5004#United+States
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.110.1.105:443#United+States
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@23.157.40.87:8009#United+States
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.110.1.252:9090#United+States
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.119:5601#United+States
+ss://YWVzLTI1Ni1nY206N0JjTGRzTzFXd2VvR0QwWA==@193.243.147.128:40368#France
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@217.182.198.219:8090#Germany
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@23.157.40.89:8119#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphYjhiNjI1Yy1lZmI4LTQ1Y2QtYjUwOS1jN2NjZWFiZTBjYzY=@194.105.83.3:40003#United+Kingdom
+trojan://telegram-id-privatevpns@54.77.155.56:22222?sni=trojan.burgerip.co.uk#Ireland
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.154:8080#Lithuania
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@145.239.6.202:3306#United+Kingdom
+vmess://eyJhZGQiOiAiMzguOTEuMTA3LjM2IiwgImFpZCI6IDAsICJob3N0IjogIjM4LjkxLjEwNy4zNiIsICJpZCI6ICIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL2xpbmt2d3MiLCAicG9ydCI6IDQ0MywgInBzIjogIlVuaXRlZCBTdGF0ZXMiLCAidGxzIjogInRscyIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIifQ==
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@23.166.88.221:8118#United+States
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@149.202.82.172:2376#France
+vmess://eyJhZGQiOiAiODkuMTg3LjI4LjEyNiIsICJ2IjogIjIiLCAicHMiOiAiSmFwYW4iLCAicG9ydCI6IDgwLCAiaWQiOiAiMTg2NTlhMzEtYWRkOS00YjlmLWFmNTctNzdmZmFmMDM5NmM5IiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIi92bWVzcy8jIiwgInRscyI6ICIifQ==
+vmess://eyJhZGQiOiAiaW5kaWF2aWRlby5zYnMiLCAidiI6ICIyIiwgInBzIjogIkZyYW5jZSIsICJwb3J0IjogNDQzLCAiaWQiOiAiNDI1YzVlNmUtMzBhMC00OTg0LThhMTMtZWU2ZjcyMDUzMTYyIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogImluZGlhdmlkZW8uc2JzIiwgInBhdGgiOiAiL2xpbmt3cyIsICJ0bHMiOiAidGxzIn0=
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.110.1.46:8091#United+States
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@23.150.152.56:8008#United+States
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@23.157.40.95:7307#United+States
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@23.157.40.120:6679#United+States
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.114.114.69:8090#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZktBSHAxVmZSV1p1OTFMSWk5bzBE@94.228.165.178:58176#Poland
 ```
 <h5>Alamat langganan permanen node atas (bagian): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_id</h5>
  <p>Kode QR untuk alamat berlangganan di atas</p>
