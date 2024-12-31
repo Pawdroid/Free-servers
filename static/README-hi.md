@@ -35,31 +35,31 @@
  <h4>नोड सूची: (यहां केवल कुछ नोड्स प्रदर्शित हैं, कृपया सभी नोड्स देखने के लिए ऐप डाउनलोड करें)</h4>
     
 ```
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@15.204.87.217:6379#United+States
-ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@23.154.136.176:9102#United+States
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.89:3389#United+States
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@54.37.12.70:8000#France
-ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@69.50.95.103:9101#United+States
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.170:443#United+States
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.68.134.202:8091#United+States
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@15.204.87.217:6697#United+States
-ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@142.202.49.122:9102#United+States
-trojan://telegram-id-privatevpns@18.175.105.81:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#United+Kingdom
-trojan://telegram-id-privatevpns@13.48.109.62:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#Sweden
-trojan://telegram-id-privatevpns@34.252.237.200:22222?security=tls&sni=trojan.burgerip.co.uk#Ireland
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyRW1XUlMxVGtTM1RreEtBcG5yaWhiM2FIakRTWFJ2VDFUMUs5VTJCcnV4cm5wNUE4em1wVHh3d1ROamU2QmtWcW1uOUJnUkY2cHE4cW9SSENmWmRjYWg3QkxianJwVDE=@185.5.38.111:55988#United+Kingdom
-trojan://telegram-id-privatevpns@16.16.231.31:22222?sni=trojan.burgerip.co.uk#Sweden
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.110.1.103:5500#United+States
-trojan://telegram-id-directvpn@13.39.154.105:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#France
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@69.50.95.191:8882#United+States
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.68.134.202:7002#United+States
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@38.75.136.49:8009#United+States
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.113:5001#United+States
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.47.130:443#United+States
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@54.36.174.181:8091#France
-ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@23.157.40.5:5498#United+States
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.87:9090#United+States
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206MFJFOXd4S0N4Y280aHZ3WXBEZFNtV2RjbDJGUnM2akpRTmV6VXlGQTF1OD06WGY1dHJ4T2JSdXpMSVdUSTd4aVJQYjJSWTZ5aldTRXkzNk9PV3IwaVhRaz0=@95.216.202.137:19304#Finland
+ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@69.50.95.203:5498#United+States
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@51.77.53.200:6697#Poland
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@23.154.136.247:2376#United+States
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@23.157.40.101:7307#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpINVMwaHZjeFJpI1lMbWdV@38.107.226.146:1230#United+States
+vmess://eyJhZGQiOiAiOTUuMTc5LjE4Ni4xNjEiLCAidiI6ICIyIiwgInBzIjogIlRoZSBOZXRoZXJsYW5kcyIsICJwb3J0IjogNDQzLCAiaWQiOiAiZGZiYmM4ZGUtOGE0Zi00MDdkLTgwNjktNmRlMzhkODNjNGUxIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogImhkZnk0czJkMS5mb3JpcmFuLnRyYWRlIiwgInBhdGgiOiAiL1dnQ21wOHB4UldCdExUbFRMIiwgInRscyI6ICJ0bHMifQ==
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@38.114.114.69:8008#United+States
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@23.150.152.56:6697#United+States
+vmess://eyJhZGQiOiAiNTcuMTI4LjE4NC4xMTkiLCAidiI6ICIyIiwgInBzIjogIkZyYW5jZSIsICJwb3J0IjogNDQzLCAiaWQiOiAiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwgImFpZCI6ICIxIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogIjU3LjEyOC4xODQuMTE5IiwgInBhdGgiOiAibGlua3Z3cyIsICJ0bHMiOiAidGxzIn0=
+ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@23.157.40.87:6379#United+States
+vmess://eyJhZGQiOiAiMTQ5LjcuMTYuMTk0IiwgImFpZCI6IDAsICJob3N0IjogIjE0OS43LjE2LjE5NCIsICJpZCI6ICIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL2xpbmt2d3MiLCAicG9ydCI6IDQ0MywgInBzIjogIlVuaXRlZCBLaW5nZG9tIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIn0=
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDTHBoeUVNUVQ4bmJHOEVJbVgwQTJE@5.35.47.122:45635#The+Netherlands
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@139.59.119.143:443?sni=connectwithemployers.online#Singapore
+ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@69.50.95.115:5498#United+States
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@67.220.95.102:9102#United+States
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@38.114.114.69:8009#United+States
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@23.166.88.221:8118#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToya1pNWk5vSTJzZ0tQYjZDLTlJUTh3@109.104.154.4:5555#Luxembourg
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@54.37.12.70:8881#France
+vmess://eyJhZGQiOiAibGluZGUwNi5pbmRpYXZpZGVvLnNicyIsICJ2IjogIjIiLCAicHMiOiAiR2VybWFueSIsICJwb3J0IjogNDQzLCAiaWQiOiAiZWRiYjEwNTktMTYzMy00MjcxLWI2NmUtZWQ0ZmJhNDdhMWJmIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogImxpbmRlMDYuaW5kaWF2aWRlby5zYnMiLCAicGF0aCI6ICIvbGlua3dzIiwgInRscyI6ICJ0bHMifQ==
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@54.36.174.181:5500#France
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@149.202.82.172:6679#France
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@149.202.82.172:3306#France
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@69.50.95.218:8080#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVUzR0c2tKYVlTdEJQVUt2Y05Wa2YwUFZoWGJzQUdDTnZyaGJmWnlidE94OXUyY0Y=@103.174.86.114:51348#India
 ```
 <h5>ऊपरी नोड (भाग) का स्थायी सदस्यता पता: https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_hi</h5>
  <p>उपरोक्त सदस्यता पते के लिए QR कोड</p>
