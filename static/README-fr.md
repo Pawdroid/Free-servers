@@ -35,29 +35,29 @@
  <h4>Liste des nœuds: (Seuls certains nœuds sont affichés ici, veuillez télécharger l'application pour afficher tous les nœuds)</h4>
     
 ```
-vmess://eyJhZGQiOiAiMTk0LjkuMTcyLjY1IiwgInYiOiAiMiIsICJwcyI6ICJGcmFuY2UiLCAicG9ydCI6IDQ0MywgImlkIjogIjhkOTBjMTI5LTQxNTYtNGQ2Yy05MTE1LTI0ZGYyNWYyNmEwMiIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJiZXlvbmRkYmMuc2JzIiwgInBhdGgiOiAiL2xpbmt3cyIsICJ0bHMiOiAidGxzIn0=
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.86.135.141:8882#%C3%89tats+Unis
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@149.202.82.172:445#France
-trojan://tg-fq521free@198.62.62.67:443?security=tls&sni=torjan.xn--xhq44j.eu.org&type=ws&host=torjan.xn--xhq44j.eu.org&path=%2F#%C3%89tats+Unis
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@23.157.40.113:2375#%C3%89tats+Unis
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.114.114.193:5601#%C3%89tats+Unis
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@23.157.40.95:7002#%C3%89tats+Unis
-trojan://3723507166611775488@fitting-ox.boa152.lol:443?sni=fitting-ox.boa152.lol#Tch%C3%A9quie
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@38.86.135.117:6379#%C3%89tats+Unis
-trojan://telegram-id-privatevpns@13.38.254.180:22222?security=tls&sni=trojan.burgerip.co.uk#France
-ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@167.88.61.159:9101#%C3%89tats+Unis
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@23.157.40.120:7001#%C3%89tats+Unis
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@23.157.40.5:2375#%C3%89tats+Unis
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.143.66.87:3389#%C3%89tats+Unis
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@51.178.87.37:810#France
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@23.157.40.113:443#%C3%89tats+Unis
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@149.202.82.172:3306#France
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.121.43.51:2376#%C3%89tats+Unis
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.121.43.142:7306#%C3%89tats+Unis
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@51.77.53.200:5004#Pologne
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@167.88.63.21:2375#%C3%89tats+Unis
-trojan://3723507166611775488@oriented-terrier.boa152.lol:443?allowInsecure=0&sni=oriented-terrier.boa152.lol#Allemagne
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@23.150.152.56:7002#%C3%89tats+Unis
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@15.204.87.215:5001#%C3%89tats+Unis
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.213.20.227:990#Italie
+ss://YWVzLTI1Ni1nY206N0JjTGRzTzFXd2VvR0QwWA==@193.243.147.128:40368#France
+trojan://telegram-id-privatevpns@34.249.240.107:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#Irlande
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@217.182.198.219:9102#Allemagne
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.110.1.105:5601#%C3%89tats+Unis
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@23.157.40.89:6697#%C3%89tats+Unis
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@23.157.40.87:8119#%C3%89tats+Unis
+trojan://3723507166611775488@94.177.131.199:443?sni=smiling-marmoset.boa152.lol#Japon
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@54.36.174.181:5500#France
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@169.197.142.216:5000#%C3%89tats+Unis
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.243:443#%C3%89tats+Unis
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcEtBQmNPcE5OQTBsNUcyQVZPbXc4@213.109.147.242:62685#Royaume-Uni
+trojan://3723507166611775488@80.240.112.32:443?sni=oriented-terrier.boa152.lol#Allemagne
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvMVdXbml1THJZN01uV2Y5UjU3ckxU@77.83.246.74:443#Pologne
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@15.204.87.217:6697#%C3%89tats+Unis
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@23.157.40.103:9102#%C3%89tats+Unis
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.110.1.252:8118#%C3%89tats+Unis
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@23.157.40.20:8080#%C3%89tats+Unis
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@139.64.164.15:8118#%C3%89tats+Unis
+trojan://984e400bf5d541b7b0815913fe0c432a@108.61.177.251:443?sni=yournextcareerstep.online#France
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@23.157.40.89:2375#%C3%89tats+Unis
+trojan://3723507166611775488@native-tetra.boa152.lol:443?sni=native-tetra.boa152.lol#%C3%89tats+Unis
 ```
 <h5>L'adresse d'abonnement permanente du nœud supérieur (partie): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_fr</h5>
  <p>Code QR pour l'adresse d'abonnement ci-dessus</p>
