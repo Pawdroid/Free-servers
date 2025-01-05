@@ -35,30 +35,30 @@
 <h4>Node list: (Only some nodes are shown here, please download the app to view all nodes)</h4>
     
 ```
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@23.157.40.95:6697#United+States
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.243:443#United+States
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@54.37.12.219:6379#France
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@173.244.56.6:443#United+States
-trojan://telegram-id-privatevpns@18.170.179.230:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#United+Kingdom
-trojan://4732adfa16c6450bbef87264e41332db@nextstepcareer.online:443?allowInsecure=1#Germany
-trojan://3723507166611775488@37.9.34.121:443?allowInsecure=0&sni=tight-clam.boa152.lol#United+States
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@23.150.152.16:2376#United+States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.154:8080#Lithuania
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@217.182.198.219:8091#Germany
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@54.36.174.181:5001#France
-vmess://eyJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJhZGQiOiAiMTkyLjc0LjI0Ny4xMzUiLCAicG9ydCI6ICIzNzAwMiIsICJ0eXBlIjogIm5vbmUiLCAiaWQiOiAiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwgImFpZCI6ICI2NCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvcGF0aC8xNzM2MDQzODMzMTg0IiwgImhvc3QiOiAid3d3LjEzNDgwMDMzLnh5eiIsICJ0bHMiOiAidGxzIn0=
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@23.157.40.113:8882#United+States
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@23.157.40.20:7306#United+States
-vmess://eyJhZGQiOiAiNDUuOC4xNTguMzIiLCAidiI6ICIyIiwgInBzIjogIlJ1c3NpYSIsICJwb3J0IjogMTQ1NTYsICJpZCI6ICIzOThjZTg0ZS00ODQ5LTRlNWYtOWIxYS1hNTZmYmUyMzNiODEiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiLyIsICJ0bHMiOiAiIn0=
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@54.36.174.181:3389#France
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@23.150.152.56:8008#United+States
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@51.77.53.200:8000#Poland
-trojan://3723507166611775488@166.1.227.194:443?sni=relative-rhino.boa152.lol#United+States
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@38.110.1.252:6697#United+States
-vmess://eyJhZGQiOiAiaGRmeThkMS5jcGkxLmV1Lm9yZyIsICJ2IjogIjIiLCAicHMiOiAiVGhlIE5ldGhlcmxhbmRzIiwgInBvcnQiOiA0NDMsICJpZCI6ICJhNjI5MjA5MC1hZmUxLTQ2NDAtOTdhNy00ZjFkMWQ4NzdjZjEiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiaGRmeThkMS5jcGkxLmV1Lm9yZyIsICJwYXRoIjogIi9Bdjhjem9ySWxZaWNVNkQzNDlicldVdzZhIiwgInRscyI6ICJ0bHMifQ==
-ss://YWVzLTI1Ni1nY206N0JjTGRzTzFXd2VvR0QwWA==@193.243.147.128:40368#France
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@145.239.6.202:3389#United+Kingdom
-vmess://eyJhZGQiOiAiNTEuNzcuMjAuMTM3IiwgInYiOiAiMiIsICJwcyI6ICJQb2xhbmQiLCAicG9ydCI6IDQ0MywgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJ0aWxlYmFuaS5jb20iLCAicGF0aCI6ICIvbGlua3Z3cyIsICJ0bHMiOiAidGxzIn0=
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.89:8888#United+States
+vmess://eyJhZGQiOiAiMy43OS4xNjAuMTM4IiwgInYiOiAiMiIsICJwcyI6ICJHZXJtYW55IiwgInBvcnQiOiA0NDMsICJpZCI6ICI2MGMwYmJmYS1jNTRmLTQ5YTktODFiYS03NzliMDIwNmE5ZmQiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAibmwuemh1ay51cy5rZyIsICJwYXRoIjogIi95bGtzIiwgInRscyI6ICJ0bHMifQ==
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@38.114.114.69:8009#United+States
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.91.100.211:7001#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMzgzNzIyNGVkNDY1ZjAw@war.ssvpnapp.win:57456#Poland
+vmess://eyJ2IjogIjIiLCAicHMiOiAiSW5kaWEiLCAiYWRkIjogIjEyOS4xNTQuNDYuMTE1IiwgInBvcnQiOiAiNDQzIiwgInR5cGUiOiAibm9uZSIsICJpZCI6ICI2MGMwYmJmYS1jNTRmLTQ5YTktODFiYS03NzliMDIwNmE5ZmQiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL3lsa3MiLCAiaG9zdCI6ICJubC56aHVrLnVzLmtnIiwgInRscyI6ICJ0bHMifQ==
+ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@23.157.40.120:6379#United+States
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.5:5601#United+States
+trojan://3723507166611775488@5.8.93.173:443?security=tls&sni=nearby-hedgehog.boa152.lol&type=tcp#United+States
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.120:5001#United+States
+trojan://3723507166611775488@relative-rhino.boa152.lol:443?sni=relative-rhino.boa152.lol#United+States
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@23.157.40.89:8090#United+States
+trojan://3723507166611775488@usable-toad.treefrog761.one:443?sni=usable-toad.treefrog761.one#United+States
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.87:8888#United+States
+ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@69.50.95.115:5498#United+States
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@149.202.82.172:7002#France
+vmess://eyJhZGQiOiAiMTAzLjEwNi4yMjkuMjkiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogImE0MTQxYTJjLWNhMzMtNDIzNy1hZGQwLTIyMGEyMDRlNGFjMyIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvd2FkYTEyMjIyIiwgInBvcnQiOiAiNDc5MjgiLCAicHMiOiAiTWFsYXlzaWEiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiLS0tIiwgInYiOiAiMiJ9
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@142.202.48.105:3389#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmRERtSDRRZWZtV3FNSjhVVVJackdo@86.104.74.243:14255#Canada
+vmess://eyJhZGQiOiAiMjMuMTU0LjEzNi4yMyIsICJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJwb3J0IjogNDQzLCAiaWQiOiAiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogIm15cm5hLmZ1biIsICJwYXRoIjogIi9saW5rdndzIiwgInRscyI6ICJ0bHMifQ==
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.86.135.117:2375#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.213.20.227:990#Italy
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.143.66.87:3306#United+States
+vmess://eyJhZGQiOiAiMTQwLjIzOC4xNTguMjM4IiwgInYiOiAiMiIsICJwcyI6ICJDYW5hZGEiLCAicG9ydCI6IDQ0MywgImlkIjogIjYwYzBiYmZhLWM1NGYtNDlhOS04MWJhLTc3OWIwMjA2YTlmZCIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJubC56aHVrLnVzLmtnIiwgInBhdGgiOiAiL3lsa3MiLCAidGxzIjogInRscyJ9
 ```
 <h5>Permanent subscription address of the node above (part): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_en</h5>
 <p>QR code of the subscription address above</p>
