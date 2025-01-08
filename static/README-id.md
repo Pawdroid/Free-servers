@@ -35,29 +35,28 @@
  <h4>Daftar node: (Hanya beberapa node yang ditampilkan di sini, silakan unduh aplikasi untuk melihat semua node)</h4>
     
 ```
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.95.183:443#United+States
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.150.152.56:5001#United+States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpObTR5V0liU1F4a1l0S2dP@52.237.155.68:443#United+States
-ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@67.220.95.102:5498#United+States
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@139.64.165.115:5500#United+States
-vmess://eyJhZGQiOiAiMTk0Ljg3LjY5LjUyIiwgInYiOiAiMiIsICJwcyI6ICJSdXNzaWEiLCAicG9ydCI6IDQ0MDUzLCAiaWQiOiAiMWNjNTlhM2EtOTYyNS00MGY3LWIwZTYtZTIzMzI4NmFlODJkIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIi8iLCAidGxzIjogIiJ9
-ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@38.68.135.112:9101#United+States
-ss://YWVzLTI1Ni1nY206N0JjTGRzTzFXd2VvR0QwWA==@193.243.147.128:40368#France
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.121.43.27:8882#United+States
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@54.37.18.75:8000#France
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@139.64.165.115:7001#United+States
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.34.244.82:443#The+Netherlands
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.86.135.117:7002#United+States
-vmess://eyJhZGQiOiAiMTg1LjQ5LjEwNy4yNSIsICJ2IjogIjIiLCAicHMiOiAiSXJhbiIsICJwb3J0IjogODg5MSwgImlkIjogImM5YTEyZDA4LTYzZGMtNGUxNi05MWRkLTZjMDhhY2ZhNGFiMSIsICJhaWQiOiAiMCIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiIiwgInRscyI6ICIifQ==
-ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@23.157.40.95:9101#United+States
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@67.220.95.102:8881#United+States
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.121.43.204:8118#United+States
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@23.157.40.5:6679#United+States
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@23.157.40.95:8882#United+States
-trojan://telegram-id-privatevpns@3.65.119.234:22222?security=tls&sni=trojan.burgerip.co.uk#Germany
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@54.37.18.75:5600#France
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@149.202.82.172:8008#France
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@23.157.40.47:5500#United+States
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@217.182.198.219:2375#Germany
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.150.152.56:5600#United+States
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.110.1.252:5601#United+States
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.103:3306#United+States
+vmess://eyJhZGQiOiAiMTQ5LjcuMTYuMTk0IiwgImFpZCI6IDAsICJob3N0IjogIjE0OS43LjE2LjE5NCIsICJpZCI6ICIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL2xpbmt2d3MiLCAicG9ydCI6IDQ0MywgInBzIjogIlVuaXRlZCBLaW5nZG9tIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIn0=
+vmess://eyJhZGQiOiAiMTkyLjc0LjI0Mi4yNDciLCAidiI6ICIyIiwgInBzIjogIlVuaXRlZCBTdGF0ZXMiLCAicG9ydCI6IDM4MDAzLCAiaWQiOiAiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwgImFpZCI6ICI2NCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIvcGF0aC8xNzMyMTgzOTYxMjI5IiwgInRscyI6ICJ0bHMifQ==
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@38.86.135.117:9101#United+States
+trojan://telegram-id-privatevpns@51.21.125.29:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#Sweden
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.87:3306#United+States
+trojan://tg-fq521free@216.24.57.30:443?security=tls&sni=torjan.xn--xhq44j.eu.org&type=ws&host=torjan.xn--xhq44j.eu.org&path=%2F#United+States
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@23.157.40.120:8091#United+States
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@145.239.6.202:9101#United+Kingdom
+trojan://3723507166611775488@166.1.227.194:443?sni=relative-rhino.boa152.lol#United+States
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.110.1.46:5000#United+States
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@145.239.6.202:8080#United+Kingdom
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@54.37.18.75:8118#France
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@38.121.43.27:6697#United+States
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@67.220.95.125:7001#United+States
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@23.157.40.89:8881#United+States
+trojan://auto@185.146.173.158:443?security=tls&sni=esetsecuritylicense.bwnsmv.workers.dev&type=ws&host=esetsecuritylicense.bwnsmv.workers.dev&path=%2FTelegram@proxy_mtm%2F%3Fed%3D2560#Sweden
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.110.1.12:2375#United+States
+vmess://eyJhZGQiOiAidWwtamFwYW4xLjA5dnBuLmNvbSIsICJ2IjogIjIiLCAicHMiOiAiSmFwYW4iLCAicG9ydCI6IDgwLCAiaWQiOiAiMTg2NTlhMzEtYWRkOS00YjlmLWFmNTctNzdmZmFmMDM5NmM5IiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIi92bWVzcy8jIiwgInRscyI6ICIifQ==
 ```
 <h5>Alamat langganan permanen node atas (bagian): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_id</h5>
  <p>Kode QR untuk alamat berlangganan di atas</p>
