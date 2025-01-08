@@ -35,29 +35,29 @@
  <h4>Liste des nœuds: (Seuls certains nœuds sont affichés ici, veuillez télécharger l'application pour afficher tous les nœuds)</h4>
     
 ```
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@217.182.198.219:8008#Allemagne
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2WnI4TWxVWFVpaE5FbmRxSXBqRHhRZFNlcWkzN0ZiZ29IQm1RMXN5eTZaamtiQm4=@103.174.86.113:51348#Inde
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@23.157.40.120:6697#%C3%89tats+Unis
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.110.1.12:3389#%C3%89tats+Unis
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@149.202.82.172:8000#France
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@23.157.40.47:6679#%C3%89tats+Unis
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.120:3389#%C3%89tats+Unis
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@149.202.82.172:5000#France
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@134.255.210.49:990#Chypre
-trojan://telegram-id-privatevpns@13.50.142.68:22222?security=tls&sni=trojan.burgerip.co.uk#Su%C3%A8de
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@51.77.53.200:8882#Pologne
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@69.50.92.55:5601#%C3%89tats+Unis
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNlpDSGVhYlVTZktqZlFFdko0SERW@185.242.86.156:54170#Pays-Bas
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@23.157.40.95:8080#%C3%89tats+Unis
-trojan://e8105dfd24414268b6c7652c63731097@132.145.94.80:443?security=tls&sni=yournextcareerstep.online&type=tcp#Cor%C3%A9e+du+Sud
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.179:443#Royaume-Uni
-trojan://bpb-trojan@162.159.152.2:443?security=tls&sni=zamim340.ggff.net&type=ws&host=zamim340.ggff.net&path=%2Ftr%3Fed%3D2560&allowInsecure=1#%C3%89tats+Unis
-ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@23.157.40.113:5499#%C3%89tats+Unis
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@149.202.82.172:5001#France
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@69.50.95.115:8888#%C3%89tats+Unis
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.95.183:443#%C3%89tats+Unis
-trojan://3723507166611775488@sensible-ocelot.boa152.lol:443?sni=sensible-ocelot.boa152.lol#Tch%C3%A9quie
-trojan://3723507166611775488@80.240.112.236:443?security=tls&sni=pleased-slug.boa152.lol&type=tcp#Allemagne
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@23.166.88.198:2376#%C3%89tats+Unis
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@23.157.40.113:5004#%C3%89tats+Unis
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@23.157.40.87:443#%C3%89tats+Unis
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmRERtSDRRZWZtV3FNSjhVVVJackdo@86.104.74.243:14255#Canada
+vmess://eyJhZGQiOiAiOTIuMjQyLjIyMC4yMiIsICJ2IjogIjIiLCAicHMiOiAiSXJhbiIsICJwb3J0IjogMzc4ODUsICJpZCI6ICI4ZGVlMTlhYi01MGNlLTRkMDYtYmU0Mi01ZTUzYzg5ODljY2MiLCAiYWlkIjogIjAiLCAibmV0IjogInRjcCIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAiIn0=
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@139.64.165.115:5500#%C3%89tats+Unis
+ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@23.150.152.16:6379#%C3%89tats+Unis
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDTHBoeUVNUVQ4bmJHOEVJbVgwQTJE@5.35.47.122:45635#Pays-Bas
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@23.157.40.89:8008#%C3%89tats+Unis
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@38.110.1.46:6679#%C3%89tats+Unis
+trojan://3723507166611775488@holy-seahorse.boa152.lol:443?sni=holy-seahorse.boa152.lol#Pologne
+ss://YWVzLTI1Ni1nY206ZG9uZ3RhaXdhbmcuY29t@185.22.155.228:23456#Russie
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.75.136.117:5003#%C3%89tats+Unis
+trojan://3723507166611775488@organic-hare.boa152.lol:443?sni=organic-hare.boa152.lol#%C3%89tats+Unis
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.5:5600#%C3%89tats+Unis
+trojan://telegram-id-privatevpns@52.17.140.225:22222?sni=trojan.burgerip.co.uk#Irlande
+trojan://3723507166611775488@relative-rhino.boa152.lol:443?sni=relative-rhino.boa152.lol#%C3%89tats+Unis
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.79:443#Royaume-Uni
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@139.64.165.144:8118#%C3%89tats+Unis
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.26:3306#%C3%89tats+Unis
+trojan://3723507166611775488@5.189.203.39:443?sni=lucky-grouper.boa152.lol#France
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@51.77.53.200:6679#Pologne
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.121.43.142:4444#%C3%89tats+Unis
 ```
 <h5>L'adresse d'abonnement permanente du nœud supérieur (partie): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_fr</h5>
  <p>Code QR pour l'adresse d'abonnement ci-dessus</p>
