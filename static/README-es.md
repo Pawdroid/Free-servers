@@ -35,31 +35,31 @@
  <h4>Lista de nodos: (aquí solo se muestran algunos nodos; descargue la aplicación para ver todos los nodos)</h4>
     
 ```
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@23.157.40.89:7306#Estados+Unidos
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@217.182.198.219:2375#Alemania
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.110.1.122:8090#Estados+Unidos
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@23.157.40.95:8882#Estados+Unidos
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.20:3306#Estados+Unidos
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@139.64.164.15:7306#Estados+Unidos
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.110.1.252:8118#Estados+Unidos
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@54.36.174.181:5500#Francia
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@142.202.49.84:5001#Estados+Unidos
-vmess://eyJ2IjogIjIiLCAicHMiOiAiRXN0YWRvcyBVbmlkb3MiLCAiYWRkIjogIjE5OC4yMDAuNDguMjQ4IiwgInBvcnQiOiAiMzcwMDYiLCAidHlwZSI6ICJub25lIiwgImlkIjogIjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsICJhaWQiOiAiNjQiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL3BhdGgvMTczNjQxNTY3NTAzNCIsICJob3N0IjogInd3dy4yMzM1NTI5Mi54eXoiLCAidGxzIjogInRscyJ9
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@23.157.40.5:7002#Estados+Unidos
-vmess://eyJhZGQiOiAiMTk1LjU4LjQ5LjUwIiwgInYiOiAiMiIsICJwcyI6ICJSdXNpYSIsICJwb3J0IjogMzY2NDEsICJpZCI6ICIxY2M1OWEzYS05NjI1LTQwZjctYjBlNi1lMjMzMjg2YWU4MmQiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiLyIsICJ0bHMiOiAiIn0=
-trojan://3723507166611775488@80.240.112.236:443?security=tls&sni=pleased-slug.boa152.lol&type=tcp&allowInsecure=1#Alemania
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpubFZxSVZ5S3dXb0RzRDdkVllUOVkw@81.19.140.31:65305#Canad%C3%A1
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@69.50.95.174:5004#Estados+Unidos
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.110.1.35:5004#Estados+Unidos
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@139.64.165.144:8888#Estados+Unidos
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.114.114.69:4444#Estados+Unidos
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@23.157.40.101:8009#Estados+Unidos
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@217.182.198.219:8119#Alemania
-trojan://3723507166611775488@fitting-ox.boa152.lol:443?sni=fitting-ox.boa152.lol#Chequia
-trojan://3723507166611775488@87.120.167.51:443?sni=concrete-buzzard.boa152.lol#Holanda
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@23.150.152.112:7001#Estados+Unidos
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@139.64.165.230:5500#Estados+Unidos
-vmess://eyJhZGQiOiAiMzguMTQuMTA3LjIzMyIsICJ2IjogIjIiLCAicHMiOiAiRXN0YWRvcyBVbmlkb3MiLCAicG9ydCI6IDM4MDAzLCAiaWQiOiAiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwgImFpZCI6ICI2NCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJ3d3cuMjMxNzk3NTMueHl6IiwgInBhdGgiOiAiL3BhdGgvMzQwNDM0MTMwMDMyIiwgInRscyI6ICJ0bHMifQ==
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@51.77.53.200:8881#Polonia
+trojan://telegram-id-privatevpns@18.195.192.87:22222?security=tls&sni=trojan.burgerip.co.uk#Alemania
+vmess://eyJ2IjogIjIiLCAicHMiOiAiRXN0YWRvcyBVbmlkb3MiLCAiYWRkIjogIjE0Mi4xNzEuMTM0LjEyNiIsICJwb3J0IjogIjM3MDA3IiwgInR5cGUiOiAibm9uZSIsICJpZCI6ICI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCAiYWlkIjogIjY0IiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9wYXRoLzE3MzY0MTYzNDU0ODYiLCAiaG9zdCI6ICJ3d3cuMjcwMDYyNTQueHl6IiwgInRscyI6ICJ0bHMifQ==
+vmess://eyJhZGQiOiAiMjEyLjE5Mi4xMi43MCIsICJ2IjogIjIiLCAicHMiOiAiSG9uZyBLb25nIiwgInBvcnQiOiAzNjY0MSwgImlkIjogIjFjYzU5YTNhLTk2MjUtNDBmNy1iMGU2LWUyMzMyODZhZTgyZCIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIvIiwgInRscyI6ICIifQ==
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.62.162:443#Suiza
+vmess://eyJhZGQiOiAiaGRmeThkMS5jcGlvbmxpbmUuY28iLCAidiI6ICIyIiwgInBzIjogIkhvbGFuZGEiLCAicG9ydCI6IDgwLCAiaWQiOiAiYTYyOTIwOTAtYWZlMS00NjQwLTk3YTctNGYxZDFkODc3Y2YxIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogImhkZnk4ZDEuY3Bpb25saW5lLmNvIiwgInBhdGgiOiAiL0F2OGN6b3JJbFlpY1U2RDM0OWJyV1V3NmEiLCAidGxzIjogIiJ9
+trojan://42cd02a0-ce04-11ef-8377-1239d0255272@51.210.182.170:443?#Francia
+vmess://eyJhZGQiOiAiMTcyLjExMS4zNi4xMDgiLCAidiI6ICIyIiwgInBzIjogIkVzdGFkb3MgVW5pZG9zIiwgInBvcnQiOiA0NDMsICJpZCI6ICIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAid3JtZWxtd3hsZi5na3RldmxycXpud3Fxb3p5LmZhYnBmczY2Z2l6bW5vamhjdnF4d2wua3l0cmNmenFsYTg3Z3ZndnM2Yzdram5ydWJ1aC5jYyIsICJwYXRoIjogIi9saW5rdndzIiwgInRscyI6ICJ0bHMifQ==
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.86.135.117:5600#Estados+Unidos
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@38.114.114.69:9101#Estados+Unidos
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.110.1.105:5003#Estados+Unidos
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@149.202.82.172:5000#Francia
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@169.197.142.216:8008#Estados+Unidos
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@ca225.vpnbook.com:80#Canad%C3%A1
+trojan://3723507166611775488@166.1.227.194:443?sni=relative-rhino.boa152.lol#Estados+Unidos
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.143.66.87:3306#Estados+Unidos
+trojan://3723507166611775488@ample-cockatoo.boa152.lol:443?sni=ample-cockatoo.boa152.lol#Alemania
+trojan://FuUaWS3YWG@38.175.201.156:2053?security=tls&sni=Crunch.floorshoping22.com&type=grpc#Estados+Unidos
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@38.143.66.87:6697#Estados+Unidos
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@217.182.198.219:443#Alemania
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@167.88.61.111:8000#Estados+Unidos
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@23.157.40.120:2376#Estados+Unidos
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@23.157.40.120:6679#Estados+Unidos
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@23.157.40.47:5003#Estados+Unidos
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxSTk3MVZZUERIb01sWUxSU05lbkRx@62.210.88.22:443#Francia
 ```
 <h5>La dirección de suscripción permanente del nodo superior (parte): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_es</h5>
  <p>Código QR para la dirección de suscripción anterior</p>
