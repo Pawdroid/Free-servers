@@ -35,30 +35,31 @@
  <h4>Danh sách nút: (Chỉ hiển thị một số nút ở đây, vui lòng tải xuống ứng dụng để xem tất cả các nút)</h4>
     
 ```
-trojan://3723507166611775488@oriented-terrier.boa152.lol:443?sni=oriented-terrier.boa152.lol#Germany
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.193:443#United+Kingdom
-ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@23.150.152.56:9102#United+States
-vmess://eyJhZGQiOiAiMi41OC44Ny4yMjEiLCAidiI6ICIyIiwgInBzIjogIlVuaXRlZCBTdGF0ZXMiLCAicG9ydCI6IDQ2NjI4LCAiaWQiOiAiZjZiYTllNWEtNzExYy00OTZmLWJlNjAtYWM1NDY0ZGVjMmI4IiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJjYTEuYmlsaWJpbGkuY29tIiwgInBhdGgiOiAiIiwgInRscyI6ICIifQ==
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@23.150.152.56:6697#United+States
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.143.66.87:8118#United+States
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.179:443#United+Kingdom
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.86.135.117:3389#United+States
-trojan://telegram-id-privatevpns@52.56.239.153:22222?security=tls&sni=trojan.burgerip.co.uk#United+Kingdom
-trojan://telegram-id-directvpn@18.130.84.52:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#United+Kingdom
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@169.197.142.216:8008#United+States
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@23.157.40.89:8882#United+States
-vmess://eyJhZGQiOiAiMTkyLjc0LjI0Mi4yNDciLCAidiI6ICIyIiwgInBzIjogIlVuaXRlZCBTdGF0ZXMiLCAicG9ydCI6IDM4MDAzLCAiaWQiOiAiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwgImFpZCI6ICI2NCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIvcGF0aC8xNzMyMTgzOTYxMjI5IiwgInRscyI6ICJ0bHMifQ==
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@54.37.12.70:8881#France
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@54.36.174.181:5601#France
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@149.202.82.172:2375#France
-trojan://9d0a75d2-f747-4afa-b43f-d208af9e8f9a@bz02.ssr.ee:443#Brazil
-vmess://eyJhZGQiOiAiOC4yMjIuMTgwLjIyOSIsICJ2IjogIjIiLCAicHMiOiAiU2luZ2Fwb3JlIiwgInBvcnQiOiA0NDMsICJpZCI6ICI5YjQ1NmMyYS1mMmMxLTQ1ZTEtODdhOS1iNzYyOGIwNGJiMjQiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiYmV5b25kZHN6LmNmZCIsICJwYXRoIjogIi9saW5rd3MiLCAidGxzIjogInRscyJ9
-vmess://eyJhZGQiOiAiMTA0LjE2LjEyMC4yNTAiLCAidiI6ICIyIiwgInBzIjogIlVuaXRlZCBTdGF0ZXMiLCAicG9ydCI6IDQ0MywgImlkIjogImJmNjc0MzdlLTZjOTAtNDVjYS1hYmMyLWM3MjQwYTVjZTJhYSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJmb3hsdXguZm92aS50ayIsICJwYXRoIjogIi9laXNhc3FhIiwgInRscyI6ICJ0bHMifQ==
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@67.220.95.102:8118#United+States
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.113:3306#United+States
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@54.36.174.181:8009#France
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@69.50.92.55:8000#United+States
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@51.68.206.229:8118#United+Kingdom
+ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@15.204.87.217:6379#United+States
+trojan://bpb-trojan@172.67.70.92:443?security=tls&sni=zamim340.ggff.net&type=ws&host=zamim340.ggff.net&path=%2Ftr%3Fed%3D2560&allowInsecure=1#United+States
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@54.37.18.75:6697#France
+vmess://eyJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJhZGQiOiAiMTQyLjE3MS4yNC40MiIsICJwb3J0IjogIjMxMDA1IiwgInR5cGUiOiAibm9uZSIsICJpZCI6ICI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCAiYWlkIjogIjY0IiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9wYXRoLzE3MzY0MTYzNDU0ODYiLCAiaG9zdCI6ICJ3d3cuNzc2MzI4NDkueHl6IiwgInRscyI6ICJ0bHMifQ==
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@67.220.95.102:8000#United+States
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@23.157.40.120:8080#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6VVF2RmlvYWU3S3pBWjJHQ01nTnVt@83.147.216.173:9848#France
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@23.157.40.95:8119#United+States
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@145.239.6.202:4444#United+Kingdom
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.143.66.87:8888#United+States
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@69.50.95.115:8091#United+States
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.143.66.87:3306#United+States
+trojan://4732adfa16c6450bbef87264e41332db@nextstepcareer.online:443#Germany
+ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@23.157.40.103:5499#United+States
+trojan://telegram-id-directvpn@13.50.47.93:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#Sweden
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@23.157.40.113:9101#United+States
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@54.37.18.75:5601#France
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@23.157.40.103:8091#United+States
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@145.239.6.202:8009#United+Kingdom
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.202:8080#The+Netherlands
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@54.36.174.181:5500#France
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.87:3389#United+States
+vmess://eyJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJhZGQiOiAiMTcyLjY3LjE2NS41MyIsICJwb3J0IjogIjIwODYiLCAidHlwZSI6ICJub25lIiwgImlkIjogIjNmZDdiOTU4LTIxNjEtNDZlMS1iNmZjLWJkNmJiMjE2NTMxMiIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgImhvc3QiOiAic2hzLnhpYW9xaTY2Ni54eXoiLCAidGxzIjogIiJ9
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@54.37.18.75:9101#France
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@145.239.6.202:7001#United+Kingdom
 ```
 <h5>Địa chỉ đăng ký vĩnh viễn của nút trên (một phần): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_vi</h5>
  <p>Mã QR cho địa chỉ đăng ký ở trên</p>

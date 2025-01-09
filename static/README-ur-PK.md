@@ -35,30 +35,31 @@
  <h4>نوڈ کی فہرست: (یہاں صرف کچھ نوڈس دکھائے گئے ہیں، براہ کرم تمام نوڈس دیکھنے کے لیے ایپ ڈاؤن لوڈ کریں)</h4>
     
 ```
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@54.36.174.181:6679#France
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@23.157.40.89:6697#United+States
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@51.77.53.200:7001#Poland
-trojan://3723507166611775488@80.240.112.236:443?sni=pleased-slug.boa152.lol#Germany
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.86.135.117:8080#United+States
-ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@69.50.95.203:5498#United+States
-trojan://5a81db08-7af3-49a4-b089-b7a5b2c24c38@us003.421421.xyz:20230#United+States
-vmess://eyJhZGQiOiAiNTcuMTI5LjI0LjEyNSIsICJhaWQiOiAwLCAiaG9zdCI6ICJ3cm1lbG13eGxmLmdrdGV2bHJxem53cXFvenkuZmFicGZzNjZnaXptbm9qaGN2cXh3bC5reXRyY2Z6cWxhODdndmd2czZjN2tqbnJ1YnVoLmNjIiwgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvbGlua3Z3cyIsICJwb3J0IjogNDQzLCAicHMiOiAiR2VybWFueSIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiJ9
-trojan://c4843eba-b070-403f-b43f-ef1ef7db571e@jp.lydurlclub.top:443?allowInsecure=1#Japan
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443#United+States
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.68.134.202:8091#United+States
-vmess://eyJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJhZGQiOiAiMzguMTEuMjE2LjE2NSIsICJwb3J0IjogIjM3MDA0IiwgInR5cGUiOiAibm9uZSIsICJpZCI6ICI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCAiYWlkIjogIjY0IiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9wYXRoLzE3MzY0MTg3MTE2MTciLCAiaG9zdCI6ICJ3d3cuOTM5NzYwOTEueHl6IiwgInRscyI6ICJ0bHMifQ==
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@23.157.40.113:7306#United+States
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@167.88.61.235:8882#United+States
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@23.150.152.56:8008#United+States
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.167:443#United+States
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@149.202.82.172:8008#France
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.114.114.69:8881#United+States
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@23.157.40.87:6679#United+States
-ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@15.204.87.217:5499#United+States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@92.118.205.228:990#Poland
-trojan://9d0a75d2-f747-4afa-b43f-d208af9e8f9a@bz02.ssr.ee:443#Brazil
-vmess://eyJhZGQiOiAiNTcuMTI5LjI0LjEyNCIsICJ2IjogIjIiLCAicHMiOiAiR2VybWFueSIsICJwb3J0IjogNDQzLCAiaWQiOiAiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogIndybWVsbXd4bGYuZ2t0ZXZscnF6bndxcW96eS5mYWJwZnM2Nmdpem1ub2poY3ZxeHdsLmt5dHJjZnpxbGE4N2d2Z3ZzNmM3a2pucnVidWguY2MiLCAicGF0aCI6ICIvbGlua3Z3cyIsICJ0bHMiOiAidGxzIn0=
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@69.50.95.174:443#United+States
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.114.114.69:5004#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMcWxQSTE5b3FudW5HTlNMTXZkWHlC@147.45.60.33:16356#Russia
+trojan://c4843eba-b070-403f-b43f-ef1ef7db571e@usa.lydurlclub.top:443?allowInsecure=1#Japan
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.169:443#United+States
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@23.150.152.56:7307#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplU0hFZEp6OTZycU5rT0NBemQ1Q3N2@94.131.123.147:7383#T%C3%BCrkiye
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@38.114.114.69:8009#United+States
+trojan://ypDt8RkT7J@138.199.23.100:43118?sni=radtz.phooeyunfold.com#Japan
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@139.64.164.15:7306#United+States
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@23.150.152.16:9102#United+States
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@169.197.142.120:3389#United+States
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@54.36.174.181:5500#France
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@154.90.63.193:990#Singapore
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@23.157.40.89:443#United+States
+trojan://telegram-id-directvpn@35.180.150.102:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#France
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.110.1.105:7307#United+States
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@145.239.6.202:8888#United+Kingdom
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@38.114.114.69:9102#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsNmhYeU14aTAzNFRSbnR4Z2VGNHRm@77.83.246.74:443#Poland
+vmess://eyJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJhZGQiOiAiczEuZGItbGluazAxLnRvcCIsICJwb3J0IjogIjIwOTUiLCAidHlwZSI6ICJub25lIiwgImlkIjogIjRiMzY2MjVjLWI5ZDktM2VhNi1hZWQ1LTg2ZDYyYzcwZTE2ZCIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvZGFiYWkuaW4xNzIuNjcuOTMuMTc0IiwgImhvc3QiOiAiMTAwLTIwNi0xMDQtMjE4LnMxLmRiLWxpbmswMS50b3AiLCAidGxzIjogIiJ9
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@145.239.6.202:8008#United+Kingdom
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.110.1.46:8091#United+States
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@23.157.40.103:7001#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.47.255.22:990#Puerto+Rico
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.195:443#United+Kingdom
 ```
 <h5>اوپری نوڈ کا مستقل رکنیت کا پتہ (حصہ): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ur-PK</h5>
  <p>اوپر سبسکرپشن ایڈریس کے لیے QR کوڈ</p>

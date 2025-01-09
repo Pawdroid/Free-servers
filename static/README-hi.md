@@ -35,30 +35,31 @@
  <h4>नोड सूची: (यहां केवल कुछ नोड्स प्रदर्शित हैं, कृपया सभी नोड्स देखने के लिए ऐप डाउनलोड करें)</h4>
     
 ```
-trojan://telegram-id-directvpn@13.37.65.151:22222?sni=trojan.burgerip.co.uk#France
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.143.66.87:8888#United+States
-vmess://eyJhZGQiOiAiOTUuMTc5LjE4Ni4xNjEiLCAidiI6ICIyIiwgInBzIjogIlRoZSBOZXRoZXJsYW5kcyIsICJwb3J0IjogNDQzLCAiaWQiOiAiZGZiYmM4ZGUtOGE0Zi00MDdkLTgwNjktNmRlMzhkODNjNGUxIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogImhkZnk0czJkMS5mb3JpcmFuLnRyYWRlIiwgInBhdGgiOiAiL1dnQ21wOHB4UldCdExUbFRMIiwgInRscyI6ICJ0bHMifQ==
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.113:9090#United+States
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@38.86.135.117:6379#United+States
-trojan://telegram-id-directvpn@3.126.218.145:22222?sni=trojan.burgerip.co.uk#Germany
-trojan://telegram-id-privatevpns@18.195.192.87:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#Germany
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@51.77.53.200:8000#Poland
-trojan://3723507166611775488@usable-toad.treefrog761.one:443?sni=usable-toad.treefrog761.one#United+States
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.197:443#United+Kingdom
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxWHZPN3pZVTdLZWFCME1kN0RRTG93@51.195.119.47:1080#France
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@69.50.92.55:5601#United+States
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@54.37.12.70:8000#France
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@54.37.12.70:8090#France
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@23.157.40.87:7001#United+States
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@23.157.40.95:8119#United+States
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@169.197.142.216:8008#United+States
-vmess://eyJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJhZGQiOiAiczEuZGItbGluazAyLnRvcCIsICJwb3J0IjogIjIwNTIiLCAidHlwZSI6ICJub25lIiwgImlkIjogIjRiMzY2MjVjLWI5ZDktM2VhNi1hZWQ1LTg2ZDYyYzcwZTE2ZCIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvZGFiYWkuaW4xNzIuNjcuNzUuMTg3IiwgImhvc3QiOiAiMTAwLTQ0LTcwLTgwLnMxLmRiLWxpbmswMi50b3AiLCAidGxzIjogIiJ9
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.87:5601#United+States
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.114.114.69:7307#United+States
-trojan://ypDt8RkT7J@207.211.215.169:43118#T%C3%BCrkiye
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@203.23.128.33:990#Hong+Kong
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwN0VoQzhNUjdvN0d1Um4yN1lGOFNRTkFLSjJsVWJCTklqY3lxU21CSHN5OHdMYko=@159.65.149.72:51348#India
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@145.239.6.202:8090#United+Kingdom
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.111.114.114:8118#Canada
+vmess://eyJhZGQiOiAiaG1zMDguZ3dkZWYuc2JzIiwgInYiOiAiMiIsICJwcyI6ICJVbml0ZWQgU3RhdGVzIiwgInBvcnQiOiA0NDMsICJpZCI6ICJiYzg2NDA3OC1kY2YzLTRiZjQtOGRiZi1jYTlmMjAwYjU2YmUiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiZ3dkZWYuc2JzIiwgInBhdGgiOiAiL2xpbmt3cyIsICJ0bHMiOiAidGxzIn0=
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@23.157.40.103:9101#United+States
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@23.157.40.87:9102#United+States
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@67.220.95.125:7001#United+States
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.114.114.69:8119#United+States
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@145.239.6.202:5001#United+Kingdom
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@54.37.18.75:5500#France
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@119.59.98.58:990#Thailand
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.150.152.56:5601#United+States
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@51.77.53.200:8881#Poland
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@54.36.174.181:6697#France
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.166:8080#Lithuania
+trojan://telegram-id-directvpn@34.231.138.21:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#United+States
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.95:5001#United+States
+ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@23.157.40.47:6379#United+States
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@167.88.61.235:443#United+States
+trojan://3723507166611775488@166.1.227.35:443?sni=allowed-primate.boa152.lol#United+States
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@23.150.152.56:8881#United+States
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@149.202.82.172:8091#France
+vmess://eyJhZGQiOiAicHEtYnJhemlsMS4wOXZwbi5jb20iLCAidiI6ICIyIiwgInBzIjogIkdpYnJhbHRhciIsICJwb3J0IjogODAsICJpZCI6ICJjMDRjM2IzNC03MGZkLTRmZWMtOTYzZS1jMTJkMDlmMzZiZWYiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAicHEtYnJhemlsMS4wOXZwbi5jb20iLCAicGF0aCI6ICIvdm1lc3MvIiwgInRscyI6ICIifQ==
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.113:5001#United+States
+vmess://eyJhZGQiOiAiMTUyLjY5LjE5Ny42MCIsICJ2IjogIjIiLCAicHMiOiAiSmFwYW4iLCAicG9ydCI6IDEwNjksICJpZCI6ICJhYzhlMjZmZS04MTUwLTRiNjAtYWU2NC04MmZjNzdlYmEyY2YiLCAiYWlkIjogIjAiLCAibmV0IjogInRjcCIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAiIn0=
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@217.182.198.219:3389#Germany
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@67.220.95.102:8090#United+States
 ```
 <h5>ऊपरी नोड (भाग) का स्थायी सदस्यता पता: https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_hi</h5>
  <p>उपरोक्त सदस्यता पते के लिए QR कोड</p>
