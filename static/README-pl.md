@@ -35,30 +35,29 @@
  <h4>Lista węzłów: (wyświetlane są tutaj tylko niektóre węzły. Pobierz aplikację, aby wyświetlić wszystkie węzły)</h4>
     
 ```
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@15.204.87.217:6379#United+States
-ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@54.36.174.181:9102#France
-vmess://eyJhZGQiOiAiNjQuMzIuMi4xOTAiLCAidiI6ICIyIiwgInBzIjogIlVuaXRlZCBTdGF0ZXMiLCAicG9ydCI6IDMwMDAxLCAiaWQiOiAiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwgImFpZCI6ICI2NCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJ3d3cuODUxNDU5NTIueHl6IiwgInBhdGgiOiAiL3BhdGgvMjQwODExMDYyODEzIiwgInRscyI6ICJ0bHMifQ==
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppWkRKczJDRGNrSEtxSjVXN2NwdkNxMnZlcXNxV245NWlxczZLcjZGM1lObnlNc2sydVBkUnJDaFFmU2h2SDF2NTZCcjFxV0VXNDRxSm5hNVFjTWNaRjdSQ0ptZHZ3dXE=@mx2.drawnrisha.one:55988#United+Kingdom
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@23.157.40.120:445#United+States
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@67.220.95.102:443#United+States
-ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@149.202.82.172:9102#France
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@149.202.82.172:6697#France
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@217.182.198.219:8090#Germany
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@51.77.53.200:8080#Poland
-ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@23.150.152.112:9102#United+States
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@38.143.66.87:6379#United+States
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@23.157.40.120:7307#United+States
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@139.64.165.144:5004#United+States
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.62.161:443#Switzerland
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@51.77.53.200:8091#Poland
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@23.150.152.56:7002#United+States
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@149.202.82.172:6679#France
-vmess://eyJhZGQiOiAiMTkzLjE2MC4xMzAuMjQ1IiwgInYiOiAiMiIsICJwcyI6ICJGcmFuY2UiLCAicG9ydCI6IDQ0MywgImlkIjogIjliNDU2YzJhLWYyYzEtNDVlMS04N2E5LWI3NjI4YjA0YmIyNCIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJiZXlvbmRkc3ouY2ZkIiwgInBhdGgiOiAiL2xpbmt3cyIsICJ0bHMiOiAidGxzIn0=
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@23.157.40.5:8881#United+States
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@54.37.18.75:6697#France
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.113:3389#United+States
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@23.157.88.61:2376#Germany
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@216.39.248.133:7001#United+States
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@23.150.152.53:9101#United+States
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@23.157.40.101:8000#United+States
+ss://YWVzLTI1Ni1nY206ZG9uZ3RhaXdhbmcuY29t@185.22.155.228:23456#Russia
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@23.157.40.95:8882#United+States
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@23.157.40.5:2376#United+States
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@69.50.95.174:5004#United+States
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@54.37.18.75:8881#France
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@15.184.89.176:443#Bahrain
+trojan://SSorg@154.197.64.67:443?allowInsecure=0&sni=sstjj.esslh.filegear-sg.me&type=ws&host=sstjj.esslh.filegear-sg.me&path=/#Seychelles
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@51.77.53.200:8090#Poland
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.89:3389#United+States
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@23.157.40.5:9102#United+States
+trojan://telegram-id-privatevpns@34.255.251.132:22222?security=tls&sni=trojan.burgerip.co.uk#Ireland
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@51.77.53.200:8009#Poland
+trojan://3723507166611775488@pleased-airedale.boa152.lol:443?security=tls&sni=pleased-airedale.boa152.lol#Czechia
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@149.202.82.172:8118#France
+vmess://eyJ2IjogIjIiLCAicHMiOiAiRnJhbmNlIiwgImFkZCI6ICIxNjMuNS4xNTkuMjMxIiwgInBvcnQiOiA0NDMsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAidGxzIiwgImlkIjogImU1MzdmMmY1LTJhMGMtNGY1OS05MmM5LTgzMmNhNjQzM2JmMyIsICJob3N0IjogImlydmlkZW8uY2ZkIiwgInBhdGgiOiAiL2xpbmt3cyJ9
+ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@139.64.164.15:5498#United+States
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.110.1.105:5601#United+States
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@23.157.40.89:8008#United+States
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@54.37.12.70:7306#France
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.89:5000#United+States
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@51.77.53.200:3389#Poland
 ```
 <h5>Stały adres subskrypcji górnego węzła (część): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_pl</h5>
  <p>Kod QR dla adresu subskrypcji powyżej</p>

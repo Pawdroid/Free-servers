@@ -35,30 +35,29 @@
  <h4>노드 목록: (여기에는 일부 노드만 표시됩니다. 모든 노드를 보려면 앱을 다운로드하세요.)</h4>
     
 ```
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.78:443#United+Kingdom
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.120:3389#United+States
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@149.202.82.172:3306#France
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.91.100.211:7002#United+States
-trojan://3723507166611775488@195.133.93.234:443?sni=wise-cowbird.boa152.lol#Czechia
-ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@23.157.40.120:5498#United+States
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@23.157.40.120:6379#United+States
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.113:5600#United+States
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.114.114.69:2376#United+States
-trojan://34ec6bdf-602c-4bbe-933a-5c0823524201@cmc6.5gsieuvip.vn:443?allowInsecure=1#Vietnam
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@149.202.82.172:6379#France
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@167.88.62.24:5000#United+States
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@23.157.40.87:7002#United+States
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@23.157.40.87:8881#United+States
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@69.50.95.174:5004#United+States
-trojan://SSorg@185.204.109.190:8443?allowInsecure=0&sni=sstjj.esslh.filegear-sg.me&type=ws&host=sstjj.esslh.filegear-sg.me&path=/#The+Netherlands
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpydFI0WVg3NHZ3cVJKdTlNR0gzZTFOM0NRZEdNV0NVRmt5TGlzaWppRnV2aGtVOU1jVjVUcHlnZmtlcm5KNFVRZTYzSnRjRFFrclE5SGZjaHpxUXoxa0xDblRSb3I4amc=@107.181.155.244:55330#United+Kingdom
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@23.157.40.113:8090#United+States
-trojan://3723507166611775488@195.133.93.135:443?sni=pleased-airedale.boa152.lol#Czechia
-trojan://telegram-id-directvpn@15.223.164.31:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#Canada
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.110.1.51:8090#United+States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2WnI4TWxVWFVpaE5FbmRxSXBqRHhRZFNlcWkzN0ZiZ29IQm1RMXN5eTZaamtiQm4=@103.174.86.113:51348#India
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@216.39.248.133:7001#United+States
-vmess://eyJhZGQiOiAianAwMy1hbHQtdm0wLmVudHJ5LnNydGhkdy5hcnQiLCAidiI6ICIyIiwgInBzIjogIkphcGFuIiwgInBvcnQiOiAyMTU4NSwgImlkIjogIjFiYzUyMzA4LTBiZDktMzBkMC05MGZkLWNlZjMzNzg3NWQxMCIsICJhaWQiOiAiMSIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiIiwgInRscyI6ICJ0bHMifQ==
+vmess://eyJhZGQiOiAiMjA2LjIwNi44MC42NiIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiODgyNWZkMDQtOTAwNS00NDEwLWI0OGMtZDJmMzQ1ZWM3ZmVlIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIiLCAicG9ydCI6ICIyMzQyMyIsICJwcyI6ICJVbml0ZWQgU3RhdGVzIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@23.157.40.113:7002#United+States
+vmess://eyJhZGQiOiAiNjcuMjIwLjY2LjE5NCIsICJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJwb3J0IjogNDQzLCAiaWQiOiAiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwgImFpZCI6ICIxIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogIjY3LjIyMC42Ni4xOTQiLCAicGF0aCI6ICJsaW5rdndzIiwgInRscyI6ICJ0bHMifQ==
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@139.59.119.143:443?sni=connectwithemployers.online#Singapore
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNN3gxbUdOT3doUGlSQjlqU3haSk55@51.13.182.236:6870#Norway
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@139.64.164.15:8119#United+States
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.68.134.202:5004#United+States
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@23.157.40.89:8118#United+States
+trojan://3723507166611775488@oriented-terrier.boa152.lol:443?sni=oriented-terrier.boa152.lol#Germany
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwVUxaa0pVbmw1RkI0bU9RVW5nVUtGdFBmb2hmMGNVQ3BPeHF5UkQ1Mmh5OVd1SGU=@103.120.178.193:51348#India
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.195:443#United+Kingdom
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@38.110.1.35:8008#United+States
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@54.36.174.181:5004#France
+trojan://3723507166611775488@social-bream.boa152.lol:443?sni=social-bream.boa152.lol#Czechia
+trojan://3723507166611775488@80.240.112.167:443?sni=ample-cockatoo.boa152.lol#Germany
+vmess://eyJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJhZGQiOiAiMTcyLjY3LjE1OS4yNDciLCAicG9ydCI6IDQ0MywgImlkIjogIjBiMTNlZDM4LWQ1NGUtNGI5NS1iNjgyLTg5NGJiZmE0MjVmOCIsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogImdycGMiLCAidHlwZSI6ICJndW4iLCAiaG9zdCI6ICJzdGguaGFwcHlncm91bmQuaXIiLCAiYWxwbiI6ICJoMiIsICJwYXRoIjogIjZtSHdxSTFIU1NWdFh4Q3hzaGNWIiwgInRscyI6ICJ0bHMiLCAic25pIjogInN0aC5oYXBweWdyb3VuZC5pciIsICJmcCI6ICJjaHJvbWUifQ==
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.158.171.66:8080#United+States
+vmess://eyJhZGQiOiAiMTA0LjE3LjIyMS4yNDgiLCAidiI6ICIyIiwgInBzIjogIlVuaXRlZCBTdGF0ZXMiLCAicG9ydCI6IDIwODIsICJpZCI6ICI2NWMwMDNiNy1kMGI1LTM3NTEtOGUyMi1iOTU5ZjQ2NDYzYmMiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiMTAwLTE1OC0yMDQtOTcuczMuZGItbGluazAxLnRvcCIsICJwYXRoIjogIi9kYWJhaS5pbjEwNC4yNC4xMDcuNiIsICJ0bHMiOiAiIn0=
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.68.134.202:8091#United+States
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.114.114.143:443#United+States
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@23.150.152.56:8009#United+States
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.87:3306#United+States
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@54.36.174.181:8008#France
 ```
 <h5>상위 노드(일부)의 영구 구독 주소: https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ko-KR</h5>
  <p>위 구독 주소의 QR 코드</p>
