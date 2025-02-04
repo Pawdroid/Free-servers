@@ -35,28 +35,28 @@
  <h4>Liste des nœuds: (Seuls certains nœuds sont affichés ici, veuillez télécharger l'application pour afficher tous les nœuds)</h4>
     
 ```
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@142.202.49.84:5001#%C3%89tats+Unis
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.166:8080#Lituanie
-vmess://eyJhZGQiOiAiODkuMTE3LjExMi4yMzUiLCAidiI6ICIyIiwgInBzIjogIkZyYW5jZSIsICJwb3J0IjogODQ0MywgImlkIjogImU4OGI4NWM2LTkzYjQtNDdmNi1iM2ZiLTJjNTVkY2IxMjg5ZiIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJsYXgyLmliZ2Z3LnRvcCIsICJwYXRoIjogIi9keWFqdndzIiwgInRscyI6ICJ0bHMifQ==
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@23.157.40.120:7307#%C3%89tats+Unis
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.110.1.35:8091#%C3%89tats+Unis
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@23.150.152.56:5500#%C3%89tats+Unis
-trojan://Aimer@176.124.223.40:2053?security=tls&sni=ngepy.ambercc.filegear-sg.me&type=ws&host=ngepy.ambercc.filegear-sg.me#Russie
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@23.157.40.47:5500#%C3%89tats+Unis
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.121.43.27:8882#%C3%89tats+Unis
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyYWZiYzk3NDAwY2E3MWM4ZjMzMDZmOTg0M2E2ZTFjMg==@south-korea-3.keenvpn.me:443#Cor%C3%A9e+du+Sud
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.110.1.46:5500#%C3%89tats+Unis
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@169.197.142.120:8888#%C3%89tats+Unis
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@23.157.40.103:5500#%C3%89tats+Unis
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@23.157.40.87:7001#%C3%89tats+Unis
-vmess://eyJ2IjogMiwgInBzIjogIlx1MDBjOXRhdHMgVW5pcyIsICJhZGQiOiAiMTA0LjE3LjIyMS4yNDgiLCAicG9ydCI6IDgwLCAiaWQiOiAiZTY1NDMzMTktMDU3NC00MmFjLWI3NzgtMWM0MzI1ZDYyNmY1IiwgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6IG51bGwsICJob3N0IjogImNodW5jaHVhbi5rZWppeGlhb3FpNjY2LnN0b3JlIiwgInBhdGgiOiAiLyIsICJ0bHMiOiBmYWxzZSwgInNuaSI6ICIifQ==
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@149.202.82.172:2376#France
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.26:5001#%C3%89tats+Unis
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@51.77.53.200:7001#Pologne
-trojan://5f7be901-1bb7-4cc5-9c7d-e33bd7e407ad@cmc1.5gsieuvip.vn:443?allowInsecure=0#Vi%C3%AAt+Nam
-trojan://xjtZ2S5FgQ@137.220.42.248:443#%C3%89tats+Unis
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.68.135.112:5500#%C3%89tats+Unis
-vmess://eyJhZGQiOiAidXMuY293dnBuLm9yZyIsICJ2IjogIjIiLCAicHMiOiAiXHUwMGM5dGF0cyBVbmlzIiwgInBvcnQiOiA0NDMsICJpZCI6ICIxMWE4MDVmMi00MWE3LTRjZDgtODQwNi0wNDcwYzNjZGUwZDMiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAidXMyY2YuY293dnBuLm9yZyIsICJwYXRoIjogIi9jY3R2MTMvdm1lc3NfdXMxIiwgInRscyI6ICJ0bHMifQ==
+trojan://Aimer@108.165.152.76:2096?security=tls&sni=ngepx.ambercc.filegear-sg.me&type=ws&host=ngepx.ambercc.filegear-sg.me#%C3%89tats+Unis
+trojan://Aimer@188.164.159.45:8443?security=tls&sni=ngepy.ambercc.filegear-sg.me&type=ws&host=ngepy.ambercc.filegear-sg.me#Arm%C3%A9nie
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.150.152.16:5601#%C3%89tats+Unis
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@67.220.95.102:9101#%C3%89tats+Unis
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.241:443#%C3%89tats+Unis
+trojan://2cba4104747d49d18319e5ade1b93ab5@yourjobnavigator.online:443#Royaume-Uni
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.121.43.27:3306#%C3%89tats+Unis
+vmess://eyJhZGQiOiAiNzcuODMuMTQxLjE3MSIsICJ2IjogIjIiLCAicHMiOiAiXHUwMGM5dGF0cyBVbmlzIiwgInBvcnQiOiA0NDMsICJpZCI6ICIzNTM3OTIxOS02NTM1LTRmMmUtYTRmZS0zZTQ0ZjYxZTBlZWUiLCAiYWlkIjogIjMyIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogInZjLmZseS5kZXYiLCAicGF0aCI6ICIvdmMiLCAidGxzIjogInRscyJ9
+vmess://eyJhZGQiOiAiOTQuMjQyLjIzMC4xMTkiLCAidiI6ICIyIiwgInBzIjogIkx1eGVtYm91cmciLCAicG9ydCI6IDg0NDMsICJpZCI6ICIxOTFiYWJjNS0yYWFmLTRmZTUtYTU2My1mMTQyNDRhZWZiNGUiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAibGF4MS5pYmdmdy50b3AiLCAicGF0aCI6ICIveHJlbnZ3cyIsICJ0bHMiOiAidGxzIn0=
+vmess://eyJhZGQiOiAiczQuZGItbGluazAyLnRvcCIsICJ2IjogIjIiLCAicHMiOiAiXHUwMGM5dGF0cyBVbmlzIiwgInBvcnQiOiA4MDgwLCAiaWQiOiAiNGIzNjYyNWMtYjlkOS0zZWE2LWFlZDUtODZkNjJjNzBlMTZkIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogIjEwMC04MC03Ny0xNDAuczQuZGItbGluazAyLnRvcCIsICJwYXRoIjogIi9kYWJhaS5pbjEwNC4xOS4xMDMuOTYiLCAidGxzIjogIiJ9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@154.90.37.139:990#Philippines
+trojan://Aimer@108.165.152.104:2053?security=tls&sni=ngepx.ambercc.filegear-sg.me&type=ws&host=ngepx.ambercc.filegear-sg.me#%C3%89tats+Unis
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@54.36.174.181:7001#France
+vmess://eyJhZGQiOiAiMTkzLjI5LjEwNy4yMzQiLCAidiI6ICIyIiwgInBzIjogIkRhbmVtYXJrIiwgInBvcnQiOiA0OTAyMCwgImlkIjogIjJlOTY3ZGQ1LThkMjQtNDA5OS1hOTAxLTQxMmRjYjQwMjRmZCIsICJhaWQiOiAiNjQiLCAibmV0IjogInRjcCIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAiIn0=
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWVE4SndFbGRZbjRLVDJnZlo2ZU5s@89.23.103.21:51584#Pays-Bas
+trojan://3767107462583558144@194.62.96.160:443?sni=subtle-seahorse.treefrog761.one#Espagne
+vmess://eyJhZGQiOiAianAwMS1hbHQtdm0wLmVudHJ5LnNydGhkdy5hcnQiLCAidiI6ICIyIiwgInBzIjogIkphcG9uIiwgInBvcnQiOiAyMTU4MywgImlkIjogImM0YjJlN2VhLTFhMGUtMzE2Zi04ZTI4LTA3MTdjYzA4NzUzNCIsICJhaWQiOiAiMSIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiIiwgInRscyI6ICJ0bHMifQ==
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@145.239.6.202:2376#Royaume-Uni
+trojan://telegram-id-privatevpns@13.37.13.213:22222?sni=trojan.burgerip.co.uk#France
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyYWZiYzk3NDAwY2E3MWM4ZjMzMDZmOTg0M2E2ZTFjMg==@216.250.97.118:443#Hong+Kong
+vmess://eyJhZGQiOiAiMTA0LjE5LjQ4LjIzNiIsICJ2IjogIjIiLCAicHMiOiAiXHUwMGM5dGF0cyBVbmlzIiwgInBvcnQiOiAyMDg2LCAiaWQiOiAiNGIzNjYyNWMtYjlkOS0zZWE2LWFlZDUtODZkNjJjNzBlMTZkIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogIjEwMC0xNzEtMTA0LTIzOC5zMi5kYi1saW5rMDIudG9wIiwgInBhdGgiOiAiL2RhYmFpLmluMTcyLjY0LjQzLjE0IiwgInRscyI6ICIifQ==
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@51.77.53.200:5601#Pologne
 ```
 <h5>L'adresse d'abonnement permanente du nœud supérieur (partie): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_fr</h5>
  <p>Code QR pour l'adresse d'abonnement ci-dessus</p>
