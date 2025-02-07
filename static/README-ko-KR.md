@@ -35,28 +35,28 @@
  <h4>노드 목록: (여기에는 일부 노드만 표시됩니다. 모든 노드를 보려면 앱을 다운로드하세요.)</h4>
     
 ```
-trojan://telegram-id-privatevpns@52.16.1.28:22222?security=tls&sni=trojan.burgerip.co.uk#Ireland
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.110.1.46:8091#United+States
-trojan://telegram-id-privatevpns@13.61.58.185:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#Sweden
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@54.36.174.181:4444#France
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@ns3849026.ip-217-182-198.eu:8888#Germany
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.121.43.204:8118#United+States
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@149.202.82.172:5601#France
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@23.157.40.120:7001#United+States
-vmess://eyJhZGQiOiAiMTA0LjE5LjQ4LjIzNiIsICJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJwb3J0IjogODA4MCwgImlkIjogIjRiMzY2MjVjLWI5ZDktM2VhNi1hZWQ1LTg2ZDYyYzcwZTE2ZCIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIxMDAtMTUwLTE3MS0xMTQuczQuY24tZGIudG9wIiwgInBhdGgiOiAiL2RhYmFpLmluMTA0LjIwLjI0NC4yNTEiLCAidGxzIjogIiJ9
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@54.36.174.181:7306#France
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.121.43.204:8090#United+States
+vmess://eyJhZGQiOiAic2dmcWtxbWx0Y3kuc2l0ZSIsICJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJwb3J0IjogNDQzLCAiaWQiOiAiZDEzZmMyZjUtM2UwNS00Nzk1LTgxZWItNDQxNDNhMDllNTUyIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogInNnZnFrcW1sdGN5LnNpdGUiLCAicGF0aCI6ICIvcmJxcXZ3cyIsICJ0bHMiOiAidGxzIn0=
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@67.220.95.102:8888#United+States
+trojan://telegram-id-privatevpns@3.125.23.39:22222?sni=trojan.burgerip.co.uk#Germany
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@145.239.6.202:8080#United+Kingdom
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.121.43.142:7306#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZVE5qTkRZNQ==@185.234.64.35:8388#France
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@142.202.49.84:8118#United+States
 trojan://65086520307764900@44.213.197.235:443?sni=arriving-longhorn.shiner427.skin#United+States
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@54.36.174.181:2376#France
-vmess://eyJhZGQiOiAiNDYuMjU0LjkyLjQ1IiwgInYiOiAiMiIsICJwcyI6ICJSdXNzaWEiLCAicG9ydCI6IDg0NDMsICJpZCI6ICJlODhiODVjNi05M2I0LTQ3ZjYtYjNmYi0yYzU1ZGNiMTI4OWYiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAibGF4Mi5pYmdmdy50b3AiLCAicGF0aCI6ICIvZHlhanZ3cyIsICJ0bHMiOiAidGxzIn0=
-vmess://eyJhZGQiOiAiMTM5LjE2Mi4xNzguOTUiLCAidiI6ICIyIiwgInBzIjogIkdlcm1hbnkiLCAicG9ydCI6IDQ0MywgImlkIjogIjkwNzJkMzM5LTM4ODUtNGZlMS1iMGJjLTI5ZmE3NTA1NDEwZSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJmaXhlZGZsb2F0aS5jZmQiLCAicGF0aCI6ICIvbGlua3dzZCIsICJ0bHMiOiAidGxzIn0=
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.121.43.27:8000#United+States
-trojan://telegram-id-privatevpns@15.236.107.102:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#France
-vmess://eyJhZGQiOiAiMjcuNTAuNDguMTg4IiwgInYiOiAiMiIsICJwcyI6ICJTaW5nYXBvcmUiLCAicG9ydCI6IDg0NDMsICJpZCI6ICJlODhiODVjNi05M2I0LTQ3ZjYtYjNmYi0yYzU1ZGNiMTI4OWYiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAibGF4Mi5pYmdmdy50b3AiLCAicGF0aCI6ICIvZHlhanZ3cyIsICJ0bHMiOiAidGxzIn0=
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMzgzNzIyNGVkNDY1ZjAw@war.ssvpnapp.win:57456#Poland
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.138:8080#The+Netherlands
-ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@23.154.136.176:9101#United+States
-ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@38.68.135.112:9101#United+States
-vmess://eyJhZGQiOiAiOTQuMjQyLjIzMC4xMTkiLCAidiI6ICIyIiwgInBzIjogIkx1eGVtYm91cmciLCAicG9ydCI6IDg0NDMsICJpZCI6ICIxOTFiYWJjNS0yYWFmLTRmZTUtYTU2My1mMTQyNDRhZWZiNGUiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAibGF4MS5pYmdmdy50b3AiLCAicGF0aCI6ICIveHJlbnZ3cyIsICJ0bHMiOiAidGxzIn0=
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.143.66.87:7002#United+States
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@23.157.40.95:8000#United+States
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.121.43.27:5500#United+States
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.103:5601#United+States
+vmess://eyJhZGQiOiAiczUuZGItbGluazAxLnRvcCIsICJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJwb3J0IjogODAsICJpZCI6ICI0YjM2NjI1Yy1iOWQ5LTNlYTYtYWVkNS04NmQ2MmM3MGUxNmQiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiMTAwLTE2LTIwLTUwLnM1LmRiLWxpbmswMS50b3AiLCAicGF0aCI6ICIvZGFiYWkuaW4xMDQuMjAuMS4xODYiLCAidGxzIjogIiJ9
+trojan://4732adfa16c6450bbef87264e41332db@165.22.74.230:443?security=tls&sni=nextstepcareer.online&allowInsecure=1#Germany
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@23.157.40.101:8000#United+States
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@23.150.152.56:7306#United+States
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@23.157.40.87:2375#United+States
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@23.157.40.95:2375#United+States
+trojan://Aimer@40.233.70.7:8443?security=tls&sni=ngepz.ambercc.filegear-sg.me&type=ws&host=ngepz.ambercc.filegear-sg.me#United+States
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@67.220.95.102:8881#United+States
+vmess://eyJhZGQiOiAiMTk4LjIuMjE4LjEwOCIsICJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJwb3J0IjogNDE0MDAsICJpZCI6ICI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCAiYWlkIjogIjY0IiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIiLCAidGxzIjogIiJ9
 ```
 <h5>상위 노드(일부)의 영구 구독 주소: https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ko-KR</h5>
  <p>위 구독 주소의 QR 코드</p>
