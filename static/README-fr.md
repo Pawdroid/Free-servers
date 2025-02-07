@@ -35,28 +35,27 @@
  <h4>Liste des nœuds: (Seuls certains nœuds sont affichés ici, veuillez télécharger l'application pour afficher tous les nœuds)</h4>
     
 ```
-vmess://eyJhZGQiOiAiNDUuMTQ0LjQ4LjEyOCIsICJ2IjogIjIiLCAicHMiOiAiUG9sb2duZSIsICJwb3J0IjogODAsICJpZCI6ICIxMGUyZmY2NS0wZTIwLTQ2MmQtYTI4Mi0xNjRlNDhiOTU1YTkiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiM2gtcG9sYW5kMS4wOXZwbi5jb20iLCAicGF0aCI6ICIvdm1lc3MvIiwgInRscyI6ICIifQ==
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@connectwithemployers.online:443#Singapour
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyYWZiYzk3NDAwY2E3MWM4ZjMzMDZmOTg0M2E2ZTFjMg==@52.197.171.218:443#Japon
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.110.1.12:8090#%C3%89tats+Unis
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.110.1.35:8091#%C3%89tats+Unis
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@167.88.63.21:2375#%C3%89tats+Unis
-vmess://eyJhZGQiOiAiODkuMTE2LjQ2Ljk2IiwgInYiOiAiMiIsICJwcyI6ICJBbGxlbWFnbmUiLCAicG9ydCI6IDg0NDMsICJpZCI6ICIxOTFiYWJjNS0yYWFmLTRmZTUtYTU2My1mMTQyNDRhZWZiNGUiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAibGF4MS5pYmdmdy50b3AiLCAicGF0aCI6ICIveHJlbnZ3cyIsICJ0bHMiOiAidGxzIn0=
-trojan://2cba4104747d49d18319e5ade1b93ab5@161.35.34.48:443?sni=yourjobnavigator.online#Royaume-Uni
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@54.36.174.181:6679#France
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@23.157.40.47:5003#%C3%89tats+Unis
-vmess://eyJhZGQiOiAiczQuZGItbGluazAyLnRvcCIsICJ2IjogIjIiLCAicHMiOiAiXHUwMGM5dGF0cyBVbmlzIiwgInBvcnQiOiAyMDk1LCAiaWQiOiAiZjUxOGNmZjAtZWU0MS0zY2RlLWE0NTMtOWYzZmJjY2Q3ZmY4IiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogIjEwMC0yMzQtMjM2LTcxLnM0LmRiLWxpbmswMi50b3AiLCAicGF0aCI6ICIvZGFiYWkuaW4xNzIuNjcuMTAwLjE1NyIsICJ0bHMiOiAiIn0=
-ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@23.157.40.26:5498#%C3%89tats+Unis
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.34.244.68:443#Pays-Bas
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@23.157.40.103:8882#%C3%89tats+Unis
-trojan://a124e41a-0fb8-4543-a0ab-a127c7b515a9@us003.421421.xyz:20230?sni=421421.xyz#%C3%89tats+Unis
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@51.77.53.200:8009#Pologne
-vmess://eyJhZGQiOiAiMTQ3Ljc4LjE0MC41MCIsICJ2IjogIjIiLCAicHMiOiAiQnVsZ2FyaWUiLCAicG9ydCI6IDg0NDMsICJpZCI6ICJlODhiODVjNi05M2I0LTQ3ZjYtYjNmYi0yYzU1ZGNiMTI4OWYiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAibGF4Mi5pYmdmdy50b3AiLCAicGF0aCI6ICIvZHlhanZ3cyIsICJ0bHMiOiAidGxzIn0=
-trojan://telegram-id-privatevpns@13.61.198.141:22222?security=tls&sni=trojan.burgerip.co.uk#Su%C3%A8de
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.93.173.218:990#Bolivie
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.95:5601#%C3%89tats+Unis
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.110.1.46:8080#%C3%89tats+Unis
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@23.157.40.103:8008#%C3%89tats+Unis
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.143.66.87:3306#%C3%89tats+Unis
+ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@169.197.142.120:5498#%C3%89tats+Unis
+vmess://eyJhZGQiOiAiMTA0LjIxLjk2LjEiLCAidiI6ICIyIiwgInBzIjogIlx1MDBjOXRhdHMgVW5pcyIsICJwb3J0IjogODQ0MywgImlkIjogImEwNjA1NTI3LTI4ZTQtNDQ5Yy04MGVlLTU2NDJjYzE2YThhZiIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJpdDAuODk5OTk0Lnh5eiIsICJwYXRoIjogIi9pbmRleCIsICJ0bHMiOiAidGxzIn0=
+vmess://eyJhZGQiOiAiczQuZGItbGluazAyLnRvcCIsICJ2IjogIjIiLCAicHMiOiAiXHUwMGM5dGF0cyBVbmlzIiwgInBvcnQiOiA4MDgwLCAiaWQiOiAiNGIzNjYyNWMtYjlkOS0zZWE2LWFlZDUtODZkNjJjNzBlMTZkIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogIjEwMC04MC03Ny0xNDAuczQuZGItbGluazAyLnRvcCIsICJwYXRoIjogIi9kYWJhaS5pbjEwNC4xOS4xMDMuOTYiLCAidGxzIjogIiJ9
+vmess://eyJhZGQiOiAiMTA0LjE5LjEzMy43NCIsICJ2IjogIjIiLCAicHMiOiAiXHUwMGM5dGF0cyBVbmlzIiwgInBvcnQiOiA0NDMsICJpZCI6ICJiZjY3NDM3ZS02YzkwLTQ1Y2EtYWJjMi1jNzI0MGE1Y2UyYWEiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiZm94bHV4LmZvdmkudGsiLCAicGF0aCI6ICIvZWlzYXNxYSIsICJ0bHMiOiAidGxzIn0=
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@145.239.6.202:8118#Royaume-Uni
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.121.43.27:8881#%C3%89tats+Unis
+trojan://telegram-id-directvpn@13.61.252.128:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#Su%C3%A8de
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.95:3306#%C3%89tats+Unis
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@23.154.136.176:9101#%C3%89tats+Unis
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@23.157.40.87:6679#%C3%89tats+Unis
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@38.110.1.46:6679#%C3%89tats+Unis
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@149.202.82.172:5601#France
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@23.157.40.87:5500#%C3%89tats+Unis
+vmess://eyJhZGQiOiAiczQuY24tZGIudG9wIiwgInYiOiAiMiIsICJwcyI6ICJcdTAwYzl0YXRzIFVuaXMiLCAicG9ydCI6IDIwODIsICJpZCI6ICI0YjM2NjI1Yy1iOWQ5LTNlYTYtYWVkNS04NmQ2MmM3MGUxNmQiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiMTAwLTU5LTE3OC0yNDcuczQuY24tZGIudG9wIiwgInBhdGgiOiAiL2RhYmFpLmluMTA0LjE5LjEwMS4xMTAiLCAidGxzIjogIiJ9
+vmess://eyJhZGQiOiAiczEuZGItbGluazAxLnRvcCIsICJ2IjogIjIiLCAicHMiOiAiXHUwMGM5dGF0cyBVbmlzIiwgInBvcnQiOiAyMDgyLCAiaWQiOiAiNGIzNjYyNWMtYjlkOS0zZWE2LWFlZDUtODZkNjJjNzBlMTZkIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogIjEwMC0zMi0yMS0xODcuczEuZGItbGluazAxLnRvcCIsICJwYXRoIjogIi9kYWJhaS5pbjEwNC4yNS4xODQuMjE2IiwgInRscyI6ICIifQ==
+trojan://telegram-id-privatevpns@54.220.132.216:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#Irlande
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.78:443#Royaume-Uni
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@149.202.82.172:8119#France
+trojan://3767107462583558144@5.189.203.50:443?sni=modest-bulldog.goat627.mom#France
+trojan://65086520307764900@relieved-raccoon.shiner427.skin:443?sni=relieved-raccoon.shiner427.skin#Singapour
 ```
 <h5>L'adresse d'abonnement permanente du nœud supérieur (partie): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_fr</h5>
  <p>Code QR pour l'adresse d'abonnement ci-dessus</p>
