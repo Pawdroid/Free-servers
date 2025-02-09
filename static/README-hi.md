@@ -35,29 +35,29 @@
  <h4>नोड सूची: (यहां केवल कुछ नोड्स प्रदर्शित हैं, कृपया सभी नोड्स देखने के लिए ऐप डाउनलोड करें)</h4>
     
 ```
-vmess://eyJhZGQiOiAiMTA0LjE3LjIxMy4yNDEiLCAidiI6ICIyIiwgInBzIjogIlVuaXRlZCBTdGF0ZXMiLCAicG9ydCI6IDIwODYsICJpZCI6ICI0YjM2NjI1Yy1iOWQ5LTNlYTYtYWVkNS04NmQ2MmM3MGUxNmQiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiMTAwLTE3MS0xMDQtMjM4LnMyLmRiLWxpbmswMi50b3AiLCAicGF0aCI6ICIvZGFiYWkuaW4xNzIuNjQuNDMuMTQiLCAidGxzIjogIiJ9
-vmess://eyJhZGQiOiAiMTUxLjEwMS4xOTQuMTMzIiwgInYiOiAiMiIsICJwcyI6ICJVbml0ZWQgU3RhdGVzIiwgInBvcnQiOiA4MCwgImlkIjogImNhMzg3NTk3LWQ3OWUtNDhjMi04OWE3LWUyZGM2NmE4OGE3MCIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJ0ZWxlZ3JhbS1pc3Z2cG4uaXIiLCAicGF0aCI6ICIvcmFjZXZwbj90ZWxlZ3JhbS1ASVNWdnBuLXRlbGVncmFtLUBJU1Z2cG4tdGVsZWdyYW0tQElTVnZwbi10ZWxlZ3JhbS1ASVNWdnBuIiwgInRscyI6ICIifQ==
-trojan://bpb-trojan@104.19.223.79:443?security=tls&sni=qq.vvii.us.kg&type=ws&host=qq.vvii.us.kg&path=/tr?ed%3D2560&fp=randomized&alpn=h3#United+States
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@23.157.40.120:445#United+States
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@51.68.206.229:8118#United+Kingdom
-trojan://3774827088566296576@deciding-mantis.treefrog761.one:443?sni=deciding-mantis.treefrog761.one#India
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@23.157.40.47:6379#United+States
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.121.43.204:8000#United+States
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@67.220.95.102:8882#United+States
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.110.1.105:5003#United+States
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.121.43.27:2375#United+States
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@23.157.40.87:8881#United+States
-ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@23.157.40.26:5498#United+States
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@38.110.1.12:6379#United+States
-trojan://Aimer@172.64.35.199:443?security=tls&sni=ngepz.ambercc.filegear-sg.me&type=ws&host=ngepz.ambercc.filegear-sg.me&path=%2F#United+States
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@139.64.164.15:8118#United+States
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@38.143.66.87:8009#United+States
-trojan://yaml777@104.21.61.73:443?security=tls&sni=yaml7.ggff.net&type=ws&host=yaml7.ggff.net&path=/#United+States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.166:8080#Lithuania
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.68.135.112:5500#United+States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.206:8080#The+Netherlands
-vmess://eyJhZGQiOiAiMTcyLjExMS4zNi4xMDgiLCAidiI6ICIyIiwgInBzIjogIlVuaXRlZCBTdGF0ZXMiLCAicG9ydCI6IDQ0MywgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJ3cm1lbG13eGxmLmdrdGV2bHJxem53cXFvenkuZmFicGZzNjZnaXptbm9qaGN2cXh3bC5reXRyY2Z6cWxhODdndmd2czZjN2tqbnJ1YnVoLmNjIiwgInBhdGgiOiAiL2xpbmt2d3MiLCAidGxzIjogInRscyJ9
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@145.239.6.202:2376#United+Kingdom
+vmess://eyJhZGQiOiAiaGRmcnBsY3BubDEuYWlybGluZXNob21hLmNvbSIsICJ2IjogIjIiLCAicHMiOiAiR2VybWFueSIsICJwb3J0IjogODAsICJpZCI6ICJhMmVmMWE4ZS0zNDdlLTRkYzQtYTFmZi1kZTliMWViZWFmNjMiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiL1N4NmhDYkNnNlJxWHJmdzNsIiwgInRscyI6ICIifQ==
+vmess://eyJhZGQiOiAiMzguMTEuNTAuNjciLCAidiI6ICIyIiwgInBzIjogIlVuaXRlZCBTdGF0ZXMiLCAicG9ydCI6IDMxMDA1LCAiaWQiOiAiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwgImFpZCI6ICI2NCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIvcGF0aC8xNzM5MDE3NDA3NDE4IiwgInRscyI6ICJ0bHMifQ==
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@139.64.164.15:5500#United+States
+vmess://eyJhZGQiOiAiMTQyLjQuMTA0LjMzIiwgInYiOiAiMiIsICJwcyI6ICJVbml0ZWQgU3RhdGVzIiwgInBvcnQiOiA1MjE0MywgImlkIjogIjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsICJhaWQiOiAiNjQiLCAibmV0IjogInRjcCIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAiIn0=
+vmess://eyJhZGQiOiAiNTcuMTI5LjI0LjE0MiIsICJ2IjogIjIiLCAicHMiOiAiR2VybWFueSIsICJwb3J0IjogNDQzLCAiaWQiOiAiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogImhhcnJpc2NpdHkuY29tIiwgInBhdGgiOiAiL2xpbmt2d3MiLCAidGxzIjogInRscyJ9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.47.255.22:990#Puerto+Rico
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.47.132:443#United+States
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@23.157.40.47:5003#United+States
+vmess://eyJhZGQiOiAiczIuZGItbGluazAyLnRvcCIsICJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJwb3J0IjogMjA4NiwgImlkIjogImY1MThjZmYwLWVlNDEtM2NkZS1hNDUzLTlmM2ZiY2NkN2ZmOCIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIxMDAtNTctMzUtMTQxLnMyLmRiLWxpbmswMi50b3AiLCAicGF0aCI6ICIvZGFiYWkuaW4xMDQuMjAuMTMwLjgiLCAidGxzIjogIiJ9
+trojan://telegram-id-directvpn@3.20.81.191:22222?sni=trojan.burgerip.co.uk#United+States
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.34.244.82:443#The+Netherlands
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@23.157.40.87:8080#United+States
+vmess://eyJhZGQiOiAic2cyLmNvd3Zwbi5vcmciLCAidiI6ICIyIiwgInBzIjogIlVuaXRlZCBTdGF0ZXMiLCAicG9ydCI6IDQ0MywgImlkIjogIjExYTgwNWYyLTQxYTctNGNkOC04NDA2LTA0NzBjM2NkZTBkMyIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJzZzJjZi5jb3d2cG4ub3JnIiwgInBhdGgiOiAiL2NjdHYxMy92bWVzc19zZzJjZiIsICJ0bHMiOiAidGxzIn0=
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080#The+Netherlands
+trojan://telegram-id-privatevpns@18.198.119.39:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#Germany
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@169.197.142.120:8888#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphRnZyT3lZZm56aU9UOHBwM2pXZUVu@77.83.246.74:443#Poland
+trojan://auto@185.146.173.158:443?security=tls&sni=esetsecuritylicense.bwnsmv.workers.dev&type=ws&host=esetsecuritylicense.bwnsmv.workers.dev&path=%2FTelegram%40proxy%5C_mtm%2F%3Fed%3D2560#Sweden
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.169:443#United+States
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.150.152.56:5601#United+States
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@51.77.53.200:8888#Poland
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.158.171.132:8080#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.189:8080#The+Netherlands
 ```
 <h5>ऊपरी नोड (भाग) का स्थायी सदस्यता पता: https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_hi</h5>
  <p>उपरोक्त सदस्यता पते के लिए QR कोड</p>
