@@ -35,23 +35,23 @@
  <h4>নোড তালিকা: (শুধুমাত্র কিছু নোড এখানে প্রদর্শিত হয়, সমস্ত নোড দেখতে অ্যাপটি ডাউনলোড করুন)</h4>
     
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPVEJrWW1Gaw==@95.164.68.37:8388#Germany
-vmess://eyJ2IjogIjIiLCAicHMiOiAiQXVzdHJhbGlhIiwgImFkZCI6ICIxNTQuMjYuMTUzLjE3MyIsICJwb3J0IjogMjg2ODYsICJpZCI6ICI2ZGY3ZDU2Zi00OTUzLTRhMTAtYmUyZS1hODhjYzlmOTRlNDgiLCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIm5vbmUifQ==
-trojan://3bcd9e33-8377-4b32-af33-217158577ff3@160.16.74.162:443?sni=kdlsupport.zendesk.com#Japan
-vmess://eyJhZGQiOiAiMTA0LjIxLjMuMjE5IiwgInYiOiAiMiIsICJwcyI6ICJVbml0ZWQgU3RhdGVzIiwgInBvcnQiOiA4NDQzLCAiaWQiOiAiODY0NTViZmMtZGQwMi00YTNiLTlmMDMtNzY2OGYzOTM3NWQ2IiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogIm92aHd1eGlhbi5wYWk1MDI4OC51ayIsICJwYXRoIjogIi8iLCAidGxzIjogInRscyJ9
-trojan://3774827088566296576@95.110.142.205:443?sni=destined-cub.treefrog761.one#Italy
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMSTRvYk9FSURMekRqZDd4WWxoaFRK@86.104.75.103:49264#Canada
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.47.132:443#United+States
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@51.77.53.200:8090#Poland
-ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@142.202.49.119:5499#United+States
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.113:5600#United+States
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@67.220.95.102:7002#United+States
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@23.157.40.113:8882#United+States
-vmess://eyJhZGQiOiAidXN3YXBjZG4uODk5OTk0Lnh5eiIsICJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJwb3J0IjogNDQzLCAiaWQiOiAiYTA2MDU1MjctMjhlNC00NDljLTgwZWUtNTY0MmNjMTZhOGFmIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIi9pbmRleCIsICJ0bHMiOiAidGxzIn0=
-trojan://3bcd9e33-8377-4b32-af33-217158577ff3@172.232.158.202:443?security=tls&sni=kdlsupport.zendesk.com&type=tcp&allowInsecure=1#Sweden
-vmess://eyJhZGQiOiAiMTUxLjEwMS4xOTQuMTMzIiwgInYiOiAiMiIsICJwcyI6ICJVbml0ZWQgU3RhdGVzIiwgInBvcnQiOiA4MCwgImlkIjogImNhMzg3NTk3LWQ3OWUtNDhjMi04OWE3LWUyZGM2NmE4OGE3MCIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJ0ZWxlZ3JhbS1pc3Z2cG4uaXIiLCAicGF0aCI6ICIvcmFjZXZwbj90ZWxlZ3JhbS1ASVNWdnBuLXRlbGVncmFtLUBJU1Z2cG4tdGVsZWdyYW0tQElTVnZwbi10ZWxlZ3JhbS1ASVNWdnBuIiwgInRscyI6ICIifQ==
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@51.77.53.200:8009#Poland
-vmess://eyJhZGQiOiAiNjIuMTQ2LjIzMy4xMTIiLCAidiI6ICIyIiwgInBzIjogIkdlcm1hbnkiLCAicG9ydCI6IDM2NzEyLCAiaWQiOiAiOTI2NmRmNDItMDgzMC00OGMyLTg1MDktNGM1N2IzMGZlMjlkIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIiLCAidGxzIjogIiJ9
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@54.36.174.181:8882#France
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@142.202.49.84:8090#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaVFV4T1RRNQ==@146.19.247.183:1443#Germany
+trojan://3bcd9e33-8377-4b32-af33-217158577ff3@103.120.14.39:443?sni=kdlsupport.zendesk.com#Philippines
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@23.157.40.89:8009#United+States
+trojan://3774827088566296576@flying-tuna.treefrog761.one:443?sni=flying-tuna.treefrog761.one#Singapore
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@23.157.40.113:5003#United+States
+vmess://eyJhZGQiOiAiOTUuMTc5LjE4Ni4xNjEiLCAidiI6ICIyIiwgInBzIjogIlRoZSBOZXRoZXJsYW5kcyIsICJwb3J0IjogNDQzLCAiaWQiOiAiZGZiYmM4ZGUtOGE0Zi00MDdkLTgwNjktNmRlMzhkODNjNGUxIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogImhkZnk0czJkMS5mb3JpcmFuLnRyYWRlIiwgInBhdGgiOiAiL1dnQ21wOHB4UldCdExUbFRMIiwgInRscyI6ICJ0bHMifQ==
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@23.157.40.113:7001#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1ZzRGdTc5U0VSRWRGR2x0MnNVeVQ0@ss1.ctsubvpn.ggff.net:2927#Poland
+trojan://amclubs2024@58.176.95.46:443?security=tls&sni=tr.amclub.us.kg&type=ws&host=tr.amclub.us.kg#Hong+Kong
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@23.157.40.115:8881#United+States
+trojan://65086520307764900@dynamic-shrew.shiner427.skin:443?sni=dynamic-shrew.shiner427.skin#Singapore
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZVE5qTkRZNQ==@185.234.64.35:8388#France
+trojan://amclubs2024@198.62.62.156:443?security=tls&sni=tr.amclub.us.kg&type=ws&host=tr.amclub.us.kg&path=%2F%3Fed%3D2560&fp=randomized#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWEdwMStpaGxmS2c4MjZI@64.176.85.73:1866#Singapore
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@23.157.40.89:4444#United+States
 ```
 <h5>উপরের নোডের স্থায়ী সদস্যতা ঠিকানা (অংশ): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_bn</h5>
  <p>উপরের সদস্যতা ঠিকানার জন্য QR কোড</p>
