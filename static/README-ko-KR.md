@@ -35,23 +35,24 @@
  <h4>노드 목록: (여기에는 일부 노드만 표시됩니다. 모든 노드를 보려면 앱을 다운로드하세요.)</h4>
     
 ```
-vmess://eyJhZGQiOiAiM2gtUGhpbGlwcGluZXMxLjA5dnBuLmNvbSIsICJ2IjogIjIiLCAicHMiOiAiUGhpbGlwcGluZXMiLCAicG9ydCI6IDgwLCAiaWQiOiAiM2ZkMzVmYTItYTBjNi00ZjBjLTgzMTAtYzNjMDNhMjY4MTU1IiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogIjNoLVBoaWxpcHBpbmVzMS4wOXZwbi5jb20iLCAicGF0aCI6ICIvdm1lc3MvIiwgInRscyI6ICIifQ==
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@217.182.198.219:5001#Germany
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@139.64.165.101:8090#United+States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.181:8080#Lithuania
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.158.171.151:8080#United+States
-trojan://3747000103274291200@80.240.112.167:443?security=tls&sni=accepted-jennet.adder289.quest&type=tcp#Germany
-ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@145.239.6.202:9101#United+Kingdom
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@142.202.48.105:5003#United+States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@103.104.247.72:8080#The+Netherlands
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@23.157.40.113:443#United+States
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@51.77.53.200:5000#Poland
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.10:8080#Lithuania
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.47.255.22:990#Puerto+Rico
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@67.220.95.102:5600#United+States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWEdwMStpaGxmS2c4MjZI@172.232.171.192:1866#United+States
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@23.157.40.89:6379#United+States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@203.23.128.33:990#Hong+Kong
+trojan://65086441068973800@grown-mackerel.shiner427.skin:443#Hungary
+trojan://936c6853-6bbf-4e24-8667-ec5b2fc275b3@172.67.73.163:443?security=tls&sni=md1.safecdn.site&type=ws&host=md1.safecdn.site&path=%2FChannel_vpnAndroid2-Channel_vpnAndroid2-Channel_vpnAndroid2-Channel_vpnAndroid2#United+States
+trojan://ypDt8RkT7J@89.187.181.172:43118#United+States
+trojan://auto@104.21.48.61:443?security=tls&sni=nameless-term-9c25.vpnconnect202020.workers.dev&type=ws&host=nameless-term-9c25.vpnconnect202020.workers.dev&path=%2F%3Fed%3D2560#United+States
+ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@67.220.95.102:5499#United+States
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@149.202.82.172:5500#France
+vmess://eyJhZGQiOiAiMTM3LjE3NS4yMS4xODAiLCAidiI6ICIyIiwgInBzIjogIlVuaXRlZCBTdGF0ZXMiLCAicG9ydCI6IDM4MDAxLCAiaWQiOiAiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwgImFpZCI6ICI2NCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIvcGF0aC8xNzM4NDMyMTEwNzY2IiwgInRscyI6ICJ0bHMifQ==
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@149.202.82.172:9101#France
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaakZtWVRZMA==@45.142.214.123:8388#Moldova
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@23.157.40.115:8091#United+States
+trojan://c1f4cf20-494f-407e-8181-629ab03e2139@104.21.69.44:443?security=tls&sni=se1.safecdn.site&type=ws&host=se1.safecdn.site&path=%2Fby-AB_841%20-%20%5B%20%40BugFreeNet%20%5D%20-%20%5B%20%40BugFreeNet%20%5D%20-%20%5B%20%40BugFreeNet%20%5D%20-%20%5B%20%40BugFreeNet%20%5D%20-%20%5B%20%40BugFreeNet%20%5D%20-%20%5B%20%40BugFreeNet%20%5D%20-%20%5B%20%40BugFreeNet%20%5D%20-%20%5B%20%40BugFreeNet%20%5D%20-%20%5B%20%40BugFreeNet%20%5D%20-%20%5B%20%40BugFreeNet%20%5D%20-%20%5B%20%40BugFreeNet%20%5D%20-%20%5B%20%40BugFreeNet%20%5D#United+States
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.204:443#United+States
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.121.43.248:8882#United+States
+vmess://eyJhZGQiOiAic2VvdWwtMWRkbnMuYWJvdXRhbmltZS5ldS5vcmciLCAidiI6ICIyIiwgInBzIjogIlNvdXRoIEtvcmVhIiwgInBvcnQiOiAyMzQ1MSwgImlkIjogIjNiNmNiZWY0LTExMWYtNDBlOS1hMDNkLThkZjdlZmM3MTk3YiIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJzZW91bC0xZGRucy5hYm91dGFuaW1lLmV1Lm9yZyIsICJwYXRoIjogIi8iLCAidGxzIjogIiJ9
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@23.157.40.113:8090#United+States
+vmess://eyJ2IjogIjIiLCAicHMiOiAiSXJhbiIsICJhZGQiOiAiMzEuNTguMTQyLjIyMSIsICJwb3J0IjogIjg5NjciLCAiYWlkIjogMCwgInNjeSI6ICJub25lIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogInRscyIsICJpZCI6ICI3ZDI5ZjFjYS02NDdiLTRiNGUtYjljOC02YmVhYjcxMzM1MzUiLCAic25pIjogIm5lby5uaWNtZS5tZSIsICJob3N0IjogIm5lby5uaWNtZS5tZSIsICJwYXRoIjogIi9CT05SeUtHaERFIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlfQ==
+trojan://telegram-id-privatevpns@13.42.152.164:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#United+Kingdom
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.89:8888#United+States
 ```
 <h5>상위 노드(일부)의 영구 구독 주소: https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ko-KR</h5>
  <p>위 구독 주소의 QR 코드</p>
