@@ -35,24 +35,22 @@
  <h4>Liste des nœuds: (Seuls certains nœuds sont affichés ici, veuillez télécharger l'application pour afficher tous les nœuds)</h4>
     
 ```
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.113:5601#%C3%89tats+Unis
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@54.36.174.181:6697#France
-trojan://3778399737045327872@44.241.114.76:443?sni=immortal-mite.adder289.quest#%C3%89tats+Unis
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@149.202.82.172:4444#France
-vmess://eyJhZGQiOiAiczUuY24tZGIudG9wIiwgInYiOiAiMiIsICJwcyI6ICJcdTAwYzl0YXRzIFVuaXMiLCAicG9ydCI6IDg4ODAsICJpZCI6ICI0YjM2NjI1Yy1iOWQ5LTNlYTYtYWVkNS04NmQ2MmM3MGUxNmQiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiMTAwLTI0MC0zMy01OC5zNS5jbi1kYi50b3AiLCAicGF0aCI6ICIvZGFiYWkuaW4xNzIuNjcuMzAuMzUiLCAidGxzIjogIiJ9
-trojan://Ng35283528@104.16.83.176:443?security=tls&sni=c2.validbv3528.eu.org&type=ws&host=c2.validbv3528.eu.org&path=%2F%3Fed%3D2560&fp=randomized#%C3%89tats+Unis
-vmess://eyJhZGQiOiAiMjAyLjc4LjE2Mi41IiwgImFpZCI6IDAsICJob3N0IjogInNhaGFuZC5zZXJ2ZW1pbmVjcmFmdC5uZXQiLCAiaWQiOiAiMTE4Mjg3ZDItZTk2OC00MmUxLTgwZDAtMTJmYTJmNWQzOGQ2IiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9AZm9yd2FyZHYycmF5IiwgInBvcnQiOiA0NDMsICJwcyI6ICJMdXhlbWJvdXJnIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIn0=
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.121.43.71:5600#%C3%89tats+Unis
+vmess://eyJhZGQiOiAiM2gtcG9sYW5kMS4wOXZwbi5jb20iLCAidiI6ICIyIiwgInBzIjogIlBvbG9nbmUiLCAicG9ydCI6IDg0NDMsICJpZCI6ICJhNDg1MDQ4MS05Yjk1LTQzMGYtOWIyZC0xOTJkMjQxMGI0ZjQiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiL3ZtZXNzLyIsICJ0bHMiOiAidGxzIn0=
+trojan://936c6853-6bbf-4e24-8667-ec5b2fc275b3@104.26.14.85:443?security=tls&type=ws&sni=md1.safecdn.site&path=/Channel_vpnAndroid2-Channel_vpnAndroid2-Channel_vpnAndroid2-Channel_vpnAndroid2&host=md1.safecdn.site#%C3%89tats+Unis
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@54.36.174.181:7307#France
+vmess://eyJhZGQiOiAiMzguMTQuMTA3LjIyNiIsICJ2IjogIjIiLCAicHMiOiAiXHUwMGM5dGF0cyBVbmlzIiwgInBvcnQiOiAzODAwMywgImlkIjogIjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsICJhaWQiOiAiNjQiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiL3BhdGgvMzQwNDM0MTMwMDMyIiwgInRscyI6ICJ0bHMifQ==
+trojan://3778399750324494336@content-shrimp.pigeon031.one:443?sni=content-shrimp.pigeon031.one#Luxembourg
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.121.43.71:8080#%C3%89tats+Unis
+trojan://3747000103274291200@living-adder.adder289.quest:443?sni=living-adder.adder289.quest#Irlande
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.158.171.141:8080#%C3%89tats+Unis
+trojan://telegram-id-privatevpns@51.21.52.239:22222?sni=trojan.burgerip.co.uk#Su%C3%A8de
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@51.77.53.200:8091#Pologne
+trojan://amclubs2024@198.62.62.4:443?security=tls&sni=tr.amclub.us.kg&type=ws&host=tr.amclub.us.kg&path=%2F%3Fed%3D2560&fp=randomized#%C3%89tats+Unis
+trojan://ypDt8RkT7J@89.187.181.172:43118#%C3%89tats+Unis
+trojan://telegram-id-privatevpns@3.124.210.97:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#Allemagne
 ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@149.202.82.172:6679#France
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@23.157.40.113:5004#%C3%89tats+Unis
-vmess://eyJhZGQiOiAiMTU4LjE4MC40OC4xOSIsICJ2IjogIjIiLCAicHMiOiAiQWxsZW1hZ25lIiwgInBvcnQiOiAyMzQ1MSwgImlkIjogIjczMThiYzE1LTRiZmYtNGUyMi1hYWMzLTRkOWY4NDk5MzBkYiIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJ1cy1uZXcwMy5kYWx1cXVhbi50b3AiLCAicGF0aCI6ICIvaXRkb2c/ZWQ9MjU2MCIsICJ0bHMiOiAiIn0=
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@67.220.95.102:8881#%C3%89tats+Unis
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.110.1.202:8090#%C3%89tats+Unis
-trojan://3778399737045327872@simple-toad.adder289.quest:443?sni=simple-toad.adder289.quest#Royaume-Uni
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOakJsWkRsaw==@89.221.224.166:8388#Islande
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.121.43.71:3306#%C3%89tats+Unis
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@217.182.198.219:8091#Allemagne
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDTHBoeUVNUVQ4bmJHOEVJbVgwQTJE@5.35.47.122:45635#Pays-Bas
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@51.77.53.200:7306#Pologne
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.121.43.71:3389#%C3%89tats+Unis
 ```
 <h5>L'adresse d'abonnement permanente du nœud supérieur (partie): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_fr</h5>
  <p>Code QR pour l'adresse d'abonnement ci-dessus</p>
