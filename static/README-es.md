@@ -35,23 +35,23 @@
  <h4>Lista de nodos: (aquí solo se muestran algunos nodos; descargue la aplicación para ver todos los nodos)</h4>
     
 ```
-trojan://auto@185.146.173.158:443?security=tls&sni=esetsecuritylicense.bwnsmv.workers.dev&type=ws&host=esetsecuritylicense.bwnsmv.workers.dev#Suecia
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@193.29.139.157:8080#Holanda
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.121.43.97:7306#Estados+Unidos
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@173.244.56.6:443#Estados+Unidos
-vmess://eyJhZGQiOiAiOTQuMTM2LjE4NC4xNTYiLCAidiI6ICIyIiwgInBzIjogIkFsZW1hbmlhIiwgInBvcnQiOiAzODg3MiwgImlkIjogIjIyMDczMmNjLTllNDMtNDQ1My04M2YxLWM5NDM1YmUyNWI1YiIsICJhaWQiOiAiMCIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiIiwgInRscyI6ICIifQ==
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.91.107.72:5500#Estados+Unidos
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@149.202.82.172:7001#Francia
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.158.171.132:8080#Estados+Unidos
-trojan://bpb-trojan@172.67.70.92:443?security=tls&sni=zamim340.ggff.net&type=ws&host=zamim340.ggff.net&path=%2Ftr%3Fed%3D2560#Estados+Unidos
-trojan://telegram-id-privatevpns@63.177.196.140:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#Alemania
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprdW45b0ZEN255c2txaEhzQ1hYeFg5@92.118.112.111:18622#Estados+Unidos
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@193.29.139.179:8080#Holanda
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@51.77.53.200:6379#Polonia
-trojan://3778399737045327872@patient-trout.adder289.quest:443?sni=patient-trout.adder289.quest#Corea+del+Sur
-trojan://3778399737045327872@43.200.228.143:443?sni=patient-trout.adder289.quest#Corea+del+Sur
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@154.90.37.139:990#Filipinas
-trojan://696cfe79@192.9.132.79:443?sni=sje.5216818.xyz#Estados+Unidos
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.126.239.250:990#Rusia
+trojan://3747000103274291200@54.238.57.168:443?security=tls&sni=sure-phoenix.treefrog761.one&type=tcp#Jap%C3%B3n
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMbVF4dEV5d1hLTnVlMUlqTlpXQ3Vh@213.176.66.228:24495#Emiratos+%C3%81rabes+Unidos
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPV1k0T0RCbQ==@at1.opensocks.site:8388#Austria
+vmess://eyJhZGQiOiAiczUuY24tZGIudG9wIiwgInYiOiAiMiIsICJwcyI6ICJFc3RhZG9zIFVuaWRvcyIsICJwb3J0IjogODg4MCwgImlkIjogIjRiMzY2MjVjLWI5ZDktM2VhNi1hZWQ1LTg2ZDYyYzcwZTE2ZCIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIxMDAtMjQwLTMzLTU4LnM1LmNuLWRiLnRvcCIsICJwYXRoIjogIi9kYWJhaS5pbjE3Mi42Ny4zMC4zNSIsICJ0bHMiOiAiIn0=
+vmess://eyJhZGQiOiAiY2YuMHNtLmNvbSIsICJ2IjogIjIiLCAicHMiOiAiRXN0YWRvcyBVbmlkb3MiLCAicG9ydCI6IDgwLCAiaWQiOiAiYjlhMzIwNmQtMjc4Yy00NjE0LWIzNTItZWVmNjMyZDFjOGQ1IiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogInVzLmNmeXlkcy5maWxlZ2Vhci1zZy5tZSIsICJwYXRoIjogIi9yb25nc2V2ZW4/ZWQ9MjA0OCIsICJ0bHMiOiAiIn0=
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.86.135.169:8080#Estados+Unidos
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@145.239.6.202:3306#Reino+Unido
+vmess://eyJhZGQiOiAiczEuZGItbGluazAyLnRvcCIsICJhaWQiOiAwLCAiaG9zdCI6ICIxMDAtMjIzLTcxLTE2Ni5zMS5kYi1saW5rMDIudG9wIiwgImlkIjogIjRiMzY2MjVjLWI5ZDktM2VhNi1hZWQ1LTg2ZDYyYzcwZTE2ZCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvZGFiYWkuaW4xNzIuNjQuOS4yMDgiLCAicG9ydCI6IDIwODYsICJwcyI6ICJFc3RhZG9zIFVuaWRvcyIsICJ0bHMiOiAiIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiJ9
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@51.77.53.200:3389#Polonia
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.114.114.225:8881#Estados+Unidos
+trojan://3747000103274291200@54.220.242.24:443?sni=steady-grackle.adder289.quest#Irlanda
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@145.239.6.202:2376#Reino+Unido
+trojan://65086441068973800@34.252.17.103:443?security=tls&sni=tops-lobster.shiner427.skin&type=tcp&allowInsecure=1#Irlanda
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.121.43.71:7002#Estados+Unidos
+trojan://696cfe79@sje.5216818.xyz:443?sni=sje.5216818.xyz#Estados+Unidos
+trojan://telegram-id-privatevpns@16.16.41.59:22222?sni=trojan.burgerip.co.uk#Suecia
 ```
 <h5>La dirección de suscripción permanente del nodo superior (parte): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_es</h5>
  <p>Código QR para la dirección de suscripción anterior</p>
