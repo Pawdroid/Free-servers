@@ -35,22 +35,22 @@
  <h4>Danh sách nút: (Chỉ hiển thị một số nút ở đây, vui lòng tải xuống ứng dụng để xem tất cả các nút)</h4>
     
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmRERtSDRRZWZtV3FNSjhVVVJackdo@86.104.74.243:14255#Canada
-trojan://bpb-trojan@104.26.5.60:443?security=tls&sni=zamim340.ggff.net&type=ws&host=zamim340.ggff.net&path=%2Ftr%3Fed%3D2560#United+States
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@149.202.82.172:8008#France
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.194:443#United+Kingdom
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.133:8080#The+Netherlands
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@217.182.198.219:5001#Germany
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.134.94.168:3389#United+States
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@54.36.174.181:8000#France
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWEdwMStpaGxmS2c4MjZI@185.177.229.245:1866#Germany
-vmess://eyJhZGQiOiAiMjAuNzguMTI3LjE0MSIsICJ2IjogIjIiLCAicHMiOiAiSmFwYW4iLCAicG9ydCI6IDU1MCwgImlkIjogIjllMTFlOTkyLWMzYTQtNDVmYi1iYjY3LTVmNGY0MmZjZDU1MSIsICJhaWQiOiAiMCIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiIiwgInRscyI6ICIifQ==
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaVEZrWg==@95.164.34.7:8388#T%C3%BCrkiye
-trojan://3747000103274291200@humble-rodent.treefrog761.one:443?sni=humble-rodent.treefrog761.one#South+Korea
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@54.36.174.181:8882#France
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.114.114.225:5500#United+States
-vmess://eyJhZGQiOiAiMjEzLjEzNi44My4yNDAiLCAidiI6ICIyIiwgInBzIjogIkdlcm1hbnkiLCAicG9ydCI6IDU5OTc0LCAiaWQiOiAiYmM5N2Y2NzQtYzU3OC00OTQwLTkyMzQtMGExZGE0NjA0MWIwIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIi92bWVzcy1hcmdvP2VkPTIwNDgiLCAidGxzIjogIiJ9
-trojan://telegram-id-privatevpns@34.254.37.7:22222?security=tls&sni=trojan.burgerip.co.uk#Ireland
+trojan://3747000103274291200@oriented-pug.adder289.quest:443?security=tls&sni=oriented-pug.adder289.quest#India
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.204:443#United+States
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@51.77.53.200:7307#Poland
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@54.36.174.181:8009#France
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@142.202.48.105:2376#United+States
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@51.68.206.229:2375#United+Kingdom
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.91.107.72:5500#United+States
+ss://YWVzLTI1Ni1nY206QU4zRlRBVjY1WFY5QlFLRw==@156.245.190.18:15009#Hong+Kong
+vmess://eyJhZGQiOiAiMzguMTA3LjIzNC41NyIsICJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJwb3J0IjogODAsICJpZCI6ICI1NjdmNGJlNS0xMmFiLTQyZTEtYjhkOS1kYjZmZDFmZGQzMWMiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiL3ZtZXNzLyIsICJ0bHMiOiAiIn0=
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.181:8080#Lithuania
+trojan://telegram-id-privatevpns@16.16.41.59:22222?security=tls&sni=trojan.burgerip.co.uk#Sweden
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@51.77.53.200:8080#Poland
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@145.239.6.202:2376#United+Kingdom
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@51.77.53.200:7001#Poland
+trojan://3747000103274291200@dynamic-tomcat.treefrog761.one:443?sni=dynamic-tomcat.treefrog761.one#Pakistan
+vmess://eyJhZGQiOiAiMTUwLjIzMC42MS4xMTAiLCAidiI6ICIyIiwgInBzIjogIkphcGFuIiwgInBvcnQiOiAyMzQ1MSwgImlkIjogIjVhOGE2M2IxLWQ3NzMtNDAzNy04ZmJjLTgxYTcyYWZiMjY1YSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIxLW9zYWthLXAuYWJvdXRhbmltZS5ldS5vcmciLCAicGF0aCI6ICIvIiwgInRscyI6ICIifQ==
 ```
 <h5>Địa chỉ đăng ký vĩnh viễn của nút trên (một phần): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_vi</h5>
  <p>Mã QR cho địa chỉ đăng ký ở trên</p>

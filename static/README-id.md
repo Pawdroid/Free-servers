@@ -35,22 +35,22 @@
  <h4>Daftar node: (Hanya beberapa node yang ditampilkan di sini, silakan unduh aplikasi untuk melihat semua node)</h4>
     
 ```
-vmess://eyJhZGQiOiAiMzguMTEuNDkuNTAiLCAidiI6ICIyIiwgInBzIjogIlVuaXRlZCBTdGF0ZXMiLCAicG9ydCI6IDM4MDAzLCAiaWQiOiAiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwgImFpZCI6ICI2NCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIvcGF0aC8xNzM4NDMyMTEwNzY2IiwgInRscyI6ICJ0bHMifQ==
-trojan://telegram-id-privatevpns@16.16.41.59:22222?security=tls&sni=trojan.burgerip.co.uk#Sweden
-vmess://eyJhZGQiOiAiMTcyLjY3LjE1My4xNTYiLCAidiI6ICIyIiwgInBzIjogIlVuaXRlZCBTdGF0ZXMiLCAicG9ydCI6IDg0NDMsICJpZCI6ICJjMzEzNjA2Zi05OGMyLTRkN2ItYmE3NC00OGI5NGY2MWIxMWQiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAidXN3dXhpYW4ucGFpNTAyODgudWsiLCAicGF0aCI6ICIvIiwgInRscyI6ICJ0bHMifQ==
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@51.68.206.229:8080#United+Kingdom
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@54.36.174.181:8009#France
-ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@217.182.198.219:9102#Germany
-trojan://3747000103274291200@185.67.125.160:443?sni=star-bluegill.adder289.quest#India
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@64.74.163.130:990#United+States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.158.171.151:8080#United+States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWEdwMStpaGxmS2c4MjZI@172.233.128.126:1866#United+States
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@217.182.198.219:8009#Germany
-trojan://3747000103274291200@54.238.57.168:443?security=tls&sni=sure-phoenix.treefrog761.one&type=tcp#Japan
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@145.239.6.202:8090#United+Kingdom
-trojan://3774827088566296576@destined-cub.treefrog761.one:443?sni=destined-cub.treefrog761.one#Italy
-trojan://3778399737045327872@concise-quail.adder289.quest:443#Japan
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@149.202.82.172:443#France
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPVFZsTXpjeQ==@185.231.205.179:8388#France
+vmess://eyJhZGQiOiAiczUuZGItbGluazAxLnRvcCIsICJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJwb3J0IjogODAsICJpZCI6ICI0YjM2NjI1Yy1iOWQ5LTNlYTYtYWVkNS04NmQ2MmM3MGUxNmQiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiMTAwLTE2LTIwLTUwLnM1LmRiLWxpbmswMS50b3AiLCAicGF0aCI6ICIvZGFiYWkuaW4xMDQuMjAuMS4xODYiLCAidGxzIjogIiJ9
+vmess://eyJhZGQiOiAiMTQyLjQuMTA4LjEzOSIsICJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJwb3J0IjogMzgwMDcsICJpZCI6ICI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCAiYWlkIjogIjY0IiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIi9wYXRoLzAyMTEwMTI1MjQxNCIsICJ0bHMiOiAidGxzIn0=
+trojan://telegram-id-privatevpns@34.254.37.7:22222?sni=trojan.burgerip.co.uk#Ireland
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.193:443#United+Kingdom
+trojan://3747000103274291200@dynamic-liger.adder289.quest:443?sni=dynamic-liger.adder289.quest#Canada
+trojan://3778399737045327872@quality-albacore.adder289.quest:443?sni=quality-albacore.adder289.quest#India
+trojan://telegram-id-directvpn@3.147.138.127:22222?sni=trojan.burgerip.co.uk#United+States
+ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@139.64.165.101:5498#United+States
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@connectwithemployers.online:443?security=tls#Singapore
+trojan://telegram-id-privatevpns@13.50.150.183:22222?sni=trojan.burgerip.co.uk#Sweden
+vmess://eyJhZGQiOiAiMTA0LjE3LjIyMS4yNDgiLCAidiI6ICIyIiwgInBzIjogIlVuaXRlZCBTdGF0ZXMiLCAicG9ydCI6IDIwOTUsICJpZCI6ICI0YjM2NjI1Yy1iOWQ5LTNlYTYtYWVkNS04NmQ2MmM3MGUxNmQiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiMTAwLTIwNi0xMDQtMjE4LnMxLmRiLWxpbmswMS50b3AiLCAicGF0aCI6ICIvZGFiYWkuaW4xNzIuNjcuOTMuMTc0IiwgInRscyI6ICIifQ==
+vmess://eyJhZGQiOiAiaGtuYnlpdmZmZmouc2l0ZSIsICJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJwb3J0IjogNDQzLCAiaWQiOiAiZDEzZmMyZjUtM2UwNS00Nzk1LTgxZWItNDQxNDNhMDllNTUyIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogImhrbmJ5aXZmZmZqLnNpdGUiLCAicGF0aCI6ICIvcmJxcXZ3cyIsICJ0bHMiOiAidGxzIn0=
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@51.77.53.200:8009#Poland
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@51.77.53.200:2376#Poland
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@38.114.114.225:9101#United+States
 ```
 <h5>Alamat langganan permanen node atas (bagian): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_id</h5>
  <p>Kode QR untuk alamat berlangganan di atas</p>
