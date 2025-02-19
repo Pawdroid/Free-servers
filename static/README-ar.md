@@ -35,23 +35,22 @@
  <h4>قائمة العقد: (يتم عرض بعض العقد فقط هنا، يرجى تنزيل التطبيق لعرض جميع العقد)</h4>
     
 ```
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.180:443#United+Kingdom
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.47.255.22:990#Puerto+Rico
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@ns3849026.ip-217-182-198.eu:445#Germany
-trojan://3774827088566296576@13.213.142.42:443?sni=exotic-bengal.treefrog761.one#Singapore
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOakJsWkRsaw==@89.221.224.166:8388#Iceland
-trojan://s42%26umY%28K5n*csP4@104.21.48.1:8443?security=tls&sni=JOInMAHDiseRVer-EEu.pAGEs.dEv&type=ws&host=joinmahdiserver-eeu.pages.dev&path=%2FtrOagy9SuM2cDpqUqO%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#United+States
-trojan://bpb-trojan@104.19.223.79:443?security=tls&sni=qq.vvii.us.kg&type=ws&host=qq.vvii.us.kg&path=%2Ftr%3Fed%3D2560&alpn=h3#United+States
-trojan://3747000103274291200@43.202.142.243:443?sni=humble-rodent.treefrog761.one#South+Korea
-vmess://eyJhZGQiOiAiMTA0LjIxLjYuMjAxIiwgInYiOiAiMiIsICJwcyI6ICJVbml0ZWQgU3RhdGVzIiwgInBvcnQiOiA0NDMsICJpZCI6ICJkMTNmYzJmNS0zZTA1LTQ3OTUtODFlYi00NDE0M2EwOWU1NTIiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiaGtuYnlpdmZmZmouc2l0ZSIsICJwYXRoIjogIi9yYnFxdndzIiwgInRscyI6ICJ0bHMifQ==
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNSkg3VEI0c3pDam1rQjF0blV0NkNh@178.208.78.170:23822#The+Netherlands
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprN3hXNk41U0FWcGdlcWkxd2Q3czd5eEQ3UzhQeGFlaFVNNVc4YXBIclFpM3BTb0RSWFNjb0FQazhTVmE0bUtidlJqcmdFTlUzZFVnelRncDlUM3JyWGluYURlNENYWWs=@mx2.drawnrisha.one:55988#United+Kingdom
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@149.202.82.172:3389#France
-vmess://eyJhZGQiOiAiczEuY24tZGIudG9wIiwgImFpZCI6IDAsICJob3N0IjogIjEwMC0xNTAtNTEtOTkuczEuY24tZGIudG9wIiwgImlkIjogIjRiMzY2MjVjLWI5ZDktM2VhNi1hZWQ1LTg2ZDYyYzcwZTE2ZCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvZGFiYWkuaW4xNzIuNjQuMjcuNzMiLCAicG9ydCI6IDIwODIsICJwcyI6ICJVbml0ZWQgU3RhdGVzIiwgInRscyI6ICIiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIn0=
-vmess://eyJhZGQiOiAiMjAyLjc4LjE2Mi41IiwgImFpZCI6IDAsICJob3N0IjogImlyc29mdC5zeXRlcy5uZXQiLCAiaWQiOiAiMmZmOTdjNmQtODU1Ny00MmE0LWI0M2YtMTljNzdjNTk1OWVhIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9AZm9yd2FyZHYycmF5IiwgInBvcnQiOiA0NDMsICJwcyI6ICJMdXhlbWJvdXJnIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIn0=
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.134.94.168:3389#United+States
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@67.220.95.102:8080#United+States
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.86.135.169:5500#United+States
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@217.182.198.219:443#Germany
+vmess://eyJhZGQiOiAiMzguMTQuMTA3LjIyOCIsICJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJwb3J0IjogMzgwMDMsICJpZCI6ICI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCAiYWlkIjogIjY0IiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogInd3dy4yMzE3OTc1My54eXoiLCAicGF0aCI6ICIvcGF0aC8xODE3MjEyNzIxMTQiLCAidGxzIjogInRscyJ9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@154.205.159.100:990#Seychelles
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4amtUMUZHRW93emp0OTNjZ1pna0JL@150.241.101.222:25543#Spain
+trojan://3747000103274291200@dynamic-tomcat.treefrog761.one:443?sni=dynamic-tomcat.treefrog761.one#Pakistan
+vmess://eyJhZGQiOiAiMTU2LjI0Ni45NC45NCIsICJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJwb3J0IjogNDMzLCAiaWQiOiAiYmViZGI1YzEtZTBjYi00MzE5LWI2MTQtYTA1ODFmZGQzMTU4IiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIi8iLCAidGxzIjogIiJ9
+trojan://3747000103274291200@62.112.221.57:443?sni=integral-malamute.adder289.quest#Hungary
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@54.36.174.181:7306#France
+trojan://3747000103274291200@54.238.57.168:443?security=tls&sni=sure-phoenix.treefrog761.one&type=tcp#Japan
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.121.43.97:7306#United+States
+vmess://eyJhZGQiOiAiZXhwcmVzc3R2LklUTjI0LklSIiwgInYiOiAiMiIsICJwcyI6ICJVbml0ZWQgU3RhdGVzIiwgInBvcnQiOiA4NDQzLCAiaWQiOiAiMDQ1YzlkMGItZGRjMy00MDcyLThmOWYtZTIwNTU1YWQ1NGUyIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogImV4cHJlc3N0di5JVE4yNC5JUiIsICJwYXRoIjogIi8/ZWQ9MjA0OCIsICJ0bHMiOiAidGxzIn0=
+trojan://telegram-id-privatevpns@51.20.13.202:22222?security=tls&sni=trojan.burgerip.co.uk#Sweden
+trojan://3747000103274291200@open-maggot.pigeon031.one:443?sni=open-maggot.pigeon031.one#Japan
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.80:443#United+Kingdom
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZVE5qTkRZNQ==@185.234.64.35:8388#France
+vmess://eyJhZGQiOiAiMTQyLjQuMTA4LjEzNSIsICJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJwb3J0IjogMzgwMDcsICJpZCI6ICI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCAiYWlkIjogIjY0IiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIi9wYXRoLzE3MjA5NjM1NTk3OTYiLCAidGxzIjogInRscyJ9
 ```
 <h5>عنوان الاشتراك الدائم للعقدة العليا (جزء): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ar</h5>
  <p>رمز الاستجابة السريعة لعنوان الاشتراك أعلاه</p>
