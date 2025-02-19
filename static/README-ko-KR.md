@@ -35,22 +35,22 @@
  <h4>노드 목록: (여기에는 일부 노드만 표시됩니다. 모든 노드를 보려면 앱을 다운로드하세요.)</h4>
     
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@193.29.139.179:8080#The+Netherlands
-trojan://auto@104.21.35.43:443?security=tls&type=ws&sni=esetsecuritylicense3.wawafec355.workers.dev&path=/&host=esetsecuritylicense3.wawafec355.workers.dev#United+States
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@149.202.82.172:6697#France
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@173.244.56.6:443#United+States
-vmess://eyJhZGQiOiAidHR0eGJtc20uZmFzazUxMS5jZmQiLCAidiI6ICIyIiwgInBzIjogIlRhaXdhbiIsICJwb3J0IjogMjU3NzQsICJpZCI6ICI1MGIzZmIxYi01NTkxLTQ3NDMtOGU5Yi0wNjAxYzVkZmU4NmQiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiLz9lZD0xMDI0IiwgInRscyI6ICIifQ==
-trojan://telegram-id-privatevpns@16.16.230.199:22222#Sweden
-vmess://eyJhZGQiOiAiNjIuMTQ2LjIzMy4xMTUiLCAidiI6ICIyIiwgInBzIjogIkdlcm1hbnkiLCAicG9ydCI6IDM4MzI0LCAiaWQiOiAiZjg2M2VmOTktNWVmMC00MzIxLWFhYWMtYTQ3NmE1ZThjM2ZiIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJuZXh0LWhpcHBvLnRyZWVmcm9nNzYxLm9uZSIsICJwYXRoIjogIiIsICJ0bHMiOiAiIn0=
-vmess://eyJhZGQiOiAiczEuY24tZGIudG9wIiwgInYiOiAiMiIsICJwcyI6ICJVbml0ZWQgU3RhdGVzIiwgInBvcnQiOiAyMDg2LCAiaWQiOiAiNGIzNjYyNWMtYjlkOS0zZWE2LWFlZDUtODZkNjJjNzBlMTZkIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogIjEwMC00Ny0xNTQtOS5zMS5jbi1kYi50b3AiLCAicGF0aCI6ICIvZGFiYWkuaW4xMDQuMjQuMTgxLjE4OSIsICJ0bHMiOiAiIn0=
-trojan://telegram-id-privatevpns@18.153.127.70:22222?security=tls&type=tcp&sni=trojan.burgerip.co.uk#Germany
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.79:443#United+Kingdom
-vmess://eyJhZGQiOiAiNTcuMTI5LjI0LjE0MSIsICJ2IjogIjIiLCAicHMiOiAiR2VybWFueSIsICJwb3J0IjogNDQzLCAiaWQiOiAiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIi9saW5rdndzIiwgInRscyI6ICJ0bHMifQ==
-trojan://bpb-trojan@104.21.75.193:443?security=tls&sni=bpb-hd.aaronchin.xyz&type=ws&host=bpb-hd.aaronchin.xyz&path=%2Ftr%3Fed%3D2560#United+States
-vmess://eyJhZGQiOiAiMTkyLjc0LjIzOS4yMTUiLCAidiI6ICIyIiwgInBzIjogIlVuaXRlZCBTdGF0ZXMiLCAicG9ydCI6IDMxMDAzLCAiaWQiOiAiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwgImFpZCI6ICI2NCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIvcGF0aC8xNzM5MDE3NDA3NDE4IiwgInRscyI6ICJ0bHMifQ==
-vmess://eyJhZGQiOiAidHR0eGJtc20uZmFzazUxMS5jZmQiLCAidiI6ICIyIiwgInBzIjogIlRhaXdhbiIsICJwb3J0IjogMjU3ODAsICJpZCI6ICI1MGIzZmIxYi01NTkxLTQ3NDMtOGU5Yi0wNjAxYzVkZmU4NmQiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiLz9lZD0xMDI0IiwgInRscyI6ICIifQ==
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@217.182.198.219:445#Germany
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@54.36.174.181:7001#France
+vmess://eyJhZGQiOiAiZXhwcmVzc3R2LklUTjI0LklSIiwgInYiOiAiMiIsICJwcyI6ICJVbml0ZWQgU3RhdGVzIiwgInBvcnQiOiA4NDQzLCAiaWQiOiAiY2NiY2ViOWEtMGI1Ni00MWQzLWIxNzUtODMzMzhkNmRlZWM5IiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogImV4cHJlc3N0di5JVE4yNC5JUiIsICJwYXRoIjogIi8/ZWQ9MjA0OCIsICJ0bHMiOiAidGxzIn0=
+ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@217.182.198.219:6379#Germany
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@139.64.165.101:8008#United+States
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@139.64.165.101:8119#United+States
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@149.202.82.172:7002#France
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@217.182.198.219:8090#Germany
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@142.202.48.105:2376#United+States
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@67.220.95.102:8118#United+States
+trojan://trojan@104.17.148.22:2053?security=tls&sni=ana-service-anaservice--anaservice-antenircomorg.fmwlmluu.workers.dev&type=ws&host=ana-service-anaservice--anaservice-antenircomorg.fmwlmluu.workers.dev#United+States
 vmess://eyJhZGQiOiAiaXJ2aWRlby5jZmQiLCAidiI6ICIyIiwgInBzIjogIkZyYW5jZSIsICJwb3J0IjogNDQzLCAiaWQiOiAiZTUzN2YyZjUtMmEwYy00ZjU5LTkyYzktODMyY2E2NDMzYmYzIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogImlydmlkZW8uY2ZkIiwgInBhdGgiOiAiL2xpbmt3cyIsICJ0bHMiOiAidGxzIn0=
+trojan://3782591447421952000@patient-ghost.treefrog761.one:443?sni=patient-ghost.treefrog761.one#Germany
+trojan://s42%26umY%28K5n*csP4@104.21.64.1:8443?security=tls&sni=JOInMAHDiseRVer-EEu.pAGEs.dEv&type=ws&host=joinmahdiserver-eeu.pages.dev&path=%2FtrOagy9SuM2cDpqUqO%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#United+States
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@38.121.43.71:6697#United+States
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.107.226.238:2375#United+States
+vmess://eyJhZGQiOiAiNTEuNzcuMjAuMTM3IiwgImFpZCI6IDAsICJob3N0IjogInRpbGViYW5pLmNvbSIsICJpZCI6ICIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL2xpbmt2d3MiLCAicG9ydCI6IDQ0MywgInBzIjogIlBvbGFuZCIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiJ9
 ```
 <h5>상위 노드(일부)의 영구 구독 주소: https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ko-KR</h5>
  <p>위 구독 주소의 QR 코드</p>
