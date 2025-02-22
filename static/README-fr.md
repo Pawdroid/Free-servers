@@ -35,22 +35,22 @@
  <h4>Liste des nœuds: (Seuls certains nœuds sont affichés ici, veuillez télécharger l'application pour afficher tous les nœuds)</h4>
     
 ```
-trojan://installshield@38.180.249.177:8443#Pays-Bas
-vmess://eyJhZGQiOiAiMTA0LjIxLjE2LjEwMCIsICJ2IjogIjIiLCAicHMiOiAiXHUwMGM5dGF0cyBVbmlzIiwgInBvcnQiOiAyMDUzLCAiaWQiOiAiZWI4MTcxNjgtNWY4My00ZmJhLWFmOTktODgxZWMwZTU0N2IxIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogInF1cmFudHYuaXJpYnF1cmFuLmNvbSIsICJwYXRoIjogIi8iLCAidGxzIjogInRscyJ9
-vmess://eyJhZGQiOiAiMjMuMTYyLjIwMC4yMjciLCAiYWlkIjogMCwgImhvc3QiOiAiIiwgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvbGlua3Z3cyIsICJwb3J0IjogNDQzLCAicHMiOiAiQ2FuYWRhIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIn0=
-trojan://c443be95-725d-4da3-a60f-d35af5bfbff8@sg2.pptv-tv.store:17712#Singapour
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.86.135.211:8080#%C3%89tats+Unis
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.79:443#Royaume-Uni
-vmess://eyJhZGQiOiAiODguMTk4LjE3Mi4yNSIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiZTdlYjQ3MmUtZGM4My00OWQ1LWJlNWUtODJhNzlhMjEyNGVlIiwgIm5ldCI6ICJncnBjIiwgInBhdGgiOiAiSmJpQjhWNjZWNzhIZjViaXZmc2lzOHZIIiwgInBvcnQiOiAiMTUxNDUiLCAicHMiOiAiQWxsZW1hZ25lIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogImd1biIsICJ2IjogIjIifQ==
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@142.202.49.84:8118#%C3%89tats+Unis
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@51.77.53.200:2376#Pologne
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@149.202.82.172:8090#France
-ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@67.220.95.102:9101#%C3%89tats+Unis
-trojan://c443be95-725d-4da3-a60f-d35af5bfbff8@de1.pptv-tv.store:17755#Allemagne
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.217:8080#Pays-Bas
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@169.197.142.187:5601#%C3%89tats+Unis
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.121.43.97:8881#%C3%89tats+Unis
-trojan://3774827088566296576@13.213.142.42:443?security=tls&type=tcp&sni=exotic-bengal.treefrog761.one#Singapour
+trojan://3747000103274291200@185.67.125.177:443?sni=quality-albacore.adder289.quest#Inde
+vmess://eyJhZGQiOiAiZnJhbmtmdXJ0LmZhZm9yZXguZXUub3JnIiwgInYiOiAiMiIsICJwcyI6ICJBbGxlbWFnbmUiLCAicG9ydCI6IDIzNDUxLCAiaWQiOiAiMTRjNjhhNzMtODkzNS00NTYxLThmOTgtMmZhY2MzZWRkNjhiIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogInVzLW5ldzAzLmRhbHVxdWFuLnRvcCIsICJwYXRoIjogIi9pdGRvZz9lZD0yNTYwIiwgInRscyI6ICIifQ==
+vmess://eyJhZGQiOiAiM2gtcG9sYW5kMS4wOXZwbi5jb20iLCAidiI6ICIyIiwgInBzIjogIlBvbG9nbmUiLCAicG9ydCI6IDgwLCAiaWQiOiAiMTBlMmZmNjUtMGUyMC00NjJkLWEyODItMTY0ZTQ4Yjk1NWE5IiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIi92bWVzcy8iLCAidGxzIjogIiJ9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@147.78.3.93:990#Ukraine
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.34.244.72:443#Pays-Bas
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@54.36.174.181:5001#France
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@54.36.174.181:8080#France
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@162.251.63.124:8881#%C3%89tats+Unis
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@139.64.165.101:8119#%C3%89tats+Unis
+trojan://3747000103274291200@probable-drum.treefrog761.one:443#Singapour
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@51.77.53.200:8119#Pologne
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.107.226.238:2376#%C3%89tats+Unis
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@67.220.95.102:8080#%C3%89tats+Unis
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@149.202.82.172:5500#France
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.121.43.71:5600#%C3%89tats+Unis
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@51.77.53.200:8888#Pologne
 ```
 <h5>L'adresse d'abonnement permanente du nœud supérieur (partie): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_fr</h5>
  <p>Code QR pour l'adresse d'abonnement ci-dessus</p>
