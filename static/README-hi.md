@@ -35,22 +35,22 @@
  <h4>नोड सूची: (यहां केवल कुछ नोड्स प्रदर्शित हैं, कृपया सभी नोड्स देखने के लिए ऐप डाउनलोड करें)</h4>
     
 ```
-trojan://amclubs2024@154.83.2.200:443?security=tls&type=ws&sni=tr.amclub.us.kg&path=/?ed=2560&host=tr.amclub.us.kg#Seychelles
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@23.150.152.41:8119#United+States
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@145.239.6.202:2376#United+Kingdom
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@51.77.53.200:8881#Poland
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@51.68.206.229:8118#United+Kingdom
+trojan://c443be95-725d-4da3-a60f-d35af5bfbff8@es1.pptv-tv.store:17730#Spain
+trojan://3747000103274291200@43.202.142.243:443?sni=humble-rodent.treefrog761.one#South+Korea
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.121.43.71:8882#United+States
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@67.220.95.102:7307#United+States
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.78:443#United+Kingdom
 vmess://eyJhZGQiOiAiMTA5LjEyMy4yMzIuNzQiLCAidiI6ICIyIiwgInBzIjogIlNpbmdhcG9yZSIsICJwb3J0IjogNTkwMzIsICJpZCI6ICI5NmFiN2UxZi1iZjBkLTQ1Y2QtOGViYy1jOGJlMmY4ZDQzY2QiLCAiYWlkIjogIjAiLCAibmV0IjogInRjcCIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAiIn0=
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@149.202.82.172:8000#France
-vmess://eyJhZGQiOiAiMjMuMTY2Ljg4LjE4MyIsICJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJwb3J0IjogMjIzMjQsICJpZCI6ICIwNDYyMWJhZS1hYjM2LTExZWMtYjkwOS0wMjQyYWMxMjAwMDIiLCAiYWlkIjogIjAiLCAibmV0IjogInRjcCIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAiIn0=
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@67.220.95.102:5000#United+States
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@67.220.95.102:6379#United+States
-ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@69.50.95.218:5499#United+States
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.193:443#United+Kingdom
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.198:443#United+Kingdom
-vmess://eyJ2IjogIjIiLCAicHMiOiAiR2VybWFueSIsICJhZGQiOiAiOTQuMTM2LjE4NC4xNTYiLCAicG9ydCI6ICIzODg3MiIsICJpZCI6ICIyMjA3MzJjYy05ZTQzLTQ0NTMtODNmMS1jOTQzNWJlMjViNWIiLCAiYWlkIjogIjAiLCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIiLCAidGxzIjogIiIsICJzbmkiOiAiIiwgInRlc3RfbmFtZSI6ICI2MyJ9
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@23.150.152.41:2375#United+States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDTHBoeUVNUVQ4bmJHOEVJbVgwQTJE@5.35.47.122:45635#The+Netherlands
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@23.150.152.16:443#United+States
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@149.202.82.172:8881#France
-ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@51.77.53.200:9101#Poland
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3VWNvWXcxU0FWbnhoS2IxUEdtcWU2OXVDSmpnZ0pvRG9nWGZQQ21EQ2t2aG5NMW1KYkV4bnhKZXRoUEJFaUM0OWRzVWR1clJCQ245Z2gyVTIzMXZZQXlZUFN3dFlBYXc=@185.5.38.111:55988#United+Kingdom
+vmess://eyJhZGQiOiAiNzcuODMuMTQxLjE3MSIsICJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJwb3J0IjogNDQzLCAiaWQiOiAiMzUzNzkyMTktNjUzNS00ZjJlLWE0ZmUtM2U0NGY2MWUwZWVlIiwgImFpZCI6ICIzMiIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJ2Yy5mbHkuZGV2IiwgInBhdGgiOiAiL3ZjIiwgInRscyI6ICJ0bHMifQ==
+trojan://Aimer@108.165.152.202:2083?security=tls&sni=agepy.ambercc.filegear-sg.me&type=ws&host=agepy.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560&alpn=http%2F1.1#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmRERtSDRRZWZtV3FNSjhVVVJackdo@86.104.74.243:14255#Canada
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.47.129:443#United+States
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@54.36.174.181:2375#France
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@217.182.198.219:8008#Germany
 ```
 <h5>ऊपरी नोड (भाग) का स्थायी सदस्यता पता: https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_hi</h5>
  <p>उपरोक्त सदस्यता पते के लिए QR कोड</p>

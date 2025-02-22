@@ -35,22 +35,22 @@
  <h4>Knotenliste: (Hier werden nur einige Knoten angezeigt. Bitte laden Sie die App herunter, um alle Knoten anzuzeigen.)</h4>
     
 ```
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.121.43.97:8080#USA
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.121.43.71:2375#USA
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@145.239.6.202:5000#UK
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MmJiMzA3Mi03ZWZkLTRkNjctOWJlYi0yY2Q5YzE4ZTY5ZjQ=@194.105.89.58:40003#UK
-trojan://3747000103274291200@38.60.217.170:443?sni=dynamic-tomcat.treefrog761.one#Pakistan
-vmess://eyJhZGQiOiAiMTcyLjExMS4zNi4xMDgiLCAidiI6ICIyIiwgInBzIjogIlVTQSIsICJwb3J0IjogNDQzLCAiaWQiOiAiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogIndybWVsbXd4bGYuZ2t0ZXZscnF6bndxcW96eS5mYWJwZnM2Nmdpem1ub2poY3ZxeHdsLmt5dHJjZnpxbGE4N2d2Z3ZzNmM3a2pucnVidWguY2MiLCAicGF0aCI6ICIvbGlua3Z3cyIsICJ0bHMiOiAidGxzIn0=
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.121.43.71:2376#USA
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@51.77.53.200:5004#Polen
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.121.43.71:3389#USA
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@69.50.95.218:5001#USA
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@169.197.142.187:9102#USA
+trojan://Aimer@46.254.93.134:2087?security=tls&sni=agept.ambercc.filegear-sg.me&type=ws&host=agept.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560&alpn=http%2F1.1#Russland
+ss://YWVzLTI1Ni1nY206aVVCMDkyM1JCQQ==@154.3.8.151:30067#USA
+vmess://eyJhZGQiOiAiMTk0LjIzMy43Mi4yMjgiLCAiYWlkIjogIjAiLCAiaG9zdCI6ICIiLCAiaWQiOiAiMTY1MDkyNjItZGJlMi00M2JhLTk5Y2UtMDc5MTNkMmExOGI0IiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIiLCAicG9ydCI6ICIyNzU3NSIsICJwcyI6ICJTaW5nYXB1ciIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZX0=
+vmess://eyJhZGQiOiAiMzguMTQuMTA3LjIyNSIsICJhaWQiOiAiNjQiLCAiaG9zdCI6ICJ3d3cuMjMxNzk3NTMueHl6IiwgImlkIjogIjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvcGF0aC8xODE3MjEyNzIxMTQiLCAicG9ydCI6ICIzODAwMyIsICJwcyI6ICJVU0EiLCAic2N5IjogImF1dG8iLCAic25pIjogInd3dy4yMzE3OTc1My54eXoiLCAidGxzIjogInRscyIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@149.202.82.172:8118#Frankreich
-trojan://3747000103274291200@18.139.99.11:443?sni=probable-drum.treefrog761.one#Singapur
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@147.78.3.93:990#Ukraine
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.251:8080#Niederlande
-trojan://3782591447421952000@52.57.173.145:443?sni=patient-ghost.treefrog761.one#Deutschland
-trojan://Aimer@46.254.93.243:8443?security=tls&sni=agept.ambercc.filegear-sg.me&type=ws&host=agept.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560&alpn=http%2F1.1#Russland
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@217.182.198.219:8008#Deutschland
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@54.36.174.181:7002#Frankreich
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MmJiMzA3Mi03ZWZkLTRkNjctOWJlYi0yY2Q5YzE4ZTY5ZjQ=@idn.fastsoonlink.com:40033#Indonesien
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MmJiMzA3Mi03ZWZkLTRkNjctOWJlYi0yY2Q5YzE4ZTY5ZjQ=@89.213.140.30:40034#Deutschland
+trojan://3747000103274291200@87.120.204.100:443?security=tls&sni=crucial-moccasin.adder289.quest&type=tcp#Luxemburg
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyYWZiYzk3NDAwY2E3MWM4ZjMzMDZmOTg0M2E2ZTFjMg==@2.58.241.42:443#Taiwan
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@23.150.152.41:5003#USA
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@54.36.174.181:2376#Frankreich
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@142.4.216.225:80#Kanada
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.240:443#USA
 ```
 <h5>Die permanente Abonnementadresse des oberen Knotens (Teil): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_de</h5>
  <p>QR-Code für die Abonnementadresse oben</p>

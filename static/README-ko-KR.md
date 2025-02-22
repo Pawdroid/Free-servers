@@ -35,22 +35,22 @@
  <h4>노드 목록: (여기에는 일부 노드만 표시됩니다. 모든 노드를 보려면 앱을 다운로드하세요.)</h4>
     
 ```
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.121.43.97:5601#United+States
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@149.202.82.172:4444#France
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.121.43.71:4444#United+States
-trojan://3747000103274291200@better-crappie.treefrog761.one:443#Russia
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@217.182.198.219:5001#Germany
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@51.77.53.200:445#Poland
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@51.77.53.200:7001#Poland
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.193:443#United+Kingdom
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@67.220.95.102:8008#United+States
-trojan://Aimer@92.243.74.3:8443?security=tls&sni=agept.ambercc.filegear-sg.me&type=ws&host=agept.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560&alpn=http%2F1.1#Russia
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@67.220.95.102:5601#United+States
-vmess://eyJhZGQiOiAiMzguMTc0LjE5MC43NSIsICJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJwb3J0IjogMzgwMDcsICJpZCI6ICI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCAiYWlkIjogIjY0IiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIi9wYXRoLzI1MTcyNDA1MjgxOCIsICJ0bHMiOiAidGxzIn0=
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@54.36.174.181:445#France
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.62.163:443#Switzerland
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.243:443#United+States
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@149.202.82.172:8009#France
+ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@139.64.165.101:5498#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2ZWRUdU45V1N1ZlRrWWh2ZkpEMGpz@77.239.122.39:2239#United+Kingdom
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@149.202.82.172:8080#France
+vmess://eyJhZGQiOiAidXN3dXhpYW4ucGFpNTAyODgudWsiLCAidiI6ICIyIiwgInBzIjogIlVuaXRlZCBTdGF0ZXMiLCAicG9ydCI6IDg0NDMsICJpZCI6ICJjMzEzNjA2Zi05OGMyLTRkN2ItYmE3NC00OGI5NGY2MWIxMWQiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAidXN3dXhpYW4ucGFpNTAyODgudWsiLCAicGF0aCI6ICIvIiwgInRscyI6ICJ0bHMifQ==
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@142.202.49.84:8118#United+States
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@169.197.142.187:8008#United+States
+vmess://eyJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJhZGQiOiAiMTUuMjA0Ljg2LjEyMCIsICJwb3J0IjogMzU2OTYsICJpZCI6ICJjYWQwNTA0YS1hOWRjLTRkMjktODg0NC1iMTFiNjlmMTRhOGQiLCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIm5vbmUiLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWV9
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@149.202.82.172:5000#France
+trojan://4732adfa16c6450bbef87264e41332db@165.22.74.230:443?security=tls&sni=nextstepcareer.online&allowInsecure=1#Germany
+vmess://eyJhZGQiOiAiMTcyLjY3LjE1My4xNTYiLCAidiI6ICIyIiwgInBzIjogIlVuaXRlZCBTdGF0ZXMiLCAicG9ydCI6IDg0NDMsICJpZCI6ICJjMzEzNjA2Zi05OGMyLTRkN2ItYmE3NC00OGI5NGY2MWIxMWQiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAidXN3dXhpYW4ucGFpNTAyODgudWsiLCAicGF0aCI6ICIvIiwgInRscyI6ICJ0bHMifQ==
+trojan://3747000103274291200@43.202.142.243:443?sni=humble-rodent.treefrog761.one#South+Korea
+trojan://Ng35283528@104.16.83.176:443?security=tls&sni=c2.validbv3528.eu.org&type=ws&host=c2.validbv3528.eu.org&path=%2F%3Fed%3D2560&fp=randomized#United+States
+vmess://eyJhZGQiOiAiNjcuMjIwLjY2LjE5NCIsICJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJwb3J0IjogNDQzLCAiaWQiOiAiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwgImFpZCI6ICIxIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogIjY3LjIyMC42Ni4xOTQiLCAicGF0aCI6ICJsaW5rdndzIiwgInRscyI6ICJ0bHMifQ==
+vmess://eyJhZGQiOiAiMTUyLjY5LjE5Ny42MCIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiYWM4ZTI2ZmUtODE1MC00YjYwLWFlNjQtODJmYzc3ZWJhMmNmIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIiLCAicG9ydCI6ICIxMDY5IiwgInBzIjogIkphcGFuIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=
+trojan://3747000103274291200@artistic-flounder.treefrog761.one:443?allowInsecure=1&sni=artistic-flounder.treefrog761.one#Romania
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@69.50.95.218:9090#United+States
 ```
 <h5>상위 노드(일부)의 영구 구독 주소: https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ko-KR</h5>
  <p>위 구독 주소의 QR 코드</p>

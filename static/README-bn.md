@@ -35,22 +35,22 @@
  <h4>নোড তালিকা: (শুধুমাত্র কিছু নোড এখানে প্রদর্শিত হয়, সমস্ত নোড দেখতে অ্যাপটি ডাউনলোড করুন)</h4>
     
 ```
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@38.121.43.71:6379#United+States
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@51.77.53.200:8118#Poland
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@217.182.198.219:8009#Germany
-trojan://3747000103274291200@polished-collie.adder289.quest:443#India
-trojan://3747000103274291200@crucial-moccasin.adder289.quest:443#Luxembourg
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.158.171.151:8080#United+States
-vmess://eyJhZGQiOiAiMTcyLjY3LjIxMy4xMTAiLCAidiI6ICIyIiwgInBzIjogIlVuaXRlZCBTdGF0ZXMiLCAicG9ydCI6IDQ0MywgImlkIjogImQxM2ZjMmY1LTNlMDUtNDc5NS04MWViLTQ0MTQzYTA5ZTU1MiIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJzZ2Zxa3FtbHRjeS5zaXRlIiwgInBhdGgiOiAiL3JicXF2d3MiLCAidGxzIjogInRscyJ9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.123.101.241:990#T%C3%BCrkiye
-vmess://eyJhZGQiOiAiMTYyLjEyMC45NC4xMDMiLCAiYWlkIjogMCwgImhvc3QiOiAibGF4Mi5pYmdmdy50b3AiLCAiaWQiOiAiZTg4Yjg1YzYtOTNiNC00N2Y2LWIzZmItMmM1NWRjYjEyODlmIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9keWFqdndzIiwgInBvcnQiOiA4NDQzLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiBmYWxzZSwgInNuaSI6ICJsYXgyLmliZ2Z3LnRvcCJ9
-vmess://eyJhZGQiOiAiMTQ5LjcuMTYuMTQ5IiwgInYiOiAiMiIsICJwcyI6ICJVbml0ZWQgS2luZ2RvbSIsICJwb3J0IjogMzcxMDEsICJpZCI6ICJmYjNmYzI0My00Njk4LTQ5YzQtOGM0NC0wNDE1ZjY4YTRkMjUiLCAiYWlkIjogIjAiLCAibmV0IjogInRjcCIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAiIn0=
-ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@139.64.165.101:5498#United+States
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.121.43.71:8888#United+States
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@54.36.174.181:7307#France
-ss://YWVzLTI1Ni1nY206QVlDNE1RNURTR0o0UU9LRw==@156.245.190.19:15010#Hong+Kong
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@162.251.63.124:8881#United+States
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.169:443#United+States
+vmess://eyJhZGQiOiAiMzguMTQuMTA3LjIyNiIsICJhaWQiOiA2NCwgImhvc3QiOiAiIiwgImlkIjogIjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvcGF0aC8zNDA0MzQxMzAwMzIiLCAicG9ydCI6IDM4MDAzLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiJ9
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@67.220.95.102:6697#United+States
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@67.220.95.102:8882#United+States
+vmess://eyJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJhZGQiOiAiY2xvdWRmbGFyZS4xODI2ODIueHl6IiwgInBvcnQiOiAiODAiLCAidHlwZSI6ICJub25lIiwgImlkIjogImI5YTMyMDZkLTI3OGMtNDYxNC1iMzUyLWVlZjYzMmQxYzhkNSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvcm9uZ3NldmVuP2VkPTIwNDgiLCAiaG9zdCI6ICJrci5jZnl5ZHMuZmlsZWdlYXItc2cubWUiLCAidGxzIjogIiJ9
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.243:443#United+States
+ss://YWVzLTI1Ni1nY206RzJMQzFCUTQ4U1hTQktaWA==@185.126.239.231:20002#Russia
+trojan://3747000103274291200@alive-polecat.treefrog761.one:443#Romania
+trojan://amclubs2024@58.176.95.46:443?security=tls&sni=tr.amclub.us.kg&type=ws&host=tr.amclub.us.kg&path=%2F%3Fed%3D2560&fp=randomized#Hong+Kong
+vmess://eyJhZGQiOiAiMzguMTc0LjE5MC43MiIsICJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJwb3J0IjogMzgwMDcsICJpZCI6ICI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCAiYWlkIjogIjY0IiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIi9wYXRoLzEwMDMxODIzMDUwMyIsICJ0bHMiOiAidGxzIn0=
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.10:8080#Lithuania
+vmess://eyJhZGQiOiAiNTcuMTI5LjI4LjY5IiwgInYiOiAiMiIsICJwcyI6ICJGcmFuY2UiLCAicG9ydCI6IDQ0MywgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJiYXJhZGloYS5jb20iLCAicGF0aCI6ICIvbGlua3Z3cyIsICJ0bHMiOiAidGxzIn0=
+trojan://c443be95-725d-4da3-a60f-d35af5bfbff8@nl1.pptv-tv.store:17609#The+Netherlands
+trojan://telegram-id-privatevpns@18.133.13.241:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#United+Kingdom
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.121.43.71:7002#United+States
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@149.202.82.172:8009#France
+trojan://Aimer@175.199.169.221:50003?security=tls&sni=agept.ambercc.filegear-sg.me&type=ws&host=agept.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560&alpn=http%2F1.1#South+Korea
 ```
 <h5>উপরের নোডের স্থায়ী সদস্যতা ঠিকানা (অংশ): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_bn</h5>
  <p>উপরের সদস্যতা ঠিকানার জন্য QR কোড</p>

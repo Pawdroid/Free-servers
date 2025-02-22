@@ -35,22 +35,22 @@
  <h4>Lista węzłów: (wyświetlane są tutaj tylko niektóre węzły. Pobierz aplikację, aby wyświetlić wszystkie węzły)</h4>
     
 ```
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@142.202.49.84:8090#United+States
-vmess://eyJhZGQiOiAiMTA0LjIxLjQyLjI0MyIsICJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJwb3J0IjogNDQzLCAiaWQiOiAiZDEzZmMyZjUtM2UwNS00Nzk1LTgxZWItNDQxNDNhMDllNTUyIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogInNnZnFrcW1sdGN5LnNpdGUiLCAicGF0aCI6ICIvcmJxcXZ3cyIsICJ0bHMiOiAidGxzIn0=
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@217.182.198.219:5000#Germany
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@67.220.95.102:7307#United+States
-ss://YWVzLTI1Ni1nY206Mk1OQlZZWVlCMjNaRjAzWg==@92.113.116.11:15002#Ukraine
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@149.202.82.172:4444#France
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@145.239.6.202:6679#United+Kingdom
-vmess://eyJhZGQiOiAiOTEuMTA3LjE4OC4xMCIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiN2UzZmMwM2QtZTI5Zi00MjZlLTlmZjgtNjY2YTcyMGM0MzM3IiwgIm5ldCI6ICJncnBjIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiODg4OCIsICJwcyI6ICJHZXJtYW55IiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogImd1biIsICJ2IjogIjIifQ==
-trojan://telegram-id-privatevpns@54.246.110.135:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#Ireland
-vmess://eyJhZGQiOiAiMzguMTE0LjEyMC4xMiIsICJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIEtpbmdkb20iLCAicG9ydCI6IDQ3NTY3LCAiaWQiOiAiY2RhNWRmYWEtOTllOC00MmQ2LTlmMGItNmVmMzBmNzZlOTJjIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIiLCAidGxzIjogIiJ9
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@145.239.6.202:8090#United+Kingdom
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@51.77.53.200:5001#Poland
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.251:8080#The+Netherlands
-trojan://telegram-id-privatevpns@34.249.135.143:22222?sni=trojan.burgerip.co.uk#Ireland
-vmess://eyJhZGQiOiAiNTcuMTI5LjI1LjI1IiwgInYiOiAiMiIsICJwcyI6ICJGcmFuY2UiLCAicG9ydCI6IDQ0MywgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJmLmtoaWxlaS5jb20iLCAicGF0aCI6ICIvbGlua3Z3cyIsICJ0bHMiOiAidGxzIn0=
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNlpDSGVhYlVTZktqZlFFdko0SERW@185.242.86.156:54170#The+Netherlands
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.158.171.110:8080#United+States
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.34.244.82:443#The+Netherlands
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.121.43.97:8881#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.158.171.136:8080#United+States
+ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@217.182.198.219:6379#Germany
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@156.244.9.92:990#United+States
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@145.239.6.202:4444#United+Kingdom
+trojan://%40NoForcedHeaven%40NoForcedHeaven%40NoForcedHeaven%40NoForcedHeaven%40NoForcedHeaven@195.133.52.153:2087?security=tls&sni=ru2.asc-sam.io&type=grpc&alpn=h3%2Ch2%2Chttp%2F1.1#Russia
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.194:443#United+Kingdom
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.121.43.97:5500#United+States
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.78:443#United+Kingdom
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpINVMwaHZjeFJpI1lMbWdV@38.107.226.146:1230#United+States
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@23.150.152.16:5500#United+States
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@67.220.95.102:8080#United+States
+trojan://3747000103274291200@85.90.194.160:443?security=tls&sni=awaited-chicken.adder289.quest#Luxembourg
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.121.43.71:7307#United+States
 ```
 <h5>Stały adres subskrypcji górnego węzła (część): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_pl</h5>
  <p>Kod QR dla adresu subskrypcji powyżej</p>
