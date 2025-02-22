@@ -35,22 +35,22 @@
  <h4>قائمة العقد: (يتم عرض بعض العقد فقط هنا، يرجى تنزيل التطبيق لعرض جميع العقد)</h4>
     
 ```
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@149.202.82.172:8119#France
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@149.202.82.172:5000#France
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.198:443#United+Kingdom
-vmess://eyJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJhZGQiOiAiYW55Y2FzdC5jZi4wMzA0MTkueHl6IiwgInBvcnQiOiAiODAiLCAidHlwZSI6ICJub25lIiwgImlkIjogImI5YTMyMDZkLTI3OGMtNDYxNC1iMzUyLWVlZjYzMmQxYzhkNSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvcm9uZ3NldmVuP2VkPTIwNDgiLCAiaG9zdCI6ICIzMy5ieWNmLnVzLmtnIiwgInRscyI6ICIifQ==
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@51.77.53.200:3389#Poland
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyYWZiYzk3NDAwY2E3MWM4ZjMzMDZmOTg0M2E2ZTFjMg==@216.250.97.118:443#Hong+Kong
-trojan://Aimer@108.165.152.36:2096?security=tls&sni=agepy.ambercc.filegear-sg.me&type=ws&host=agepy.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560&alpn=http%2F1.1#United+States
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@69.50.95.218:6697#United+States
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.160:443#United+States
-vmess://eyJhZGQiOiAiNTEuNzcuMjAuMTMyIiwgInYiOiAiMiIsICJwcyI6ICJQb2xhbmQiLCAicG9ydCI6IDQ0MywgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJhLmJhcmFkaWhhLmNvbSIsICJwYXRoIjogIi9saW5rdndzIiwgInRscyI6ICJ0bHMifQ==
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.178:443#United+Kingdom
-vmess://eyJhZGQiOiAiMTU0LjI2LjEzNy40MiIsICJ2IjogIjIiLCAicHMiOiAiU2luZ2Fwb3JlIiwgInBvcnQiOiA0NDEwNCwgImlkIjogImU5OTMzYTRjLWU1NmUtNDU4Yy1iY2Y0LTljYjM4NzViYmE1NSIsICJhaWQiOiAiMCIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiIiwgInRscyI6ICIifQ==
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@3.28.107.6:443#United+Arab+Emirates
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@23.150.152.41:9101#United+States
+trojan://telegram-id-privatevpns@34.254.112.25:22222?sni=trojan.burgerip.co.uk#Ireland
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPV1k0T0RCbQ==@95.164.36.59:8388#Austria
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@79.127.233.170:990#United+Kingdom
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.121.43.71:3389#United+States
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@142.202.49.122:8008#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMzgzNzIyNGVkNDY1ZjAw@45.144.48.63:57456#Poland
+ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@67.220.95.102:5498#United+States
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@149.202.82.172:5001#France
+vmess://eyJhZGQiOiAiMTk0LjIzMy43Mi4yMjgiLCAidiI6ICIyIiwgInBzIjogIlNpbmdhcG9yZSIsICJwb3J0IjogMjc1NzUsICJpZCI6ICIxNjUwOTI2Mi1kYmUyLTQzYmEtOTljZS0wNzkxM2QyYTE4YjQiLCAiYWlkIjogIjAiLCAibmV0IjogInRjcCIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAiIn0=
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.58:8080#Lithuania
+ss://YWVzLTI1Ni1nY206N0JjTGRzTzFXd2VvR0QwWA==@193.243.147.128:40368#France
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.121.43.71:8091#United+States
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.91.102.72:8882#United+States
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@149.202.82.172:9101#France
+trojan://telegram-id-directvpn@13.53.32.38:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#Sweden
+vmess://eyJhZGQiOiAiY2xvdWRmbGFyZS4xODI2ODIueHl6IiwgImFpZCI6IDAsICJob3N0IjogImtyLmNmeXlkcy5maWxlZ2Vhci1zZy5tZSIsICJpZCI6ICJiOWEzMjA2ZC0yNzhjLTQ2MTQtYjM1Mi1lZWY2MzJkMWM4ZDUiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL3JvbmdzZXZlbj9lZD0yMDQ4IiwgInBvcnQiOiA4MCwgInBzIjogIlVuaXRlZCBTdGF0ZXMiLCAidGxzIjogIiIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIifQ==
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@145.239.6.202:7001#United+Kingdom
 ```
 <h5>عنوان الاشتراك الدائم للعقدة العليا (جزء): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ar</h5>
  <p>رمز الاستجابة السريعة لعنوان الاشتراك أعلاه</p>

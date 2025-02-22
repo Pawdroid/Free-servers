@@ -35,22 +35,22 @@
  <h4>Daftar node: (Hanya beberapa node yang ditampilkan di sini, silakan unduh aplikasi untuk melihat semua node)</h4>
     
 ```
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@67.220.95.102:5600#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxMjM0@54.248.54.190:1234#Japan
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@51.77.53.200:8119#Poland
+trojan://telegram-id-directvpn@15.237.168.160:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#France
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnUFFmUXdvaGxBaXlEd2VIRFFrRFVP@77.239.122.34:46785#United+Kingdom
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@51.77.53.200:8090#Poland
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@67.220.95.102:8118#United+States
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@54.36.174.181:443#France
 vmess://eyJhZGQiOiAiNTcuMTI5LjI0LjE0MiIsICJ2IjogIjIiLCAicHMiOiAiR2VybWFueSIsICJwb3J0IjogNDQzLCAiaWQiOiAiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogImhhcnJpc2NpdHkuY29tIiwgInBhdGgiOiAiL2xpbmt2d3MiLCAidGxzIjogInRscyJ9
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@142.202.49.84:5001#United+States
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@145.239.6.202:8119#United+Kingdom
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@54.36.174.181:4444#France
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.65:8080#Lithuania
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@54.36.174.181:8080#France
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@203.23.128.33:990#Hong+Kong
-vmess://eyJhZGQiOiAibGF4Mi5pYmdmdy50b3AiLCAidiI6ICIyIiwgInBzIjogIlVuaXRlZCBTdGF0ZXMiLCAicG9ydCI6IDg0NDMsICJpZCI6ICJlODhiODVjNi05M2I0LTQ3ZjYtYjNmYi0yYzU1ZGNiMTI4OWYiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAibGF4Mi5pYmdmdy50b3AiLCAicGF0aCI6ICIvZHlhanZ3cyIsICJ0bHMiOiAidGxzIn0=
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@69.50.95.245:7002#United+States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.158.171.151:8080#United+States
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@169.197.142.187:5601#United+States
-ss://YWVzLTI1Ni1nY206MlVPTDhFU1MxMlgwSjMxUA==@154.196.244.20:16010#Singapore
-trojan://3747000103274291200@87.120.204.100:443?security=tls&sni=crucial-moccasin.adder289.quest&type=tcp#Luxembourg
-trojan://bpb-trojan@172.67.70.92:443?security=tls&sni=zamim340.ggff.net&type=ws&host=zamim340.ggff.net&path=%2Ftr%3Fed%3D2560#United+States
-trojan://3747000103274291200@content-shrimp.pigeon031.one:443#Luxembourg
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.62.164:443#Switzerland
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@54.36.174.181:7307#France
+vmess://eyJhZGQiOiAianAwMS1hbHQtdm0wLmVudHJ5LnNydGhkdy5hcnQiLCAidiI6ICIyIiwgInBzIjogIkphcGFuIiwgInBvcnQiOiAyMTU4MywgImlkIjogImM0YjJlN2VhLTFhMGUtMzE2Zi04ZTI4LTA3MTdjYzA4NzUzNCIsICJhaWQiOiAiMSIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiIiwgInRscyI6ICJ0bHMifQ==
+vmess://eyJhZGQiOiAiNDUuMTQ0LjQ4LjEyOCIsICJ2IjogIjIiLCAicHMiOiAiUG9sYW5kIiwgInBvcnQiOiA4MCwgImlkIjogIjEwZTJmZjY1LTBlMjAtNDYyZC1hMjgyLTE2NGU0OGI5NTVhOSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIzaC1wb2xhbmQxLjA5dnBuLmNvbSIsICJwYXRoIjogIi92bWVzcy8iLCAidGxzIjogIiJ9
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@217.182.198.219:3389#Germany
+ss://YWVzLTI1Ni1nY206MUg1S1g1UVpCVU9XUDJQNA==@156.231.104.17:18007#Japan
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@142.202.49.122:7306#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.164:8080#Lithuania
 ```
 <h5>Alamat langganan permanen node atas (bagian): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_id</h5>
  <p>Kode QR untuk alamat berlangganan di atas</p>
