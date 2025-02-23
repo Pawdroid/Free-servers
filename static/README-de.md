@@ -35,20 +35,21 @@
  <h4>Knotenliste: (Hier werden nur einige Knoten angezeigt. Bitte laden Sie die App herunter, um alle Knoten anzuzeigen.)</h4>
     
 ```
-trojan://telegram-id-privatevpns@13.36.124.133:22222?sni=trojan.burgerip.co.uk#Frankreich
-vmess://eyJhZGQiOiAiOTEuMTA3LjE4OC4xMCIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiZjhlYWNmZmMtYmFkOC00ZDgzLTkwMjItODJjOThlYzY3ZjJiIiwgIm5ldCI6ICJncnBjIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiODA4NSIsICJwcyI6ICJEZXV0c2NobGFuZCIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJndW4iLCAidiI6ICIyIn0=
-vmess://eyJhZGQiOiAiMTAzLjY3Ljc5LjE1NyIsICJ2IjogIjIiLCAicHMiOiAiSW5kb25lc2llbiIsICJwb3J0IjogNDUzNjUsICJpZCI6ICI3ZDJhNGU2Ni0xNTJjLTQ5ZjUtOWZmNS1jMTlhODM2ZThjODkiLCAiYWlkIjogIjAiLCAibmV0IjogInRjcCIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAiIn0=
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@142.202.48.105:2376#USA
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@139.59.119.143:443?sni=connectwithemployers.online#Singapur
-vmess://eyJhZGQiOiAiMTUuMjM1LjUwLjE3MiIsICJ2IjogIjIiLCAicHMiOiAiS2FuYWRhIiwgInBvcnQiOiA0NDMsICJpZCI6ICIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiYmFyYWRpaGEuY29tIiwgInBhdGgiOiAiL2xpbmt2d3MiLCAidGxzIjogInRscyJ9
-trojan://3747000103274291200@43.202.142.243:443?security=tls&sni=humble-rodent.treefrog761.one&type=tcp#S%C3%BCdkorea
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@145.239.6.202:4444#UK
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@51.68.206.229:2375#UK
-trojan://3747000103274291200@humble-rodent.treefrog761.one:443#S%C3%BCdkorea
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@142.202.49.122:7306#USA
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@51.77.53.200:445#Polen
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.198:443#UK
-trojan://Aimer@154.197.64.189:2087?security=tls&sni=agepy.ambercc.filegear-sg.me&type=ws&host=agepy.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560&alpn=http%2F1.1#Seychellen
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMzgzNzIyNGVkNDY1ZjAw@war.ssvpnapp.win:57456#Polen
+trojan://telegram-id-directvpn@34.248.134.132:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#Irland
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@79.127.233.170:990#UK
+vmess://eyJhZGQiOiAiMTA0LjE5LjQ4LjIzNiIsICJ2IjogIjIiLCAicHMiOiAiVVNBIiwgInBvcnQiOiAyMDgyLCAiaWQiOiAiMTM1MTRjMmMtZDVhNC0zMzVmLTk2NWEtNWRjMjkyZTM2NzU5IiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogIjEwMC04Ny0xNjAtMjUyLnMyLmRiLWxpbmswMi50b3AiLCAicGF0aCI6ICIvZGFiYWkuaW4xMDQuMjQuNjAuMjAwIiwgInRscyI6ICIifQ==
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmRERtSDRRZWZtV3FNSjhVVVJackdo@86.104.74.243:14255#Kanada
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.168:443#USA
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.195:443#UK
+vmess://eyJhZGQiOiAiMTcwLjExNC40Ni4xMzkiLCAidiI6ICIyIiwgInBzIjogIlVTQSIsICJwb3J0IjogODQ0MywgImlkIjogImU4OGI4NWM2LTkzYjQtNDdmNi1iM2ZiLTJjNTVkY2IxMjg5ZiIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJsYXgyLmliZ2Z3LnRvcCIsICJwYXRoIjogIi9keWFqdndzIiwgInRscyI6ICJ0bHMifQ==
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyYWZiYzk3NDAwY2E3MWM4ZjMzMDZmOTg0M2E2ZTFjMg==@hong-kong-3.keenvpn.me:443#Hongkong
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@67.220.95.102:6697#USA
+trojan://da86c6b5-a130-4bb8-a6ef-00b77b85b9e7@94.131.122.157:8443?security=tls&sni=uk2.safecdn.site&type=grpc&serviceName=grpc#Ukraine
+trojan://3782591447421952000@52.57.173.145:443?sni=patient-ghost.treefrog761.one#Deutschland
+vmess://eyJhZGQiOiAiNDUuMTQ0LjQ4LjEyOCIsICJ2IjogIjIiLCAicHMiOiAiUG9sZW4iLCAicG9ydCI6IDgwLCAiaWQiOiAiMTBlMmZmNjUtMGUyMC00NjJkLWEyODItMTY0ZTQ4Yjk1NWE5IiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogIjNoLXBvbGFuZDEuMDl2cG4uY29tIiwgInBhdGgiOiAiL3ZtZXNzLyIsICJ0bHMiOiAiIn0=
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@64.74.163.130:990#USA
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWEdwMStpaGxmS2c4MjZI@172.236.122.188:1866#USA
 ```
 <h5>Die permanente Abonnementadresse des oberen Knotens (Teil): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_de</h5>
  <p>QR-Code für die Abonnementadresse oben</p>

@@ -35,20 +35,21 @@
  <h4>Lista de nós: (Apenas alguns nós são exibidos aqui, baixe o aplicativo para visualizar todos os nós)</h4>
     
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOekpoTURjMQ==@103.35.188.18:8388#EUA
-trojan://amclubs2024@198.62.62.156:443?security=tls&type=ws&sni=tr.amclub.us.kg&path=/?ed=2560&host=tr.amclub.us.kg#EUA
-ss://YWVzLTI1Ni1nY206M0pIVE5LMTNUNkJDRVZOSA==@156.231.104.24:18014#Jap%C3%A3o
-vmess://eyJhZGQiOiAiNzkuMTI3LjIyOS41NCIsICJ2IjogIjIiLCAicHMiOiAiTVx1MDBlOXhpY28iLCAicG9ydCI6IDE4MDAwLCAiaWQiOiAiZmExODk3ZGItMTkyNS00Yzg2LWE0OTUtOTM5YTk1OWFmOTAwIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIiLCAidGxzIjogIiJ9
-trojan://3747000103274291200@awaited-chicken.adder289.quest:443#Luxemburgo
-vmess://eyJhZGQiOiAiaWNvb2suaGsiLCAidiI6ICIyIiwgInBzIjogIkVVQSIsICJwb3J0IjogODQ0MywgImlkIjogIjg2MmU5MGUxLTJmMjYtNDUwNi1iOGI5LTBhZGYyMGRhMDVmYyIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJhcmdvLmxhbWthbi5ldS5vcmciLCAicGF0aCI6ICIvODYyZTkwZTEtMmYyNi00NTA2LWI4YjktMGFkZjIwZGEwNWZjLXZtIiwgInRscyI6ICJ0bHMifQ==
-vmess://eyJhZGQiOiAiMjMuMTU4LjU2LjI0MSIsICJ2IjogIjIiLCAicHMiOiAiQWxlbWFuaGEiLCAicG9ydCI6IDQ0MywgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJ3cm1lbG13eGxmLmdrdGV2bHJxem53cXFvenkuZmFicGZzNjZnaXptbm9qaGN2cXh3bC5reXRyY2Z6cWxhODdndmd2czZjN2tqbnJ1YnVoLmNjIiwgInBhdGgiOiAiL2xpbmt2d3MiLCAidGxzIjogInRscyJ9
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@217.182.198.219:2376#Alemanha
-vmess://eyJhZGQiOiAiMTA0LjE4LjE0OS43NSIsICJ2IjogIjIiLCAicHMiOiAiRVVBIiwgInBvcnQiOiA0NDMsICJpZCI6ICI0N2VhYjBkZS05N2Y5LTQ5YmUtZjJmMy0yZTRlYjE3MjY4ZTYiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiaGsuaW5zYm90LmZpbGVnZWFyLXNnLm1lIiwgInBhdGgiOiAiL2FhIiwgInRscyI6ICJ0bHMifQ==
-trojan://Ng35283528@104.16.83.176:443?security=tls&sni=c2.validbv3528.eu.org&type=ws&host=c2.validbv3528.eu.org&path=%2F%3Fed%3D2560&fp=randomized#EUA
+ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@51.77.53.200:445#Pol%C3%B4nia
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@51.77.53.200:2376#Pol%C3%B4nia
+vmess://eyJhZGQiOiAiMTAzLjE0OS4xODMuMTc4IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICIzYTkwNzk1Ni1mNjY4LTRlNmItZWEwMy0wOTQ5ZjBjOWMwYTUiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogIjU0Njc1IiwgInBzIjogIkhvbmcgS29uZyIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICIiLCAidiI6ICIyIn0=
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@54.36.174.181:5004#Fran%C3%A7a
+trojan://b2d0b65a-616c-433d-8e7b-08af61017fa8@45.146.232.172:42881?security=tls&sni=q08m.vgraxiw73s.hasyaf.cn&type=tcp#Hong+Kong
+trojan://3778399750324494336@content-shrimp.pigeon031.one:443#Luxemburgo
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@51.77.53.200:8882#Pol%C3%B4nia
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@67.220.95.102:5600#EUA
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.121.43.97:8091#EUA
+vmess://eyJhZGQiOiAiMTg4LjI0NS4yMDYuNCIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICJ6dWxhLmlyIiwgImlkIjogIjY4MzQyZTNiLTYyYzMtNDYyMi05OTNmLWI1MTVkOTc4Mjc1ZSIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiLyIsICJwb3J0IjogIjE1MzU5IiwgInBzIjogIkFsZW1hbmhhIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogImh0dHAiLCAidiI6ICIyIn0=
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.169:443#EUA
-trojan://3747000103274291200@216.238.77.127:443?security=tls&sni=grateful-glowworm.treefrog761.one&type=tcp#M%C3%A9xico
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@149.202.82.172:8881#Fran%C3%A7a
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.193:443#Reino+Unido
+ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@69.50.95.179:5498#EUA
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@145.239.6.202:8119#Reino+Unido
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@103.104.247.49:8080#Holanda
+vmess://eyJhZGQiOiAiYW55Y2FzdC5jZi4wMzA0MTkueHl6IiwgInYiOiAiMiIsICJwcyI6ICJFVUEiLCAicG9ydCI6IDgwLCAiaWQiOiAiYjlhMzIwNmQtMjc4Yy00NjE0LWIzNTItZWVmNjMyZDFjOGQ1IiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogIjMzLmJ5Y2YudXMua2ciLCAicGF0aCI6ICIvcm9uZ3NldmVuP2VkPTIwNDgiLCAidGxzIjogIiJ9
 ```
 <h5>O endereço de assinatura permanente do nó superior (parte): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_pt-BR</h5>
  <p>Código QR do endereço de assinatura acima</p>
