@@ -35,23 +35,23 @@
  <h4>نوڈ کی فہرست: (یہاں صرف کچھ نوڈس دکھائے گئے ہیں، براہ کرم تمام نوڈس دیکھنے کے لیے ایپ ڈاؤن لوڈ کریں)</h4>
     
 ```
-ss://YWVzLTI1Ni1nY206Q1pXR0tWVktFVDJCVFJCSw==@154.196.244.12:16002#Singapore
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@54.36.174.181:8882#France
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiWjg3YW1QcGRHN0t1V002MmJLdG0xS0hvb3d1VmpuVjhDS3RxNjUzeW1IY2cyZFBZY1BKZm5hUTYxc3R1QWpyMlppTERhcUg1Nlhwa3hFWXV3RHp6UnJNV2llZWJXR3Q=@mx2.drawnrisha.one:55988#United+Kingdom
-vmess://eyJhZGQiOiAiMzguMTQuMTA3LjIyNiIsICJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJwb3J0IjogMzgwMDMsICJpZCI6ICI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCAiYWlkIjogIjY0IiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIi9wYXRoLzM0MDQzNDEzMDAzMiIsICJ0bHMiOiAidGxzIn0=
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.243:443#United+States
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@142.202.49.122:8008#United+States
-trojan://telegram-id-privatevpns@52.16.180.238:22222?security=tls&sni=trojan.burgerip.co.uk#Ireland
-trojan://naEX%5Dg*qw%40MT%26lFz@104.21.96.1:2087?security=tls&sni=jOinMAhdIsErvEr-53k.pAGeS.Dev&type=ws&host=joinmahdiserver-53k.pages.dev&path=%2Ftrb6oyXIzrlytDBNlm%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#United+States
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.121.43.97:8080#United+States
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@54.36.174.181:5003#France
-trojan://3747000103274291200@open-maggot.pigeon031.one:443?sni=open-maggot.pigeon031.one#Japan
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@51.77.53.200:8882#Poland
-trojan://Aimer@206.238.237.81:2087?security=tls&type=ws&sni=agepy.ambercc.filegear-sg.me&path=/?ed=2560&host=agepy.ambercc.filegear-sg.me#Singapore
-ss://YWVzLTI1Ni1nY206VVE2Mks4Rzg4VkdCTlpYTw==@156.245.190.24:15015#Hong+Kong
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@54.36.174.181:5600#France
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@169.197.142.187:8080#United+States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDTHBoeUVNUVQ4bmJHOEVJbVgwQTJE@5.35.47.122:45635#The+Netherlands
+vmess://eyJhZGQiOiAiMTcyLjY3LjE1My4xNTYiLCAidiI6ICIyIiwgInBzIjogIlVuaXRlZCBTdGF0ZXMiLCAicG9ydCI6IDg0NDMsICJpZCI6ICJjMzEzNjA2Zi05OGMyLTRkN2ItYmE3NC00OGI5NGY2MWIxMWQiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAidXN3dXhpYW4ucGFpNTAyODgudWsiLCAicGF0aCI6ICIvIiwgInRscyI6ICJ0bHMifQ==
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.22:8080#Lithuania
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMzgzNzIyNGVkNDY1ZjAw@45.144.48.63:57456#Poland
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.154:8080#Lithuania
+trojan://Aimer@172.64.35.82:443?security=tls&sni=agepy.ambercc.filegear-sg.me&type=ws&host=agepy.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560&alpn=http%2F1.1#United+States
+trojan://naEX%5Dg*qw%40MT%26lFz@104.21.64.1:2087?security=tls&sni=jOinMAhdIsErvEr-53k.pAGeS.Dev&type=ws&host=joinmahdiserver-53k.pages.dev&path=%2Ftrb6oyXIzrlytDBNlm%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#United+States
+ss://YWVzLTI1Ni1nY206UEdGMlRHVUNIUUJDNUlQNQ==@156.231.104.26:18016#Japan
+ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@51.77.53.200:445#Poland
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@51.77.53.200:9101#Poland
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@23.150.152.41:8881#United+States
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@connectwithemployers.online:443#Singapore
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZVGczWXpKaA==@45.84.1.33:8388#Russia
+trojan://3774827088566296576@194.62.96.160:443?sni=next-hippo.treefrog761.one#Spain
+vmess://eyJhZGQiOiAiMTkzLjEwOC4xMTguMTM2IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICJmNzRlMjc3ZS04NGIzLTQ2YTItOGFiZC0yNzc3ZmE1ZTRhZjkiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogIjE1NzEzIiwgInBzIjogIkdlcm1hbnkiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIifQ==
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkdDMxS1lZQ0NBVUJ3dTA5UXdHOWZsUEJJdVA5akE2Vlhuak44U3RLVGtnYzQ1bnk=@203.23.128.79:51348#Hong+Kong
+trojan://3782591447421952000@sincere-stud.adder289.quest:443#South+Korea
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@149.202.82.172:9101#France
 ```
 <h5>اوپری نوڈ کا مستقل رکنیت کا پتہ (حصہ): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ur-PK</h5>
  <p>اوپر سبسکرپشن ایڈریس کے لیے QR کوڈ</p>

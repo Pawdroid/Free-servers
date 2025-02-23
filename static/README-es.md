@@ -35,23 +35,23 @@
  <h4>Lista de nodos: (aquí solo se muestran algunos nodos; descargue la aplicación para ver todos los nodos)</h4>
     
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMTVNOaDIxVHJYalIyb2syNVEybkU4RU5UMnpvQm1QdmthM1JDQ1VBSFpFTENuV29la1ZqdmFmODlxd2NSa2RieEVmZXAyYmMyYVV0bW54cXZGMWF5UVJlejFKSGpVTGo=@exchange.gameaurela.click:52952#Ir%C3%A1n
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@103.106.228.132:990#Jap%C3%B3n
-ss://YWVzLTI1Ni1nY206STZEUlZWUTRPT01JUk1KRA==@154.196.244.25:16015#Singapur
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@145.239.6.202:8118#Reino+Unido
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.47.255.22:990#Puerto+Rico
-ss://YWVzLTI1Ni1nY206TUhaVUVPWDNLQlhBVjA5Sw==@156.245.190.16:15007#Hong+Kong
-vmess://eyJhZGQiOiAiMTA5LjEyMy4yMzIuNzQiLCAidiI6ICIyIiwgInBzIjogIlNpbmdhcHVyIiwgInBvcnQiOiA1OTAzMiwgImlkIjogIjk2YWI3ZTFmLWJmMGQtNDVjZC04ZWJjLWM4YmUyZjhkNDNjZCIsICJhaWQiOiAiMCIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiIiwgInRscyI6ICIifQ==
-vmess://eyJhZGQiOiAiMTQyLjQuMTA4LjE0MSIsICJ2IjogIjIiLCAicHMiOiAiRXN0YWRvcyBVbmlkb3MiLCAicG9ydCI6IDM4MDA3LCAiaWQiOiAiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwgImFpZCI6ICI2NCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIvcGF0aC8xNzIzNDU3NjE1MDMyIiwgInRscyI6ICJ0bHMifQ==
-ss://YWVzLTI1Ni1nY206OFdETFNDVklGQjRJMjZHQg==@154.196.244.21:16011#Singapur
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWEdwMStpaGxmS2c4MjZI@172.232.171.192:1866#Estados+Unidos
-trojan://trojan@104.18.3.150:443?security=tls&sni=main.xicun.us.kg&type=ws&host=main.xicun.us.kg#Estados+Unidos
-vmess://eyJ2IjogIjIiLCAicHMiOiAiRnJhbmNpYSIsICJhZGQiOiAiMzguMTA5LjIyOC4xMTMiLCAicG9ydCI6IDIxODA5LCAiaWQiOiAiYTYxNzk0NzUtNDg5Yy00YmNjLWIwNWMtNDgxMzg2Mjk1YjkzIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICJub25lIn0=
-trojan://3778399750324494336@quality-albacore.adder289.quest:443#India
-ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@51.77.53.200:9102#Polonia
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZVE5qTkRZNQ==@185.234.64.35:8388#Francia
-ss://YWVzLTI1Ni1nY206WkRHQzBRMkUxMTJVQUpPNg==@156.245.190.23:15014#Hong+Kong
-vmess://eyJ2IjogIjIiLCAicHMiOiAiU2luZ2FwdXIiLCAiYWRkIjogIjE1NC4yNi4xMzcuNDIiLCAicG9ydCI6IDQ0MTA0LCAiaWQiOiAiZTk5MzNhNGMtZTU2ZS00NThjLWJjZjQtOWNiMzg3NWJiYTU1IiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICJub25lIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlfQ==
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.34.244.68:443#Holanda
+trojan://3747000103274291200@87.120.204.100:443?security=tls&sni=crucial-moccasin.adder289.quest&type=tcp#Luxemburgo
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.227:8080#Holanda
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@54.36.174.181:6679#Francia
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@149.202.82.172:8008#Francia
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.199:8080#Lituania
+trojan://3774827088566296576@95.110.142.205:443?sni=destined-cub.treefrog761.one#Italia
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.107.226.238:2375#Estados+Unidos
+trojan://3774827088566296576@185.67.125.78:443?security=tls&sni=deciding-mantis.treefrog761.one&type=tcp&fp=chrome&allowInsecure=1#India
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.80:443#Reino+Unido
+vmess://eyJhZGQiOiAiaWNvb2suaGsiLCAidiI6ICIyIiwgInBzIjogIkVzdGFkb3MgVW5pZG9zIiwgInBvcnQiOiA4NDQzLCAiaWQiOiAiODYyZTkwZTEtMmYyNi00NTA2LWI4YjktMGFkZjIwZGEwNWZjIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogImFyZ28ubGFta2FuLmV1Lm9yZyIsICJwYXRoIjogIi84NjJlOTBlMS0yZjI2LTQ1MDYtYjhiOS0wYWRmMjBkYTA1ZmMtdm0iLCAidGxzIjogInRscyJ9
+trojan://4732adfa16c6450bbef87264e41332db@165.22.74.230:443?security=tls&sni=nextstepcareer.online#Alemania
+ss://YWVzLTI1Ni1nY206Q1pXR0tWVktFVDJCVFJCSw==@154.196.244.12:16002#Singapur
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@79.127.233.170:990#Reino+Unido
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@92.118.205.228:990#Polonia
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@142.202.49.122:9101#Estados+Unidos
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.121.43.71:2376#Estados+Unidos
 ```
 <h5>La dirección de suscripción permanente del nodo superior (parte): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_es</h5>
  <p>Código QR para la dirección de suscripción anterior</p>

@@ -35,23 +35,23 @@
  <h4>Knotenliste: (Hier werden nur einige Knoten angezeigt. Bitte laden Sie die App herunter, um alle Knoten anzuzeigen.)</h4>
     
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.126.239.250:990#Russland
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@185.177.229.224:8000#Deutschland
-trojan://bpb-trojan@104.26.4.60:443?security=tls&sni=zamim340.ggff.net&type=ws&host=zamim340.ggff.net&path=%2Ftr%3Fed%3D2560#USA
-vmess://eyJhZGQiOiAiMzguMzMuMzQuMzgiLCAidiI6ICIyIiwgInBzIjogIlVTQSIsICJwb3J0IjogMzYwMDIsICJpZCI6ICI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCAiYWlkIjogIjY0IiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIi9wYXRoLzE3Mzg0MzIxMTA3NjYiLCAidGxzIjogInRscyJ9
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.121.43.97:5000#USA
-vmess://eyJhZGQiOiAiMTQ2LjU2LjExMi4xMTAiLCAidiI6ICIyIiwgInBzIjogIlNcdTAwZmNka29yZWEiLCAicG9ydCI6IDg4ODgsICJpZCI6ICJlN2MzMDJmMy05MGQ2LTQyZGQtOWQ3ZC05NGEzNjgzYTM3MDciLCAiYWlkIjogIjAiLCAibmV0IjogInRjcCIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAiIn0=
-vmess://eyJhZGQiOiAiaGt2bS5nZWNzLnRvcCIsICJ2IjogIjIiLCAicHMiOiAiVVNBIiwgInBvcnQiOiA0NDMsICJpZCI6ICIwYTNjZDA2Mi0yNDFhLTQzZmMtOWM1MC1lY2NhY2JiZDVhYWUiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiaGt2bS5nZWNzLnRvcCIsICJwYXRoIjogIi92bSIsICJ0bHMiOiAidGxzIn0=
-trojan://3747000103274291200@185.67.125.147:443?sni=polished-collie.adder289.quest#Indien
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvMzh5dXZ6U2UzbTVhRE5wSHRVUEgxekd3YkdFWFhNRHNHd1ZhdWIyU1lFbUhVYTJXR1pVamllelgzVnZ2YTlDQ3pwanhZdHVKTGdLc1Nuc3lLQmY5Y2lQVmJhM3k0bzM=@beta.mattenadene.org:54075#USA
-trojan://telegram-id-privatevpns@35.181.121.99:22222?sni=trojan.burgerip.co.uk#Frankreich
-trojan://s42%26umY%28K5n*csP4@104.21.64.1:8443?security=tls&type=ws&sni=JOInMAHDiseRVer-EEu.pAGEs.dEv&path=/trOagy9SuM2cDpqUqO?ed=2560&host=joinmahdiserver-eeu.pages.dev#USA
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@38.121.43.71:8008#USA
-trojan://trojan@104.18.3.150:443?security=tls&sni=main.xicun.us.kg&type=ws&host=main.xicun.us.kg#USA
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@103.243.215.17:990#Malaysia
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.81:443#UK
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@149.202.82.172:6679#Frankreich
-trojan://3747000103274291200@93.114.98.133:443?sni=artistic-flounder.treefrog761.one#Rum%C3%A4nien
+vmess://eyJhZGQiOiAiczEuZGItbGluazAyLnRvcCIsICJ2IjogIjIiLCAicHMiOiAiVVNBIiwgInBvcnQiOiAyMDUyLCAiaWQiOiAiOTc1Y2IyZGEtNTQzNy0zN2M2LTg4YmEtNmEwOGI3NGVhNTNjIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogIjEwMC0xOTMtMTA0LTYxLnMxLmRiLWxpbmswMi50b3AiLCAicGF0aCI6ICIvZGFiYWkuaW4xMDQuMjEuMTY4LjE1OSIsICJ0bHMiOiAiIn0=
+vmess://eyJhZGQiOiAiNTcuMTI4LjE4NC4xMjciLCAidiI6ICIyIiwgInBzIjogIkZyYW5rcmVpY2giLCAicG9ydCI6IDQ0MywgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJ3cm1lbG13eGxmLmdrdGV2bHJxem53cXFvenkuZmFicGZzNjZnaXptbm9qaGN2cXh3bC5reXRyY2Z6cWxhODdndmd2czZjN2tqbnJ1YnVoLmNjIiwgInBhdGgiOiAiL2xpbmt2d3MiLCAidGxzIjogInRscyJ9
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.236:443#USA
+trojan://telegram-id-privatevpns@16.16.230.71:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#Schweden
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@217.182.198.219:4444#Deutschland
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@54.36.174.181:5003#Frankreich
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@67.220.95.102:5500#USA
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@54.36.174.181:8118#Frankreich
+trojan://3778399750324494336@trusting-titmouse.adder289.quest:443#Deutschland
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcEtBQmNPcE5OQTBsNUcyQVZPbXc4@213.109.147.242:62685#UK
+vmess://eyJhZGQiOiAiMTkzLjEwOC4xMTguMTM2IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICJmNzRlMjc3ZS04NGIzLTQ2YTItOGFiZC0yNzc3ZmE1ZTRhZjkiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogIjE1NzEzIiwgInBzIjogIkRldXRzY2hsYW5kIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.95.183:443#USA
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.47.131:443#USA
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@51.77.53.200:8882#Polen
+ss://YWVzLTI1Ni1nY206MUg1S1g1UVpCVU9XUDJQNA==@156.231.104.17:18007#Japan
+vmess://eyJhZGQiOiAiaG1zMjMuZml4ZWRmbG9hdGkuY2ZkIiwgInYiOiAiMiIsICJwcyI6ICJEZXV0c2NobGFuZCIsICJwb3J0IjogNDQzLCAiaWQiOiAiOTA3MmQzMzktMzg4NS00ZmUxLWIwYmMtMjlmYTc1MDU0MTBlIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogImZpeGVkZmxvYXRpLmNmZCIsICJwYXRoIjogIi9saW5rd3NkIiwgInRscyI6ICJ0bHMifQ==
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@67.220.95.102:5004#USA
 ```
 <h5>Die permanente Abonnementadresse des oberen Knotens (Teil): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_de</h5>
  <p>QR-Code für die Abonnementadresse oben</p>
