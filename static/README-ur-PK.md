@@ -35,21 +35,21 @@
  <h4>نوڈ کی فہرست: (یہاں صرف کچھ نوڈس دکھائے گئے ہیں، براہ کرم تمام نوڈس دیکھنے کے لیے ایپ ڈاؤن لوڈ کریں)</h4>
     
 ```
-vmess://eyJhZGQiOiAiMzguMTE0LjEyMC4xMiIsICJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIEtpbmdkb20iLCAicG9ydCI6IDQ3NTY3LCAiaWQiOiAiY2RhNWRmYWEtOTllOC00MmQ2LTlmMGItNmVmMzBmNzZlOTJjIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIiLCAidGxzIjogIiJ9
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@217.182.198.219:5003#Germany
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMSTRvYk9FSURMekRqZDd4WWxoaFRK@86.104.75.103:49264#Canada
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@54.36.174.181:7306#France
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.34.244.80:443#The+Netherlands
-trojan://ypDt8RkT7J@89.187.181.172:43118?sni=egcmi.phooeyunfold.com#United+States
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.62.161:443#Switzerland
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@142.202.48.105:3389#United+States
-vmess://eyJhZGQiOiAiczEuZGItbGluazAyLnRvcCIsICJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJwb3J0IjogMjA4NiwgImlkIjogIjUzMmUxNTQxLTRiNjUtMzQwOS04MWYxLTQzZjIwNjg0NjYxNSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIxMDAtMjM2LTE5NS02MS5zMS5kYi1saW5rMDIudG9wIiwgInBhdGgiOiAiL2RhYmFpLmluMTcyLjY0LjIuNTkiLCAidGxzIjogIiJ9
-trojan://3747000103274291200@85.90.194.160:443?security=tls&sni=awaited-chicken.adder289.quest#Luxembourg
-vmess://eyJhZGQiOiAiMjAyLjc4LjE2Mi41IiwgImFpZCI6IDAsICJob3N0IjogInNhaGFuZC5zZXJ2ZW1pbmVjcmFmdC5uZXQiLCAiaWQiOiAiMTE4Mjg3ZDItZTk2OC00MmUxLTgwZDAtMTJmYTJmNWQzOGQ2IiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9AZm9yd2FyZHYycmF5IiwgInBvcnQiOiA0NDMsICJwcyI6ICJMdXhlbWJvdXJnIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIn0=
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@149.202.82.172:3389#France
-vmess://eyJhZGQiOiAiMTA3LjE0OS4xODkuNzAiLCAidiI6ICIyIiwgInBzIjogIlVuaXRlZCBTdGF0ZXMiLCAicG9ydCI6IDM3MDAyLCAiaWQiOiAiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwgImFpZCI6ICI2NCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIvcGF0aC8xNzM5MDM2OTg1NzMzIiwgInRscyI6ICJ0bHMifQ==
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@103.106.228.132:990#Japan
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.158.171.110:8080#United+States
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@142.202.49.84:8118#United+States
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.180:443#United+Kingdom
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@142.4.216.225:80#Canada
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MmJiMzA3Mi03ZWZkLTRkNjctOWJlYi0yY2Q5YzE4ZTY5ZjQ=@th.fastsoonlink.com:40009#Thailand
+vmess://eyJhZGQiOiAiMTA0LjIxLjYuMjAxIiwgInYiOiAiMiIsICJwcyI6ICJVbml0ZWQgU3RhdGVzIiwgInBvcnQiOiA0NDMsICJpZCI6ICJkMTNmYzJmNS0zZTA1LTQ3OTUtODFlYi00NDE0M2EwOWU1NTIiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiaGtuYnlpdmZmZmouc2l0ZSIsICJwYXRoIjogIi9yYnFxdndzIiwgInRscyI6ICJ0bHMifQ==
+trojan://3778399737045327872@flying-tuna.treefrog761.one:443#Singapore
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.10:8080#Lithuania
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@185.177.229.224:8000#Germany
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.121.43.97:8091#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNlpDSGVhYlVTZktqZlFFdko0SERW@185.242.86.156:54170#The+Netherlands
+vmess://eyJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIEtpbmdkb20iLCAiYWRkIjogIjE0OS43LjE2LjE0OSIsICJwb3J0IjogMzcxMDEsICJpZCI6ICJmYjNmYzI0My00Njk4LTQ5YzQtOGM0NC0wNDE1ZjY4YTRkMjUiLCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIm5vbmUiLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWV9
+trojan://3774827088566296576@next-hippo.treefrog761.one:443#Spain
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@54.36.174.181:5000#France
+trojan://3782591447421952000@equipped-mouse.treefrog761.one:443?sni=equipped-mouse.treefrog761.one#South+Korea
+trojan://tg-fq521free@45.67.215.95:443?security=tls&sni=torjan.xn--xhq44j.eu.org&type=ws&host=torjan.xn--xhq44j.eu.org&path=/#Russia
 ```
 <h5>اوپری نوڈ کا مستقل رکنیت کا پتہ (حصہ): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ur-PK</h5>
  <p>اوپر سبسکرپشن ایڈریس کے لیے QR کوڈ</p>

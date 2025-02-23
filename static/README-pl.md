@@ -35,21 +35,21 @@
  <h4>Lista węzłów: (wyświetlane są tutaj tylko niektóre węzły. Pobierz aplikację, aby wyświetlić wszystkie węzły)</h4>
     
 ```
-trojan://3787016351714123776@huge-katydid.treefrog761.one:443?allowInsecure=1&sni=huge-katydid.treefrog761.one#Sweden
-vmess://eyJhZGQiOiAiMTcyLjY3LjEzMy43OCIsICJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJwb3J0IjogODQ0MywgImlkIjogImU4OGI4NWM2LTkzYjQtNDdmNi1iM2ZiLTJjNTVkY2IxMjg5ZiIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJsYXgyLmliZ2Z3LnRvcCIsICJwYXRoIjogIi9keWFqdndzIiwgInRscyI6ICJ0bHMifQ==
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWEdwMStpaGxmS2c4MjZI@185.177.229.245:1866#Germany
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOakJsWkRsaw==@89.221.224.166:8388#Iceland
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyYWZiYzk3NDAwY2E3MWM4ZjMzMDZmOTg0M2E2ZTFjMg==@216.250.97.118:443#Hong+Kong
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.121.43.71:8888#United+States
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@142.202.48.105:5003#United+States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxN3ZuSzlWcTdMU2U1cGd3SkhnUEI0@81.19.141.45:443#Germany
-vmess://eyJhZGQiOiAiOTYuMzAuMTk0LjQ5IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIm1vaS5pciIsICJpZCI6ICJkYjVhZmFlNC1hYzIzLTQxYTYtODM3OC1mMzA3YTlhNDc0MzYiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogIjg4ODEiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJodHRwIiwgInYiOiAiMiJ9
-trojan://94d219c9-1afc-4d42-b090-8b3794764380@bs1.loadingip.com:443#Vietnam
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.121.43.97:7306#United+States
-vmess://eyJhZGQiOiAiMzguMTExLjExNC4xNTMiLCAiYWlkIjogIjAiLCAiaG9zdCI6ICIiLCAiaWQiOiAiMDE0NmZjNDAtNTk2Mi00ZTlhLWIzNmEtMmI2MDZkMDAxNDY3IiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIiLCAicG9ydCI6ICIxNDgxMiIsICJwcyI6ICJDYW5hZGEiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiIiwgInYiOiAiMiJ9
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.121.43.71:7001#United+States
-vmess://eyJhZGQiOiAibnkxLmJ1bGtjYXNoLnRvcCIsICJ2IjogIjIiLCAicHMiOiAiQ2FuYWRhIiwgInBvcnQiOiA0MTUwNywgImlkIjogIjY5NWFjMGEzLTQwNmEtNDFkNy04M2M1LTVhZjhjMzlkM2JlYyIsICJhaWQiOiAiNSIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIvIiwgInRscyI6ICJ0bHMifQ==
-vmess://eyJhZGQiOiAiMTA0LjE3LjIxMy4yNDEiLCAidiI6ICIyIiwgInBzIjogIlVuaXRlZCBTdGF0ZXMiLCAicG9ydCI6IDgwLCAiaWQiOiAiYjlhMzIwNmQtMjc4Yy00NjE0LWIzNTItZWVmNjMyZDFjOGQ1IiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogImtyLmNmeXlkcy5maWxlZ2Vhci1zZy5tZSIsICJwYXRoIjogIi9yb25nc2V2ZW4/ZWQ9MjA0OCIsICJ0bHMiOiAiIn0=
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowenlEUloxWG1OWGFhQ0FON0tFQThh@45.151.62.54:28825#Germany
+ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@67.220.95.102:5498#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.10:8080#Lithuania
+trojan://3747000103274291200@95.85.93.172:443?security=tls&sni=content-shrimp.pigeon031.one&type=tcp#Luxembourg
+ss://YWVzLTI1Ni1nY206VVE2Mks4Rzg4VkdCTlpYTw==@156.245.190.24:15015#Hong+Kong
+vmess://eyJhZGQiOiAiaG1zMjMuZml4ZWRmbG9hdGkuY2ZkIiwgInYiOiAiMiIsICJwcyI6ICJHZXJtYW55IiwgInBvcnQiOiA0NDMsICJpZCI6ICI5MDcyZDMzOS0zODg1LTRmZTEtYjBiYy0yOWZhNzUwNTQxMGUiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiZml4ZWRmbG9hdGkuY2ZkIiwgInBhdGgiOiAiL2xpbmt3c2QiLCAidGxzIjogInRscyJ9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyVXJTZmZlTkFCWEdYWGZOaG9MNnhCVW5oMVJ6cU1penJRMnM5UWZDMzhQMllQdVlQUlRxVzV6Wmc2akdpc2lOaGt6TTRTUmpGNm56dkZiMThHUHRFU1dvWFdqaHF5Qzg=@198.105.123.190:46902#The+Netherlands
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@145.239.6.202:2376#United+Kingdom
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@connectwithemployers.online:443#Singapore
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@54.36.174.181:5001#France
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@67.220.95.102:7306#United+States
+ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@23.150.152.16:6379#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMTVNOaDIxVHJYalIyb2syNVEybkU4RU5UMnpvQm1QdmthM1JDQ1VBSFpFTENuV29la1ZqdmFmODlxd2NSa2RieEVmZXAyYmMyYVV0bW54cXZGMWF5UVJlejFKSGpVTGo=@185.24.151.214:52952#Iran
+trojan://3747000103274291200@95.85.93.45:443?security=tls&sni=simple-coyote.adder289.quest&type=tcp#Luxembourg
+trojan://bpb-trojan@104.26.5.60:443?security=tls&sni=zamim340.ggff.net&type=ws&host=zamim340.ggff.net&path=%2Ftr%3Fed%3D2560#United+States
 ```
 <h5>Stały adres subskrypcji górnego węzła (część): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_pl</h5>
  <p>Kod QR dla adresu subskrypcji powyżej</p>

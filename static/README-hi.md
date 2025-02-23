@@ -35,21 +35,21 @@
  <h4>नोड सूची: (यहां केवल कुछ नोड्स प्रदर्शित हैं, कृपया सभी नोड्स देखने के लिए ऐप डाउनलोड करें)</h4>
     
 ```
-vmess://eyJhZGQiOiAiaGt2bS5nZWNzLnRvcCIsICJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJwb3J0IjogNDQzLCAiaWQiOiAiMGEzY2QwNjItMjQxYS00M2ZjLTljNTAtZWNjYWNiYmQ1YWFlIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogImhrdm0uZ2Vjcy50b3AiLCAicGF0aCI6ICIvdm0iLCAidGxzIjogInRscyJ9
-vmess://eyJ2IjogIjIiLCAicHMiOiAiU2luZ2Fwb3JlIiwgImFkZCI6ICIxMDkuMTIzLjIzMi43NCIsICJwb3J0IjogNTkwMzIsICJpZCI6ICI5NmFiN2UxZi1iZjBkLTQ1Y2QtOGViYy1jOGJlMmY4ZDQzY2QiLCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIm5vbmUiLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWV9
-ss://YWVzLTI1Ni1nY206RVhDQjNLS1cwR1hRM0VDRA==@154.196.244.19:16009#Singapore
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.244:443#United+States
-ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@38.121.43.71:9101#United+States
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@54.36.174.181:8881#France
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@142.202.49.122:5500#United+States
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@51.77.53.200:8009#Poland
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.78:443#United+Kingdom
-vmess://eyJhZGQiOiAiMTcyLjExMS4zNi4xMDgiLCAiYWlkIjogMCwgImhvc3QiOiAid3JtZWxtd3hsZi5na3RldmxycXpud3Fxb3p5LmZhYnBmczY2Z2l6bW5vamhjdnF4d2wua3l0cmNmenFsYTg3Z3ZndnM2Yzdram5ydWJ1aC5jYyIsICJpZCI6ICIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL2xpbmt2d3MiLCAicG9ydCI6IDQ0MywgInBzIjogIlVuaXRlZCBTdGF0ZXMiLCAidGxzIjogInRscyIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIifQ==
+vmess://eyJhZGQiOiAiMTA0LjIxLjgyLjE4MyIsICJhaWQiOiAwLCAiaG9zdCI6ICJzZXJ2ZXIyNi5iZWhlc2h0YmFuZWguY29tIiwgImlkIjogIjVhNzAyMWUwLTI2YjQtNDVkNi1iMTc1LWZlNTUxNjAxY2E5NyIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgInBvcnQiOiA4ODgwLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJ0bHMiOiAiIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiJ9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyYWZiYzk3NDAwY2E3MWM4ZjMzMDZmOTg0M2E2ZTFjMg==@43.249.36.70:443#Hong+Kong
+ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@67.220.95.102:5499#United+States
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.91.102.72:8882#United+States
+trojan://4732adfa16c6450bbef87264e41332db@nextstepcareer.online:443#Germany
+trojan://telegram-id-privatevpns@3.124.23.129:22222?security=tls&sni=trojan.burgerip.co.uk#Germany
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.134.94.168:3389#United+States
+trojan://3747000103274291200@cuddly-slug.treefrog761.one:443?security=tls&sni=cuddly-slug.treefrog761.one#United+Kingdom
+trojan://amclubs2024@154.83.2.200:443?security=tls&sni=tr.amclub.us.kg&type=ws&host=tr.amclub.us.kg&path=%2F%3Fed%3D2560&fp=randomized#Seychelles
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@51.77.53.200:2375#Poland
+ss://YWVzLTI1Ni1nY206MUg1S1g1UVpCVU9XUDJQNA==@156.231.104.17:18007#Japan
 trojan://3747000103274291200@integral-malamute.adder289.quest:443#Hungary
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2Y1VwWkNKek91YVZvTjhPTDJjWXZL@78.129.140.11:443#United+Kingdom
-ss://YWVzLTI1Ni1nY206NTNSSVVRRFpSM0IyM1RBMw==@156.231.104.18:18008#Japan
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@54.36.174.181:6379#France
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@38.121.43.71:6697#United+States
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.121.43.71:5500#United+States
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@145.239.6.202:4444#United+Kingdom
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@149.202.82.172:8888#France
 ```
 <h5>ऊपरी नोड (भाग) का स्थायी सदस्यता पता: https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_hi</h5>
  <p>उपरोक्त सदस्यता पते के लिए QR कोड</p>

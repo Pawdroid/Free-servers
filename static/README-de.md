@@ -35,21 +35,21 @@
  <h4>Knotenliste: (Hier werden nur einige Knoten angezeigt. Bitte laden Sie die App herunter, um alle Knoten anzuzeigen.)</h4>
     
 ```
-vmess://eyJhZGQiOiAiNTcuMTI5LjI1LjIwIiwgInYiOiAiMiIsICJwcyI6ICJGcmFua3JlaWNoIiwgInBvcnQiOiA0NDMsICJpZCI6ICIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCAiYWlkIjogIjEiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiNTcuMTI5LjI1LjIwIiwgInBhdGgiOiAibGlua3Z3cyIsICJ0bHMiOiAidGxzIn0=
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.62.162:443#Schweiz
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@149.202.82.172:5601#Frankreich
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@149.202.82.172:8888#Frankreich
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNlpDSGVhYlVTZktqZlFFdko0SERW@185.242.86.156:54170#Niederlande
-trojan://3747000103274291200@awaited-chicken.adder289.quest:443#Luxemburg
-trojan://bpb-trojan@172.67.70.92:443?security=tls&sni=zamim340.ggff.net&type=ws&host=zamim340.ggff.net&path=%2Ftr%3Fed%3D2560#USA
-vmess://eyJ2IjogIjIiLCAicHMiOiAiSG9uZ2tvbmciLCAiYWRkIjogIjEwMy4xNDkuMTgzLjE3OCIsICJwb3J0IjogIjI3NTEyIiwgImlkIjogIjk2ZDM4NjgzLTA4MTctNGQ5MS1iZmZhLTZmMDNkZjE4ZDlkYyIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiIiwgInRscyI6ICIiLCAic25pIjogIiIsICJ0ZXN0X25hbWUiOiAiSEsifQ==
-ss://YWVzLTI1Ni1nY206MEE4NzZYWlVaWDkzTjM3MQ==@156.231.104.20:18010#Japan
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@217.182.198.219:7306#Deutschland
-vmess://eyJhZGQiOiAiMTcyLjY3LjIwMC4xMyIsICJ2IjogIjIiLCAicHMiOiAiVVNBIiwgInBvcnQiOiA0NDMsICJpZCI6ICI1ZjcyNmZlMy1kODJlLTRkYTUtYTcxMS04YWYwY2JiMmI2ODIiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiMWEyZDUxNGItMzdjZi00OTlmLThkMDgtZDAxN2E5MmFiNWJiLmFzb3VsLWF2YS50b3AiLCAicGF0aCI6ICIvYXp1bWFzZS5yZW4iLCAidGxzIjogInRscyJ9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@192.71.249.146:990#Belgien
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@67.220.95.102:6697#USA
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@38.121.43.71:6697#USA
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyYmUwYzk1NC00MjkxLTQ1ZWEtYjQ3ZC1jYTcxMzE4MDU1MGI=@hk01.x.quickcht3.club:52611#Hongkong
+trojan://telegram-id-privatevpns@13.53.109.250:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#Schweden
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMSTRvYk9FSURMekRqZDd4WWxoaFRK@86.104.75.103:49264#Kanada
+ss://YWVzLTI1Ni1nY206OFdETFNDVklGQjRJMjZHQg==@154.196.244.21:16011#Singapur
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@64.74.163.130:990#USA
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@217.182.198.219:8090#Deutschland
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@uk-dc1.yangon.club:443#UK
+ss://YWVzLTI1Ni1nY206UEdGMlRHVUNIUUJDNUlQNQ==@156.231.104.26:18016#Japan
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MmJiMzA3Mi03ZWZkLTRkNjctOWJlYi0yY2Q5YzE4ZTY5ZjQ=@tur.fastsoonlink.com:40019#T%C3%BCrkei
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@139.64.165.101:5601#USA
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@51.77.53.200:5003#Polen
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.178:8080#Litauen
+trojan://94d219c9-1afc-4d42-b090-8b3794764380@103.238.235.140:443?sni=std1.loadingip.com#Vietnam
+vmess://eyJhZGQiOiAiMTQyLjQuMTA4LjE0MSIsICJhaWQiOiA2NCwgImhvc3QiOiAiIiwgImlkIjogIjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvcGF0aC8xNzIzNDU3NjE1MDMyIiwgInBvcnQiOiAzODAwNywgInBzIjogIlVTQSIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiJ9
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.107.226.238:2375#USA
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@54.36.174.181:2376#Frankreich
 ```
 <h5>Die permanente Abonnementadresse des oberen Knotens (Teil): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_de</h5>
  <p>QR-Code für die Abonnementadresse oben</p>
