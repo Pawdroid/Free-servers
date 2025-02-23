@@ -35,20 +35,21 @@
 <h4>Node list: (Only some nodes are shown here, please download the app to view all nodes)</h4>
     
 ```
-ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@217.182.198.219:9101#Germany
-vmess://eyJhZGQiOiAiMTQyLjQuMTA4LjE0MCIsICJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJwb3J0IjogMzgwMDcsICJpZCI6ICI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCAiYWlkIjogIjY0IiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIi9wYXRoLzA4MTQxMjExMDQxOCIsICJ0bHMiOiAidGxzIn0=
-vmess://eyJhZGQiOiAiMjAuNzguMTI3LjE0MSIsICJ2IjogIjIiLCAicHMiOiAiSmFwYW4iLCAicG9ydCI6IDU1MCwgImlkIjogIjllMTFlOTkyLWMzYTQtNDVmYi1iYjY3LTVmNGY0MmZjZDU1MSIsICJhaWQiOiAiMCIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiIiwgInRscyI6ICIifQ==
-trojan://3747000103274291200@cuddly-slug.treefrog761.one:443?sni=cuddly-slug.treefrog761.one#United+Kingdom
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@ca225.vpnbook.com:80#Canada
-trojan://3774827088566296576@95.110.142.205:443?sni=destined-cub.treefrog761.one#Italy
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@181.119.30.20:990#Colombia
+trojan://696cfe79@sje.5216818.xyz:443#United+States
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.121.43.97:5000#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPVFZsTXpjeQ==@185.231.205.179:8388#France
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.121.43.97:8881#United+States
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@149.202.82.172:8118#France
+trojan://3778399737045327872@divine-slug.adder289.quest:443?security=tls#United+Kingdom
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.121.43.71:5003#United+States
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@69.50.95.203:443#United+States
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@149.202.82.172:7001#France
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@67.220.95.102:8091#United+States
+vmess://eyJ2IjogIjIiLCAicHMiOiAiU2luZ2Fwb3JlIiwgImFkZCI6ICIxNTQuMjYuMTI5LjI0NyIsICJwb3J0IjogNTcxNDMsICJpZCI6ICIyOGVmYmYzNi0wNzlhLTRjOTgtODQ3MC1kMTM0NThkYjZlZTYiLCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIm5vbmUiLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWV9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.126.239.250:990#Russia
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@54.36.174.181:7001#France
-vmess://eyJhZGQiOiAiNDUuMTQ0LjQ4LjEyOCIsICJ2IjogIjIiLCAicHMiOiAiUG9sYW5kIiwgInBvcnQiOiA4MCwgImlkIjogIjEwZTJmZjY1LTBlMjAtNDYyZC1hMjgyLTE2NGU0OGI5NTVhOSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIzaC1wb2xhbmQxLjA5dnBuLmNvbSIsICJwYXRoIjogIi92bWVzcy8iLCAidGxzIjogIiJ9
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.121.43.71:443#United+States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@103.106.228.132:990#Japan
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.47.253.227:990#Ecuador
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@38.121.43.97:6697#United+States
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@217.182.198.219:5003#Germany
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGamdHTk5IUWlFTHp4WG1hSFJ4eHRRYnhERHZHWEZ4WWRUYlllOTFKS1pzanZLTEhvWTlybjlydVlFNDUzNzdXanRVM200a21YUVpEWGlIQkpzZ1ZmaG1wYXdFb0d2cTk=@mx2.drawnrisha.one:55988#United+Kingdom
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpraFJhVnBxcnhDaUpsdnlTbjlKM2VF@77.83.246.74:443#Poland
 ```
 <h5>Permanent subscription address of the node above (part): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_en</h5>
 <p>QR code of the subscription address above</p>

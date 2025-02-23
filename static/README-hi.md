@@ -35,20 +35,21 @@
  <h4>नोड सूची: (यहां केवल कुछ नोड्स प्रदर्शित हैं, कृपया सभी नोड्स देखने के लिए ऐप डाउनलोड करें)</h4>
     
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVUzR0c2tKYVlTdEJQVUt2Y05Wa2YwUFZoWGJzQUdDTnZyaGJmWnlidE94OXUyY0Y=@103.174.86.114:51348#India
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplU0hFZEp6OTZycU5rT0NBemQ1Q3N2@94.131.123.147:7383#T%C3%BCrkiye
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@103.104.247.72:8080#The+Netherlands
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.121.43.71:7307#United+States
-ss://YWVzLTI1Ni1nY206VFFRR1dHMDI0VzJCRjZSUA==@156.231.104.19:18009#Japan
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.93.173.218:990#Bolivia
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@23.154.136.106:5500#United+States
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@67.220.95.102:8091#United+States
-trojan://telegram-id-privatevpns@13.36.124.133:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#France
-ss://YWVzLTI1Ni1nY206UEdGMlRHVUNIUUJDNUlQNQ==@156.231.104.26:18016#Japan
-trojan://3747000103274291200@polished-collie.adder289.quest:443#India
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@67.220.95.102:6379#United+States
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.121.43.71:5500#United+States
-trojan://3747000103274291200@ultimate-civet.adder289.quest:443#United+Kingdom
+trojan://telegram-id-privatevpns@54.220.248.101:22222?sni=trojan.burgerip.co.uk#Ireland
+vmess://eyJhZGQiOiAiZ292LnVrIiwgInYiOiAiMiIsICJwcyI6ICJVbml0ZWQgU3RhdGVzIiwgInBvcnQiOiA0NDMsICJpZCI6ICI3Nzg0ODgyNC05M2I3LTRiODktZmZkMC1lOTFhZmZmNDA2Y2UiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiemhlc2hpc2NwLmNvbSIsICJwYXRoIjogIi83Nzg0ODgyNCIsICJ0bHMiOiAidGxzIn0=
+vmess://eyJhZGQiOiAiMzguMTQuMTA3LjIyOCIsICJhaWQiOiA2NCwgImhvc3QiOiAid3d3LjIzMTc5NzUzLnh5eiIsICJpZCI6ICI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL3BhdGgvMTgxNzIxMjcyMTE0IiwgInBvcnQiOiAzODAwMywgInBzIjogIlVuaXRlZCBTdGF0ZXMiLCAidGxzIjogInRscyIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIifQ==
+trojan://telegram-id-privatevpns@3.124.23.129:22222?sni=trojan.burgerip.co.uk#Germany
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvMzh5dXZ6U2UzbTVhRE5wSHRVUEgxekd3YkdFWFhNRHNHd1ZhdWIyU1lFbUhVYTJXR1pVamllelgzVnZ2YTlDQ3pwanhZdHVKTGdLc1Nuc3lLQmY5Y2lQVmJhM3k0bzM=@beta.mattenadene.org:54075#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@119.59.98.58:990#Thailand
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.179:8080#The+Netherlands
+vmess://eyJhZGQiOiAiMTAzLjY3Ljc5LjE1NyIsICJhaWQiOiAiMCIsICJob3N0IjogIiIsICJpZCI6ICI3ZDJhNGU2Ni0xNTJjLTQ5ZjUtOWZmNS1jMTlhODM2ZThjODkiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogIjQ1MzY1IiwgInBzIjogIkluZG9uZXNpYSIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZX0=
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyYWZiYzk3NDAwY2E3MWM4ZjMzMDZmOTg0M2E2ZTFjMg==@hong-kong.keenvpn.me:443#Hong+Kong
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@217.182.198.219:2376#Germany
+ss://YWVzLTI1Ni1nY206OFdETFNDVklGQjRJMjZHQg==@154.196.244.21:16011#Singapore
+vmess://eyJhZGQiOiAiMTA0LjE2LjE1NS4xMCIsICJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJwb3J0IjogMjA4MiwgImlkIjogIjEzNTE0YzJjLWQ1YTQtMzM1Zi05NjVhLTVkYzI5MmUzNjc1OSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIxMDAtODctMTYwLTI1Mi5zMi5kYi1saW5rMDIudG9wIiwgInBhdGgiOiAiL2RhYmFpLmluMTA0LjI0LjYwLjIwMCIsICJ0bHMiOiAiIn0=
+vmess://eyJhZGQiOiAiMi41OC44Ny4yMjEiLCAidiI6ICIyIiwgInBzIjogIlVuaXRlZCBTdGF0ZXMiLCAicG9ydCI6IDE0NTU1LCAiaWQiOiAiNmM3NjRhMDMtYmIxYS00YmM2LWJhY2EtNDUyNDUzZmNlMWFlIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIi8iLCAidGxzIjogInRscyJ9
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@51.77.53.200:8080#Poland
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.86.135.211:8080#United+States
 ```
 <h5>ऊपरी नोड (भाग) का स्थायी सदस्यता पता: https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_hi</h5>
  <p>उपरोक्त सदस्यता पते के लिए QR कोड</p>

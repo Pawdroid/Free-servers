@@ -35,20 +35,21 @@
  <h4>Lista de nodos: (aquí solo se muestran algunos nodos; descargue la aplicación para ver todos los nodos)</h4>
     
 ```
-trojan://3782591447421952000@43.200.228.143:443?sni=equipped-mouse.treefrog761.one#Corea+del+Sur
-vmess://eyJhZGQiOiAiNTcuMTI5LjI0LjE0MSIsICJhaWQiOiAwLCAiaG9zdCI6ICIiLCAiaWQiOiAiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9saW5rdndzIiwgInBvcnQiOiA0NDMsICJwcyI6ICJBbGVtYW5pYSIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiJ9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpydFI0WVg3NHZ3cVJKdTlNR0gzZTFOM0NRZEdNV0NVRmt5TGlzaWppRnV2aGtVOU1jVjVUcHlnZmtlcm5KNFVRZTYzSnRjRFFrclE5SGZjaHpxUXoxa0xDblRSb3I4amc=@107.181.155.244:55330#Reino+Unido
-vmess://eyJhZGQiOiAidmlzYS5jb20iLCAidiI6ICIyIiwgInBzIjogIkVzdGFkb3MgVW5pZG9zIiwgInBvcnQiOiA0NDMsICJpZCI6ICIzZmRhZWY5OC02ZmI0LTQ5ZTktODRlYi1iZGZiZTNjMzJiNTEiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiaGFuZ3VvLmRhbHVxdWFuLnRvcCIsICJwYXRoIjogIi8iLCAidGxzIjogInRscyJ9
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@162.251.63.123:5004#Estados+Unidos
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@142.202.48.105:2376#Estados+Unidos
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMTVNOaDIxVHJYalIyb2syNVEybkU4RU5UMnpvQm1QdmthM1JDQ1VBSFpFTENuV29la1ZqdmFmODlxd2NSa2RieEVmZXAyYmMyYVV0bW54cXZGMWF5UVJlejFKSGpVTGo=@185.24.151.214:52952#Ir%C3%A1n
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.143.66.20:3389#Estados+Unidos
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@51.77.53.200:5004#Polonia
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@217.182.198.219:5000#Alemania
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.255.123.92:990#Nigeria
-ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@51.77.53.200:9102#Polonia
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@54.36.174.181:8888#Francia
-trojan://amclubs2024@198.62.62.4:443?security=tls&sni=tr.amclub.us.kg&type=ws&host=tr.amclub.us.kg#Estados+Unidos
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@69.50.95.203:8888#Estados+Unidos
+vmess://eyJhZGQiOiAicHEtYnJhemlsMS4wOXZwbi5jb20iLCAidiI6ICIyIiwgInBzIjogIkdpYnJhbHRhciIsICJwb3J0IjogODAsICJpZCI6ICJjMDRjM2IzNC03MGZkLTRmZWMtOTYzZS1jMTJkMDlmMzZiZWYiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAicHEtYnJhemlsMS4wOXZwbi5jb20iLCAicGF0aCI6ICIvdm1lc3MvIiwgInRscyI6ICIifQ==
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@169.150.202.174:990#Israel
+trojan://3774827088566296576@185.67.125.78:443?sni=deciding-mantis.treefrog761.one#India
+trojan://bpb-trojan@104.26.4.60:443?security=tls&sni=zamim340.ggff.net&type=ws&host=zamim340.ggff.net&path=%2Ftr%3Fed%3D2560#Estados+Unidos
+trojan://3774827088566296576@194.62.96.160:443?sni=next-hippo.treefrog761.one#Espa%C3%B1a
+vmess://eyJhZGQiOiAiNDUuMTQ0LjQ4LjEyOCIsICJ2IjogIjIiLCAicHMiOiAiUG9sb25pYSIsICJwb3J0IjogODQ0MywgImlkIjogImE0ODUwNDgxLTliOTUtNDMwZi05YjJkLTE5MmQyNDEwYjRmNCIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIvdm1lc3MvIiwgInRscyI6ICJ0bHMifQ==
+vmess://eyJhZGQiOiAiMTkzLjEwOC4xMTguMTM2IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICJmNzRlMjc3ZS04NGIzLTQ2YTItOGFiZC0yNzc3ZmE1ZTRhZjkiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogIjE1NzEzIiwgInBzIjogIkFsZW1hbmlhIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOekpoTURjMQ==@us1.opensocks.site:8388#Estados+Unidos
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQUFhiOEoyY2lEeWJva1dsN2t4S2Fi@45.144.54.156:51587#Eslovenia
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@51.77.53.200:4444#Polonia
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@217.182.198.219:6697#Alemania
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.121.43.71:443#Estados+Unidos
+vmess://eyJhZGQiOiAiNTcuMTI4LjE4NC4xMjciLCAidiI6ICIyIiwgInBzIjogIkZyYW5jaWEiLCAicG9ydCI6IDQ0MywgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJ3cm1lbG13eGxmLmdrdGV2bHJxem53cXFvenkuZmFicGZzNjZnaXptbm9qaGN2cXh3bC5reXRyY2Z6cWxhODdndmd2czZjN2tqbnJ1YnVoLmNjIiwgInBhdGgiOiAiL2xpbmt2d3MiLCAidGxzIjogInRscyJ9
+ss://YWVzLTI1Ni1nY206MWNjN2FkNWYtYzliYy00MTM4LTg0OWEtMDJhZWVjOGUzN2E3@141.94.115.231:8443#Francia
 ```
 <h5>La dirección de suscripción permanente del nodo superior (parte): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_es</h5>
  <p>Código QR para la dirección de suscripción anterior</p>
