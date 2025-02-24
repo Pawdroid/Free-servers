@@ -35,20 +35,20 @@
  <h4>Knotenliste: (Hier werden nur einige Knoten angezeigt. Bitte laden Sie die App herunter, um alle Knoten anzuzeigen.)</h4>
     
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@154.90.37.139:990#Philippinen
-trojan://3774827088566296576@flying-tuna.treefrog761.one:443#Singapur
-trojan://696cfe79@sje.5216818.xyz:443#USA
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.162:8080#Niederlande
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVUzR0c2tKYVlTdEJQVUt2Y05Wa2YwUFZoWGJzQUdDTnZyaGJmWnlidE94OXUyY0Y=@103.174.86.114:51348#Indien
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@149.202.82.172:5001#Frankreich
-ss://YWVzLTI1Ni1nY206N0JjTGRzTzFXd2VvR0QwWA==@193.243.147.128:40368#Frankreich
-ss://YWVzLTI1Ni1nY206aVVCMDkyM1JCQQ==@154.3.8.151:30067#USA
-trojan://3747000103274291200@95.85.93.45:443?security=tls&sni=simple-coyote.adder289.quest&type=tcp#Luxemburg
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@54.36.174.181:4444#Frankreich
-trojan://3747000103274291200@probable-drum.treefrog761.one:443#Singapur
-vmess://eyJhZGQiOiAiMTA3LjE3NS45Ni43NCIsICJ2IjogIjIiLCAicHMiOiAiS2FuYWRhIiwgInBvcnQiOiA0MTUwNywgImlkIjogIjY5NWFjMGEzLTQwNmEtNDFkNy04M2M1LTVhZjhjMzlkM2JlYyIsICJhaWQiOiAiNSIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJueTEuYnVsa2Nhc2gudG9wIiwgInBhdGgiOiAiLyIsICJ0bHMiOiAidGxzIn0=
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.121.43.71:8091#USA
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.167:443#USA
+vmess://eyJhZGQiOiAiNTcuMTI4LjE4NC4xMjciLCAidiI6ICIyIiwgInBzIjogIkZyYW5rcmVpY2giLCAicG9ydCI6IDQ0MywgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJ3cm1lbG13eGxmLmdrdGV2bHJxem53cXFvenkuZmFicGZzNjZnaXptbm9qaGN2cXh3bC5reXRyY2Z6cWxhODdndmd2czZjN2tqbnJ1YnVoLmNjIiwgInBhdGgiOiAiL2xpbmt2d3MiLCAidGxzIjogInRscyJ9
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@145.239.6.202:3306#UK
+ss://YWVzLTI1Ni1nY206TUhaVUVPWDNLQlhBVjA5Sw==@156.245.190.16:15007#Hongkong
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.121.43.97:8881#USA
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@54.36.174.181:7306#Frankreich
+ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@149.202.82.172:445#Frankreich
+ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@69.50.95.203:5498#USA
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.80:443#UK
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@169.150.202.174:990#Israel
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@217.182.198.219:8091#Deutschland
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@149.202.82.172:6679#Frankreich
+ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@ns3849026.ip-217-182-198.eu:445#Deutschland
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@103.104.247.49:8080#Niederlande
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.47.132:443#USA
 ```
 <h5>Die permanente Abonnementadresse des oberen Knotens (Teil): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_de</h5>
  <p>QR-Code für die Abonnementadresse oben</p>

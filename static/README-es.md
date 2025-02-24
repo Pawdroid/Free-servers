@@ -35,20 +35,20 @@
  <h4>Lista de nodos: (aquí solo se muestran algunos nodos; descargue la aplicación para ver todos los nodos)</h4>
     
 ```
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@54.36.174.181:3389#Francia
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.178:443#Reino+Unido
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@139.64.165.101:8090#Estados+Unidos
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.121.43.71:3306#Estados+Unidos
-trojan://telegram-id-privatevpns@54.194.18.173:22222?security=tls&sni=trojan.burgerip.co.uk#Irlanda
-trojan://3747000103274291200@38.60.217.170:443?security=tls&sni=dynamic-tomcat.treefrog761.one&type=tcp&fp=chrome&allowInsecure=1#Pakist%C3%A1n
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.233:8080#Holanda
-trojan://3747000103274291200@grateful-glowworm.treefrog761.one:443#M%C3%A9xico
-vmess://eyJhZGQiOiAiNTcuMTI5LjI0LjEyNCIsICJ2IjogIjIiLCAicHMiOiAiQWxlbWFuaWEiLCAicG9ydCI6IDQ0MywgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJ3cm1lbG13eGxmLmdrdGV2bHJxem53cXFvenkuZmFicGZzNjZnaXptbm9qaGN2cXh3bC5reXRyY2Z6cWxhODdndmd2czZjN2tqbnJ1YnVoLmNjIiwgInBhdGgiOiAiL2xpbmt2d3MiLCAidGxzIjogInRscyJ9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2ZWRUdU45V1N1ZlRrWWh2ZkpEMGpz@77.239.122.39:2239#Reino+Unido
-trojan://3747000103274291200@85.90.194.160:443?sni=awaited-chicken.adder289.quest#Luxemburgo
-ss://YWVzLTI1Ni1nY206VFFRR1dHMDI0VzJCRjZSUA==@156.231.104.19:18009#Jap%C3%B3n
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.121.43.71:5601#Estados+Unidos
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@51.68.206.229:8080#Reino+Unido
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.213.20.227:990#Italia
+vmess://eyJ2IjogIjIiLCAicHMiOiAiRXN0YWRvcyBVbmlkb3MiLCAiYWRkIjogIjE1LjIwNC44Ni4xMjAiLCAicG9ydCI6ICIzNTY5NiIsICJpZCI6ICJjYWQwNTA0YS1hOWRjLTRkMjktODg0NC1iMTFiNjlmMTRhOGQiLCAiYWlkIjogIjAiLCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIiLCAidGxzIjogIiIsICJzbmkiOiAiIiwgImFscG4iOiAiIn0=
+trojan://3747000103274291200@fond-moth.treefrog761.one:443?security=tls&sni=fond-moth.treefrog761.one#Reino+Unido
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.121.43.71:8090#Estados+Unidos
+vmess://eyJ2IjogIjIiLCAicHMiOiAiQWxlbWFuaWEiLCAiYWRkIjogIjYyLjE0Ni4yMzMuMTU5IiwgInBvcnQiOiA0Mzc2MywgImlkIjogIjFkZGYzYWRlLTViOGMtNDIwYy04NGY2LWY5Njk3OWVjMzA4MCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAibm9uZSIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZX0=
+trojan://telegram-id-directvpn@51.24.35.25:22222?sni=trojan.burgerip.co.uk#Estados+Unidos
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.121.43.71:7001#Estados+Unidos
+trojan://3747000103274291200@94.177.131.199:443?security=tls&sni=open-maggot.pigeon031.one&type=tcp&fp=chrome#Jap%C3%B3n
+trojan://3774827088566296576@185.67.125.78:443?sni=deciding-mantis.treefrog761.one#India
+vmess://eyJhZGQiOiAiMzguMTE0LjEyMC4xMiIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiY2RhNWRmYWEtOTllOC00MmQ2LTlmMGItNmVmMzBmNzZlOTJjIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIiLCAicG9ydCI6ICI0NzU2NyIsICJwcyI6ICJSZWlubyBVbmlkbyIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.80:443#Reino+Unido
+vmess://eyJhZGQiOiAiNjIuMTQ2LjIzMi4xNTYiLCAidiI6ICIyIiwgInBzIjogIkFsZW1hbmlhIiwgInBvcnQiOiAzMzI4MSwgImlkIjogIjI0ZWRhMGVhLWFjZjAtNDUzOC1hMDAxLWY3NDZhNDgwMjM3YSIsICJhaWQiOiAiMCIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiIiwgInRscyI6ICIifQ==
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNlpDSGVhYlVTZktqZlFFdko0SERW@185.242.86.156:54170#Holanda
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@145.239.6.202:3389#Reino+Unido
 ```
 <h5>La dirección de suscripción permanente del nodo superior (parte): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_es</h5>
  <p>Código QR para la dirección de suscripción anterior</p>
