@@ -35,20 +35,21 @@
  <h4>Liste des nœuds: (Seuls certains nœuds sont affichés ici, veuillez télécharger l'application pour afficher tous les nœuds)</h4>
     
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVUzR0c2tKYVlTdEJQVUt2Y05Wa2YwUFZoWGJzQUdDTnZyaGJmWnlidE94OXUyY0Y=@103.174.86.114:51348#Inde
-ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@142.202.49.122:9101#%C3%89tats+Unis
-trojan://3747000103274291200@80.240.112.32:443?security=tls&type=tcp&sni=trusting-titmouse.adder289.quest#Allemagne
-trojan://telegram-id-directvpn@52.211.133.252:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#Irlande
-trojan://telegram-id-privatevpns@35.159.100.34:22222?sni=trojan.burgerip.co.uk#Allemagne
-trojan://3747000103274291200@humble-rodent.treefrog761.one:443?allowInsecure=0&sni=humble-rodent.treefrog761.one#Cor%C3%A9e+du+Sud
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@54.36.174.181:7002#France
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@217.182.198.219:5000#Allemagne
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@149.202.82.172:8009#France
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@149.202.82.172:7002#France
-ss://YWVzLTI1Ni1nY206Q1pXR0tWVktFVDJCVFJCSw==@154.196.244.12:16002#Singapour
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@54.36.174.181:5003#France
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@54.36.174.181:2376#France
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.47.254.87:990#Guatemala
+ss://YWVzLTI1Ni1nY206STZEUlZWUTRPT01JUk1KRA==@154.196.244.25:16015#Singapour
+vmess://eyJhZGQiOiAiY2YyLnl1bmR1YW5qYy50b3AiLCAidiI6ICIyIiwgInBzIjogIlx1MDBjOXRhdHMgVW5pcyIsICJwb3J0IjogMjA4MiwgImlkIjogIjliMjM3NDdhLWNkNmItNGJjZi05OTg3LTJjMjZmMGE3MDRjYyIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJmbWcueXVuZHVhbmpjLnRvcCIsICJwYXRoIjogIi8/ZWQ9MjA0OCIsICJ0bHMiOiAiIn0=
+trojan://telegram-id-privatevpns@54.194.18.173:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#Irlande
+trojan://3747000103274291200@38.60.217.170:443?sni=dynamic-tomcat.treefrog761.one#Pakistan
+ss://YWVzLTI1Ni1nY206VVE2Mks4Rzg4VkdCTlpYTw==@156.245.190.24:15015#Hong+Kong
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.47.130:443#%C3%89tats+Unis
+vmess://eyJhZGQiOiAiczEuZGItbGluazAyLnRvcCIsICJ2IjogIjIiLCAicHMiOiAiXHUwMGM5dGF0cyBVbmlzIiwgInBvcnQiOiAyMDUyLCAiaWQiOiAiOTc1Y2IyZGEtNTQzNy0zN2M2LTg4YmEtNmEwOGI3NGVhNTNjIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogIjEwMC0xOTMtMTA0LTYxLnMxLmRiLWxpbmswMi50b3AiLCAicGF0aCI6ICIvZGFiYWkuaW4xMDQuMjEuMTY4LjE1OSIsICJ0bHMiOiAiIn0=
+vmess://eyJhZGQiOiAiNDUuMTQ0LjQ4LjEyOCIsICJ2IjogIjIiLCAicHMiOiAiUG9sb2duZSIsICJwb3J0IjogODQ0MywgImlkIjogImE0ODUwNDgxLTliOTUtNDMwZi05YjJkLTE5MmQyNDEwYjRmNCIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIvdm1lc3MvIiwgInRscyI6ICJ0bHMifQ==
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@69.50.95.203:2375#%C3%89tats+Unis
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@145.239.6.202:8090#Royaume-Uni
+ss://YWVzLTI1Ni1nY206WTdZMEVVWEY1WlpLSlRGVQ==@154.196.244.24:16014#Singapour
+vmess://eyJ2IjogIjIiLCAicHMiOiAiRnJhbmNlIiwgImFkZCI6ICI4OS4xMTcuMTEyLjIzNSIsICJwb3J0IjogIjg0NDMiLCAidHlwZSI6ICJub25lIiwgImlkIjogIjE5MWJhYmM1LTJhYWYtNGZlNS1hNTYzLWYxNDI0NGFlZmI0ZSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIveHJlbnZ3cyIsICJob3N0IjogImxheDEuaWJnZncudG9wIiwgInRscyI6ICJ0bHMifQ==
+trojan://696cfe79@192.9.132.79:443?sni=sje.5216818.xyz#%C3%89tats+Unis
+trojan://installshield@38.180.249.177:8443?allowInsecure=0#Pays-Bas
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.62.164:443#Suisse
 ```
 <h5>L'adresse d'abonnement permanente du nœud supérieur (partie): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_fr</h5>
  <p>Code QR pour l'adresse d'abonnement ci-dessus</p>
