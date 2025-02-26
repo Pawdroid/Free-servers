@@ -35,21 +35,21 @@
  <h4>নোড তালিকা: (শুধুমাত্র কিছু নোড এখানে প্রদর্শিত হয়, সমস্ত নোড দেখতে অ্যাপটি ডাউনলোড করুন)</h4>
     
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwVUxaa0pVbmw1RkI0bU9RVW5nVUtGdFBmb2hmMGNVQ3BPeHF5UkQ1Mmh5OVd1SGU=@103.120.178.193:51348#India
-vmess://eyJhZGQiOiAiMTUuMjM1LjgzLjIyNyIsICJ2IjogIjIiLCAicHMiOiAiQ2FuYWRhIiwgInBvcnQiOiA0NDMsICJpZCI6ICIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAibWFua2FkbXUuY29tIiwgInBhdGgiOiAiL2xpbmt2d3MiLCAidGxzIjogInRscyJ9
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@145.239.6.202:6679#United+Kingdom
-vmess://eyJhZGQiOiAiaGR1LmdlY3MudG9wIiwgInYiOiAiMiIsICJwcyI6ICJVbml0ZWQgU3RhdGVzIiwgInBvcnQiOiA0NDMsICJpZCI6ICIwYTNjZDA2Mi0yNDFhLTQzZmMtOWM1MC1lY2NhY2JiZDVhYWUiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiaGR1LmdlY3MudG9wIiwgInBhdGgiOiAiL3ZtIiwgInRscyI6ICJ0bHMifQ==
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@67.220.95.102:7001#United+States
-ss://YWVzLTI1Ni1nY206Mk1OQlZZWVlCMjNaRjAzWg==@92.113.116.11:15002#Ukraine
-vmess://eyJhZGQiOiAiMTA0LjIxLjE2LjkyIiwgInYiOiAiMiIsICJwcyI6ICJVbml0ZWQgU3RhdGVzIiwgInBvcnQiOiAyMDUzLCAiaWQiOiAiY2QzYmYzZTItZmJkOS00N2M4LTlhNDItNjVjZWExYzBiZGNmIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogImlyLm15a2V0Lm5hbWUubmciLCAicGF0aCI6ICIvIiwgInRscyI6ICJ0bHMifQ==
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@38.121.43.27:8009#United+States
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@54.36.174.181:8091#France
-trojan://yaml777@104.21.61.73:443?security=tls&type=ws&sni=yaml7.ggff.net&path=/&host=yaml7.ggff.net#United+States
-vmess://eyJhZGQiOiAiMTA0LjIxLjE2LjEwMCIsICJhaWQiOiAwLCAiaG9zdCI6ICJxdXJhbnR2LmlyaWJxdXJhbi5jb20iLCAiaWQiOiAiZWI4MTcxNjgtNWY4My00ZmJhLWFmOTktODgxZWMwZTU0N2IxIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi8iLCAicG9ydCI6IDIwNTMsICJwcyI6ICJVbml0ZWQgU3RhdGVzIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIn0=
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@54.36.174.181:8008#France
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.114.114.143:443#United+States
-trojan://auto@104.21.72.108:443?security=tls&sni=esetsecuritylicense1.cxlrazo.workers.dev&type=ws&host=esetsecuritylicense1.cxlrazo.workers.dev&path=/#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyYWZiYzk3NDAwY2E3MWM4ZjMzMDZmOTg0M2E2ZTFjMg==@2.58.241.42:443#Taiwan
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMzgzNzIyNGVkNDY1ZjAw@45.144.48.63:57456#Poland
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@38.64.138.145:9101#United+States
+trojan://0bfa2050-b165-4156-859c-70f36d300dce@jp007.421421.xyz:20230#Japan
+trojan://c28be7d4-25c8-4351-bc58-e1675855c8af@jp.lydurlclub.top:443?security=tls#Singapore
+ss://YWVzLTI1Ni1nY206VVE2Mks4Rzg4VkdCTlpYTw==@156.245.190.24:15015#Hong+Kong
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@188.214.157.154:990#Morocco
+trojan://Ng35283528@104.16.83.176:443?security=tls&sni=c2.validbv3528.eu.org&type=ws&host=c2.validbv3528.eu.org&path=%2F%3Fed%3D2560&fp=randomized#United+States
+vmess://eyJhZGQiOiAiMi41OC44Ny4yMjEiLCAidiI6ICIyIiwgInBzIjogIlVuaXRlZCBTdGF0ZXMiLCAicG9ydCI6IDE0NTU1LCAiaWQiOiAiNmM3NjRhMDMtYmIxYS00YmM2LWJhY2EtNDUyNDUzZmNlMWFlIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIi8iLCAidGxzIjogInRscyJ9
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.138:8080#The+Netherlands
+vmess://eyJhZGQiOiAiM2gtcG9sYW5kMS4wOXZwbi5jb20iLCAidiI6ICIyIiwgInBzIjogIlBvbGFuZCIsICJwb3J0IjogODQ0MywgImlkIjogImE0ODUwNDgxLTliOTUtNDMwZi05YjJkLTE5MmQyNDEwYjRmNCIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIvdm1lc3MvIiwgInRscyI6ICJ0bHMifQ==
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.121.43.27:8091#United+States
+vmess://eyJhZGQiOiAiMTQ2LjU5LjU1LjUwIiwgInYiOiAiMiIsICJwcyI6ICJQb2xhbmQiLCAicG9ydCI6IDQ0MywgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJvLm1ldHVqaS5jb20iLCAicGF0aCI6ICIvbGlua3Z3cyIsICJ0bHMiOiAidGxzIn0=
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyYWZiYzk3NDAwY2E3MWM4ZjMzMDZmOTg0M2E2ZTFjMg==@hong-kong.keenvpn.me:443#Hong+Kong
+vmess://eyJhZGQiOiAiMTk4LjQxLjIwOS43MCIsICJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJwb3J0IjogMjA4MiwgImlkIjogIjEzNTE0YzJjLWQ1YTQtMzM1Zi05NjVhLTVkYzI5MmUzNjc1OSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIxMDAtODctMTYwLTI1Mi5zMi5kYi1saW5rMDIudG9wIiwgInBhdGgiOiAiL2RhYmFpLmluMTA0LjI0LjYwLjIwMCIsICJ0bHMiOiAiIn0=
 ```
 <h5>উপরের নোডের স্থায়ী সদস্যতা ঠিকানা (অংশ): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_bn</h5>
  <p>উপরের সদস্যতা ঠিকানার জন্য QR কোড</p>

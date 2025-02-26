@@ -35,21 +35,21 @@
  <h4>نوڈ کی فہرست: (یہاں صرف کچھ نوڈس دکھائے گئے ہیں، براہ کرم تمام نوڈس دیکھنے کے لیے ایپ ڈاؤن لوڈ کریں)</h4>
     
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@195.181.160.6:990#Czechia
-trojan://bpb-trojan@104.26.4.60:443?security=tls&sni=zamim340.ggff.net&type=ws&host=zamim340.ggff.net&path=%2Ftr%3Fed%3D2560#United+States
-vmess://eyJhZGQiOiAidXN3dXhpYW4ucGFpNTAyODgudWsiLCAiYWlkIjogMCwgImhvc3QiOiAidXN3dXhpYW4ucGFpNTAyODgudWsiLCAiaWQiOiAiYzMxMzYwNmYtOThjMi00ZDdiLWJhNzQtNDhiOTRmNjFiMTFkIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi8iLCAicG9ydCI6IDg0NDMsICJwcyI6ICJVbml0ZWQgU3RhdGVzIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IGZhbHNlLCAic25pIjogInVzd3V4aWFuLnBhaTUwMjg4LnVrIn0=
-trojan://amclubs2024@198.62.62.156:443?security=tls&sni=tr.amclub.us.kg&type=ws&host=tr.amclub.us.kg#United+States
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.169:443#United+States
-vmess://eyJhZGQiOiAiMTA0LjIxLjgyLjE4MyIsICJhaWQiOiAwLCAiaG9zdCI6ICJzZXJ2ZXIyNi5iZWhlc2h0YmFuZWguY29tIiwgImlkIjogIjVhNzAyMWUwLTI2YjQtNDVkNi1iMTc1LWZlNTUxNjAxY2E5NyIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgInBvcnQiOiA4ODgwLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJ0bHMiOiAiIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiJ9
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.121.43.71:7002#United+States
-trojan://3747000103274291200@94.177.131.199:443?security=tls&sni=open-maggot.pigeon031.one&type=tcp&fp=chrome&allowInsecure=1#Japan
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@149.202.82.172:8882#France
-vmess://eyJhZGQiOiAibGF4Mi5pYmdmdy50b3AiLCAidiI6ICIyIiwgInBzIjogIlVuaXRlZCBTdGF0ZXMiLCAicG9ydCI6IDg0NDMsICJpZCI6ICJlODhiODVjNi05M2I0LTQ3ZjYtYjNmYi0yYzU1ZGNiMTI4OWYiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAibGF4Mi5pYmdmdy50b3AiLCAicGF0aCI6ICIvZHlhanZ3cyIsICJ0bHMiOiAidGxzIn0=
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@51.77.53.200:8888#Poland
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.121.43.97:7001#United+States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaVFV4T1RRNQ==@146.19.247.183:8388#Germany
-vmess://eyJhZGQiOiAiYXowNS5iZXlvbmR5LmNmZCIsICJ2IjogIjIiLCAicHMiOiAiRnJhbmNlIiwgInBvcnQiOiA0NDMsICJpZCI6ICIzZjYzOGYzNC04ZGJhLTQxODYtYmM0My0yNzE2YTdkZGQ0YmUiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiYXowNS5iZXlvbmR5LmNmZCIsICJwYXRoIjogIi9saW5rIiwgInRscyI6ICJ0bHMifQ==
-vmess://eyJhZGQiOiAiMTA0LjIxLjEzLjIyMiIsICJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJwb3J0IjogODQ0MywgImlkIjogImU4OGI4NWM2LTkzYjQtNDdmNi1iM2ZiLTJjNTVkY2IxMjg5ZiIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJsYXgyLmliZ2Z3LnRvcCIsICJwYXRoIjogIi9keWFqdndzIiwgInRscyI6ICJ0bHMifQ==
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@54.36.174.181:8090#France
+trojan://telegram-id-privatevpns@18.203.1.185:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#Ireland
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.244:443#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.157:8080#The+Netherlands
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@142.202.49.122:9101#United+States
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.107.226.132:7306#United+States
+trojan://ba4e0314-c815-4711-81ac-4d37f0fb59fc@172.67.204.84:443?security=tls&sni=se1.safecdn.site&type=ws&host=se1.safecdn.site&path=%2FTelegram%40V2ray_Alpha#United+States
+trojan://telegram-id-privatevpns@18.198.142.79:22222?security=tls&sni=trojan.burgerip.co.uk#Germany
+trojan://ypDt8RkT7J@89.187.181.172:43118#United+States
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.78:443#United+Kingdom
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@51.77.53.200:8000#Poland
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@54.36.174.181:8882#France
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@217.182.198.219:7306#Germany
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1NGQ3M2U0Yi0wNTRkLTQxNDgtYmFiNi0yMjY0NmY0NDMxYTk=@94.177.131.71:60033#Japan
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.167:443#United+States
 ```
 <h5>اوپری نوڈ کا مستقل رکنیت کا پتہ (حصہ): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ur-PK</h5>
  <p>اوپر سبسکرپشن ایڈریس کے لیے QR کوڈ</p>

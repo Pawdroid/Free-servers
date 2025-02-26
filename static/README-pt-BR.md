@@ -35,21 +35,21 @@
  <h4>Lista de nós: (Apenas alguns nós são exibidos aqui, baixe o aplicativo para visualizar todos os nós)</h4>
     
 ```
-vmess://eyJhZGQiOiAiMTcyLjY3LjE1My4xNTYiLCAiYWlkIjogMCwgImhvc3QiOiAidXN3dXhpYW4ucGFpNTAyODgudWsiLCAiaWQiOiAiYzMxMzYwNmYtOThjMi00ZDdiLWJhNzQtNDhiOTRmNjFiMTFkIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi8iLCAicG9ydCI6IDg0NDMsICJwcyI6ICJFVUEiLCAidGxzIjogInRscyIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICJ1c3d1eGlhbi5wYWk1MDI4OC51ayJ9
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@51.77.53.200:8882#Pol%C3%B4nia
-trojan://telegram-id-privatevpns@16.16.223.97:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#Su%C3%A9cia
-vmess://eyJ2IjogIjIiLCAicHMiOiAiRnJhblx1MDBlN2EiLCAiYWRkIjogIjM4LjEwOS4yMjguMTEzIiwgInBvcnQiOiAyMTgwOSwgImlkIjogImE2MTc5NDc1LTQ4OWMtNGJjYy1iMDVjLTQ4MTM4NjI5NWI5MyIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAibm9uZSJ9
-trojan://Uy1%2CSF%23%5Dszr%25y.%3Cs@172.66.46.220:2083?security=tls&sni=jOinMaHdIsErVer-6Qj.PAgES.DEv&type=ws&host=joinmahdiserver-6qj.pages.dev&path=%2FtrLhvs4PDHp1EVcZxf%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#EUA
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@38.121.43.97:6697#EUA
-vmess://eyJhZGQiOiAiNTcuMTI5LjI0LjE0MSIsICJ2IjogIjIiLCAicHMiOiAiQWxlbWFuaGEiLCAicG9ydCI6IDQ0MywgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIvbGlua3Z3cyIsICJ0bHMiOiAidGxzIn0=
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2bk9rd1VoQjNWWjlkOHVvMndMWXRt@81.19.141.45:443#Alemanha
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDTHBoeUVNUVQ4bmJHOEVJbVgwQTJE@5.35.47.122:45635#Holanda
-vmess://eyJhZGQiOiAiMjAyLjc4LjE2Mi41IiwgImFpZCI6IDAsICJob3N0IjogInBlbmRhci5vbnRoZXdpZmkuY29tIiwgImlkIjogIjcxNmVkZWQ2LTIyMDEtNGRiZC05ZDYzLTE2MzhjOWU4ZTY3NyIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvQGZvcndhcmR2MnJheSIsICJwb3J0IjogNDQzLCAicHMiOiAiTHV4ZW1idXJnbyIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiJ9
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@167.88.63.61:8118#EUA
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@54.36.174.181:2375#Fran%C3%A7a
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.22:8080#Litu%C3%A2nia
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkdDMxS1lZQ0NBVUJ3dTA5UXdHOWZsUEJJdVA5akE2Vlhuak44U3RLVGtnYzQ1bnk=@203.23.128.79:51348#Hong+Kong
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.180:443#Reino+Unido
+trojan://3782591447421952000@sincere-stud.adder289.quest:443#Coreia+do+Sul
+vmess://eyJhZGQiOiAiMTcyLjIzMy4xNjAuMjQ5IiwgInYiOiAiMiIsICJwcyI6ICJFVUEiLCAicG9ydCI6IDQ0MywgImlkIjogIjk1MGRiNmFhLTQ5MjYtNDYxNi04MTZlLWVjMDMxMmRjYjg3YiIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJqYWhma2poYS5jZmQiLCAicGF0aCI6ICIvbGlua3dzIiwgInRscyI6ICJ0bHMifQ==
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaVFF6T0dGag==@95.164.44.221:8388#Irlanda
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@217.182.198.219:8008#Alemanha
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@51.77.53.200:8008#Pol%C3%B4nia
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@69.50.93.113:8888#EUA
+trojan://bpb-trojan@162.159.152.2:443?security=tls&sni=zamim340.ggff.net&type=ws&host=zamim340.ggff.net&path=%2Ftr%3Fed%3D2560#EUA
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@38.121.43.71:8008#EUA
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@103.104.247.72:8080#Holanda
+vmess://eyJhZGQiOiAiNjcuMjIwLjY2LjE5NCIsICJ2IjogIjIiLCAicHMiOiAiRVVBIiwgInBvcnQiOiA0NDMsICJpZCI6ICIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCAiYWlkIjogIjEiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiNjcuMjIwLjY2LjE5NCIsICJwYXRoIjogImxpbmt2d3MiLCAidGxzIjogInRscyJ9
+trojan://tg-fq521free@45.67.215.95:443?security=tls&sni=torjan.xn--xhq44j.eu.org&type=ws&host=torjan.xn--xhq44j.eu.org&path=%2F&allowInsecure=1#R%C3%BAssia
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2ZWRUdU45V1N1ZlRrWWh2ZkpEMGpz@77.239.122.39:2239#Reino+Unido
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@162.251.63.124:8881#EUA
+trojan://65086441068973800@mature-flamingo.shiner427.skin:443#Alemanha
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.178:8080#Litu%C3%A2nia
 ```
 <h5>O endereço de assinatura permanente do nó superior (parte): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_pt-BR</h5>
  <p>Código QR do endereço de assinatura acima</p>

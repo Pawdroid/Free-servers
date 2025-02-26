@@ -35,21 +35,21 @@
  <h4>Lista de nodos: (aquí solo se muestran algunos nodos; descargue la aplicación para ver todos los nodos)</h4>
     
 ```
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@54.36.174.181:8119#Francia
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@54.36.174.181:5500#Francia
-trojan://2cba4104747d49d18319e5ade1b93ab5@yourjobnavigator.online:443?security=tls#Reino+Unido
-trojan://3747000103274291200@awaited-chicken.adder289.quest:443#Luxemburgo
-vmess://eyJhZGQiOiAiMTA0LjE5LjQ4LjIzNiIsICJ2IjogIjIiLCAicHMiOiAiRXN0YWRvcyBVbmlkb3MiLCAicG9ydCI6IDIwNTIsICJpZCI6ICI5NzVjYjJkYS01NDM3LTM3YzYtODhiYS02YTA4Yjc0ZWE1M2MiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiMTAwLTE5My0xMDQtNjEuczEuZGItbGluazAyLnRvcCIsICJwYXRoIjogIi9kYWJhaS5pbjEwNC4yMS4xNjguMTU5IiwgInRscyI6ICIifQ==
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@195.181.160.6:990#Chequia
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@54.36.174.181:8091#Francia
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@67.220.95.102:5004#Estados+Unidos
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.121.43.27:5600#Estados+Unidos
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@51.77.53.200:5500#Polonia
-trojan://3782591447421952000@sincere-stud.adder289.quest:443#Corea+del+Sur
-vmess://eyJhZGQiOiAiMTUuMjM1LjUwLjE3MiIsICJ2IjogIjIiLCAicHMiOiAiQ2FuYWRcdTAwZTEiLCAicG9ydCI6IDQ0MywgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJiYXJhZGloYS5jb20iLCAicGF0aCI6ICIvbGlua3Z3cyIsICJ0bHMiOiAidGxzIn0=
-trojan://7d9c7804-1f7d-43f7-b19a-fa7c2fff4569@sg005.421421.xyz:20230?security=tls&sni=421421.xyz#Singapur
-vmess://eyJhZGQiOiAiMTU5LjY5LjEyMC45OCIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiYjVjM2UyZTgtZGZiNi00YTBhLWI2NTYtODdlOTk3NjEwNzg1IiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIiLCAicG9ydCI6ICI0MTM5MSIsICJwcyI6ICJBbGVtYW5pYSIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICIiLCAidiI6ICIyIn0=
-vmess://eyJhZGQiOiAiMjAyLjc4LjE2Mi41IiwgImFpZCI6IDAsICJob3N0IjogInNhaGFuZC5zZXJ2ZW1pbmVjcmFmdC5uZXQiLCAiaWQiOiAiMTE4Mjg3ZDItZTk2OC00MmUxLTgwZDAtMTJmYTJmNWQzOGQ2IiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9AZm9yd2FyZHYycmF5IiwgInBvcnQiOiA0NDMsICJwcyI6ICJMdXhlbWJ1cmdvIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIn0=
+vmess://eyJhZGQiOiAiMzguOTkuODIuMTkzIiwgInYiOiAiMiIsICJwcyI6ICJFc3RhZG9zIFVuaWRvcyIsICJwb3J0IjogNDQzLCAiaWQiOiAiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogInRpbGViYW5pLmNvbSIsICJwYXRoIjogIi9saW5rdndzIiwgInRscyI6ICJ0bHMifQ==
+vmess://eyJhZGQiOiAiMTcyLjY3LjcxLjIxNyIsICJ2IjogIjIiLCAicHMiOiAiRXN0YWRvcyBVbmlkb3MiLCAicG9ydCI6IDQ0MywgImlkIjogIjkwNzJkMzM5LTM4ODUtNGZlMS1iMGJjLTI5ZmE3NTA1NDEwZSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIxdDNjaHgwLnplZDIzLndlYjEzMzcubmV0IiwgInBhdGgiOiAiL2ZpeGVkZmxvYXRpLmNmZC9saW5rd3NkIiwgInRscyI6ICJ0bHMifQ==
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@38.121.43.71:9102#Estados+Unidos
+vmess://eyJhZGQiOiAiNjIuMTQ2LjIzMy4xMTIiLCAidiI6ICIyIiwgInBzIjogIkFsZW1hbmlhIiwgInBvcnQiOiAzNjcxMiwgImlkIjogIjkyNjZkZjQyLTA4MzAtNDhjMi04NTA5LTRjNTdiMzBmZTI5ZCIsICJhaWQiOiAiMCIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiIiwgInRscyI6ICIifQ==
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@188.214.157.154:990#Marruecos
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@67.220.95.102:7001#Estados+Unidos
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@67.220.95.102:8881#Estados+Unidos
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.167:443#Estados+Unidos
+ss://YWVzLTI1Ni1nY206Q1pXR0tWVktFVDJCVFJCSw==@154.196.244.12:16002#Singapur
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1ZzRGdTc5U0VSRWRGR2x0MnNVeVQ0@95.164.9.144:2927#Austria
+trojan://5a81db08-7af3-49a4-b089-b7a5b2c24c38@us004.421421.xyz:20230#Estados+Unidos
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@154.205.159.100:990#Seychelles
+trojan://trojan@104.18.4.250:2053?security=tls&sni=ana-service-anaservice--anaservice-antenircomorg.fmwlmluu.workers.dev&type=ws&host=ana-service-anaservice--anaservice-antenircomorg.fmwlmluu.workers.dev&path=%2F%3Fed%3D2560&fp=randomized#Estados+Unidos
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@51.77.53.200:8009#Polonia
+ss://YWVzLTI1Ni1nY206M0pIVE5LMTNUNkJDRVZOSA==@156.231.104.24:18014#Jap%C3%B3n
 ```
 <h5>La dirección de suscripción permanente del nodo superior (parte): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_es</h5>
  <p>Código QR para la dirección de suscripción anterior</p>
