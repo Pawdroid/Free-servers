@@ -35,21 +35,21 @@
  <h4>Danh sách nút: (Chỉ hiển thị một số nút ở đây, vui lòng tải xuống ứng dụng để xem tất cả các nút)</h4>
     
 ```
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@217.182.198.219:5004#Germany
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@149.202.82.172:7306#France
-ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@67.220.95.102:9101#United+States
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@149.202.82.172:5004#France
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@193.29.139.143:8080#The+Netherlands
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@54.36.174.181:8008#France
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@162.251.63.124:8881#United+States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.158.171.151:8080#United+States
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.107.226.132:8090#United+States
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@139.59.119.143:443?sni=connectwithemployers.online#Singapore
+vmess://eyJhZGQiOiAiMTkzLjkuNDkuODkiLCAidiI6ICIyIiwgInBzIjogIlJ1c3NpYSIsICJwb3J0IjogODQ0MywgImlkIjogIjE5MWJhYmM1LTJhYWYtNGZlNS1hNTYzLWYxNDI0NGFlZmI0ZSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJsYXgxLmliZ2Z3LnRvcCIsICJwYXRoIjogIi94cmVudndzIiwgInRscyI6ICJ0bHMifQ==
+vmess://eyJhZGQiOiAid2VzdHNnMi1kZG5zLm9yYWNsZW5hdC5jYyIsICJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJwb3J0IjogMjM0NTIsICJpZCI6ICJmZTRjNjRkYi0yYzQ2LTQ4YTgtYmFiOC05NWYxZjY1OGFkZmEiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAid2VzdHNnMi1kZG5zLm9yYWNsZW5hdC5jYyIsICJwYXRoIjogIi8iLCAidGxzIjogIiJ9
+ss://YWVzLTI1Ni1nY206RzJMQzFCUTQ4U1hTQktaWA==@185.126.239.231:20002#Russia
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@ns3849026.ip-217-182-198.eu:8888#Germany
+trojan://3747000103274291200@open-maggot.pigeon031.one:443?sni=open-maggot.pigeon031.one#Japan
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.121.43.71:3306#United+States
+trojan://bpb-trojan@190.93.244.66:443?security=tls&sni=zeming13.us.kg&type=ws&host=zeming13.us.kg&path=%2Ftr#United+States
+trojan://3747000103274291200@62.112.221.57:443?security=tls&type=tcp&sni=integral-malamute.adder289.quest#Hungary
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.34.244.80:443#The+Netherlands
+vmess://eyJhZGQiOiAiMTQ5LjcuMTYuMTQ5IiwgInYiOiAiMiIsICJwcyI6ICJVbml0ZWQgS2luZ2RvbSIsICJwb3J0IjogMzcxMDEsICJpZCI6ICJmYjNmYzI0My00Njk4LTQ5YzQtOGM0NC0wNDE1ZjY4YTRkMjUiLCAiYWlkIjogIjAiLCAibmV0IjogInRjcCIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAiIn0=
+vmess://eyJhZGQiOiAiMTA0LjE3LjIyMS4yNDgiLCAidiI6ICIyIiwgInBzIjogIlVuaXRlZCBTdGF0ZXMiLCAicG9ydCI6IDIwNTIsICJpZCI6ICI5NzVjYjJkYS01NDM3LTM3YzYtODhiYS02YTA4Yjc0ZWE1M2MiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiMTAwLTE5My0xMDQtNjEuczEuZGItbGluazAyLnRvcCIsICJwYXRoIjogIi9kYWJhaS5pbjEwNC4yMS4xNjguMTU5IiwgInRscyI6ICIifQ==
+trojan://3774827088566296576@deciding-mantis.treefrog761.one:443#India
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@217.182.198.219:3389#Germany
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@beesyar.org:8080#United+States
 ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@217.182.198.219:8091#Germany
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@149.202.82.172:8009#France
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnUFFmUXdvaGxBaXlEd2VIRFFrRFVP@77.239.122.34:46785#United+Kingdom
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@51.77.53.200:8009#Poland
-trojan://3747000103274291200@94.177.131.199:443?security=tls&sni=open-maggot.pigeon031.one&type=tcp&fp=chrome&allowInsecure=1#Japan
 ```
 <h5>Địa chỉ đăng ký vĩnh viễn của nút trên (một phần): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_vi</h5>
  <p>Mã QR cho địa chỉ đăng ký ở trên</p>
