@@ -35,23 +35,23 @@
 <h4>Node list: (Only some nodes are shown here, please download the app to view all nodes)</h4>
     
 ```
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@173.244.56.6:443#United+States
-vmess://eyJhZGQiOiAiMTg4LjQyLjE0NS45IiwgInYiOiAiMiIsICJwcyI6ICJSdXNzaWEiLCAicG9ydCI6IDg0NDMsICJpZCI6ICIxOTFiYWJjNS0yYWFmLTRmZTUtYTU2My1mMTQyNDRhZWZiNGUiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAibGF4MS5pYmdmdy50b3AiLCAicGF0aCI6ICIveHJlbnZ3cyIsICJ0bHMiOiAidGxzIn0=
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.193:443#United+Kingdom
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.121.43.71:443#United+States
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@149.202.82.172:9101#France
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPV1k0T0RCbQ==@at1.opensocks.site:8388#Austria
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@217.182.198.219:5003#Germany
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@38.121.43.71:9102#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.158.171.66:8080#United+States
+trojan://bpb-trojan@104.19.223.79:443?security=tls&sni=qq.vvii.us.kg&type=ws&host=qq.vvii.us.kg&path=%2Ftr%3Fed%3D2560&alpn=h3#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.47.254.87:990#Guatemala
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaVFV4T1RRNQ==@146.19.247.183:8388#Germany
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@54.36.174.181:443#France
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQUFhiOEoyY2lEeWJva1dsN2t4S2Fi@free2.okkserver.tech:51587#Slovenia
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@142.202.48.105:8080#United+States
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.68.135.18:8119#United+States
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.80:443#United+Kingdom
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@149.202.82.172:8888#France
-trojan://7d9c7804-1f7d-43f7-b19a-fa7c2fff4569@sg005.421421.xyz:20230?sni=421421.xyz#Singapore
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@142.202.49.84:8090#United+States
-vmess://eyJhZGQiOiAiMjcuNTAuNDguMTg4IiwgInYiOiAiMiIsICJwcyI6ICJTaW5nYXBvcmUiLCAicG9ydCI6IDg0NDMsICJpZCI6ICJlODhiODVjNi05M2I0LTQ3ZjYtYjNmYi0yYzU1ZGNiMTI4OWYiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAibGF4Mi5pYmdmdy50b3AiLCAicGF0aCI6ICIvZHlhanZ3cyIsICJ0bHMiOiAidGxzIn0=
-vmess://eyJhZGQiOiAidXMxOS45OTg5OTguYmVzdCIsICJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJwb3J0IjogNDQzLCAiaWQiOiAiMDdiN2I1NjMtZjg2OC00OWZiLTk0M2EtNjQyNWUzZGMzNGQ5IiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogInNlcnZlcjIuOTk4ODc3LmJlc3QiLCAicGF0aCI6ICIvc2V0ZmRnL3NkZmcvc2dpP2VkPTI1NjAiLCAidGxzIjogInRscyJ9
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.64.138.145:8091#United+States
-vmess://eyJhZGQiOiAiNDYuMjkuMTY2LjIzNyIsICJ2IjogIjIiLCAicHMiOiAiUnVzc2lhIiwgInBvcnQiOiA0NzU1NSwgImlkIjogIjBjNDljZDE5LTI3NTgtNGQzOC1lNmE4LTExZjJkNjYzNTg2MCIsICJhaWQiOiAiMCIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiIiwgInRscyI6ICIifQ==
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.188:8080#Lithuania
-vmess://eyJhZGQiOiAiczUuZGItbGluazAyLnRvcCIsICJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJwb3J0IjogODg4MCwgImlkIjogIjRiMzY2MjVjLWI5ZDktM2VhNi1hZWQ1LTg2ZDYyYzcwZTE2ZCIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIxMDAtODUtMjUtMTE5LnM1LmRiLWxpbmswMi50b3AiLCAicGF0aCI6ICIvZGFiYWkuaW4xMDQuMTkuMjIwLjEwNCIsICJ0bHMiOiAiIn0=
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@103.104.247.49:8080#The+Netherlands
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@51.77.53.200:8118#Poland
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@51.77.53.200:8091#Poland
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@51.77.53.200:5003#Poland
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.162:8080#The+Netherlands
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@149.202.82.172:8091#France
+trojan://telegram-id-privatevpns@15.237.65.103:22222?security=tls&sni=trojan.burgerip.co.uk#France
 ```
 <h5>Permanent subscription address of the node above (part): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_en</h5>
 <p>QR code of the subscription address above</p>
