@@ -35,20 +35,20 @@
  <h4>Lista węzłów: (wyświetlane są tutaj tylko niektóre węzły. Pobierz aplikację, aby wyświetlić wszystkie węzły)</h4>
     
 ```
-vmess://eyJhZGQiOiAiczEuZGItbGluazAyLnRvcCIsICJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJwb3J0IjogODA4MCwgImlkIjogIjRiMzY2MjVjLWI5ZDktM2VhNi1hZWQ1LTg2ZDYyYzcwZTE2ZCIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIxMDAtMjEzLTYxLTEwMi5zMS5kYi1saW5rMDIudG9wIiwgInBhdGgiOiAiL2RhYmFpLmluMTA0LjIxLjE1MS4yMDIiLCAidGxzIjogIiJ9
-vmess://eyJhZGQiOiAiNDYuMjUwLjI1My4yMzIiLCAiYWlkIjogIjAiLCAiaG9zdCI6ICIiLCAiaWQiOiAiNTViODhiMTQtMGZmMy00ZjI1LTg5ODMtZTczZDFmOWYzYTBhIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIiLCAicG9ydCI6ICI0NjYxNyIsICJwcyI6ICJVbml0ZWQgS2luZ2RvbSIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICIiLCAidiI6ICIyIn0=
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@23.154.136.247:2376#United+States
-trojan://telegram-id-privatevpns@63.32.121.150:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#Ireland
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@149.202.82.172:2376#France
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@129.232.134.112:990#South+Africa
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyYWZiYzk3NDAwY2E3MWM4ZjMzMDZmOTg0M2E2ZTFjMg==@216.250.97.118:443#Hong+Kong
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@139.64.165.101:8119#United+States
 ss://YWVzLTI1Ni1nY206QVlDNE1RNURTR0o0UU9LRw==@156.245.190.19:15010#Hong+Kong
-ss://YWVzLTI1Ni1nY206Mk1OQlZZWVlCMjNaRjAzWg==@92.113.116.11:15002#Ukraine
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.121.43.97:2376#United+States
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@149.202.82.172:7306#France
+trojan://tg-fq521free@45.67.215.95:443?security=tls&sni=torjan.xn--xhq44j.eu.org&type=ws&host=torjan.xn--xhq44j.eu.org&path=%2F&allowInsecure=1#Russia
+trojan://telegram-id-privatevpns@13.38.157.233:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#France
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@38.121.43.27:8008#United+States
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@217.182.198.219:5004#Germany
 vmess://eyJhZGQiOiAiMTA0LjE5LjQ4LjIzNiIsICJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJwb3J0IjogODg4MCwgImlkIjogIjRiMzY2MjVjLWI5ZDktM2VhNi1hZWQ1LTg2ZDYyYzcwZTE2ZCIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIxMDAtMTI4LTEyLTE4MC5zNC5kYi1saW5rMDIudG9wIiwgInBhdGgiOiAiL2RhYmFpLmluMTA0LjI1LjIzOS4xMzEiLCAidGxzIjogIiJ9
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@54.36.174.181:8000#France
-trojan://telegram-id-privatevpns@13.48.224.97:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#Sweden
-vmess://eyJhZGQiOiAiNjIuMTQ2LjIzMy4xMTIiLCAidiI6ICIyIiwgInBzIjogIkdlcm1hbnkiLCAicG9ydCI6IDM2NzEyLCAiaWQiOiAiOTI2NmRmNDItMDgzMC00OGMyLTg1MDktNGM1N2IzMGZlMjlkIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIiLCAidGxzIjogIiJ9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.233:8080#The+Netherlands
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@51.77.53.200:8888#Poland
-trojan://bpb-trojan@104.26.4.60:443?security=tls&sni=zamim340.ggff.net&type=ws&host=zamim340.ggff.net&path=%2Ftr%3Fed%3D2560#United+States
+vmess://eyJhZGQiOiAiNTEuNzcuMjAuMTM2IiwgInYiOiAiMiIsICJwcyI6ICJQb2xhbmQiLCAicG9ydCI6IDQ0MywgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJjYXBlbGxhcmUuY29tIiwgInBhdGgiOiAiL2xpbmt2d3MiLCAidGxzIjogInRscyJ9
+vmess://eyJhZGQiOiAiczEuZGItbGluazAyLnRvcCIsICJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJwb3J0IjogMjA5NSwgImlkIjogIjRiMzY2MjVjLWI5ZDktM2VhNi1hZWQ1LTg2ZDYyYzcwZTE2ZCIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIxMDAtMzMtMTA4LTE5Ny5zMS5kYi1saW5rMDIudG9wIiwgInBhdGgiOiAiL2RhYmFpLmluMTA0LjI0LjI0OC42NCIsICJ0bHMiOiAiIn0=
+ss://YWVzLTEyOC1nY206WkVETU9ERU9OYmlhWkVETU9ERU9OYmlhaW5aRURNT0RFT04=@217.61.62.166:38257#Italy
 ```
 <h5>Stały adres subskrypcji górnego węzła (część): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_pl</h5>
  <p>Kod QR dla adresu subskrypcji powyżej</p>

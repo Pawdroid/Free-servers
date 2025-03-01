@@ -35,20 +35,20 @@
  <h4>नोड सूची: (यहां केवल कुछ नोड्स प्रदर्शित हैं, कृपया सभी नोड्स देखने के लिए ऐप डाउनलोड करें)</h4>
     
 ```
-ss://YWVzLTI1Ni1nY206VVE2Mks4Rzg4VkdCTlpYTw==@156.245.190.24:15015#Hong+Kong
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.68.135.18:8888#United+States
-vmess://eyJhZGQiOiAiczEuY24tZGIudG9wIiwgInYiOiAiMiIsICJwcyI6ICJVbml0ZWQgU3RhdGVzIiwgInBvcnQiOiA4ODgwLCAiaWQiOiAiNGIzNjYyNWMtYjlkOS0zZWE2LWFlZDUtODZkNjJjNzBlMTZkIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogIjEwMC0xNzEtNTItMTE1LnMxLmNuLWRiLnRvcCIsICJwYXRoIjogIi9kYWJhaS5pbjEwNC4xOS4xMzguMjEyIiwgInRscyI6ICIifQ==
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@54.36.174.181:8888#France
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@51.77.53.200:8118#Poland
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@connectwithemployers.online:443#Singapore
-trojan://94d219c9-1afc-4d42-b090-8b3794764380@std1.loadingip.com:443#Singapore
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@217.182.198.219:3389#Germany
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.182:443#United+Kingdom
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@51.68.206.229:8080#United+Kingdom
-trojan://telegram-id-privatevpns@108.128.24.143:22222?security=tls&type=tcp&sni=trojan.burgerip.co.uk#Ireland
-vmess://eyJhZGQiOiAiczIuZGItbGluazAyLnRvcCIsICJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJwb3J0IjogMjA4MiwgImlkIjogIjRiMzY2MjVjLWI5ZDktM2VhNi1hZWQ1LTg2ZDYyYzcwZTE2ZCIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIxMDAtNC0yMC0xMjMuczIuZGItbGluazAyLnRvcCIsICJwYXRoIjogIi9kYWJhaS5pbjEwNC4yMS44My41NyIsICJ0bHMiOiAiIn0=
-vmess://eyJhZGQiOiAiMzguMTQuMTA3LjIyNSIsICJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJwb3J0IjogMzgwMDMsICJpZCI6ICI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCAiYWlkIjogIjY0IiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogInd3dy4yMzE3OTc1My54eXoiLCAicGF0aCI6ICIvcGF0aC8xODE3MjEyNzIxMTQiLCAidGxzIjogInRscyJ9
-vmess://eyJhZGQiOiAianAwMS1hbHQtdm0wLmVudHJ5LnNydGhkdy5hcnQiLCAidiI6ICIyIiwgInBzIjogIkphcGFuIiwgInBvcnQiOiAyMTU4MywgImlkIjogImM0YjJlN2VhLTFhMGUtMzE2Zi04ZTI4LTA3MTdjYzA4NzUzNCIsICJhaWQiOiAiMSIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiIiwgInRscyI6ICJ0bHMifQ==
+ss://YWVzLTI1Ni1nY206N0JjTGRzTzFXd2VvR0QwWA==@193.243.147.128:40368#France
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.123.101.241:990#T%C3%BCrkiye
+trojan://telegram-id-privatevpns@3.126.210.12:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#Germany
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWEdwMStpaGxmS2c4MjZI@185.177.229.245:1866#Germany
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@217.182.198.219:5003#Germany
+trojan://3747000103274291200@95.85.93.45:443?security=tls&sni=simple-coyote.adder289.quest&type=tcp#Luxembourg
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@169.150.202.174:990#Israel
+vmess://eyJhZGQiOiAiczUuY24tZGIudG9wIiwgInYiOiAiMiIsICJwcyI6ICJVbml0ZWQgU3RhdGVzIiwgInBvcnQiOiA4ODgwLCAiaWQiOiAiNGIzNjYyNWMtYjlkOS0zZWE2LWFlZDUtODZkNjJjNzBlMTZkIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogIjEwMC0yNDAtMzMtNTguczUuY24tZGIudG9wIiwgInBhdGgiOiAiL2RhYmFpLmluMTcyLjY3LjMwLjM1IiwgInRscyI6ICIifQ==
+trojan://yaml777@104.21.61.73:443?security=tls&sni=yaml7.ggff.net&type=ws&host=yaml7.ggff.net&path=/#United+States
+vmess://eyJhZGQiOiAiNTcuMTI5LjI0LjE0MSIsICJhaWQiOiAwLCAiaG9zdCI6ICIiLCAiaWQiOiAiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9saW5rdndzIiwgInBvcnQiOiA0NDMsICJwcyI6ICJHZXJtYW55IiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIn0=
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@217.182.198.219:9101#Germany
+vmess://eyJhZGQiOiAiMjMuOTQuMjQzLjc5IiwgInYiOiAiMiIsICJwcyI6ICJDYW5hZGEiLCAicG9ydCI6IDQ0MywgImlkIjogIjRiMzY2MjVjLWI5ZDktM2VhNi1hZWQ1LTg2ZDYyYzcwZTE2ZCIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJ3cm1lbG13eGxmLmdrdGV2bHJxem53cXFvenkuZmFicGZzNjZnaXptbm9qaGN2cXh3bC5reXRyY2Z6cWxhODdndmd2czZjN2tqbnJ1YnVoLmNjIiwgInBhdGgiOiAiL2RhYmFpLmluMTA0LjIwLjI3LjExNSIsICJ0bHMiOiAidGxzIn0=
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@54.36.174.181:5600#France
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@38.121.43.27:8009#United+States
 ```
 <h5>ऊपरी नोड (भाग) का स्थायी सदस्यता पता: https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_hi</h5>
  <p>उपरोक्त सदस्यता पते के लिए QR कोड</p>
