@@ -35,23 +35,23 @@
  <h4>নোড তালিকা: (শুধুমাত্র কিছু নোড এখানে প্রদর্শিত হয়, সমস্ত নোড দেখতে অ্যাপটি ডাউনলোড করুন)</h4>
     
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyYmUwYzk1NC00MjkxLTQ1ZWEtYjQ3ZC1jYTcxMzE4MDU1MGI=@hk02.x.quickcht3.club:52612#Hong+Kong
-trojan://telegram-id-privatevpns@18.168.131.83:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#United+Kingdom
-ss://YWVzLTI1Ni1nY206TUhaVUVPWDNLQlhBVjA5Sw==@156.245.190.16:15007#Hong+Kong
-vmess://eyJhZGQiOiAiMTg1LjE4LjI1MC4yNDkiLCAidiI6ICIyIiwgInBzIjogIlN3aXR6ZXJsYW5kIiwgInBvcnQiOiA4NDQzLCAiaWQiOiAiMTkxYmFiYzUtMmFhZi00ZmU1LWE1NjMtZjE0MjQ0YWVmYjRlIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogImxheDEuaWJnZncudG9wIiwgInBhdGgiOiAiL3hyZW52d3MiLCAidGxzIjogInRscyJ9
-ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@67.220.95.102:9101#United+States
-vmess://eyJhZGQiOiAiMTA5LjEyMy4yMzIuNzQiLCAidiI6ICIyIiwgInBzIjogIlNpbmdhcG9yZSIsICJwb3J0IjogNTkwMzIsICJpZCI6ICI5NmFiN2UxZi1iZjBkLTQ1Y2QtOGViYy1jOGJlMmY4ZDQzY2QiLCAiYWlkIjogIjAiLCAibmV0IjogInRjcCIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAiIn0=
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@51.77.53.200:5003#Poland
-ss://YWVzLTI1Ni1nY206NE9BS0o4Q0FTRVJBV1hJMQ==@156.231.104.23:18013#Japan
-ss://YWVzLTI1Ni1nY206QVlDNE1RNURTR0o0UU9LRw==@156.245.190.19:15010#Hong+Kong
-vmess://eyJhZGQiOiAiODkuMTE3LjExMi4yMzUiLCAidiI6ICIyIiwgInBzIjogIkZyYW5jZSIsICJwb3J0IjogODQ0MywgImlkIjogIjE5MWJhYmM1LTJhYWYtNGZlNS1hNTYzLWYxNDI0NGFlZmI0ZSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJsYXgxLmliZ2Z3LnRvcCIsICJwYXRoIjogIi94cmVudndzIiwgInRscyI6ICJ0bHMifQ==
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@51.77.53.200:5001#Poland
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.95.183:443#United+States
+trojan://3747000103274291200@95.85.93.45:443?security=tls&sni=simple-coyote.adder289.quest&type=tcp&allowInsecure=1#Luxembourg
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.89.70.208:8090#United+States
+trojan://8r%3C%5B9%27l6hAO%238ZQi@172.66.47.26:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=koma-yt.pages.dev&path=%2Ftro8sFW1S91B6sZrM1%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#United+States
+vmess://eyJhZGQiOiAiMzguMTE0LjEyMC4xMiIsICJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIEtpbmdkb20iLCAicG9ydCI6IDQ3NTY3LCAiaWQiOiAiY2RhNWRmYWEtOTllOC00MmQ2LTlmMGItNmVmMzBmNzZlOTJjIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIiLCAidGxzIjogIiJ9
+ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@149.202.82.172:6379#France
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@54.36.174.181:2375#France
+vmess://eyJhZGQiOiAidXN3dXhpYW4ucGFpNTAyODgudWsiLCAidiI6ICIyIiwgInBzIjogIlVuaXRlZCBTdGF0ZXMiLCAicG9ydCI6IDg0NDMsICJpZCI6ICJjMzEzNjA2Zi05OGMyLTRkN2ItYmE3NC00OGI5NGY2MWIxMWQiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAidXN3dXhpYW4ucGFpNTAyODgudWsiLCAicGF0aCI6ICIvIiwgInRscyI6ICJ0bHMifQ==
+ss://YWVzLTI1Ni1nY206MlVPTDhFU1MxMlgwSjMxUA==@154.196.244.20:16010#Singapore
+vmess://eyJhZGQiOiAidGxzLjg0Lm5vZGUtZm9yLWJpZ2FpcnBvcnQud2luIiwgInYiOiAiMiIsICJwcyI6ICJVbml0ZWQgU3RhdGVzIiwgInBvcnQiOiA0NDMsICJpZCI6ICJlZjVmY2ExMC00MWJjLTQ2MjMtODdhMy0xMTcwYTdiNTE4MjciLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAidGxzLjg0Lm5vZGUtZm9yLWJpZ2FpcnBvcnQud2luIiwgInBhdGgiOiAiLyIsICJ0bHMiOiAidGxzIn0=
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@38.121.43.71:8008#United+States
+trojan://telegram-id-privatevpns@54.195.238.232:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#Ireland
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@51.77.53.200:7001#Poland
+vmess://eyJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJhZGQiOiAiMTUxLjEwMS4xMzAuMTY4IiwgInBvcnQiOiAiODAiLCAidHlwZSI6ICJub25lIiwgImlkIjogIjdkYzc4NTgyLTg4YTgtNGI0Yy05ZTNlLTUwODMxZDY3Mjc2NiIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvWEVTQUxJU1RIRUJFU1Q/ZWQ9MjA0OCIsICJob3N0IjogImFtZC5hbCIsICJ0bHMiOiAiIn0=
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.180:443#United+Kingdom
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@69.50.95.218:7001#United+States
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.62.163:443#Switzerland
-trojan://Ng35283528@104.16.83.176:443?security=tls&sni=c2.validbv3528.eu.org&type=ws&host=c2.validbv3528.eu.org&path=%2F%3Fed%3D2560&fp=randomized#United+States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozRkIyM0ExOS05NDI0LTQwQzctOTEzOS0zNTQwMjI4MjgzRkE=@188.253.5.31:40005#Singapore
+vmess://eyJhZGQiOiAiczQuZGItbGluazAyLnRvcCIsICJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJwb3J0IjogMjA4NiwgImlkIjogIjRiMzY2MjVjLWI5ZDktM2VhNi1hZWQ1LTg2ZDYyYzcwZTE2ZCIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIxMDAtMjE1LTE1Ny0xOTUuczQuZGItbGluazAyLnRvcCIsICJwYXRoIjogIi9kYWJhaS5pbjEwNC4xNy4xMTkuMTQ4IiwgInRscyI6ICIifQ==
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.244:443#United+States
+ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@69.50.95.218:6379#United+States
 ```
 <h5>উপরের নোডের স্থায়ী সদস্যতা ঠিকানা (অংশ): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_bn</h5>
  <p>উপরের সদস্যতা ঠিকানার জন্য QR কোড</p>
