@@ -35,21 +35,21 @@
  <h4>نوڈ کی فہرست: (یہاں صرف کچھ نوڈس دکھائے گئے ہیں، براہ کرم تمام نوڈس دیکھنے کے لیے ایپ ڈاؤن لوڈ کریں)</h4>
     
 ```
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.34.244.72:443#The+Netherlands
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@23.154.136.247:2376#United+States
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@54.36.174.181:8091#France
+trojan://696cfe79@sje.5216818.xyz:443#United+States
+ss://YWVzLTI1Ni1nY206aVVCMDkyM1JCQQ==@154.3.8.151:30067#United+States
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@217.182.198.219:8119#Germany
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4bXVhZUZ0Tm94RWNmQ2tBUnkyMXNz@92.118.112.111:18622#United+States
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@54.36.174.181:8008#France
-vmess://eyJhZGQiOiAiMTUuMjM1LjgzLjIyNyIsICJ2IjogIjIiLCAicHMiOiAiQ2FuYWRhIiwgInBvcnQiOiA0NDMsICJpZCI6ICIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAibWFua2FkbXUuY29tIiwgInBhdGgiOiAiL2xpbmt2d3MiLCAidGxzIjogInRscyJ9
-vmess://eyJhZGQiOiAiNTcuMTI4LjE4NC4xMTkiLCAidiI6ICIyIiwgInBzIjogIkZyYW5jZSIsICJwb3J0IjogNDQzLCAiaWQiOiAiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwgImFpZCI6ICIxIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogIjU3LjEyOC4xODQuMTE5IiwgInBhdGgiOiAibGlua3Z3cyIsICJ0bHMiOiAidGxzIn0=
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@67.220.95.102:3306#United+States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2ZWRUdU45V1N1ZlRrWWh2ZkpEMGpz@77.239.122.39:2239#United+Kingdom
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@54.36.174.181:8090#France
-trojan://94d219c9-1afc-4d42-b090-8b3794764380@std1.loadingip.com:443?security=tls&type=tcp&headerType=none#Singapore
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@69.50.95.218:9090#United+States
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@145.239.6.202:8009#United+Kingdom
-trojan://tg-fq521free@45.67.215.95:443?security=tls&sni=torjan.xn--xhq44j.eu.org&type=ws&host=torjan.xn--xhq44j.eu.org&path=/#Russia
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@51.77.53.200:3306#Poland
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@54.36.174.181:7307#France
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@145.239.6.202:8888#United+Kingdom
-vmess://eyJhZGQiOiAiczIuZGItbGluazAxLnRvcCIsICJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJwb3J0IjogMjA5NSwgImlkIjogIjRiMzY2MjVjLWI5ZDktM2VhNi1hZWQ1LTg2ZDYyYzcwZTE2ZCIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIxMDAtMTMwLTEzNi01MC5zMi5kYi1saW5rMDEudG9wIiwgInBhdGgiOiAiL2RhYmFpLmluMTA0LjIxLjEzMy4xMiIsICJ0bHMiOiAiIn0=
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@51.77.53.200:4444#Poland
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4YTYwNjU0MDFkZTU2NGFj@212.56.42.207:10051#United+Kingdom
+vmess://eyJhZGQiOiAiMzEuNDMuMTc5LjEwNSIsICJ2IjogIjIiLCAicHMiOiAiS2F6YWtoc3RhbiIsICJwb3J0IjogODQ0MywgImlkIjogImU4OGI4NWM2LTkzYjQtNDdmNi1iM2ZiLTJjNTVkY2IxMjg5ZiIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJsYXgyLmliZ2Z3LnRvcCIsICJwYXRoIjogIi9keWFqdndzIiwgInRscyI6ICJ0bHMifQ==
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyYmUwYzk1NC00MjkxLTQ1ZWEtYjQ3ZC1jYTcxMzE4MDU1MGI=@hk02.x.quickcht3.club:52612#Hong+Kong
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVUzR0c2tKYVlTdEJQVUt2Y05Wa2YwUFZoWGJzQUdDTnZyaGJmWnlidE94OXUyY0Y=@103.174.86.114:51348#India
+trojan://telegram-id-privatevpns@51.44.47.249:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#France
+vmess://eyJhZGQiOiAiMTU0LjI2LjEyOS4yNDciLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogIjI4ZWZiZjM2LTA3OWEtNGM5OC04NDcwLWQxMzQ1OGRiNmVlNiIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiNTcxNDMiLCAicHMiOiAiU2luZ2Fwb3JlIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@139.64.165.101:8008#United+States
 ```
 <h5>اوپری نوڈ کا مستقل رکنیت کا پتہ (حصہ): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ur-PK</h5>
  <p>اوپر سبسکرپشن ایڈریس کے لیے QR کوڈ</p>
