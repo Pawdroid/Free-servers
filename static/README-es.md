@@ -35,24 +35,23 @@
  <h4>Lista de nodos: (aquí solo se muestran algunos nodos; descargue la aplicación para ver todos los nodos)</h4>
     
 ```
-trojan://bpb-trojan@190.93.244.66:443?security=tls&sni=zeming13.us.kg&type=ws&host=zeming13.us.kg&path=/tr#Estados+Unidos
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@23.154.136.132:7001#Estados+Unidos
-trojan://123456@104.25.165.83:8443?security=tls&sni=top-azx.pages.dev&type=ws&host=top-azx.pages.dev&path=%2FAz1.vpn.33.TOP%2F%3Fed%3D2560#Estados+Unidos
-trojan://telegram-id-privatevpns@18.135.254.178:22222?security=tls&type=tcp&sni=trojan.burgerip.co.uk#Reino+Unido
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@156.244.9.92:990#Estados+Unidos
-trojan://3774827088566296576@deciding-mantis.treefrog761.one:443#India
-trojan://3747000103274291200@185.67.127.69:443?sni=ultimate-civet.adder289.quest#Reino+Unido
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@149.202.82.172:6697#Francia
-trojan://3747000103274291200@87.120.204.100:443?security=tls&sni=crucial-moccasin.adder289.quest&type=tcp#Luxemburgo
-trojan://15c33952@sj.5216818.xyz:443#Estados+Unidos
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.121.43.71:443#Estados+Unidos
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.154.136.132:8888#Estados+Unidos
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@103.104.247.72:8080#Holanda
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvMzh5dXZ6U2UzbTVhRE5wSHRVUEgxekd3YkdFWFhNRHNHd1ZhdWIyU1lFbUhVYTJXR1pVamllelgzVnZ2YTlDQ3pwanhZdHVKTGdLc1Nuc3lLQmY5Y2lQVmJhM3k0bzM=@95.164.122.61:54075#Estados+Unidos
-vmess://eyJhZGQiOiAiczEuZGItbGluazAxLnRvcCIsICJ2IjogIjIiLCAicHMiOiAiRXN0YWRvcyBVbmlkb3MiLCAicG9ydCI6IDIwODYsICJpZCI6ICI0YjM2NjI1Yy1iOWQ5LTNlYTYtYWVkNS04NmQ2MmM3MGUxNmQiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiMTAwLTE5MS0xMjktMTY3LnMxLmRiLWxpbmswMS50b3AiLCAicGF0aCI6ICIvZGFiYWkuaW4xNzIuNjQuMzIuMTg5IiwgInRscyI6ICIifQ==
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.62.161:443#Suiza
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpudGRMUjV2SEVqbVoxZnNWcnVyNENU@45.140.147.63:7541#Holanda
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.158.171.66:8080#Estados+Unidos
+vmess://eyJhZGQiOiAiMTA0LjE2LjE1NS4xMCIsICJhaWQiOiAwLCAiaG9zdCI6ICIxMDAtNDctMTU0LTkuczEuY24tZGIudG9wIiwgImlkIjogIjRiMzY2MjVjLWI5ZDktM2VhNi1hZWQ1LTg2ZDYyYzcwZTE2ZCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvZGFiYWkuaW4xMDQuMjQuMTgxLjE4OSIsICJwb3J0IjogMjA4NiwgInBzIjogIkVzdGFkb3MgVW5pZG9zIiwgInRscyI6ICIiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIn0=
+vmess://eyJhZGQiOiAiMTA0LjE5LjQ4LjIzNiIsICJ2IjogIjIiLCAicHMiOiAiRXN0YWRvcyBVbmlkb3MiLCAicG9ydCI6IDg4ODAsICJpZCI6ICI0YjM2NjI1Yy1iOWQ5LTNlYTYtYWVkNS04NmQ2MmM3MGUxNmQiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiMTAwLTEyOC0xMi0xODAuczQuZGItbGluazAyLnRvcCIsICJwYXRoIjogIi9kYWJhaS5pbjEwNC4yNS4yMzkuMTMxIiwgInRscyI6ICIifQ==
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@162.251.63.123:5004#Estados+Unidos
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpINVMwaHZjeFJpI1lMbWdV@38.107.226.146:1230#Estados+Unidos
+vmess://eyJhZGQiOiAiMTA0LjIxLjgzLjIwOCIsICJ2IjogIjIiLCAicHMiOiAiRXN0YWRvcyBVbmlkb3MiLCAicG9ydCI6IDQ0MywgImlkIjogImY1ODRkZTE1LTIwMzQtNDE3MC1hNzIzLWY0OGMyYmFlNWUwZiIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJhZnJobXMxNnYuYmVzdHhyYXkuYnV6eiIsICJwYXRoIjogIi9saW5rd3MiLCAidGxzIjogInRscyJ9
+trojan://Mikahyh%40l4fg@172.67.213.239:443?security=tls&sni=1dA8C916-rOuNd-moON-05E0.SoreN-cyBGU.WOrkERS.dEV&type=ws&host=1da8c916-round-moon-05e0.soren-cybgu.workers.dev&path=%2FtrRcYvbGfmPV0XjXHV%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#Estados+Unidos
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@145.239.6.202:8090#Reino+Unido
+trojan://ac07ddf4-a3ad-4272-a9de-d1209914cc2b@134.209.78.237:443?security=tls&sni=quangtien.appsflyer.com&type=tcp&fp=randomized&alpn=h3%2Ch2%2Chttp%2F1.1#Estados+Unidos
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@67.220.95.102:8091#Estados+Unidos
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.68.134.202:5004#Estados+Unidos
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNMkV6WQ==@146.19.106.5:8388#Canad%C3%A1
+vmess://eyJhZGQiOiAiMTcyLjY3LjE3MC4xMSIsICJ2IjogIjIiLCAicHMiOiAiRXN0YWRvcyBVbmlkb3MiLCAicG9ydCI6IDQ0MywgImlkIjogImVkYmIxMDU5LTE2MzMtNDI3MS1iNjZlLWVkNGZiYTQ3YTFiZiIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJsaW5kZTA2LmluZGlhdmlkZW8uc2JzIiwgInBhdGgiOiAiL2xpbmt3cyIsICJ0bHMiOiAidGxzIn0=
+vmess://eyJhZGQiOiAidmlzYS5vcmciLCAidiI6ICIyIiwgInBzIjogIkVzdGFkb3MgVW5pZG9zIiwgInBvcnQiOiA0NDMsICJpZCI6ICJkMTNmYzJmNS0zZTA1LTQ3OTUtODFlYi00NDE0M2EwOWU1NTIiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiam9pbi0tLWJlZGUubW9zaXYyLWNvbS53b3JrZXJzLmRldiIsICJwYXRoIjogIi9zZ2Zxa3FtbHRjeS5zaXRlL3JicXF2d3MiLCAidGxzIjogInRscyJ9
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.121.43.71:8881#Estados+Unidos
+vmess://eyJhZGQiOiAiMjMuMTU4LjU2LjIyNyIsICJ2IjogIjIiLCAicHMiOiAiQWxlbWFuaWEiLCAicG9ydCI6IDQ0MywgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIyMy4xNTguNTYuMjI3IiwgInBhdGgiOiAiL2xpbmt2d3MiLCAidGxzIjogInRscyJ9
+vmess://eyJhZGQiOiAiczIuZGItbGluazAyLnRvcCIsICJ2IjogIjIiLCAicHMiOiAiRXN0YWRvcyBVbmlkb3MiLCAicG9ydCI6IDIwODYsICJpZCI6ICI0YjM2NjI1Yy1iOWQ5LTNlYTYtYWVkNS04NmQ2MmM3MGUxNmQiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiMTAwLTE3MS0xMDQtMjM4LnMyLmRiLWxpbmswMi50b3AiLCAicGF0aCI6ICIvZGFiYWkuaW4xNzIuNjQuNDMuMTQiLCAidGxzIjogIiJ9
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.34.244.80:443#Holanda
 ```
 <h5>La dirección de suscripción permanente del nodo superior (parte): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_es</h5>
  <p>Código QR para la dirección de suscripción anterior</p>
