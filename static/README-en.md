@@ -35,23 +35,24 @@
 <h4>Node list: (Only some nodes are shown here, please download the app to view all nodes)</h4>
     
 ```
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@217.182.198.219:5004#Germany
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.158.171.110:8080#United+States
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@51.77.53.200:3389#Poland
-vmess://eyJhZGQiOiAiMTcyLjY3LjEzNi4yMzMiLCAidiI6ICIyIiwgInBzIjogIlVuaXRlZCBTdGF0ZXMiLCAicG9ydCI6IDQ0MywgImlkIjogIjNmNjM4ZjM0LThkYmEtNDE4Ni1iYzQzLTI3MTZhN2RkZDRiZSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJhejA1LmJleW9uZHkuY2ZkIiwgInBhdGgiOiAiL2xpbmsiLCAidGxzIjogInRscyJ9
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@217.182.198.219:5001#Germany
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@145.239.6.202:5000#United+Kingdom
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@67.220.74.202:7002#United+States
-vmess://eyJhZGQiOiAiNjIuMTQ2LjIzMi4xNTMiLCAidiI6ICIyIiwgInBzIjogIkdlcm1hbnkiLCAicG9ydCI6IDUzMTQ0LCAiaWQiOiAiMTNlMTNhM2UtZTk4MS00ZWVhLWE5ZmMtMTNlNTA2MjhmZDliIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIiLCAidGxzIjogIiJ9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@192.71.249.146:990#Belgium
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.167:443#United+States
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@69.50.93.47:8119#United+States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@ca225.vpnbook.com:80#Canada
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@51.68.206.229:8080#United+Kingdom
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.114.114.143:443#United+States
-vmess://eyJhZGQiOiAiczEuZGItbGluazAxLnRvcCIsICJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJwb3J0IjogODg4MCwgImlkIjogIjRiMzY2MjVjLWI5ZDktM2VhNi1hZWQ1LTg2ZDYyYzcwZTE2ZCIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIxMDAtMjUwLTMyLTUzLnMxLmRiLWxpbmswMS50b3AiLCAicGF0aCI6ICIvZGFiYWkuaW4xNzIuNjcuOTUuMzUiLCAidGxzIjogIiJ9
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.121.43.71:8000#United+States
-ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@38.68.135.18:9101#United+States
+trojan://telegram-id-privatevpns@3.255.47.221:22222?security=tls&sni=trojan.burgerip.co.uk#Ireland
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.121.43.71:8882#United+States
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@38.121.43.71:8008#United+States
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@149.202.82.172:8000#France
+trojan://telegram-id-privatevpns@3.73.167.137:22222?security=tls&sni=trojan.burgerip.co.uk#Germany
+vmess://eyJhZGQiOiAiMTcyLjY3LjIwNC4xOSIsICJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJwb3J0IjogNDQzLCAiaWQiOiAiNWY3MjZmZTMtZDgyZS00ZGE1LWE3MTEtOGFmMGNiYjJiNjgyIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogIjFhMmQ1MTRiLTM3Y2YtNDk5Zi04ZDA4LWQwMTdhOTJhYjViYi5hc291bC1hdmEudG9wIiwgInBhdGgiOiAiL2F6dW1hc2UucmVuIiwgInRscyI6ICJ0bHMifQ==
+ss://YWVzLTI1Ni1nY206TUhaVUVPWDNLQlhBVjA5Sw==@156.245.190.16:15007#Hong+Kong
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxWHZPN3pZVTdLZWFCME1kN0RRTG93@51.195.119.47:1080#France
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@149.202.82.172:7001#France
+trojan://telegram-id-privatevpns@18.185.162.38:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#Germany
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@54.36.174.181:8080#France
+trojan://3747000103274291200@185.67.127.69:443?sni=ultimate-civet.adder289.quest#United+Kingdom
+vmess://eyJhZGQiOiAiMTg4LjQyLjg5LjE4NiIsICJ2IjogIjIiLCAicHMiOiAiTHV4ZW1ib3VyZyIsICJwb3J0IjogODQ0MywgImlkIjogImU4OGI4NWM2LTkzYjQtNDdmNi1iM2ZiLTJjNTVkY2IxMjg5ZiIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJsYXgyLmliZ2Z3LnRvcCIsICJwYXRoIjogIi9keWFqdndzIiwgInRscyI6ICJ0bHMifQ==
+ss://YWVzLTI1Ni1nY206Q1pXR0tWVktFVDJCVFJCSw==@154.196.244.12:16002#Singapore
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.158.171.132:8080#United+States
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@145.239.6.202:2376#United+Kingdom
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.34.244.82:443#The+Netherlands
+trojan://3747000103274291200@94.177.131.199:443?security=tls&sni=open-maggot.pigeon031.one&type=tcp&fp=chrome#Japan
 ```
 <h5>Permanent subscription address of the node above (part): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_en</h5>
 <p>QR code of the subscription address above</p>
