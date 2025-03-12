@@ -35,22 +35,23 @@
  <h4>नोड सूची: (यहां केवल कुछ नोड्स प्रदर्शित हैं, कृपया सभी नोड्स देखने के लिए ऐप डाउनलोड करें)</h4>
     
 ```
-vmess://eyJhZGQiOiAiMTUuMjA0LjI0OS4wIiwgImFpZCI6ICIwIiwgImVuY3J5cHRpb24iOiAiYXV0byIsICJob3N0IjogIiIsICJpZCI6ICI1YjExM2MxMi00ZGQ0LTRiYjUtOWMwMS1jZmYwOTJiNTU5ZTMiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogIjQ4MTYwIiwgInBzIjogIlVuaXRlZCBTdGF0ZXMiLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogZmFsc2UsICJ0bHMiOiAiIiwgInR5cGUiOiAiIiwgInVybF9ncm91cCI6ICJ2MnJheSIsICJ2IjogIjIifQ==
-vmess://eyJhZGQiOiAiMTA0LjE5LjQ4LjIzNiIsICJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJwb3J0IjogODg4MCwgImlkIjogIjRiMzY2MjVjLWI5ZDktM2VhNi1hZWQ1LTg2ZDYyYzcwZTE2ZCIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIxMDAtMTI4LTEyLTE4MC5zNC5kYi1saW5rMDIudG9wIiwgInBhdGgiOiAiL2RhYmFpLmluMTA0LjI1LjIzOS4xMzEiLCAidGxzIjogIiJ9
-vmess://eyJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJhZGQiOiAiczUuZGItbGluazAyLnRvcCIsICJwb3J0IjogIjgwODAiLCAidHlwZSI6ICJub25lIiwgImlkIjogIjRiMzY2MjVjLWI5ZDktM2VhNi1hZWQ1LTg2ZDYyYzcwZTE2ZCIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvZGFiYWkuaW4xMDQuMjAuMTYuMjA5IiwgImhvc3QiOiAiMTAwLTE0OS0xOTEtMi5zNS5kYi1saW5rMDIudG9wIiwgInRscyI6ICIifQ==
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyYmUwYzk1NC00MjkxLTQ1ZWEtYjQ3ZC1jYTcxMzE4MDU1MGI=@hk02.x.quickcht3.club:52612#Hong+Kong
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.47.254.87:990#Guatemala
-ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@23.154.136.132:5499#United+States
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@69.50.93.47:5000#United+States
-vmess://eyJhZGQiOiAiMTA5LjEyMy4yMzIuNzQiLCAidiI6ICIyIiwgInBzIjogIlNpbmdhcG9yZSIsICJwb3J0IjogNTkwMzIsICJpZCI6ICI5NmFiN2UxZi1iZjBkLTQ1Y2QtOGViYy1jOGJlMmY4ZDQzY2QiLCAiYWlkIjogIjAiLCAibmV0IjogInRjcCIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAiIn0=
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.204:443#United+States
-vmess://eyJhZGQiOiAiMzguMTQuMTA3LjIyNSIsICJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJwb3J0IjogMzgwMDMsICJpZCI6ICI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCAiYWlkIjogIjY0IiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogInd3dy4yMzE3OTc1My54eXoiLCAicGF0aCI6ICIvcGF0aC8xODE3MjEyNzIxMTQiLCAidGxzIjogInRscyJ9
-trojan://tg-fq521free@45.67.215.95:443?security=tls&sni=torjan.xn--xhq44j.eu.org&type=ws&host=torjan.xn--xhq44j.eu.org&path=/#Russia
 trojan://Ng35283528@104.16.83.176:443?security=tls&sni=c2.validbv3528.eu.org&type=ws&host=c2.validbv3528.eu.org&path=%2F%3Fed%3D2560&fp=randomized#United+States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMGZhM2E5Yi0yMTE1LTRjYzAtYThmNS03ZjRmN2NhZjZlYzE=@92.223.2.77:8080#Luxembourg
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMGZhM2E5Yi0yMTE1LTRjYzAtYThmNS03ZjRmN2NhZjZlYzE=@92.223.44.129:8080#Uzbekistan
-trojan://bba1cfff-9e0b-4cb6-9df4-c741c75e59a8@naiu-hk.05vr9nyqg5.download:13007?allowInsecure=1&sni=cloudflare.node-ssl.cdn-alibaba.com#China
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@51.77.53.200:8090#Poland
+vmess://eyJhZGQiOiAiMTcyLjY3LjcxLjE2MCIsICJhaWQiOiAwLCAiaG9zdCI6ICJvYmRpaS5jZmQiLCAiaWQiOiAiMDU2NDFjZjUtNThkMi00YmE0LWE5ZjEtYjNjZGEwYjFmYjFkIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9saW5rd3MiLCAicG9ydCI6IDQ0MywgInBzIjogIlVuaXRlZCBTdGF0ZXMiLCAidGxzIjogInRscyIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogZmFsc2UsICJzbmkiOiAib2JkaWkuY2ZkIn0=
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@54.36.174.181:9102#France
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.68.135.18:7306#United+States
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.68.134.202:2375#United+States
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@51.77.53.200:9102#Poland
+vmess://eyJhZGQiOiAiczIuZGItbGluazAyLnRvcCIsICJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJwb3J0IjogODA4MCwgImlkIjogIjRiMzY2MjVjLWI5ZDktM2VhNi1hZWQ1LTg2ZDYyYzcwZTE2ZCIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIxMDAtMTE5LTE1MS0yNDguczIuZGItbGluazAyLnRvcCIsICJwYXRoIjogIi9kYWJhaS5pbjE3Mi42NC40MS4xNTAiLCAidGxzIjogIiJ9
+trojan://amclubs2024@154.83.2.200:443?security=tls&type=ws&sni=tr.amclub.us.kg&path=/?ed=2560&host=tr.amclub.us.kg#Seychelles
+vmess://eyJhZGQiOiAiczUuZGItbGluazAyLnRvcCIsICJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJwb3J0IjogMjA5NSwgImlkIjogIjRiMzY2MjVjLWI5ZDktM2VhNi1hZWQ1LTg2ZDYyYzcwZTE2ZCIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIxMDAtMjYtMjM5LTk4LnM1LmRiLWxpbmswMi50b3AiLCAicGF0aCI6ICIvZGFiYWkuaW4xNzIuNjcuMTEuMTcxIiwgInRscyI6ICIifQ==
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@54.36.174.181:8118#France
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplU0hFZEp6OTZycU5rT0NBemQ1Q3N2@94.131.123.147:7383#T%C3%BCrkiye
+trojan://telegram-id-directvpn@15.236.9.212:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#France
+vmess://eyJhZGQiOiAiMTg4LjExNC45Ni42IiwgInYiOiAiMiIsICJwcyI6ICJUaGUgTmV0aGVybGFuZHMiLCAicG9ydCI6IDQ0MywgImlkIjogImY1ODRkZTE1LTIwMzQtNDE3MC1hNzIzLWY0OGMyYmFlNWUwZiIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJhZnJobXMxNnYuYmVzdHhyYXkuYnV6eiIsICJwYXRoIjogIi9saW5rd3MiLCAidGxzIjogInRscyJ9
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.78:443#United+Kingdom
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@145.239.6.202:4444#United+Kingdom
+ss://YWVzLTI1Ni1nY206WkRHQzBRMkUxMTJVQUpPNg==@156.245.190.23:15014#Hong+Kong
+trojan://6d898085-bf6a-449b-9763-0073d4dc2ce0@104.21.64.1:443?security=tls&sni=BOsToN01.818185.GGff.NET&type=ws&host=BOsToN01.818185.GGff.NET&path=/Q3cz2AWTPMCtDGV1L6R1Jz18eIUw#United+States
 ```
 <h5>ऊपरी नोड (भाग) का स्थायी सदस्यता पता: https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_hi</h5>
  <p>उपरोक्त सदस्यता पते के लिए QR कोड</p>
