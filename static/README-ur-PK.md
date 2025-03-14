@@ -35,22 +35,22 @@
  <h4>نوڈ کی فہرست: (یہاں صرف کچھ نوڈس دکھائے گئے ہیں، براہ کرم تمام نوڈس دیکھنے کے لیے ایپ ڈاؤن لوڈ کریں)</h4>
     
 ```
-ss://YWVzLTI1Ni1nY206UEdGMlRHVUNIUUJDNUlQNQ==@156.231.104.26:18016#Japan
-ss://YWVzLTI1Ni1nY206OWFjZmM1NzQtYWNjMy00YzJiLWFiM2ItNDkxZDQzYTZlYjgz@154.83.90.11:21114#Malaysia
-ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@54.36.174.181:9102#France
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.164:8080#Lithuania
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpucTk2S2Z0clpBajNMdUZRRVNxbW40NE1vNW9DdW8yY2lwb0VzYWUyNW1ybUhHMm9KNFZUMzdzY0JmVkJwTjVEV3RVRUxadXRWaGhYczhMZTVCOGZaOWhMbjl5dHd2YmY=@208.67.105.87:42501#The+Netherlands
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@217.182.198.219:8091#Germany
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@51.77.53.200:7306#Poland
-trojan://696cfe79@sje.5216818.xyz:443#United+States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWEdwMStpaGxmS2c4MjZI@172.233.128.126:1866#United+States
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.114.114.143:443#United+States
+trojan://74260714362785500@unified-javelin.shiner427.skin:443?sni=unified-javelin.shiner427.skin#Japan
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@139.59.119.143:443?sni=connectwithemployers.online#Singapore
+vmess://eyJhZGQiOiAiMTU0LjE5Ny43NS44MSIsICJ2IjogIjIiLCAicHMiOiAiU2V5Y2hlbGxlcyIsICJwb3J0IjogODQ0MywgImlkIjogIjE5MWJhYmM1LTJhYWYtNGZlNS1hNTYzLWYxNDI0NGFlZmI0ZSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJsYXgxLmliZ2Z3LnRvcCIsICJwYXRoIjogIi94cmVudndzIiwgInRscyI6ICJ0bHMifQ==
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.168:443#United+States
+vmess://eyJhZGQiOiAiMTcyLjIwNC44LjEwIiwgInYiOiAiMiIsICJwcyI6ICJOZXcgWmVhbGFuZCIsICJwb3J0IjogNTUwLCAiaWQiOiAiODFiYmNhNzAtYTM1Zi00ODdlLTg4YTQtOGJkNTg1NmIxMGE1IiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIiLCAidGxzIjogIiJ9
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMGZhM2E5Yi0yMTE1LTRjYzAtYThmNS03ZjRmN2NhZjZlYzE=@5.188.190.70:8080#T%C3%BCrkiye
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@103.104.247.47:8080#The+Netherlands
-vmess://eyJhZGQiOiAiVVM3LTAxLjg5MDYyNC5YeVoiLCAiYWlkIjogMCwgImhvc3QiOiAiVVM3LTAxLjg5MDYyNC5YeVoiLCAiaWQiOiAiNGQwNGIzMGMtZWY3Yi00YTA3LThmOWUtZjU4MWVjMTcxZjhhIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9idWEyaE1jYkE4d016YkdGdFYiLCAicG9ydCI6IDQ0MywgInBzIjogIlVuaXRlZCBTdGF0ZXMiLCAidGxzIjogInRscyIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogZmFsc2UsICJzbmkiOiAidXM3LTAxLjg5MDYyNC54eXoifQ==
-vmess://eyJhZGQiOiAiMjMuMTYyLjIwMC4yMjciLCAidiI6ICIyIiwgInBzIjogIkNhbmFkYSIsICJwb3J0IjogNDQzLCAiaWQiOiAiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIi9saW5rdndzIiwgInRscyI6ICJ0bHMifQ==
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.171:8080#Lithuania
-vmess://eyJhZGQiOiAiMzEuMTI5LjEwNS4yMzkiLCAidiI6ICIyIiwgInBzIjogIlJ1c3NpYSIsICJwb3J0IjogMTYyMzEsICJpZCI6ICI3OTNlMDNjYy0yYjA4LTRkMWItYmIwYi01OTI1NjdkMTkwNDMiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiLyIsICJ0bHMiOiAiIn0=
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@54.36.174.181:5001#France
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.154.136.132:8888#United+States
+trojan://telegram-id-privatevpns@18.135.31.104:22222?security=tls&sni=trojan.burgerip.co.uk#United+Kingdom
+ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@69.50.93.80:5498#United+States
+trojan://installshield@38.180.249.177:8443#The+Netherlands
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@149.202.82.172:5601#France
+vmess://eyJhZGQiOiAiODkuMTE2LjE2MS4yNDAiLCAidiI6ICIyIiwgInBzIjogIlVuaXRlZCBTdGF0ZXMiLCAicG9ydCI6IDg0NDMsICJpZCI6ICJlODhiODVjNi05M2I0LTQ3ZjYtYjNmYi0yYzU1ZGNiMTI4OWYiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAibGF4Mi5pYmdmdy50b3AiLCAicGF0aCI6ICIvZHlhanZ3cyIsICJ0bHMiOiAidGxzIn0=
+ss://YWVzLTI1Ni1nY206OWFjZmM1NzQtYWNjMy00YzJiLWFiM2ItNDkxZDQzYTZlYjgz@okanc.node-is.green:21115#United+States
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.196:443#United+Kingdom
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.65:8080#Lithuania
 ```
 <h5>اوپری نوڈ کا مستقل رکنیت کا پتہ (حصہ): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ur-PK</h5>
  <p>اوپر سبسکرپشن ایڈریس کے لیے QR کوڈ</p>
