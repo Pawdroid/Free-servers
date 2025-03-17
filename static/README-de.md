@@ -35,28 +35,27 @@
  <h4>Knotenliste: (Hier werden nur einige Knoten angezeigt. Bitte laden Sie die App herunter, um alle Knoten anzuzeigen.)</h4>
     
 ```
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@149.202.82.172:8090#Frankreich
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwN0VoQzhNUjdvN0d1Um4yN1lGOFNRTkFLSjJsVWJCTklqY3lxU21CSHN5OHdMYko=@159.65.149.72:51348#Indien
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.179:443#UK
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvMzh5dXZ6U2UzbTVhRE5wSHRVUEgxekd3YkdFWFhNRHNHd1ZhdWIyU1lFbUhVYTJXR1pVamllelgzVnZ2YTlDQ3pwanhZdHVKTGdLc1Nuc3lLQmY5Y2lQVmJhM3k0bzM=@beta.mattenadene.org:54075#USA
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiWjg3YW1QcGRHN0t1V002MmJLdG0xS0hvb3d1VmpuVjhDS3RxNjUzeW1IY2cyZFBZY1BKZm5hUTYxc3R1QWpyMlppTERhcUg1Nlhwa3hFWXV3RHp6UnJNV2llZWJXR3Q=@mx2.drawnrisha.one:55988#UK
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@54.36.174.181:5500#Frankreich
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.170:443#USA
-vmess://eyJhZGQiOiAiaG1zMjYueHBlbmdtb3RvcnMuc2JzIiwgInYiOiAiMiIsICJwcyI6ICJGcmFua3JlaWNoIiwgInBvcnQiOiA0NDMsICJpZCI6ICJmYjBhMmRlNi1iZjA2LTRmZjAtOTdjZS1jMjFhYmNkYzJkNTUiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiaG1zMjYueHBlbmdtb3RvcnMuc2JzIiwgInBhdGgiOiAiL2xpbmt3cyIsICJ0bHMiOiAidGxzIn0=
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.121.43.71:443#USA
-vmess://eyJhZGQiOiAibEEwMS44OTA2MDYuZ2dmRi5uRVQiLCAidiI6ICIyIiwgInBzIjogIlVTQSIsICJwb3J0IjogNDQzLCAiaWQiOiAiNjBjZGQ4OWUtYTljZi00ODUwLTg1NzctZTNjNmFiZjU1MTVkIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogImxhMDEuODkwNjA2LmdnZmYubmV0IiwgInBhdGgiOiAiL2d5Q1ZPUmZqb1hZeUhIY0pCdUxkIiwgInRscyI6ICJ0bHMifQ==
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.121.43.71:2376#USA
-trojan://4732adfa16c6450bbef87264e41332db@165.22.74.230:443?security=tls&sni=nextstepcareer.online&type=tcp&allowInsecure=1#Deutschland
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@69.50.95.245:7002#USA
-trojan://telegram-id-privatevpns@63.176.208.236:22222?sni=trojan.burgerip.co.uk#Deutschland
-trojan://ZS9yA0YxpC6X3aDj88YAy5l3KS4FwCcy3DCDR3F322DOS3BRO7N3nFOxEKxSY6Ky3aXCNSxAEAaNnl4@dilmun.starspace.link:443?sni=dilmun.starspace.link#USA
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowYWVjNGExOTY5MDg2Njgx@57.130.11.132:11203#Frankreich
+trojan://p0axgx3pXT6yjp4SwSRaaYeCDxCFOFaAlRYDNaRjF8OycXn3ZE3ABaYgnDIx3Eeq9C0ce@huzzah.meijireform.com:443#Japan
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMzgzNzIyNGVkNDY1ZjAw@war.ssvpnapp.win:57456#Polen
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@149.202.82.172:6697#Frankreich
+ss://YWVzLTI1Ni1nY206NTVOMDlOQ1hXRUg3R1FNRg==@206.245.211.25:19015#UK
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.121.43.71:5001#USA
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@38.165.233.18:990#Paraguay
+vmess://eyJhZGQiOiAiMTg4LjExNC45Ni42IiwgInYiOiAiMiIsICJwcyI6ICJOaWVkZXJsYW5kZSIsICJwb3J0IjogNDQzLCAiaWQiOiAiOTUwZGI2YWEtNDkyNi00NjE2LTgxNmUtZWMwMzEyZGNiODdiIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogImphaGZramhhLmNmZCIsICJwYXRoIjogIi9saW5rd3MiLCAidGxzIjogInRscyJ9
+trojan://telegram-id-privatevpns@18.175.72.223:22222?security=tls&sni=trojan.burgerip.co.uk#UK
+vmess://eyJhZGQiOiAiMTAzLjE0OS4xODMuMTc4IiwgInYiOiAiMiIsICJwcyI6ICJIb25na29uZyIsICJwb3J0IjogMjc1MTIsICJpZCI6ICI5NmQzODY4My0wODE3LTRkOTEtYmZmYS02ZjAzZGYxOGQ5ZGMiLCAiYWlkIjogIjAiLCAibmV0IjogInRjcCIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAiIn0=
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.121.43.27:5500#USA
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@69.50.93.47:7002#USA
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@145.239.6.202:3389#UK
+ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@38.114.121.249:5498#USA
+trojan://RaDcSOZ8KD8jRR3YY9lyF3aga3Sy8CxqaXXBpxZ8CexKzwF4CSyqOyDEIz7wNO6FCA32Y@16.16.185.202:443?sni=mstiot.golfland.club#Schweden
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@23.166.88.221:8118#USA
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.181:8080#Litauen
+vmess://eyJhZGQiOiAiNDUuMTU5LjIxOS4xNzkiLCAidiI6ICIyIiwgInBzIjogIlVTQSIsICJwb3J0IjogODQ0MywgImlkIjogImU4OGI4NWM2LTkzYjQtNDdmNi1iM2ZiLTJjNTVkY2IxMjg5ZiIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJsYXgyLmliZ2Z3LnRvcCIsICJwYXRoIjogIi9keWFqdndzIiwgInRscyI6ICJ0bHMifQ==
+vmess://eyJhZGQiOiAiMTM0LjE5NS4xOTguMTQ3IiwgInYiOiAiMiIsICJwcyI6ICJLYW5hZGEiLCAicG9ydCI6IDQ0MywgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJpbm5hLmNmZCIsICJwYXRoIjogIi9saW5rdndzIiwgInRscyI6ICJ0bHMifQ==
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMGZhM2E5Yi0yMTE1LTRjYzAtYThmNS03ZjRmN2NhZjZlYzE=@85.90.194.200:8080#Luxemburg
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyY2JiMmJhYTQzNGZlODdk@100.42.177.236:11207#USA
-trojan://lBSSFOalI3yXZDOAwADg9a8zTCexE6pjxeX4D3a0FgSSYRqlCyCOYcz83w3aYR3cTZDF8@length.wireshop.net:443?sni=length.wireshop.net#USA
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowNzA1ZWY5NzUxY2M1NWYz@84.247.147.61:40693#Deutschland
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@173.244.56.9:443#USA
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@142.202.48.105:5004#USA
-trojan://TRY332RCOD4panalyy9nISleFSZDOYFwzXSSNaCCwYelEyDR230cxAZxDqFOTzA3AX68S@otcele.golfland.club:443?sni=otcele.golfland.club#Schweden
-trojan://telegram-id-directvpn@13.39.173.10:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#Frankreich
 ```
 <h5>Die permanente Abonnementadresse des oberen Knotens (Teil): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_de</h5>
  <p>QR-Code für die Abonnementadresse oben</p>
