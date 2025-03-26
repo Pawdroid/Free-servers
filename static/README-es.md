@@ -35,21 +35,21 @@
  <h4>Lista de nodos: (aquí solo se muestran algunos nodos; descargue la aplicación para ver todos los nodos)</h4>
     
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.92:8080#Lituania
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@217.182.198.219:8008#Alemania
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@149.202.82.172:6697#Francia
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.79:443#Reino+Unido
-vmess://eyJhZGQiOiAidGFzbmlNLmZBclNvbmxJTkUyNC5pUiIsICJ2IjogIjIiLCAicHMiOiAiRXN0YWRvcyBVbmlkb3MiLCAicG9ydCI6IDIwNTMsICJpZCI6ICJkMjYzOGIxNS03YzU0LTRhODMtYjIxNy1kZTA5MjgwNzBlMmQiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAidGFzbmltLmZhcnNvbmxpbmUyNC5pciIsICJwYXRoIjogIi91cFA0dlR5RmZKTThtbzdVM3NTIiwgInRscyI6ICJ0bHMifQ==
-trojan://6aqnYj7NA2CAeSeZpY34RIC3KzNzDO33aOOaZSxFSc5ETBcwXeyaDF3qC9A907y2nXT8S@visual.superpokemon.com:443?sni=visual.superpokemon.com#Jap%C3%B3n
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.121.43.97:7001#Estados+Unidos
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpabVExTnpGag==@185.231.205.179:8388#Francia
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@92.118.205.228:990#Polonia
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@54.36.174.181:2375#Francia
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVUzR0c2tKYVlTdEJQVUt2Y05Wa2YwUFZoWGJzQUdDTnZyaGJmWnlidE94OXUyY0Y=@103.174.86.114:51348#India
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1ZTdiMDI2Mzc3ZmU5N2Vh@100.42.182.30:48971#Estados+Unidos
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.121.43.71:2376#Estados+Unidos
-vmess://eyJhZGQiOiAiczQuZGItbGluazAxLnRvcCIsICJ2IjogIjIiLCAicHMiOiAiRXN0YWRvcyBVbmlkb3MiLCAicG9ydCI6IDIwOTUsICJpZCI6ICI0YjM2NjI1Yy1iOWQ5LTNlYTYtYWVkNS04NmQ2MmM3MGUxNmQiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiMTAwLTExNC0xMDctMjIxLnM0LmRiLWxpbmswMS50b3AiLCAicGF0aCI6ICIvZGFiYWkuaW4xMDQuMTcuMjguMjQwIiwgInRscyI6ICIifQ==
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.168:443#Estados+Unidos
+vmess://eyJhZGQiOiAiNTIwZGM3LmMxNDItOTQ2Yi1hOGE1LmNmZCIsICJ2IjogIjIiLCAicHMiOiAiRXN0YWRvcyBVbmlkb3MiLCAicG9ydCI6IDgwLCAiaWQiOiAiNTM1OTg0MDEtMzFlMS00Y2UzLWJiMmUtNmMwMGE4ZmMzZTAxIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogImhrMDNzLmMxNDItOTQ2Yi1hOGE1LmNmZCIsICJwYXRoIjogIi8iLCAidGxzIjogIiJ9
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.114.114.77:5500#Estados+Unidos
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@149.202.82.172:5500#Francia
+ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@51.77.53.200:445#Polonia
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.240:443#Estados+Unidos
+trojan://a8fce442-ae9a-4cc1-a0cc-20308ff0a0db@104.21.96.1:443?security=tls&sni=1kM.HUaNgSHang.pP.UA&type=ws&host=1km.huangshang.pp.ua&path=%2FlXENb74xF4ylXngZ&fp=chrome&alpn=http%2F1.1#Estados+Unidos
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyRW1XUlMxVGtTM1RreEtBcG5yaWhiM2FIakRTWFJ2VDFUMUs5VTJCcnV4cm5wNUE4em1wVHh3d1ROamU2QmtWcW1uOUJnUkY2cHE4cW9SSENmWmRjYWg3QkxianJwVDE=@185.5.38.111:55988#Reino+Unido
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@64.74.163.130:990#Estados+Unidos
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.58:8080#Lituania
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@54.36.174.181:8008#Francia
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@142.202.49.84:5001#Estados+Unidos
+vmess://eyJhZGQiOiAiMzguMTQuMTA3LjIzMyIsICJ2IjogIjIiLCAicHMiOiAiRXN0YWRvcyBVbmlkb3MiLCAicG9ydCI6IDM4MDAzLCAiaWQiOiAiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwgImFpZCI6ICI2NCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJ3d3cuMjMxNzk3NTMueHl6IiwgInBhdGgiOiAiL3BhdGgvMzQwNDM0MTMwMDMyIiwgInRscyI6ICJ0bHMifQ==
+trojan://33fe5d7f-c9c1-4fd3-a2db-d0f3db6e5fba@tro-us02.gproxy.gratis:443#Estados+Unidos
+vmess://eyJhZGQiOiAibWVocm5ld3MuaXRuMjQuaXIiLCAidiI6ICIyIiwgInBzIjogIkVzdGFkb3MgVW5pZG9zIiwgInBvcnQiOiAyMDg3LCAiaWQiOiAiMjg4ODZjMDktNzIxYS00NDdkLWE4MmUtNzJjNTUwMDg1OGYzIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogIk1lSFJORVdzLkl0TjI0LmlyIiwgInBhdGgiOiAiL1lmWm4ycGYwZ2NMekk1bThaZ2hDQzUiLCAidGxzIjogInRscyJ9
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@51.77.53.200:3389#Polonia
 ```
 <h5>La dirección de suscripción permanente del nodo superior (parte): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_es</h5>
  <p>Código QR para la dirección de suscripción anterior</p>
