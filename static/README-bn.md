@@ -35,20 +35,19 @@
  <h4>নোড তালিকা: (শুধুমাত্র কিছু নোড এখানে প্রদর্শিত হয়, সমস্ত নোড দেখতে অ্যাপটি ডাউনলোড করুন)</h4>
     
 ```
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.79:443#United+Kingdom
-trojan://installshield@38.180.249.177:8443#The+Netherlands
-vmess://eyJhZGQiOiAiZmsyLWJhc2guODkwNjE3Lnh5eiIsICJhaWQiOiAwLCAiaG9zdCI6ICJmazItYmFzaC44OTA2MTcueHl6IiwgImlkIjogImZlZGRjMzI2LWRhNzAtNGZhYi05NWE5LThmOThiZTZkYTYzMyIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvZmoyLTEiLCAicG9ydCI6IDIwODMsICJwcyI6ICJVbml0ZWQgU3RhdGVzIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IGZhbHNlLCAic25pIjogImZrMi0xLjg5MDYxNy54eXoifQ==
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.62.163:443#Switzerland
-vmess://eyJhZGQiOiAiMTU0LjgzLjIuOTAiLCAidiI6ICIyIiwgInBzIjogIlNleWNoZWxsZXMiLCAicG9ydCI6IDQ0MywgImlkIjogIjk1MGRiNmFhLTQ5MjYtNDYxNi04MTZlLWVjMDMxMmRjYjg3YiIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJqYWhma2poYS5jZmQiLCAicGF0aCI6ICIvbGlua3dzIiwgInRscyI6ICJ0bHMifQ==
-ss://YWVzLTI1Ni1nY206SEEySTVaWkw0WktFUFhLMQ==@ti3hyra4.slashdevslashnetslashtun.net:18001#China
-vmess://eyJhZGQiOiAiMTM3LjEzMS41Mi4xNzMiLCAidiI6ICIyIiwgInBzIjogIlVuaXRlZCBTdGF0ZXMiLCAicG9ydCI6IDIzNDUxLCAiaWQiOiAiMTc1MDQ4MmItNGJlNS00MWI5LTk3MTQtMjIyNTM2NDk4ZTlkIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogInBoeC1wbHVzLTFkZG5zLmZhZm9yZXguZXUub3JnIiwgInBhdGgiOiAiLyIsICJ0bHMiOiAiIn0=
-trojan://74260704627805900@202.78.163.175:443?allowInsecure=1&sni=native-eft.shiner427.skin#United+Kingdom
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwN0VoQzhNUjdvN0d1Um4yN1lGOFNRTkFLSjJsVWJCTklqY3lxU21CSHN5OHdMYko=@159.65.149.72:51348#India
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.162:8080#The+Netherlands
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@217.182.198.219:8008#Germany
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@195.181.160.6:990#Czechia
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@ca225.vpnbook.com:80#Canada
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@217.182.198.219:6379#Germany
+vmess://eyJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJhZGQiOiAiYmF6YXIuaXIiLCAicG9ydCI6ICI0NDMiLCAidHlwZSI6ICJub25lIiwgImlkIjogIjU0MmYzOGQ0LTRhZjQtNDBmZS05MjlkLTE2NzA1M2ZiMDRhOCIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvdm1lc3MiLCAiaG9zdCI6ICJkZTEtdm1lc3MuZ3JlZW5zc2gub3JnIiwgInRscyI6ICJ0bHMifQ==
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.158.171.132:8080#United+States
+trojan://4732adfa16c6450bbef87264e41332db@165.22.74.230:443?security=tls&sni=nextstepcareer.online#Germany
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@51.77.53.200:8881#Poland
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.158.171.146:8080#United+States
+vmess://eyJhZGQiOiAiMTM0LjE5NS4xOTguMTQ3IiwgInYiOiAiMiIsICJwcyI6ICJDYW5hZGEiLCAicG9ydCI6IDQ0MywgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJpbm5hLmNmZCIsICJwYXRoIjogIi9saW5rdndzIiwgInRscyI6ICJ0bHMifQ==
+vmess://eyJhZGQiOiAiMjAuNzguMTI3LjE0MSIsICJ2IjogIjIiLCAicHMiOiAiSmFwYW4iLCAicG9ydCI6IDU1MCwgImlkIjogIjllMTFlOTkyLWMzYTQtNDVmYi1iYjY3LTVmNGY0MmZjZDU1MSIsICJhaWQiOiAiMCIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiIiwgInRscyI6ICIifQ==
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@54.36.174.181:6679#France
+vmess://eyJhZGQiOiAiMTg1LjEzNS45LjE1MyIsICJ2IjogIjIiLCAicHMiOiAiR2VybWFueSIsICJwb3J0IjogODQ0MywgImlkIjogImU4OGI4NWM2LTkzYjQtNDdmNi1iM2ZiLTJjNTVkY2IxMjg5ZiIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJsYXgyLmliZ2Z3LnRvcCIsICJwYXRoIjogIi9keWFqdndzIiwgInRscyI6ICJ0bHMifQ==
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.121.43.71:8882#United+States
+trojan://74260704627805900@85.234.65.206:443?sni=ample-koi.shiner427.skin#United+Kingdom
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.180:443#United+Kingdom
+trojan://33fe5d7f-c9c1-4fd3-a2db-d0f3db6e5fba@15.204.58.214:443?security=tls&sni=tro-us02.gproxy.gratis#United+States
 ```
 <h5>উপরের নোডের স্থায়ী সদস্যতা ঠিকানা (অংশ): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_bn</h5>
  <p>উপরের সদস্যতা ঠিকানার জন্য QR কোড</p>

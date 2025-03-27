@@ -35,20 +35,19 @@
  <h4>नोड सूची: (यहां केवल कुछ नोड्स प्रदर्शित हैं, कृपया सभी नोड्स देखने के लिए ऐप डाउनलोड करें)</h4>
     
 ```
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@51.68.206.229:8080#United+Kingdom
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@149.202.82.172:8119#France
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.47.255.22:990#Puerto+Rico
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@149.202.82.172:445#France
-vmess://eyJhZGQiOiAiNTcuMTI5LjI1LjI1IiwgInYiOiAiMiIsICJwcyI6ICJGcmFuY2UiLCAicG9ydCI6IDQ0MywgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJmLmtoaWxlaS5jb20iLCAicGF0aCI6ICIvbGlua3Z3cyIsICJ0bHMiOiAidGxzIn0=
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.62.163:443#Switzerland
-vmess://eyJhZGQiOiAiM2gtUGhpbGlwcGluZXMxLjA5dnBuLmNvbSIsICJ2IjogIjIiLCAicHMiOiAiUGhpbGlwcGluZXMiLCAicG9ydCI6IDgwLCAiaWQiOiAiM2ZkMzVmYTItYTBjNi00ZjBjLTgzMTAtYzNjMDNhMjY4MTU1IiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogIjNoLVBoaWxpcHBpbmVzMS4wOXZwbi5jb20iLCAicGF0aCI6ICIvdm1lc3MvIiwgInRscyI6ICIifQ==
-vmess://eyJhZGQiOiAiMTUuMjM1LjUwLjE3MiIsICJ2IjogIjIiLCAicHMiOiAiQ2FuYWRhIiwgInBvcnQiOiA0NDMsICJpZCI6ICIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiYmFyYWRpaGEuY29tIiwgInBhdGgiOiAiL2xpbmt2d3MiLCAidGxzIjogInRscyJ9
-ss://YWVzLTI1Ni1nY206Wk8xUUo1MjFYUlFMVDlUMQ==@206.245.211.21:19011#United+Kingdom
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@142.202.48.105:5004#United+States
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@connectwithemployers.online:443#Singapore
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@38.121.43.97:6697#United+States
-ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@54.36.174.181:9101#France
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@217.182.198.219:5004#Germany
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@uk-dc1.yangon.club:443#United+Kingdom
+vmess://eyJhZGQiOiAiMTg4LjExNC45OS4yMDUiLCAiYWlkIjogMCwgImhvc3QiOiAibGluZGUwNi5pbmRpYXZpZGVvLnNicyIsICJpZCI6ICJlZGJiMTA1OS0xNjMzLTQyNzEtYjY2ZS1lZDRmYmE0N2ExYmYiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL2xpbmt3cyIsICJwb3J0IjogNDQzLCAicHMiOiAiVGhlIE5ldGhlcmxhbmRzIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IGZhbHNlLCAic25pIjogImxpbmRlMDYuaW5kaWF2aWRlby5zYnMifQ==
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.181:8080#Lithuania
+trojan://Aimer@103.116.7.133:2083?security=tls&sni=agepn.ambercc.filegear-sg.me&type=ws&host=agepn.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560&alpn=http%2F1.1#Japan
+vmess://eyJhZGQiOiAiMTg4LjExNC45Ni4zIiwgInYiOiAiMiIsICJwcyI6ICJUaGUgTmV0aGVybGFuZHMiLCAicG9ydCI6IDQ0MywgImlkIjogIjk1MGRiNmFhLTQ5MjYtNDYxNi04MTZlLWVjMDMxMmRjYjg3YiIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJqYWhma2poYS5jZmQiLCAicGF0aCI6ICIvbGlua3dzIiwgInRscyI6ICJ0bHMifQ==
+trojan://telegram-id-privatevpns@52.31.207.144:22222?security=tls&sni=trojan.burgerip.co.uk#Ireland
+vmess://eyJhZGQiOiAiMTg1LjE0Ni4xNzMuOTUiLCAidiI6ICIyIiwgInBzIjogIlN3ZWRlbiIsICJwb3J0IjogNDQzLCAiaWQiOiAiOTUwZGI2YWEtNDkyNi00NjE2LTgxNmUtZWMwMzEyZGNiODdiIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogImphaGZramhhLmNmZCIsICJwYXRoIjogIi9saW5rd3MiLCAidGxzIjogInRscyJ9
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.110.1.105:443#United+States
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@145.239.6.202:7001#United+Kingdom
+trojan://4732adfa16c6450bbef87264e41332db@165.22.74.230:443?security=tls&sni=nextstepcareer.online#Germany
+trojan://74260704627805900@91.199.82.103:443?security=tls&sni=factual-snake.shiner427.skin&type=tcp&allowInsecure=1#United+States
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@51.77.53.200:6697#Poland
+trojan://33fe5d7f-c9c1-4fd3-a2db-d0f3db6e5fba@tro-us02.gproxy.gratis:443#United+States
 ```
 <h5>ऊपरी नोड (भाग) का स्थायी सदस्यता पता: https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_hi</h5>
  <p>उपरोक्त सदस्यता पते के लिए QR कोड</p>
