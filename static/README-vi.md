@@ -35,21 +35,22 @@
  <h4>Danh sách nút: (Chỉ hiển thị một số nút ở đây, vui lòng tải xuống ứng dụng để xem tất cả các nút)</h4>
     
 ```
-vmess://eyJhZGQiOiAiMTUuMjA0LjI0OS4wIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICI1YjExM2MxMi00ZGQ0LTRiYjUtOWMwMS1jZmYwOTJiNTU5ZTMiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogIjQ4MTYwIiwgInBzIjogIlVuaXRlZCBTdGF0ZXMiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiIiwgInYiOiAiMiJ9
-trojan://vs6f8hvt@104.17.245.203:2053?security=tls&sni=trojan.cchappy.eu.org&type=ws&host=trojan.cchappy.eu.org&path=%2F%3Fed%3D2560&fp=randomized#United+States
-vmess://eyJhZGQiOiAiNTEuNzcuMjAuMTMxIiwgInYiOiAiMiIsICJwcyI6ICJQb2xhbmQiLCAicG9ydCI6IDIyMzI0LCAiaWQiOiAiMDQ2MjFiYWUtYWIzNi0xMWVjLWI5MDktMDI0MmFjMTIwMDAyIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIiLCAidGxzIjogIiJ9
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@145.239.6.202:443#United+Kingdom
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@54.36.174.181:7307#France
-vmess://eyJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJhZGQiOiAiMzVhNTAzZWEtc3R1Y2cwLXN1OTl2cC00bWNlLmZtdDItdXMuc2dodWF3ZWkuY29tIiwgInBvcnQiOiA0MjAsICJhaWQiOiAyLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogIjA2YzYyNWVhLTU5MDItMTFlZS05ZTg3LWYyM2M5MzEzYjE3NyIsICJob3N0IjogIjM1YTUwM2VhLXN0dWNnMC1zdTk5dnAtNG1jZS5mbXQyLXVzLnNnaHVhd2VpLmNvbSIsICJwYXRoIjogIi8ifQ==
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.133:8080#The+Netherlands
-vmess://eyJhZGQiOiAiMTk0LjIzMy43Mi4yMjgiLCAidiI6ICIyIiwgInBzIjogIlNpbmdhcG9yZSIsICJwb3J0IjogMjc1NzUsICJpZCI6ICIxNjUwOTI2Mi1kYmUyLTQzYmEtOTljZS0wNzkxM2QyYTE4YjQiLCAiYWlkIjogIjAiLCAibmV0IjogInRjcCIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAiIn0=
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.123.101.241:990#T%C3%BCrkiye
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.158.171.60:8080#United+States
-trojan://vs6f8hvt@104.17.249.203:2096?security=tls&sni=trojan.cchappy.eu.org&type=ws&host=trojan.cchappy.eu.org&path=%2F%3Fed%3D2560&fp=randomized#United+States
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@149.202.82.172:8090#France
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.47.130:443#United+States
-vmess://eyJhZGQiOiAiMTA0LjIxLjgwLjEiLCAidiI6ICIyIiwgInBzIjogIlVuaXRlZCBTdGF0ZXMiLCAicG9ydCI6IDIwOTYsICJpZCI6ICI3NWEwODg1Zi0wY2E1LTQyYTQtODY1MS0zOTFjZjgxOTMxNTQiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiZGUwMS5zaC1jbG91ZGZsYXJlLnNicyIsICJwYXRoIjogIi8iLCAidGxzIjogInRscyJ9
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@69.50.93.80:3306#United+States
+vmess://eyJhZGQiOiAiMTAxLjk5LjkxLjIzNCIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiMTI3ZmY0M2MtMTg1MS00YjJkLWJhOGMtNmFmYmEyMWVjMDRkIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIiLCAicG9ydCI6ICIzNjcwMCIsICJwcyI6ICJNYWxheXNpYSIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICIiLCAidiI6ICIyIn0=
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@149.202.82.172:8008#France
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@149.202.82.172:8881#France
+ss://YWVzLTI1Ni1nY206N0JjTGRzTzFXd2VvR0QwWA==@193.243.147.128:40368#France
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@3.28.107.6:443#United+Arab+Emirates
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.162:8080#The+Netherlands
+trojan://auto@104.21.72.108:443?security=tls&sni=esetsecuritylicense1.cxlrazo.workers.dev&type=ws&host=esetsecuritylicense1.cxlrazo.workers.dev&path=%2F#United+States
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@54.36.174.181:2375#France
+trojan://5120e15f-6a00-41f0-be5e-1032f4bba4fc@wb.kaiqsz.com:42765?allowInsecure=1&sni=mmbiz1.redapricotcloud.com#China
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpucTk2S2Z0clpBajNMdUZRRVNxbW40NE1vNW9DdW8yY2lwb0VzYWUyNW1ybUhHMm9KNFZUMzdzY0JmVkJwTjVEV3RVRUxadXRWaGhYczhMZTVCOGZaOWhMbjl5dHd2YmY=@208.67.105.87:42501#The+Netherlands
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@145.239.6.202:8119#United+Kingdom
+trojan://6849c459-9b04-46e6-8dd8-f92812711563@45.146.232.173:43590?security=tls&sni=q08m.vgraxiw73s.hasyaf.cn&type=tcp#Hong+Kong
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@51.77.53.200:5000#Poland
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.47.253.227:990#Ecuador
+trojan://Ng35283528@104.16.83.176:443?security=tls&sni=c2.validbv3528.eu.org&type=ws&host=c2.validbv3528.eu.org&path=%2F%3Fed%3D2560&fp=randomized#United+States
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@38.121.43.97:6697#United+States
 ```
 <h5>Địa chỉ đăng ký vĩnh viễn của nút trên (một phần): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_vi</h5>
  <p>Mã QR cho địa chỉ đăng ký ở trên</p>
