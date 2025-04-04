@@ -35,17 +35,17 @@
  <h4>Liste des nœuds: (Seuls certains nœuds sont affichés ici, veuillez télécharger l'application pour afficher tous les nœuds)</h4>
     
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@beesyar.org:8080#%C3%89tats+Unis
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@203.23.128.33:990#Hong+Kong
-trojan://89c1aea7-4d0d-4013-b663-0f94a3e6bdbd@104.21.23.115:443?security=tls&sni=sanjose02.852224.ggff.net&type=ws&host=sanjose02.852224.ggff.net&path=%2FT5yZBrY2Qkg2cThJQeJb&fp=chrome&alpn=http%2F1.1#%C3%89tats+Unis
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@67.220.95.102:8118#%C3%89tats+Unis
-ss://YWVzLTI1Ni1nY206NVUzQ09HR1JKUE8yRFFORg==@206.245.211.11:19001#Royaume-Uni
-vmess://eyJhZGQiOiAiNjIuMTQ2LjIzMy41MyIsICJ2IjogIjIiLCAicHMiOiAiQWxsZW1hZ25lIiwgInBvcnQiOiA1MDY3OCwgImlkIjogIjVkMWVjNmU3LWZkNTgtNGU4NS05MWM1LTYzMzVhODZkMjc3NSIsICJhaWQiOiAiMCIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiIiwgInRscyI6ICIifQ==
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.158.171.110:8080#%C3%89tats+Unis
-trojan://2fec7227-9abe-46f2-af18-78302b836c45@104.21.21.226:443?security=tls&sni=3r.890689.xyz&type=ws&host=3r.890689.xyz&path=%2FXjTi1NYwi9A2bckpqdDoAgkondVWl&fp=chrome&alpn=http%2F1.1#%C3%89tats+Unis
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.158.171.60:8080#%C3%89tats+Unis
-vmess://eyJhZGQiOiAiczQuY24tZGIudG9wIiwgInYiOiAiMiIsICJwcyI6ICJcdTAwYzl0YXRzIFVuaXMiLCAicG9ydCI6IDIwODYsICJpZCI6ICI0YjM2NjI1Yy1iOWQ5LTNlYTYtYWVkNS04NmQ2MmM3MGUxNmQiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiMTAwLTU5LTEzMy0xMzkuczQuY24tZGIudG9wIiwgInBhdGgiOiAiL2RhYmFpLmluMTcyLjY3LjEwMy4zMyIsICJ0bHMiOiAiIn0=
-trojan://telegram-id-directvpn@63.177.150.62:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#Allemagne
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.110.1.146:443#%C3%89tats+Unis
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.255.123.92:990#Nigeria
+vmess://eyJhZGQiOiAiZmsyLWJhc2guODkwNjE3Lnh5eiIsICJ2IjogIjIiLCAicHMiOiAiXHUwMGM5dGF0cyBVbmlzIiwgInBvcnQiOiAyMDg3LCAiaWQiOiAiZmVkZGMzMjYtZGE3MC00ZmFiLTk1YTktOGY5OGJlNmRhNjMzIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogImZrMi1iYXNoLjg5MDYxNy54eXoiLCAicGF0aCI6ICIvZmsyLTEiLCAidGxzIjogInRscyJ9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.22:8080#Lituanie
+vmess://eyJhZGQiOiAiMVMuODkwNjg5Llh5WiIsICJ2IjogIjIiLCAicHMiOiAiXHUwMGM5dGF0cyBVbmlzIiwgInBvcnQiOiA4MCwgImlkIjogImE4ZmNlNDQyLWFlOWEtNGNjMS1hMGNjLTIwMzA4ZmYwYTBkYiIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIvbHNVVnI4VkJ4RjR5bFhuZ1oiLCAidGxzIjogIiJ9
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.62.162:443#Suisse
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@67.220.95.102:9102#%C3%89tats+Unis
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@64.74.163.82:990#%C3%89tats+Unis
+vmess://eyJhZGQiOiAiMTA0LjE3LjIyMS4yNDgiLCAidiI6ICIyIiwgInBzIjogIlx1MDBjOXRhdHMgVW5pcyIsICJwb3J0IjogMjA4MiwgImlkIjogIjRiMzY2MjVjLWI5ZDktM2VhNi1hZWQ1LTg2ZDYyYzcwZTE2ZCIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIxMDAtMTE2LTg1LTE4My5zNC5kYi1saW5rMDIudG9wIiwgInBhdGgiOiAiL2RhYmFpLmluMTcyLjY3LjguMyIsICJ0bHMiOiAiIn0=
+vmess://eyJhZGQiOiAiMTM5LjE2Mi4xNzguOTUiLCAidiI6ICIyIiwgInBzIjogIkFsbGVtYWduZSIsICJwb3J0IjogNDQzLCAiaWQiOiAiOTA3MmQzMzktMzg4NS00ZmUxLWIwYmMtMjlmYTc1MDU0MTBlIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogImZpeGVkZmxvYXRpLmNmZCIsICJwYXRoIjogIi9saW5rd3NkIiwgInRscyI6ICJ0bHMifQ==
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.121.43.71:7002#%C3%89tats+Unis
 ```
 <h5>L'adresse d'abonnement permanente du nœud supérieur (partie): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_fr</h5>
  <p>Code QR pour l'adresse d'abonnement ci-dessus</p>
