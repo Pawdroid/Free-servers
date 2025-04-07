@@ -35,18 +35,18 @@
  <h4>Lista de nós: (Apenas alguns nós são exibidos aqui, baixe o aplicativo para visualizar todos os nós)</h4>
     
 ```
-vmess://eyJhZGQiOiAiMTA0LjE3LjIyMS4yNDgiLCAidiI6ICIyIiwgInBzIjogIkVVQSIsICJwb3J0IjogMjA1MiwgImlkIjogIjRiMzY2MjVjLWI5ZDktM2VhNi1hZWQ1LTg2ZDYyYzcwZTE2ZCIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIxMDAtMzQtMTAwLTQ0LnMyLmRiLWxpbmswMi50b3AiLCAicGF0aCI6ICIvZGFiYWkuaW4xNzIuNjQuNi4yMjQiLCAidGxzIjogIiJ9
-trojan://cd0e795a-4f26-4f8c-9981-ed8b7dcb6126@104.21.23.115:443?security=tls&sni=DCvB.852224.ggFF.Net&type=ws&host=dcvb.852224.ggff.net&path=%2F93fAx7DxPbqU8RhisheV&fp=chrome&alpn=http%2F1.1#EUA
-trojan://ypDt8RkT7J@89.187.181.172:43118#EUA
-trojan://0cda5f7e-cc55-4ff2-8ad8-268b9b99dd01@192.3.130.96:443?security=tls&sni=us6-01zl.huangshang.ggff.net&type=ws&host=us6-01zl.huangshang.ggff.net&path=%2FILLcisbMYUd6MQzxVoMQ&fp=chrome&alpn=h2#Canad%C3%A1
-vmess://eyJhZGQiOiAib3JhLmFpaGkudWsiLCAidiI6ICIyIiwgInBzIjogIkVVQSIsICJwb3J0IjogODA4OCwgImlkIjogIjk3OWUzOWQ3LWZkZjgtNGU1MS1hZmI2LTRkMTgxYzU2MTcwZiIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJvcmEuYWloaS51ayIsICJwYXRoIjogIi9yYXkiLCAidGxzIjogInRscyJ9
-trojan://a8fce442-ae9a-4cc1-a0cc-20308ff0a0db@104.21.96.1:443?security=tls&sni=1g.890699.xyZ&type=ws&host=1g.890699.xyz&path=%2FlXENb74xF4ylXngZ&fp=chrome&alpn=http%2F1.1#EUA
-vmess://eyJhZGQiOiAiMTcyLjY3LjE1NC44NCIsICJ2IjogIjIiLCAicHMiOiAiRVVBIiwgInBvcnQiOiA0NDMsICJpZCI6ICJlNTM3ZjJmNS0yYTBjLTRmNTktOTJjOS04MzJjYTY0MzNiZjMiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiaXJ2aWRlby5jZmQiLCAicGF0aCI6ICIvbGlua3dzIiwgInRscyI6ICJ0bHMifQ==
-ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@67.220.95.102:5499#EUA
-vmess://eyJhZGQiOiAiZmsyLWJhc2guODkwNjE3Lnh5eiIsICJ2IjogIjIiLCAicHMiOiAiRVVBIiwgInBvcnQiOiAyMDk2LCAiaWQiOiAiZmVkZGMzMjYtZGE3MC00ZmFiLTk1YTktOGY5OGJlNmRhNjMzIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogImZrMi0xLjg5MDYxNy54eXoiLCAicGF0aCI6ICIvZmsyLTEiLCAidGxzIjogInRscyJ9
-trojan://74260700211203800@85.234.83.5:443?sni=powerful-grackle.shiner427.skin&allowInsecure=1#Reino+Unido
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.62.161:443#Su%C3%AD%C3%A7a
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.121.43.71:8881#EUA
+trojan://telegram-id-directvpn@18.169.137.169:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#Reino+Unido
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@38.121.43.71:9102#EUA
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyYmUwYzk1NC00MjkxLTQ1ZWEtYjQ3ZC1jYTcxMzE4MDU1MGI=@hk02.x.quickcht3.club:52612#Hong+Kong
+vmess://eyJhZGQiOiAiMjMuMTU4LjU2LjIxIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICI2ZWVmMzQ0OC1iYmMwLTQ5MzMtODk0YS03MmIzZTg3ODYxMDkiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogIjQ4OTYxIiwgInBzIjogIkFsZW1hbmhhIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIiIsICJ2IjogIjIifQ==
+trojan://tg-fq521free@45.67.215.95:443?security=tls&sni=torjan.xn--xhq44j.eu.org&type=ws&host=torjan.xn--xhq44j.eu.org&path=/#R%C3%BAssia
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@38.121.43.71:8009#EUA
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@67.220.95.102:8118#EUA
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@103.243.215.17:990#Mal%C3%A1sia
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.188:8080#Litu%C3%A2nia
+vmess://eyJhZGQiOiAiMTA0LjIxLjExMi4xIiwgInYiOiAiMiIsICJwcyI6ICJFVUEiLCAicG9ydCI6IDg0NDMsICJpZCI6ICI2NThiODdlMC01ZDkyLTQ0MjQtZDM0NC1jMTY3YWNkNmE3N2YiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAibnkxLXN1Yi44OTA2OTkueHl6IiwgInBhdGgiOiAiL255MS1zdWIuODkwNjk5Lnh5eiIsICJ0bHMiOiAidGxzIn0=
+trojan://oIwjHDXpKePvYIg8@43.162.127.44:443?sni=myvps.cfd&allowInsecure=1#EUA
+vmess://eyJhZGQiOiAiMTcyLjY3LjEzNi4yMzMiLCAidiI6ICIyIiwgInBzIjogIkVVQSIsICJwb3J0IjogNDQzLCAiaWQiOiAiM2Y2MzhmMzQtOGRiYS00MTg2LWJjNDMtMjcxNmE3ZGRkNGJlIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogImF6MDUuYmV5b25keS5jZmQiLCAicGF0aCI6ICIvbGluayIsICJ0bHMiOiAidGxzIn0=
 ```
 <h5>O endereço de assinatura permanente do nó superior (parte): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_pt-BR</h5>
  <p>Código QR do endereço de assinatura acima</p>
