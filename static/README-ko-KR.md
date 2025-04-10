@@ -35,17 +35,18 @@
  <h4>노드 목록: (여기에는 일부 노드만 표시됩니다. 모든 노드를 보려면 앱을 다운로드하세요.)</h4>
     
 ```
-trojan://ypDt8RkT7J@89.187.181.179:43118?sni=wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc#United+States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6Q2JySWsxMlFsZzlZY0VSZG56am9o@151.236.206.42:39649#Sweden
-vmess://eyJhZGQiOiAiMTA0LjIxLjIzLjIxMCIsICJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJwb3J0IjogMjA4MywgImlkIjogImFmYjgzN2FkLTc5ZTctNDQzOC05NmQxLWI4ZjcwNzc5OTlhYSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJyYWsyLXN1Yi45MzIucHAudWEiLCAicGF0aCI6ICIvcmFrMi1zdWIuOTMyLnBwLnVhIiwgInRscyI6ICJ0bHMifQ==
-trojan://vpn@91.108.241.73:2025?security=none&type=ws&host=vkvd127.mycdn.me&path=%2F#Finland
-vmess://eyJhZGQiOiAiNjIuMTQ2LjIzMi4xNTYiLCAidiI6ICIyIiwgInBzIjogIkdlcm1hbnkiLCAicG9ydCI6IDMzMjgxLCAiaWQiOiAiMjRlZGEwZWEtYWNmMC00NTM4LWEwMDEtZjc0NmE0ODAyMzdhIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIiLCAidGxzIjogIiJ9
-trojan://utF6JLQd2x@141.227.128.69:1935#France
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@142.4.216.225:80#Canada
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.110.1.146:7001#United+States
-vmess://eyJhZGQiOiAiMTU0LjI2LjE1My4xNzMiLCAidiI6ICIyIiwgInBzIjogIkF1c3RyYWxpYSIsICJwb3J0IjogMjg2ODYsICJpZCI6ICI2ZGY3ZDU2Zi00OTUzLTRhMTAtYmUyZS1hODhjYzlmOTRlNDgiLCAiYWlkIjogIjAiLCAibmV0IjogInRjcCIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAiIn0=
-trojan://2fec7227-9abe-46f2-af18-78302b836c45@172.67.173.64:443?allowInsecure=0&sni=3y.2032.pp.ua&type=ws&host=3y.2032.pp.ua&path=/XjTi1NYwi9A2bckpqdDoAgkondVWl#United+States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwN0VoQzhNUjdvN0d1Um4yN1lGOFNRTkFLSjJsVWJCTklqY3lxU21CSHN5OHdMYko=@159.65.149.72:51348#India
+trojan://0cda5f7e-cc55-4ff2-8ad8-268b9b99dd01@172.67.204.120:443?security=tls&sni=Us6-05.890603.XYZ&type=ws&host=us6-05.890603.xyz&path=%2FILLcisbMYUd6MQzxVoMQ&fp=chrome&alpn=http%2F1.1#United+States
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.193:443#United+Kingdom
+vmess://eyJhZGQiOiAiMTIxLjE0OS4yMjguMTI1IiwgInYiOiAiMiIsICJwcyI6ICJTb3V0aCBLb3JlYSIsICJwb3J0IjogMTIzNDIsICJpZCI6ICIwZWY1YzRmMi0wNjc3LTQ4ZjQtOTdhNS1jNGQzMzkwMTgwOGIiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiYXJjdGljY2xvdWRhcmdvLnhpYW96aS5nZ2ZmLm5ldCIsICJwYXRoIjogIi92bWVzcy1hcmdvP2VkPTIwNDgiLCAidGxzIjogInRscyJ9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDTHBoeUVNUVQ4bmJHOEVJbVgwQTJE@5.35.47.122:45635#The+Netherlands
+vmess://eyJhZGQiOiAiMTkzLjMxLjExNi4xOTgiLCAidiI6ICIyIiwgInBzIjogIlRcdTAwZmNya2l5ZSIsICJwb3J0IjogMTI2NzUsICJpZCI6ICIzM2EzMTcxZi1kNTkzLTQ3NTgtOTg5Yi01MTg2MTU1MGNjYjMiLCAiYWlkIjogIjAiLCAibmV0IjogInRjcCIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAiIn0=
+vmess://eyJhZGQiOiAiMTcyLjY3LjE3NS40MCIsICJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJwb3J0IjogODQ0MywgImlkIjogImQ5NTgyNTEyLTU3YWEtNGEwNy04NzdlLTFhYWE0ZTBmMzJmZCIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJ0ZWhyYW4uZmFyc29ubGluZTI0LmlyIiwgInBhdGgiOiAiL1x1ZDgzY1x1ZGQ5NEBNM0hESU8xIiwgInRscyI6ICJ0bHMifQ==
+ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@38.110.1.88:5499#United+States
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.196:443#United+Kingdom
+ss://YWVzLTI1Ni1nY206N0JjTGRzTzFXd2VvR0QwWA==@193.243.147.128:40368#France
+ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@69.50.93.80:5498#United+States
+vmess://eyJhZGQiOiAiMTM5LjE2Mi4xNzguOTUiLCAidiI6ICIyIiwgInBzIjogIkdlcm1hbnkiLCAicG9ydCI6IDQ0MywgImlkIjogIjkwNzJkMzM5LTM4ODUtNGZlMS1iMGJjLTI5ZmE3NTA1NDEwZSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJmaXhlZGZsb2F0aS5jZmQiLCAicGF0aCI6ICIvbGlua3dzZCIsICJ0bHMiOiAidGxzIn0=
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.121.43.71:7002#United+States
 ```
 <h5>상위 노드(일부)의 영구 구독 주소: https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ko-KR</h5>
  <p>위 구독 주소의 QR 코드</p>

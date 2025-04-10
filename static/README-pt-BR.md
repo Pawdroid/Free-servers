@@ -35,17 +35,18 @@
  <h4>Lista de nós: (Apenas alguns nós são exibidos aqui, baixe o aplicativo para visualizar todos os nós)</h4>
     
 ```
-trojan://trojan@104.18.2.150:443?security=tls&sni=main.xicun.us.kg&type=ws&host=main.xicun.us.kg&path=%2F%3Fed%3D2560&fp=chrome#EUA
-trojan://AzFNJQt8t3@15.204.9.249:2083?sni=usA-Vp-249.MeTIkAppS.coM&type=ws&host=usA-Vp-249.MeTIkAppS.coM&path=/linkws#EUA
-vmess://eyJhZGQiOiAiNTcuMTI4LjE4NC4xMTkiLCAidiI6ICIyIiwgInBzIjogIkZyYW5cdTAwZTdhIiwgInBvcnQiOiA0NDMsICJpZCI6ICIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCAiYWlkIjogIjEiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiNTcuMTI4LjE4NC4xMTkiLCAicGF0aCI6ICJsaW5rdndzIiwgInRscyI6ICJ0bHMifQ==
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.121.43.97:5000#EUA
-vmess://eyJhZGQiOiAiMTcyLjY3LjEzMS4xNyIsICJ2IjogIjIiLCAicHMiOiAiRVVBIiwgInBvcnQiOiA0NDMsICJpZCI6ICI2MmFhNWY4MC0wMzI4LTQwMDQtYTM3NS03ZjVhNTlkZjQwMjIiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiaG1zMTkuYmVzdC10aXppLnRvcCIsICJwYXRoIjogIi9saW5rd3MiLCAidGxzIjogInRscyJ9
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.34.244.77:443#Holanda
-vmess://eyJ2IjogIjIiLCAicHMiOiAiU2luZ2FwdXJhIiwgImFkZCI6ICIxNTQuMjYuMTMxLjM5IiwgInBvcnQiOiAiNDI2NTQiLCAiaWQiOiAiZTE3ZjQ2YjUtZTIyNC00OGM5LTk2NWYtZTI0ZjFkZmMyNDE4IiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiIiwgInRscyI6ICIiLCAic25pIjogIiIsICJ0ZXN0X25hbWUiOiAiODYifQ==
-vmess://eyJhZGQiOiAia3IyLnR0Y2MudGVjaCIsICJ2IjogIjIiLCAicHMiOiAiRVVBIiwgInBvcnQiOiA0NDMsICJpZCI6ICI0NjY0ZGY4NC0xNWNmLTRlNTctODI4Yi0wNzgyZjEyNWU4OTgiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAia3IyLnR0Y2MudGVjaCIsICJwYXRoIjogIi8iLCAidGxzIjogInRscyJ9
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@38.121.43.71:6379#EUA
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@38.121.43.71:8009#EUA
-vmess://eyJ2IjogIjIiLCAicHMiOiAiRVVBIiwgImFkZCI6ICJ0ZWhyYW4uZmFyc29ubGluZTI0LmlyIiwgInBvcnQiOiA4NDQzLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogInRscyIsICJpZCI6ICJhYzJmMDYxYi03MDA3LTRmNzUtYTY1OS05NmIxZmNjMzk5ZWUiLCAic25pIjogInRlaHJhbi5mYXJzb25saW5lMjQuaXIiLCAicGF0aCI6ICIvXHVkODNjXHVkZDk0QE0zSERJTzEifQ==
+trojan://74260698218909400@supreme-penguin.shiner427.skin:443?sni=supreme-penguin.shiner427.skin#Reino+Unido
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@38.121.43.71:9102#EUA
+trojan://0cda5f7e-cc55-4ff2-8ad8-268b9b99dd01@172.67.204.120:443?security=tls&sni=Us6-05.890603.XYZ&type=ws&host=us6-05.890603.xyz&path=%2FILLcisbMYUd6MQzxVoMQ&fp=chrome&alpn=http%2F1.1#EUA
+trojan://74260698218909400@electric-mallard.shiner427.skin:443?sni=electric-mallard.shiner427.skin#Rom%C3%AAnia
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.114.114.143:7002#EUA
+ss://YWVzLTI1Ni1nY206TWVTaXlIUTFHMw==@27.106.101.214:31396#Hong+Kong
+vmess://eyJhZGQiOiAiMTQ0LjI0LjIwMC4xNjQiLCAidiI6ICIyIiwgInBzIjogIkZyYW5cdTAwZTdhIiwgInBvcnQiOiA0NDMsICJpZCI6ICI5YjQ1NmMyYS1mMmMxLTQ1ZTEtODdhOS1iNzYyOGIwNGJiMjQiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiYmV5b25kZHN6LmNmZCIsICJwYXRoIjogIi9saW5rd3MiLCAidGxzIjogInRscyJ9
+vmess://eyJhZGQiOiAiMTU4LjE4MC4yMjguMjI2IiwgInYiOiAiMiIsICJwcyI6ICJJdFx1MDBlMWxpYSIsICJwb3J0IjogNDQzLCAiaWQiOiAiOWI0NTZjMmEtZjJjMS00NWUxLTg3YTktYjc2MjhiMDRiYjI0IiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogImJleW9uZGRzei5jZmQiLCAicGF0aCI6ICIvbGlua3dzIiwgInRscyI6ICJ0bHMifQ==
+trojan://b19c4375-d847-4c40-9824-4767c88b5f38@www.ak-hk.top:10200?sni=www.ak-hk.top#Su%C3%A9cia
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.243:443#EUA
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@216.39.248.133:7001#EUA
+vmess://eyJhZGQiOiAiNjIuMTQ2LjIzMy4xNTkiLCAidiI6ICIyIiwgInBzIjogIkFsZW1hbmhhIiwgInBvcnQiOiA0Mzc2MywgImlkIjogIjFkZGYzYWRlLTViOGMtNDIwYy04NGY2LWY5Njk3OWVjMzA4MCIsICJhaWQiOiAiMCIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiIiwgInRscyI6ICIifQ==
 ```
 <h5>O endereço de assinatura permanente do nó superior (parte): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_pt-BR</h5>
  <p>Código QR do endereço de assinatura acima</p>
