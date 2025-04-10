@@ -35,17 +35,17 @@
  <h4>قائمة العقد: (يتم عرض بعض العقد فقط هنا، يرجى تنزيل التطبيق لعرض جميع العقد)</h4>
     
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.177:8080#The+Netherlands
-vmess://eyJhZGQiOiAiZ292LnVrIiwgInYiOiAiMiIsICJwcyI6ICJVbml0ZWQgU3RhdGVzIiwgInBvcnQiOiA0NDMsICJpZCI6ICI3Nzg0ODgyNC05M2I3LTRiODktZmZkMC1lOTFhZmZmNDA2Y2UiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiemhlc2hpc2NwLmNvbSIsICJwYXRoIjogIi83Nzg0ODgyNCIsICJ0bHMiOiAidGxzIn0=
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.157:8080#The+Netherlands
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmRERtSDRRZWZtV3FNSjhVVVJackdo@86.104.74.243:14255#Canada
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMTVNOaDIxVHJYalIyb2syNVEybkU4RU5UMnpvQm1QdmthM1JDQ1VBSFpFTENuV29la1ZqdmFmODlxd2NSa2RieEVmZXAyYmMyYVV0bW54cXZGMWF5UVJlejFKSGpVTGo=@166.88.131.195:52952#United+States
-trojan://89c1aea7-4d0d-4013-b663-0f94a3e6bdbd@104.21.58.135:443?security=tls&sni=sanjose01.818185.xyz&type=ws&host=sanjose01.818185.xyz&path=/T5yZBrY2Qkg2cThJQeJb&fp=chrome&alpn=http/1.1#United+States
-vmess://eyJhZGQiOiAiZmsyLWJhc2guODkwNjE3Lnh5eiIsICJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJwb3J0IjogMjA5NiwgImlkIjogImZlZGRjMzI2LWRhNzAtNGZhYi05NWE5LThmOThiZTZkYTYzMyIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJmazItYmFzaC44OTA2MTcueHl6IiwgInBhdGgiOiAiL2ZrMi0xIiwgInRscyI6ICJ0bHMifQ==
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.110.1.146:7001#United+States
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.110.1.88:2376#United+States
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@23.150.248.235:7306#United+States
-vmess://eyJhZGQiOiAiMTA0LjIxLjQ4LjEiLCAidiI6ICIyIiwgInBzIjogIlVuaXRlZCBTdGF0ZXMiLCAicG9ydCI6IDIwOTYsICJpZCI6ICJiMzkyOGY4ZC1lYTgxLTRkNzUtYmNlYy00MDE2YTA3MmFkZmYiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiZGUwMS5zaC1jbG91ZGZsYXJlLnNicyIsICJwYXRoIjogIi8iLCAidGxzIjogInRscyJ9
+trojan://74260698218909400@202.78.163.140:443?sni=supreme-penguin.shiner427.skin#United+Kingdom
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNnpXa2FJb3doeW5mRkZ6YUh6dG5t@167.172.84.101:36892#Singapore
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@23.157.40.101:7307#United+States
+vmess://eyJhZGQiOiAiMTcyLjY3LjIxMy4xNjYiLCAidiI6ICIyIiwgInBzIjogIlVuaXRlZCBTdGF0ZXMiLCAicG9ydCI6IDIwNTMsICJpZCI6ICJhZmI4MzdhZC03OWU3LTQ0MzgtOTZkMS1iOGY3MDc3OTk5YWEiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAicmFrMi1zdWIuOTMyLnBwLnVhIiwgInBhdGgiOiAiL3JhazItc3ViLjkzMi5wcC51YSIsICJ0bHMiOiAidGxzIn0=
+trojan://f08d6a6b-a0b3-410e-a0ba-eae71b521904@us004.421421.xyz:20230#United+States
+vmess://eyJhZGQiOiAidXNhLXNhbmpvc2Utb25lLjg5MDYxNC5maWxlZ2Vhci1zZy5tZSIsICJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJwb3J0IjogNDQzLCAiaWQiOiAiODljMWFlYTctNGQwZC00MDEzLWI2NjMtMGY5NGEzZTZiZGJkIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIi9ZZkIyOUdYZjRjVGhKUWVKYiIsICJ0bHMiOiAidGxzIn0=
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5TVg5V0dQZ1VFY1JabWxhYTBZSEhD@103.106.1.92:23492#Moldova
+trojan://89c1aea7-4d0d-4013-b663-0f94a3e6bdbd@sanjose01.852224.ggff.net:443?allowInsecure=0&type=ws&path=/T5yZBrY2Qkg2cThJQeJb#United+States
+trojan://02926f9e-153a-42c8-8ecd-8fade7009ad1@107.173.87.40:443?security=tls&sni=golinkwuxian.top&type=ws&host=111.golinkwuxian.top&path=%2Fapple&allowInsecure=1#Canada
+trojan://amclubs@103.160.204.1:443?security=tls&sni=tran.amclubstest.nyc.mn&type=ws&host=tran.amclubstest.nyc.mn&path=/?ed%3D2560&allowInsecure=1#Hong+Kong
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXZkFXVjMwOUZLaW9NdFJPOWZhMFBx@178.128.102.203:45321#Singapore
 ```
 <h5>عنوان الاشتراك الدائم للعقدة العليا (جزء): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ar</h5>
  <p>رمز الاستجابة السريعة لعنوان الاشتراك أعلاه</p>
