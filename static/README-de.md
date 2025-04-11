@@ -35,17 +35,17 @@
  <h4>Knotenliste: (Hier werden nur einige Knoten angezeigt. Bitte laden Sie die App herunter, um alle Knoten anzuzeigen.)</h4>
     
 ```
-vmess://eyJhZGQiOiAiODkuMTguNTYuMjQ5IiwgInYiOiAiMiIsICJwcyI6ICJLcm9hdGllbiIsICJwb3J0IjogMTgwLCAiaWQiOiAiZDEzZmMyZjUtM2UwNS00Nzk1LTgxZWItNDQxNDNhMDllNTUyIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIvIiwgInRscyI6ICIifQ==
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvSjd4blVrbkV1TVNjTTIxY2xDeUVpdDY2SlJobVpyQXJSU0UweGVhcEdSMjRIcUg=@89.44.197.181:31348#Bulgarien
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.62.161:443#Schweiz
-vmess://eyJhZGQiOiAiNDUuMTQ1LjE2NS4xMTQiLCAidiI6ICIyIiwgInBzIjogIkZyYW5rcmVpY2giLCAicG9ydCI6IDQ0MywgImlkIjogIjliNDU2YzJhLWYyYzEtNDVlMS04N2E5LWI3NjI4YjA0YmIyNCIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJiZXlvbmRkc3ouY2ZkIiwgInBhdGgiOiAiL2xpbmt3cyIsICJ0bHMiOiAidGxzIn0=
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@ca225.vpnbook.com:80#Kanada
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2SVZPdXpNZkg1Uk9wZ3d0UlRjTkpLWUp2WWU5RkRWYVU3d0FZWWg4UFJMeHhaczY=@188.191.147.127:31348#Israel
-trojan://telegram-id-directvpn@3.71.135.1:22222?sni=trojan.burgerip.co.uk#Deutschland
-vmess://eyJhZGQiOiAiNjIuMTQ2LjIzMi4xNTIiLCAidiI6ICIyIiwgInBzIjogIkRldXRzY2hsYW5kIiwgInBvcnQiOiAzMzA2NCwgImlkIjogIjk0MmQ1NmU0LWNmNzItNGE3YS1hODdjLWY1NTVhMjcwZDc5YSIsICJhaWQiOiAiMCIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiIiwgInRscyI6ICIifQ==
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.121.43.71:8119#USA
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@142.202.49.84:6679#USA
-vmess://eyJhZGQiOiAiMTA0LjIxLjgzLjIwOCIsICJ2IjogIjIiLCAicHMiOiAiVVNBIiwgInBvcnQiOiA0NDMsICJpZCI6ICJmNTg0ZGUxNS0yMDM0LTQxNzAtYTcyMy1mNDhjMmJhZTVlMGYiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiYWZyaG1zMTZ2LmJlc3R4cmF5LmJ1enoiLCAicGF0aCI6ICIvbGlua3dzIiwgInRscyI6ICJ0bHMifQ==
+trojan://74260698218909400@85.234.65.11:443?sni=happy-bluebird.shiner427.skin#UK
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@38.54.2.182:990#Bahrain
+trojan://696cfe79@192.9.132.79:443?security=tls&sni=wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc&type=tcp&fp=chrome&allowInsecure=1#USA
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.62.164:443#Schweiz
+trojan://2ggAcGC8hJ@15.204.237.31:2083?sni=USa-vp-31.MeTiKapps.Com&type=ws&host=USa-vp-31.MeTiKapps.Com&path=/linkws#USA
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@67.220.95.102:5600#USA
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.198:443#UK
+vmess://eyJhZGQiOiAiaWNvb2suaGsiLCAidiI6ICIyIiwgInBzIjogIlVTQSIsICJwb3J0IjogNDQzLCAiaWQiOiAiMmZhYWY5OTYtZDJiMC00NDBkLTgyNTgtODFmMmIwNWRkMGU0IiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogImdsaXRjaC5ubnV1Lm55Yy5tbiIsICJwYXRoIjogIi92bWVzcy1hcmdvP2VkPTI1NjAiLCAidGxzIjogInRscyJ9
+vmess://eyJhZGQiOiAiZmsyLWJhc2guODkwNjE3Lnh5eiIsICJ2IjogIjIiLCAicHMiOiAiVVNBIiwgInBvcnQiOiAyMDUzLCAiaWQiOiAiZmVkZGMzMjYtZGE3MC00ZmFiLTk1YTktOGY5OGJlNmRhNjMzIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogImZrMi0xLjg5MDYxNy54eXoiLCAicGF0aCI6ICIvZmsyLTEiLCAidGxzIjogInRscyJ9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphTTFlQ0x6b01paDU0Qm1uQ3N4UmNp@188.166.237.109:27750#Singapur
+trojan://ypDt8RkT7J@89.187.181.179:43118#USA
 ```
 <h5>Die permanente Abonnementadresse des oberen Knotens (Teil): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_de</h5>
  <p>QR-Code für die Abonnementadresse oben</p>
