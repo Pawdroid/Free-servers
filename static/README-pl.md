@@ -35,18 +35,17 @@
  <h4>Lista węzłów: (wyświetlane są tutaj tylko niektóre węzły. Pobierz aplikację, aby wyświetlić wszystkie węzły)</h4>
     
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.138:8080#The+Netherlands
-vmess://eyJhZGQiOiAiMTcyLjY3LjE4My4yMjAiLCAidiI6ICIyIiwgInBzIjogIlVuaXRlZCBTdGF0ZXMiLCAicG9ydCI6IDQ0MywgImlkIjogIjk1MGRiNmFhLTQ5MjYtNDYxNi04MTZlLWVjMDMxMmRjYjg3YiIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJqYWhma2poYS5jZmQiLCAicGF0aCI6ICIvbGlua3dzIiwgInRscyI6ICJ0bHMifQ==
-trojan://89c1aea7-4d0d-4013-b663-0f94a3e6bdbd@104.21.23.115:443?security=tls&sni=sanjose06.852224.ggff.net&type=ws&host=sanjose06.852224.ggff.net&path=%2FT5yZBrY2Qkg2cThJQeJb&fp=chrome&alpn=http%2F1.1#United+States
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@23.157.40.101:7307#United+States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.171:8080#Lithuania
-vmess://eyJhZGQiOiAiODkuMTguNTguMjA2IiwgInYiOiAiMiIsICJwcyI6ICJDcm9hdGlhIiwgInBvcnQiOiAxODAsICJpZCI6ICJkMTNmYzJmNS0zZTA1LTQ3OTUtODFlYi00NDE0M2EwOWU1NTIiLCAiYWlkIjogIjAiLCAibmV0IjogInRjcCIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAiIn0=
-trojan://2cba4104747d49d18319e5ade1b93ab5@161.35.34.48:443?security=tls&sni=yourjobnavigator.online&type=tcp#United+Kingdom
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1UVM1bnRWcUMwMHNTS2tlTnpVaUQz@89.23.103.125:42090#The+Netherlands
-trojan://15c33952@152.67.228.132:443#United+States
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.34.244.80:443#The+Netherlands
-vmess://eyJhZGQiOiAiMi4xODkuNTkuMyIsICJ2IjogIjIiLCAicHMiOiAiSXJhbiIsICJwb3J0IjogNDQzLCAiaWQiOiAiMDU2NDFjZjUtNThkMi00YmE0LWE5ZjEtYjNjZGEwYjFmYjFkIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogIm9iZGlpLmNmZCIsICJwYXRoIjogIi9saW5rd3MiLCAidGxzIjogInRscyJ9
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.167:443#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@193.29.139.179:8080#The+Netherlands
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.121.43.71:8881#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.255.123.92:990#Nigeria
+vmess://eyJhZGQiOiAiOTQuMTM2LjE4NC4xNTYiLCAidiI6ICIyIiwgInBzIjogIkdlcm1hbnkiLCAicG9ydCI6IDM4ODcyLCAiaWQiOiAiMjIwNzMyY2MtOWU0My00NDUzLTgzZjEtYzk0MzViZTI1YjViIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIiLCAidGxzIjogIiJ9
+vmess://eyJhZGQiOiAiMTcyLjY3LjIxMy4xMTAiLCAidiI6ICIyIiwgInBzIjogIlVuaXRlZCBTdGF0ZXMiLCAicG9ydCI6IDQ0MywgImlkIjogImQxM2ZjMmY1LTNlMDUtNDc5NS04MWViLTQ0MTQzYTA5ZTU1MiIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJzZ2Zxa3FtbHRjeS5zaXRlIiwgInBhdGgiOiAiL3JicXF2d3MiLCAidGxzIjogInRscyJ9
+vmess://eyJhZGQiOiAidXN3dXhpYW4ucGFpNTAyODgudWsiLCAidiI6ICIyIiwgInBzIjogIlVuaXRlZCBTdGF0ZXMiLCAicG9ydCI6IDg0NDMsICJpZCI6ICJjMzEzNjA2Zi05OGMyLTRkN2ItYmE3NC00OGI5NGY2MWIxMWQiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAidXN3dXhpYW4ucGFpNTAyODgudWsiLCAicGF0aCI6ICIvIiwgInRscyI6ICJ0bHMifQ==
+trojan://2fec7227-9abe-46f2-af18-78302b836c45@172.67.205.22:443?security=tls&sni=3fg.20220420.pp.ua&type=ws&host=3fg.20220420.pp.ua&path=%2FXjTi1NYwi9A2bckpqdDoAgkondVWl&fp=chrome&alpn=http%2F1.1#United+States
+trojan://89c1aea7-4d0d-4013-b663-0f94a3e6bdbd@104.21.58.135:443?security=tls&sni=sanjose01.818185.xyz&type=ws&host=sanjose01.818185.xyz&path=/T5yZBrY2Qkg2cThJQeJb&fp=chrome&alpn=http/1.1#United+States
+vmess://eyJhZGQiOiAiZGUwMS5zaC1jbG91ZGZsYXJlLnNicyIsICJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJwb3J0IjogMjA5NiwgImlkIjogIjc1YTA4ODVmLTBjYTUtNDJhNC04NjUxLTM5MWNmODE5MzE1NCIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJkZTAxLnNoLWNsb3VkZmxhcmUuc2JzIiwgInBhdGgiOiAiLyIsICJ0bHMiOiAidGxzIn0=
+trojan://89c1aea7-4d0d-4013-b663-0f94a3e6bdbd@104.21.29.194:443?security=tls&sni=sanjose03.890614.filegear-sg.me&type=ws&host=sanjose03.890614.filegear-sg.me&path=/T5yZBrY2Qkg2cThJQeJb&fp=chrome&alpn=http/1.1#United+States
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.121.43.71:8000#United+States
 ```
 <h5>Stały adres subskrypcji górnego węzła (część): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_pl</h5>
  <p>Kod QR dla adresu subskrypcji powyżej</p>
