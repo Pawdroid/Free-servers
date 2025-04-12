@@ -35,20 +35,19 @@
  <h4>Knotenliste: (Hier werden nur einige Knoten angezeigt. Bitte laden Sie die App herunter, um alle Knoten anzuzeigen.)</h4>
     
 ```
-trojan://Aimer@46.254.92.191:443?security=tls&sni=epcct.ambercc.filegear-sg.me&type=ws&host=epcct.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#Russland
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@79.127.233.170:990#UK
-vmess://eyJhZGQiOiAiMTcyLjY3LjE5Ni4xMTIiLCAidiI6ICIyIiwgInBzIjogIlVTQSIsICJwb3J0IjogNDQzLCAiaWQiOiAiZWRiYjEwNTktMTYzMy00MjcxLWI2NmUtZWQ0ZmJhNDdhMWJmIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogImxpbmRlMDYuaW5kaWF2aWRlby5zYnMiLCAicGF0aCI6ICIvbGlua3dzIiwgInRscyI6ICJ0bHMifQ==
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.47.255.22:990#Puerto+Rico
-trojan://123456@192.65.217.53:8443?security=tls&sni=top-azx.pages.dev&type=ws&host=top-azx.pages.dev&path=%2FAz1.vpn.33.TOP%2F%3Fed%3D2560#Australien
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.240:8080#Niederlande
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.121.43.97:7307#USA
-vmess://eyJhZGQiOiAiaGtuYnlpdmZmZmouc2l0ZSIsICJ2IjogIjIiLCAicHMiOiAiVVNBIiwgInBvcnQiOiA0NDMsICJpZCI6ICJkMTNmYzJmNS0zZTA1LTQ3OTUtODFlYi00NDE0M2EwOWU1NTIiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiaGtuYnlpdmZmZmouc2l0ZSIsICJwYXRoIjogIi9yYnFxdndzIiwgInRscyI6ICJ0bHMifQ==
-trojan://auto@172.66.45.2:443?security=tls&sni=dcf741e8.epeius-2gy.pages.dev&type=ws&host=dcf741e8.epeius-2gy.pages.dev&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3#USA
-trojan://ji0612uenfs@121.167.108.242:50000?allowInsecure=0&sni=ji0612e.nfjunka.xyz&type=ws&host=ji0612e.nfjunka.xyz&path=/?ed=2560&proxyip=121.167.108.242:50000#S%C3%BCdkorea
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@23.154.136.148:6679#USA
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptNkRGQ0V6UmFDUEtQUjV6QzJ3VHlaY0xCOGphU2tnQ3lPam50YkdEcHJvelRkb08=@185.246.153.12:31348#Niederlande
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@23.150.248.235:2376#USA
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@38.121.43.71:6379#USA
+vmess://eyJhZGQiOiAiMTUuMjA0LjI0OC45MiIsICJ2IjogIjIiLCAicHMiOiAiVVNBIiwgInBvcnQiOiAzMDU2MiwgImlkIjogIjgyNDY2NzE1LTZhNTgtNDA0Ni1hMzYzLWEwZDE4ZTViMmFiNCIsICJhaWQiOiAiMCIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiIiwgInRscyI6ICIifQ==
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxMjM0@54.255.247.220:1234#Singapur
+vmess://eyJhZGQiOiAiMTA0LjE4LjExOS4yMjIiLCAidiI6ICIyIiwgInBzIjogIlVTQSIsICJwb3J0IjogMjA5NiwgImlkIjogIjNiYjNjNzMwLWUxMDctNDljNS1hMGIyLWI1NzZkMWIyNmE1ZSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIxNzQzMjU2OTc4LnNwZWVkLmFkbC5jY2NwLmZyZWVmbHkucHAudWEiLCAicGF0aCI6ICIvIiwgInRscyI6ICJ0bHMifQ==
+trojan://a8fce442-ae9a-4cc1-a0cc-20308ff0a0db@104.21.48.1:443?allowInsecure=0&sni=1g.890699.xyZ&type=ws&host=1g.890699.xyz&path=/lXENb74xF4ylXngZ#USA
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@173.244.56.6:443#USA
+vmess://eyJ2IjogIjIiLCAicHMiOiAiRGV1dHNjaGxhbmQiLCAiYWRkIjogIjk0LjEzNi4xODQuMTU2IiwgInBvcnQiOiAzODg3MiwgImlkIjogIjIyMDczMmNjLTllNDMtNDQ1My04M2YxLWM5NDM1YmUyNWI1YiIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAibm9uZSJ9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@192.36.61.59:990#Litauen
+trojan://696cfe79@192.9.132.79:443?allowInsecure=1&sni=wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc#USA
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.114.114.143:4444#USA
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.121.43.71:5000#USA
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpydFI0WVg3NHZ3cVJKdTlNR0gzZTFOM0NRZEdNV0NVRmt5TGlzaWppRnV2aGtVOU1jVjVUcHlnZmtlcm5KNFVRZTYzSnRjRFFrclE5SGZjaHpxUXoxa0xDblRSb3I4amc=@166.1.157.228:55330#USA
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.110.1.146:8090#USA
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.121.43.71:5600#USA
 ```
 <h5>Die permanente Abonnementadresse des oberen Knotens (Teil): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_de</h5>
  <p>QR-Code für die Abonnementadresse oben</p>
