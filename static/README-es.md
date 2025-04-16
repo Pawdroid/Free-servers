@@ -35,18 +35,18 @@
  <h4>Lista de nodos: (aquí solo se muestran algunos nodos; descargue la aplicación para ver todos los nodos)</h4>
     
 ```
-trojan://amclubs@103.160.204.1:443?security=tls&sni=tran.amclubstest.nyc.mn&type=ws&host=tran.amclubstest.nyc.mn&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560#Hong+Kong
-trojan://74260698218909400@supreme-penguin.shiner427.skin:443?sni=supreme-penguin.shiner427.skin#Reino+Unido
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcEtBQmNPcE5OQTBsNUcyQVZPbXc4@213.109.147.242:62685#Reino+Unido
-vmess://eyJhZGQiOiAiNDYuMjUwLjI1My4yMzQiLCAidiI6ICIyIiwgInBzIjogIlJlaW5vIFVuaWRvIiwgInBvcnQiOiAyODg3MiwgImlkIjogIjc2MmIzOTIzLTU4ODUtNGM1Zi04ODZmLWU2Mjc4ODUxMjMzOCIsICJhaWQiOiAiMCIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiIiwgInRscyI6ICIifQ==
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.79:443#Reino+Unido
-vmess://eyJhZGQiOiAiMTY5LjE1MC4yMDguMzgiLCAidiI6ICIyIiwgInBzIjogIlN1ZWNpYSIsICJwb3J0IjogMTgwMDAsICJpZCI6ICJmOGM4ZGMzZC0wZDM3LTQ2YjAtOGIzNC1hNzIzMjg4MmZjZmUiLCAiYWlkIjogIjAiLCAibmV0IjogInRjcCIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAiIn0=
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.121.43.71:5000#Estados+Unidos
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.195:443#Reino+Unido
-vmess://eyJhZGQiOiAic2Fuam9zZTA1Ljg1MjIyNC5nZ2ZmLm5ldCIsICJ2IjogIjIiLCAicHMiOiAiRXN0YWRvcyBVbmlkb3MiLCAicG9ydCI6IDQ0MywgImlkIjogIjg5YzFhZWE3LTRkMGQtNDAxMy1iNjYzLTBmOTRhM2U2YmRiZCIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJzYW5qb3NlMDUuODUyMjI0LmdnZmYubmV0IiwgInBhdGgiOiAiL1lmQjI5R1hmNGNUaEpRZUpiIiwgInRscyI6ICJ0bHMifQ==
-trojan://T%40_WvT8Ho%40LW%25w_%2C@172.66.47.42:2053?security=tls&sni=NOp-55q.pAgEs.dEv&type=ws&host=nop-55q.pages.dev&path=%2FtrGPZDfetEwuO25SAs%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#Estados+Unidos
-vmess://eyJhZGQiOiAiNzcuODMuMTQxLjE3MSIsICJ2IjogIjIiLCAicHMiOiAiRXN0YWRvcyBVbmlkb3MiLCAicG9ydCI6IDQ0MywgImlkIjogIjM1Mzc5MjE5LTY1MzUtNGYyZS1hNGZlLTNlNDRmNjFlMGVlZSIsICJhaWQiOiAiMzIiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAidmMuZmx5LmRldiIsICJwYXRoIjogIi92YyIsICJ0bHMiOiAidGxzIn0=
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.121.43.71:2375#Estados+Unidos
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.121.43.71:5001#Estados+Unidos
+trojan://2fec7227-9abe-46f2-af18-78302b836c45@104.21.15.232:443?security=tls&sni=3r.2030.pp.ua&type=ws&host=3r.2030.pp.ua&path=%2FXjTi1NYwi9A2bckpqdDoAgkondVWl&fp=chrome&alpn=http%2F1.1#Estados+Unidos
+trojan://oIwjHDXpKePvYIg8@myvps.lol:443?sni=myvps.lol#Hong+Kong
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.241:443#Estados+Unidos
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.121.43.71:5500#Estados+Unidos
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@23.166.88.20:8119#Estados+Unidos
+ss://YWVzLTEyOC1nY206WWMyQ3RySXo4TA==@107.175.96.74:16899#Canad%C3%A1
+vmess://eyJhZGQiOiAiamFoZmtqaGEuY2ZkIiwgInYiOiAiMiIsICJwcyI6ICJFc3RhZG9zIFVuaWRvcyIsICJwb3J0IjogNDQzLCAiaWQiOiAiOTUwZGI2YWEtNDkyNi00NjE2LTgxNmUtZWMwMzEyZGNiODdiIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogImphaGZramhhLmNmZCIsICJwYXRoIjogIi9saW5rd3MiLCAidGxzIjogInRscyJ9
+vmess://eyJhZGQiOiAiVVM3LTAzLjg5MDYwNi54eXoiLCAidiI6ICIyIiwgInBzIjogIkVzdGFkb3MgVW5pZG9zIiwgInBvcnQiOiA4MCwgImlkIjogIjRkMDRiMzBjLWVmN2ItNGEwNy04ZjllLWY1ODFlYzE3MWY4YSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJVUzctMDMuODkwNjA2Lnh5eiIsICJwYXRoIjogIi9idWEyaE1jYkE4d016YkdGdFYiLCAidGxzIjogIiJ9
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@142.202.49.84:5001#Estados+Unidos
+vmess://eyJhZGQiOiAiNTcuMTI5LjI4LjY5IiwgInYiOiAiMiIsICJwcyI6ICJGcmFuY2lhIiwgInBvcnQiOiA0NDMsICJpZCI6ICIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiYmFyYWRpaGEuY29tIiwgInBhdGgiOiAiL2xpbmt2d3MiLCAidGxzIjogInRscyJ9
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@38.121.43.97:6697#Estados+Unidos
 ```
 <h5>La dirección de suscripción permanente del nodo superior (parte): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_es</h5>
  <p>Código QR para la dirección de suscripción anterior</p>
