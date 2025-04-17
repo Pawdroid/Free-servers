@@ -35,17 +35,17 @@
  <h4>Danh sách nút: (Chỉ hiển thị một số nút ở đây, vui lòng tải xuống ứng dụng để xem tất cả các nút)</h4>
     
 ```
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.196:443#United+Kingdom
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.158.171.141:8080#United+States
-vmess://eyJ2IjogIjIiLCAicHMiOiAiQ2hpbmEiLCAiYWRkIjogIjQ1LjEyLjExNC4xNSIsICJwb3J0IjogIjIwNzc5IiwgImlkIjogIjlkYzViZmY4LWJjYmItNDcwMy1iMGZlLTRmOTFiYTUxNzQwMiIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAiIiwgInNuaSI6ICIiLCAidGVzdF9uYW1lIjogIjExOSJ9
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.236:443#United+States
-vmess://eyJhZGQiOiAiMTA0LjIxLjIzLjIxMCIsICJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJwb3J0IjogMjA4NywgImlkIjogImQyZmJiYWQ3LTNkMWItNGJmYi1mZTRhLTI3YmQ0NWUyNWRmMCIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJyYWsxLWQuOTMyLnBwLnVhIiwgInBhdGgiOiAiL3JhazEtZC45MzIucHAudWEiLCAidGxzIjogInRscyJ9
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.121.43.97:2376#United+States
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.62.164:443#Switzerland
-trojan://696cfe79@192.9.132.79:443?security=tls&sni=wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc&type=tcp#United+States
-trojan://telegram-id-privatevpns@35.177.215.23:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#United+Kingdom
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.75.136.28:7001#United+States
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.121.43.97:5000#United+States
+trojan://0cda5f7e-cc55-4ff2-8ad8-268b9b99dd01@172.67.200.11:443?security=tls&sni=Us6-08.890606.xYZ&type=ws&host=us6-08.890606.xyz&path=%2FILLcisbMYUd6MQzxVoMQ&fp=chrome&alpn=http%2F1.1#United+States
+trojan://yaml777@104.21.61.73:443?security=tls&type=ws&sni=yaml7.ggff.net&path=/&host=yaml7.ggff.net#United+States
+trojan://4732adfa16c6450bbef87264e41332db@nextstepcareer.online:443#Germany
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.143.66.87:3306#United+States
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.68.135.247:8881#United+States
+vmess://eyJhZGQiOiAiMTA0LjE3LjIxMy4yNDEiLCAidiI6ICIyIiwgInBzIjogIlVuaXRlZCBTdGF0ZXMiLCAicG9ydCI6IDIwODYsICJpZCI6ICI0YjM2NjI1Yy1iOWQ5LTNlYTYtYWVkNS04NmQ2MmM3MGUxNmQiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiMTAwLTE3MS0xMDQtMjM4LnMyLmRiLWxpbmswMi50b3AiLCAicGF0aCI6ICIvZGFiYWkuaW4xNzIuNjQuNDMuMTQiLCAidGxzIjogIiJ9
+vmess://eyJhZGQiOiAiMTA0LjIxLjMyLjEiLCAidiI6ICIyIiwgInBzIjogIlVuaXRlZCBTdGF0ZXMiLCAicG9ydCI6IDg0NDMsICJpZCI6ICI5MTQ1ODRlZS0zNTE1LTQ2YWMtYTA5ZC00Njc3YTJlOWRjOWEiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAidXMwMS5zaC1jbG91ZGZsYXJlLnNicyIsICJwYXRoIjogIi8iLCAidGxzIjogInRscyJ9
+trojan://ypDt8RkT7J@89.187.181.179:43118?security=tls&sni=89.187.181.179&type=tcp&allowInsecure=1#United+States
+vmess://eyJhZGQiOiAiMTYzLjUuMTU5LjIzMSIsICJ2IjogIjIiLCAicHMiOiAiRnJhbmNlIiwgInBvcnQiOiA0NDMsICJpZCI6ICJlNTM3ZjJmNS0yYTBjLTRmNTktOTJjOS04MzJjYTY0MzNiZjMiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiaXJ2aWRlby5jZmQiLCAicGF0aCI6ICIvbGlua3dzIiwgInRscyI6ICJ0bHMifQ==
+vmess://eyJhZGQiOiAiMTQxLjEwMS4xMjAuNDMiLCAiYWlkIjogMCwgImhvc3QiOiAiMTc0NDAwNzU3OC5zcGVlZC5hZGwuY2NjcC5mcmVlZmx5LnBwLnVhIiwgImlkIjogIjM4MWNiNmQxLTZhZDQtNDkwOS04NDk0LWI4ZDc4NmNmNzhjZSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgInBvcnQiOiA4NDQzLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiBmYWxzZSwgInNuaSI6ICIxNzQ0MDA3NTc4LnNwZWVkLmFkbC5jY2NwLmZyZWVmbHkucHAudWEifQ==
+vmess://eyJhZGQiOiAiNjIuMTQ2LjIzMy4xNTkiLCAidiI6ICIyIiwgInBzIjogIkdlcm1hbnkiLCAicG9ydCI6IDQzNzYzLCAiaWQiOiAiMWRkZjNhZGUtNWI4Yy00MjBjLTg0ZjYtZjk2OTc5ZWMzMDgwIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIiLCAidGxzIjogIiJ9
 ```
 <h5>Địa chỉ đăng ký vĩnh viễn của nút trên (một phần): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_vi</h5>
  <p>Mã QR cho địa chỉ đăng ký ở trên</p>
