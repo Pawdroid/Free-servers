@@ -35,19 +35,19 @@
  <h4>Knotenliste: (Hier werden nur einige Knoten angezeigt. Bitte laden Sie die App herunter, um alle Knoten anzuzeigen.)</h4>
     
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4bXVhZUZ0Tm94RWNmQ2tBUnkyMXNz@92.118.112.111:18622#USA
-vmess://eyJhZGQiOiAiNDUuMTIuMTM4LjgyIiwgInYiOiAiMiIsICJwcyI6ICJTY2h3ZWRlbiIsICJwb3J0IjogNTQ3NTcsICJpZCI6ICJjZGU5ZjA3NC1jOTMwLTRhYTMtYTU1OC00NmJiYzlkMGE1YTEiLCAiYWlkIjogIjAiLCAibmV0IjogInRjcCIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAiIn0=
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@134.255.210.49:990#Zypern
-trojan://b19c4375-d847-4c40-9824-4767c88b5f38@80.225.222.181:10240?security=tls&sni=www.hk-jd.top&type=tcp#Schweden
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.164:8080#Litauen
-trojan://d67cfeaf-b277-44ac-ab99-9dd02a7c5299@172.67.159.56:443?security=tls&sni=Fgh9JkR5.890617.xYz&type=ws&host=fgh9jkr5.890617.xyz&path=%2FlWljHWvIMOj85lz42MdhsCLV&alpn=http%2F1.1#USA
-trojan://123456@104.25.165.83:8443?security=tls&sni=top-azx.pages.dev&type=ws&host=top-azx.pages.dev#USA
-vmess://eyJhZGQiOiAiMTAzLjIxNC4xNjguMjQyIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICI5YmMwYmQ4ZC0zYTRmLTQ5OTEtZGZlZC1kNzE5MzRlMjAzMzUiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogIjU3Nzk2IiwgInBzIjogIkphcGFuIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlfQ==
-vmess://eyJhZGQiOiAiNDYuMjUwLjIzNC4zMiIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiYjI4MzYzNjktMjIwYi00ODQwLTgwYzQtOGNmOTA0YzczNWVlIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIiLCAicG9ydCI6ICI0NTMxNyIsICJwcyI6ICJVSyIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZX0=
-vmess://eyJ2IjogIjIiLCAicHMiOiAiS3JvYXRpZW4iLCAiYWRkIjogIjg5LjE4LjU4LjEwNCIsICJwb3J0IjogIjE4MCIsICJ0eXBlIjogIm5vbmUiLCAiaWQiOiAiZDEzZmMyZjUtM2UwNS00Nzk1LTgxZWItNDQxNDNhMDllNTUyIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIvIiwgImhvc3QiOiAiIiwgInRscyI6ICIifQ==
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@162.251.63.123:5004#USA
-trojan://amclubs@156.238.19.69:2096?allowInsecure=1&sni=tran.amclubstest.nyc.mn&type=ws&host=tran.amclubstest.nyc.mn&path=/?ed=2560#USA
-trojan://installshield@38.180.249.177:8443#Niederlande
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.47.253.227:990#Ecuador
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@38.121.43.71:6679#USA
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJSlNSRVVCRFhsd0ZhSUlYRlBQQ2hl@77.83.246.74:443#Polen
+vmess://eyJhZGQiOiAid3d3LnNwZWVkdGVzdC5uZXQiLCAidiI6ICIyIiwgInBzIjogIlVTQSIsICJwb3J0IjogNDQzLCAiaWQiOiAiMDU2NDFjZjUtNThkMi00YmE0LWE5ZjEtYjNjZGEwYjFmYjFkIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogIm9iZGlpLmNmZCIsICJwYXRoIjogIi9saW5rd3MiLCAidGxzIjogInRscyJ9
+vmess://eyJ2IjogIjIiLCAicHMiOiAiVVNBIiwgImFkZCI6ICI1LjI1My40MS4xNDciLCAicG9ydCI6ICIyNzc1MCIsICJ0eXBlIjogIm5vbmUiLCAiaWQiOiAiNGIxOTkyY2MtOGU3Yy00MDAzLWE0NWYtYTI4YzNlNmY2ZmE4IiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIvIiwgImhvc3QiOiAiIiwgInRscyI6ICIiLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWV9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@103.104.247.47:8080#Niederlande
+vmess://eyJhZGQiOiAib3JhMi5haWhpLnVrIiwgInYiOiAiMiIsICJwcyI6ICJVU0EiLCAicG9ydCI6IDgwODgsICJpZCI6ICI2YjQxNGY2YS05Y2ZkLTQ2YzMtYmNjOC1hZjJjMzQ0Nzg3MWQiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiL3JheSIsICJ0bHMiOiAidGxzIn0=
+trojan://auto@104.21.35.43:443?security=tls&sni=esetsecuritylicense3.wawafec355.workers.dev&type=ws&host=esetsecuritylicense3.wawafec355.workers.dev&path=%2F#USA
+vmess://eyJhZGQiOiAiNjcuMjIwLjY2LjE5NCIsICJ2IjogIjIiLCAicHMiOiAiVVNBIiwgInBvcnQiOiA0NDMsICJpZCI6ICIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCAiYWlkIjogIjEiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiNjcuMjIwLjY2LjE5NCIsICJwYXRoIjogImxpbmt2d3MiLCAidGxzIjogInRscyJ9
+trojan://auto@172.67.213.48:443?security=tls&sni=esetsecuritylicense2.wawafec355.workers.dev&type=ws&host=esetsecuritylicense2.wawafec355.workers.dev&path=%2FTelegram-%40V2ray_Alpha%2F%3Fed%3D2560#USA
+trojan://xxoo@us.blazeppn.info:443?sni=us.blazeppn.info#USA
+trojan://ji0612uenfs@103.232.213.117:8080?sni=ji0612e.nfjunka.xyz&type=ws&host=ji0612e.nfjunka.xyz&allowInsecure=0#Japan
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@23.150.248.50:8090#USA
 ```
 <h5>Die permanente Abonnementadresse des oberen Knotens (Teil): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_de</h5>
  <p>QR-Code für die Abonnementadresse oben</p>
