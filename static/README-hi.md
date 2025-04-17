@@ -35,18 +35,18 @@
  <h4>नोड सूची: (यहां केवल कुछ नोड्स प्रदर्शित हैं, कृपया सभी नोड्स देखने के लिए ऐप डाउनलोड करें)</h4>
     
 ```
-vmess://eyJhZGQiOiAiczEuZGItbGluazAyLnRvcCIsICJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJwb3J0IjogMjA4MiwgImlkIjogIjRiMzY2MjVjLWI5ZDktM2VhNi1hZWQ1LTg2ZDYyYzcwZTE2ZCIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIxMDAtNi04MS0yMjYuczEuZGItbGluazAyLnRvcCIsICJwYXRoIjogIi9kYWJhaS5pbjEwNC4yMC44LjE2MiIsICJ0bHMiOiAiIn0=
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiWjg3YW1QcGRHN0t1V002MmJLdG0xS0hvb3d1VmpuVjhDS3RxNjUzeW1IY2cyZFBZY1BKZm5hUTYxc3R1QWpyMlppTERhcUg1Nlhwa3hFWXV3RHp6UnJNV2llZWJXR3Q=@mx2.drawnrisha.one:55988#United+Kingdom
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.251:8080#The+Netherlands
-ss://YWVzLTI1Ni1nY206ODQ3N2Y0YzgtODhmMS00MDE5LWE4OTktZWE3M2I5MzUwNTVk@194.246.114.54:8443#Hong+Kong
-trojan://89c1aea7-4d0d-4013-b663-0f94a3e6bdbd@sanjose06.852224.ggff.net:443?allowInsecure=0&sni=sanjose06.852224.ggff.net&type=ws&host=sanjose06.852224.ggff.net&path=/T5yZBrY2Qkg2cThJQeJb#United+States
-vmess://eyJhZGQiOiAiYmV5b25kZHN6LmNmZCIsICJ2IjogIjIiLCAicHMiOiAiRnJhbmNlIiwgInBvcnQiOiA0NDMsICJpZCI6ICI5YjQ1NmMyYS1mMmMxLTQ1ZTEtODdhOS1iNzYyOGIwNGJiMjQiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiYmV5b25kZHN6LmNmZCIsICJwYXRoIjogIi9saW5rd3MiLCAidGxzIjogInRscyJ9
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.160:443#United+States
-trojan://xxoo@138.197.5.103:443#United+States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.158.171.110:8080#United+States
-vmess://eyJhZGQiOiAiODkuMTguNTYuMjQ5IiwgInYiOiAiMiIsICJwcyI6ICJDcm9hdGlhIiwgInBvcnQiOiAxODAsICJpZCI6ICJkMTNmYzJmNS0zZTA1LTQ3OTUtODFlYi00NDE0M2EwOWU1NTIiLCAiYWlkIjogIjAiLCAibmV0IjogInRjcCIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAiIn0=
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.47.132:443#United+States
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.34.244.82:443#The+Netherlands
+trojan://89c1aea7-4d0d-4013-b663-0f94a3e6bdbd@104.21.58.135:443?security=tls&sni=sanjose01.818185.xyz&type=ws&host=sanjose01.818185.xyz&path=/T5yZBrY2Qkg2cThJQeJb&fp=chrome&alpn=http/1.1#United+States
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.241:443#United+States
+trojan://dQUWbcwECl@20.191.138.47:443?security=tls&sni=automq4-proxy.automq-sg.com&allowInsecure=1#Singapore
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@38.121.43.71:8008#United+States
+vmess://eyJhZGQiOiAiMTcyLjY3LjIxMy4xMTAiLCAidiI6ICIyIiwgInBzIjogIlVuaXRlZCBTdGF0ZXMiLCAicG9ydCI6IDQ0MywgImlkIjogImQxM2ZjMmY1LTNlMDUtNDc5NS04MWViLTQ0MTQzYTA5ZTU1MiIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJzZ2Zxa3FtbHRjeS5zaXRlIiwgInBhdGgiOiAiL3JicXF2d3MiLCAidGxzIjogInRscyJ9
+trojan://I46LpSIM1f@194.164.57.9:1935?security=tls&sni=x4ger-ionos.devefun.net#Germany
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@ca225.vpnbook.com:80#Canada
+vmess://eyJhZGQiOiAiMTUuMjA0LjIzNy4zMSIsICJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJwb3J0IjogNDQzLCAiaWQiOiAiNjc3M2MyOTItZDBhZS00ZGVmLTgwNDktMmFhMzkzMDJiM2EwIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogInVTYS12UC0zMS5tRXRJS0FQUHMuQ29NIiwgInBhdGgiOiAiL2xpbmt2d3MiLCAidGxzIjogInRscyJ9
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@23.150.248.235:8091#United+States
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.121.43.71:8091#United+States
+vmess://eyJhZGQiOiAidXMwMS5zaC1jbG91ZGZsYXJlLnNicyIsICJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJwb3J0IjogODQ0MywgImlkIjogIjkxNDU4NGVlLTM1MTUtNDZhYy1hMDlkLTQ2NzdhMmU5ZGM5YSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJ1czAxLnNoLWNsb3VkZmxhcmUuc2JzIiwgInBhdGgiOiAiLyIsICJ0bHMiOiAidGxzIn0=
+trojan://bpb-trojan@172.67.70.92:443?security=tls&sni=zamim340.ggff.net&type=ws&host=zamim340.ggff.net&path=%2Ftr%3Fed%3D2560#United+States
 ```
 <h5>ऊपरी नोड (भाग) का स्थायी सदस्यता पता: https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_hi</h5>
  <p>उपरोक्त सदस्यता पते के लिए QR कोड</p>
