@@ -35,19 +35,20 @@
  <h4>Danh sách nút: (Chỉ hiển thị một số nút ở đây, vui lòng tải xuống ứng dụng để xem tất cả các nút)</h4>
     
 ```
-vmess://eyJhZGQiOiAiOTUuMTY0LjM4LjYiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogIjU4M2JlYmVmLTNlMGItNGM4NS1iYTgwLTM5ZTA3Y2UzNWFkOSIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiMjE5MzgiLCAicHMiOiAiTm9yd2F5IiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=
-trojan://vip@104.18.11.143:443?security=tls&sni=heihu880.pages.dev&type=ws&host=heihu880.pages.dev&path=%2F%3Fed%3D2560#United+States
-trojan://vip@104.16.223.254:443?security=tls&sni=heihu880.pages.dev&type=ws&host=heihu880.pages.dev#United+States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2MDgyNTgyNDNhNTc5YWNj@212.56.33.7:43311#United+Kingdom
-vmess://eyJhZGQiOiAiMTc0NDAwNzU0MS50ZW5jZW50YXBwLmNuIiwgInYiOiAiMiIsICJwcyI6ICJVbml0ZWQgU3RhdGVzIiwgInBvcnQiOiA4NDQzLCAiaWQiOiAiMzgxY2I2ZDEtNmFkNC00OTA5LTg0OTQtYjhkNzg2Y2Y3OGNlIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogIjE3NDQwMDc1Nzguc3BlZWQuYWRsLmNjY3AuZnJlZWZseS5wcC51YSIsICJwYXRoIjogIi8iLCAidGxzIjogInRscyJ9
-ss://YWVzLTI1Ni1nY206WGFBSWtKanA=@85.234.65.100:11359#United+Kingdom
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.47.129:443#United+States
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.121.43.71:7001#United+States
-trojan://installshield@38.180.249.177:8443?security=tls&sni=38.180.249.177&type=tcp#The+Netherlands
-trojan://vip@104.18.13.229:2053?security=tls&sni=heihu880.pages.dev&type=ws&host=heihu880.pages.dev&path=%2F%3Fed%3D2560#United+States
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@67.220.95.102:6697#United+States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1UVM1bnRWcUMwMHNTS2tlTnpVaUQz@89.23.103.125:42090#The+Netherlands
-vmess://eyJhZGQiOiAiOXV5aW9wc2RmaC5pcmFuLnBwLnVhIiwgImFpZCI6IDAsICJob3N0IjogIjl1eWlvcHNkZmguaXJhbi5wcC51YSIsICJpZCI6ICI5MDZiYTkyZi1lZjk2LTQxMzMtOGVlZS1mMzMyMDJhNWE3MjEiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL0RBeEpkZE9kVGQ1cFZhbTl3IiwgInBvcnQiOiA0NDMsICJwcyI6ICJVbml0ZWQgU3RhdGVzIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIn0=
+trojan://dQUWbcwECl@automq3-proxy.automq-sg.com:443#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmYmI4MThjZDg0YTBkMGU1@103.215.218.54:18096#T%C3%BCrkiye
+trojan://telegram-id-vlessconfig@18.135.21.30:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#United+Kingdom
+vmess://eyJhZGQiOiAiMTA0LjE3LjIyMS4yNDgiLCAidiI6ICIyIiwgInBzIjogIlVuaXRlZCBTdGF0ZXMiLCAicG9ydCI6IDg4ODAsICJpZCI6ICI0YjM2NjI1Yy1iOWQ5LTNlYTYtYWVkNS04NmQ2MmM3MGUxNmQiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiMTAwLTEwMy01OC0zOS5zMS5kYi1saW5rMDIudG9wIiwgInBhdGgiOiAiL2RhYmFpLmluMTA0LjI1LjI0OS4yMTUiLCAidGxzIjogIiJ9
+ss://YWVzLTI1Ni1nY206YW1hem9uc2tyMDU=@52.12.84.118:80#United+States
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.114.114.143:443#United+States
+vmess://eyJhZGQiOiAiMmU2MTE5Yjktc3YweHMwLXQ5aGdody0xc2RvcS53dHQ1LnA1cHYuY29tIiwgInYiOiAiMiIsICJwcyI6ICJIb25nIEtvbmciLCAicG9ydCI6IDgxMDEsICJpZCI6ICI3YzA3NzU3Mi02ZGE5LTExZWYtYjc4Ni1mMjNjOTFjZmJiYzkiLCAiYWlkIjogIjIiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiYnJvYWRjYXN0bHYuY2hhdC5iaWxpYmlsaS5jb20iLCAicGF0aCI6ICIvIiwgInRscyI6ICIifQ==
+trojan://tg-fq521free@45.67.215.95:443?security=tls&sni=torjan.xn--xhq44j.eu.org&type=ws&host=torjan.xn--xhq44j.eu.org&path=/#Russia
+ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@69.50.95.245:445#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@119.59.98.58:990#Thailand
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.121.43.71:8000#United+States
+vmess://eyJhZGQiOiAiYTRlOWM1ZjQtc3YweHMwLXN2MzdnbS04MW52LmhrLnA1cHYuY29tIiwgInYiOiAiMiIsICJwcyI6ICJIb25nIEtvbmciLCAicG9ydCI6IDgwLCAiaWQiOiAiNDdlOTFmYjYtMjViOC1kZjUyLWJjMTgtM2NkYzg1NDgxOTJmIiwgImFpZCI6ICIyIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogImJyb2FkY2FzdGx2LmNoYXQuYmlsaWJpbGkuY29tIiwgInBhdGgiOiAiLyIsICJ0bHMiOiAiIn0=
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVRGNqWVE2WjZBSVd4VmlacHF5T21P@46.246.98.155:44013#Sweden
+vmess://eyJhZGQiOiAiMTg1LjIzNi4yMDMuNzAiLCAidiI6ICIyIiwgInBzIjogIkRlbm1hcmsiLCAicG9ydCI6IDMwMDAwLCAiaWQiOiAiMmU5NjdkZDUtOGQyNC00MDk5LWE5MDEtNDEyZGNiNDAyNGZkIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogInd3dy42NzE3MDIyNy54eXoiLCAicGF0aCI6ICIvcGF0aC8zMDAwMjIxMTMzMjkiLCAidGxzIjogInRscyJ9
 ```
 <h5>Địa chỉ đăng ký vĩnh viễn của nút trên (một phần): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_vi</h5>
  <p>Mã QR cho địa chỉ đăng ký ở trên</p>
