@@ -35,19 +35,21 @@
  <h4>नोड सूची: (यहां केवल कुछ नोड्स प्रदर्शित हैं, कृपया सभी नोड्स देखने के लिए ऐप डाउनलोड करें)</h4>
     
 ```
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@142.202.49.84:8090#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxMjM0@97.107.140.236:1234#United+States
+vmess://eyJhZGQiOiAiMTA0LjE3LjIyMS4yNDgiLCAidiI6ICIyIiwgInBzIjogIlVuaXRlZCBTdGF0ZXMiLCAicG9ydCI6IDg4ODAsICJpZCI6ICI0YjM2NjI1Yy1iOWQ5LTNlYTYtYWVkNS04NmQ2MmM3MGUxNmQiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiMTAwLTEwMy01OC0zOS5zMS5kYi1saW5rMDIudG9wIiwgInBhdGgiOiAiL2RhYmFpLmluMTA0LjI1LjI0OS4yMTUiLCAidGxzIjogIiJ9
 ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@67.220.95.102:7307#United+States
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.121.43.71:2376#United+States
-trojan://Aimer@154.197.64.164:2053?security=tls&sni=epcca.ambercc.filegear-sg.me&type=ws&host=epcca.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#Seychelles
-vmess://eyJhZGQiOiAiNjIuMTQ2LjIzMy41MyIsICJ2IjogIjIiLCAicHMiOiAiR2VybWFueSIsICJwb3J0IjogNTA2NzgsICJpZCI6ICI1ZDFlYzZlNy1mZDU4LTRlODUtOTFjNS02MzM1YTg2ZDI3NzUiLCAiYWlkIjogIjAiLCAibmV0IjogInRjcCIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAiIn0=
-vmess://eyJhZGQiOiAiNjcuMjIwLjY2LjE5NCIsICJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJwb3J0IjogNDQzLCAiaWQiOiAiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwgImFpZCI6ICIxIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogIjY3LjIyMC42Ni4xOTQiLCAicGF0aCI6ICJsaW5rdndzIiwgInRscyI6ICJ0bHMifQ==
-vmess://eyJhZGQiOiAiNTcuMTI5LjI4LjY5IiwgInYiOiAiMiIsICJwcyI6ICJGcmFuY2UiLCAicG9ydCI6IDQ0MywgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJiYXJhZGloYS5jb20iLCAicGF0aCI6ICIvbGlua3Z3cyIsICJ0bHMiOiAidGxzIn0=
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWEdwMStpaGxmS2c4MjZI@185.177.229.245:1866#Germany
-vmess://eyJhZGQiOiAiMTA0LjIxLjYuMjAxIiwgImFpZCI6IDAsICJob3N0IjogImhrbmJ5aXZmZmZqLnNpdGUiLCAiaWQiOiAiZDEzZmMyZjUtM2UwNS00Nzk1LTgxZWItNDQxNDNhMDllNTUyIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9yYnFxdndzIiwgInBvcnQiOiA0NDMsICJwcyI6ICJVbml0ZWQgU3RhdGVzIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IGZhbHNlLCAic25pIjogImhrbmJ5aXZmZmZqLnNpdGUifQ==
-vmess://eyJhZGQiOiAiMTA0LjIxLjgwLjEiLCAidiI6ICIyIiwgInBzIjogIlVuaXRlZCBTdGF0ZXMiLCAicG9ydCI6IDIwOTYsICJpZCI6ICI3NWEwODg1Zi0wY2E1LTQyYTQtODY1MS0zOTFjZjgxOTMxNTQiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiZGUwMS5zaC1jbG91ZGZsYXJlLnNicyIsICJwYXRoIjogIi8iLCAidGxzIjogInRscyJ9
-vmess://eyJhZGQiOiAiNjIuMTQ2LjIzMy43OSIsICJ2IjogIjIiLCAicHMiOiAiR2VybWFueSIsICJwb3J0IjogNDQxMjcsICJpZCI6ICJhZTBmYTgyMi01OGJiLTQ4M2YtOWFmNS1kNDE3ZDhjMjNiMjEiLCAiYWlkIjogIjAiLCAibmV0IjogInRjcCIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAiIn0=
-trojan://t2WqbIW2JE@15.204.175.111:2083?security=tls&sni=usa-vp-111.mETIkaPPs.cOm&type=ws&host=usa-vp-111.mETIkaPPs.cOm&path=%2Flinkvws#United+States
-ss://YWVzLTEyOC1nY206WUhSUnRzbTNYK3gybWdsNzZ5WTl1aWRzT3duRWUzMC90eWJsUVUvaEd0VT0=@193.57.138.81:27082#Ireland
-vmess://eyJhZGQiOiAiNDMuMTU0LjM0Ljc0IiwgInYiOiAiMiIsICJwcyI6ICJIb25nIEtvbmciLCAicG9ydCI6IDE5MzUsICJpZCI6ICIyZTViZmQ0YS0wODUyLTRkZjQtYjllNy05YjZmMjA3MTEzYjQiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiZGpkampyampyaGsubHpqNTIwaHh3LmRwZG5zLm9yZyIsICJwYXRoIjogIi92bWVzcy1hcmdvIiwgInRscyI6ICJ0bHMifQ==
+vmess://eyJhZGQiOiAiczQuZGItbGluazAyLnRvcCIsICJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJwb3J0IjogMjA5NSwgImlkIjogIjRiMzY2MjVjLWI5ZDktM2VhNi1hZWQ1LTg2ZDYyYzcwZTE2ZCIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIxMDAtMTg3LTI0NC0yMDUuczQuZGItbGluazAyLnRvcCIsICJwYXRoIjogIi9kYWJhaS5pbjEwNC4xOS45Ny45MSIsICJ0bHMiOiAiIn0=
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.188:8080#Lithuania
+vmess://eyJhZGQiOiAiMThiOWMwMzAtc3Yyc2cwLXN2OGxpci0xc3U3ai53dHQ1LnA1cHYuY29tIiwgInYiOiAiMiIsICJwcyI6ICJIb25nIEtvbmciLCAicG9ydCI6IDgxMDEsICJpZCI6ICIwZTRlYzg0YS1hMzI0LTExZWYtODFiMC1mMjNjOTE2NGNhNWQiLCAiYWlkIjogIjIiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiYnJvYWRjYXN0bHYuY2hhdC5iaWxpYmlsaS5jb20iLCAicGF0aCI6ICIvIiwgInRscyI6ICIifQ==
+trojan://ad4a124c-12fb-4467-9ad0-dc6d9b509ac0@104.21.96.1:443?security=tls&sni=7nnn.191262.xyz&type=ws&host=7nnn.191262.xyz&path=%2FwGgR8FyAGgRCKSiyxgvJgLl&fp=chrome&alpn=http%2F1.1#United+States
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.110.1.88:2376#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@188.214.157.154:990#Morocco
+trojan://yaml777@104.21.61.73:443?security=tls&sni=yaml7.ggff.net&type=ws&host=yaml7.ggff.net&path=/#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@45.154.206.192:990#United+Kingdom
+trojan://Aimer@108.165.152.130:2083?security=tls&sni=epccd.ambercc.filegear-sg.me&type=ws&host=epccd.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#United+States
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@uk-dc1.yangon.club:443#United+Kingdom
+trojan://123456@192.65.217.53:8443?security=tls&type=ws&sni=top-azx.pages.dev&path=/Az1.vpn.33.TOP/?ed=2560&host=top-azx.pages.dev#Australia
 ```
 <h5>ऊपरी नोड (भाग) का स्थायी सदस्यता पता: https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_hi</h5>
  <p>उपरोक्त सदस्यता पते के लिए QR कोड</p>
