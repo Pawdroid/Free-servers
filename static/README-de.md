@@ -35,21 +35,21 @@
  <h4>Knotenliste: (Hier werden nur einige Knoten angezeigt. Bitte laden Sie die App herunter, um alle Knoten anzuzeigen.)</h4>
     
 ```
-trojan://fffddde3-e433-47a0-87b7-a21f3ab4a9dc@45.146.232.171:27002?sni=q08m.vgraxiw73s.hasyaf.cn#Hongkong
-trojan://Aimer@162.159.135.32:443?security=tls&sni=epcca.ambercc.filegear-sg.me&type=ws&host=epcca.ambercc.filegear-sg.me#USA
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@67.220.95.135:8090#USA
-trojan://Aimer@104.16.37.70:443?security=tls&sni=epcca.ambercc.filegear-sg.me&type=ws&host=epcca.ambercc.filegear-sg.me#USA
-trojan://Aimer@108.162.195.127:443?security=tls&sni=epcca.ambercc.filegear-sg.me&type=ws&host=epcca.ambercc.filegear-sg.me#USA
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@173.244.56.6:443#USA
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@67.220.95.29:8118#USA
-vmess://eyJhZGQiOiAiMTA0LjE3LjIxMy4yNDEiLCAidiI6ICIyIiwgInBzIjogIlVTQSIsICJwb3J0IjogODA4MCwgImlkIjogIjRiMzY2MjVjLWI5ZDktM2VhNi1hZWQ1LTg2ZDYyYzcwZTE2ZCIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIxMDAtMTE5LTE1MS0yNDguczIuZGItbGluazAyLnRvcCIsICJwYXRoIjogIi9kYWJhaS5pbjE3Mi42NC40MS4xNTAiLCAidGxzIjogIiJ9
-trojan://Aimer@154.197.64.164:2053?security=tls&sni=epcca.ambercc.filegear-sg.me&type=ws&host=epcca.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#Seychellen
-ss://YWVzLTI1Ni1nY206QnRIUmJRVlU=@103.106.231.55:9007#Australien
-vmess://eyJhZGQiOiAiMTA0LjE4LjExOC4xOTUiLCAidiI6ICIyIiwgInBzIjogIlVTQSIsICJwb3J0IjogODQ0MywgImlkIjogIjNiYjNjNzMwLWUxMDctNDljNS1hMGIyLWI1NzZkMWIyNmE1ZSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIxNzQzOTE5OTc4LnNwZWVkLnpqZ3phLmNjY3AuZnJlZWZseS5wcC51YSIsICJwYXRoIjogIi8iLCAidGxzIjogInRscyJ9
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.121.43.71:5003#USA
-vmess://eyJhZGQiOiAiczUuZGItbGluazAyLnRvcCIsICJ2IjogIjIiLCAicHMiOiAiVVNBIiwgInBvcnQiOiA4MDgwLCAiaWQiOiAiNGIzNjYyNWMtYjlkOS0zZWE2LWFlZDUtODZkNjJjNzBlMTZkIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogIjEwMC0xNDktMTkxLTIuczUuZGItbGluazAyLnRvcCIsICJwYXRoIjogIi9kYWJhaS5pbjEwNC4yMC4xNi4yMDkiLCAidGxzIjogIiJ9
-vmess://eyJhZGQiOiAiczEuZGItbGluazAyLnRvcCIsICJ2IjogIjIiLCAicHMiOiAiVVNBIiwgInBvcnQiOiA4ODgwLCAiaWQiOiAiNGIzNjYyNWMtYjlkOS0zZWE2LWFlZDUtODZkNjJjNzBlMTZkIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogIjEwMC0xMDMtNTgtMzkuczEuZGItbGluazAyLnRvcCIsICJwYXRoIjogIi9kYWJhaS5pbjEwNC4yNS4yNDkuMjE1IiwgInRscyI6ICIifQ==
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.47.253.227:990#Ecuador
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvZXFYdGRwV0t6dnR5UXR5VUNkWXo1@78.129.140.11:443#UK
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.121.43.97:7001#USA
+ss://YWVzLTI1Ni1nY206ZllFbVMwV3o=@109.104.154.201:30627#Luxemburg
+trojan://da26f571-6dea-42ff-a90e-8d72561f92b0@45.146.232.172:43499?sni=q08m.vgraxiw73s.hasyaf.cn#Hongkong
+trojan://tg-fq521free@216.24.57.30:443?security=tls&sni=torjan.xn--xhq44j.eu.org&type=ws&host=torjan.xn--xhq44j.eu.org&path=/#USA
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.35:8080#Litauen
+vmess://eyJhZGQiOiAiczEuZGItbGluazAxLnRvcCIsICJ2IjogIjIiLCAicHMiOiAiVVNBIiwgInBvcnQiOiA4MDgwLCAiaWQiOiAiNGIzNjYyNWMtYjlkOS0zZWE2LWFlZDUtODZkNjJjNzBlMTZkIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogIjEwMC03OS0yOC0yNi5zMS5kYi1saW5rMDEudG9wIiwgInBhdGgiOiAiL2RhYmFpLmluMTcyLjY0LjU1LjIwMyIsICJ0bHMiOiAiIn0=
+vmess://eyJhZGQiOiAiaWNvb2suaGsiLCAidiI6ICIyIiwgInBzIjogIlVTQSIsICJwb3J0IjogNDQzLCAiaWQiOiAiMmZhYWY5OTYtZDJiMC00NDBkLTgyNTgtODFmMmIwNWRkMGU0IiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogImdsaXRjaC5ubnV1Lm55Yy5tbiIsICJwYXRoIjogIi92bWVzcy1hcmdvP2VkPTI1NjAiLCAidGxzIjogInRscyJ9
+trojan://ad4a124c-12fb-4467-9ad0-dc6d9b509ac0@104.21.112.1:443?security=tls&sni=7bhui.191262.xyz&type=ws&host=7bhui.191262.xyz&path=%2FwGgR8FyAGgRCKSiyxgvJgLl&fp=chrome&alpn=http%2F1.1#USA
+vmess://eyJhZGQiOiAiMTk4LjQxLjIwOS43MCIsICJ2IjogIjIiLCAicHMiOiAiVVNBIiwgInBvcnQiOiAyMDUyLCAiaWQiOiAiNGIzNjYyNWMtYjlkOS0zZWE2LWFlZDUtODZkNjJjNzBlMTZkIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogIjEwMC0xMDItMjQ3LTkyLnMxLmRiLWxpbmswMi50b3AiLCAicGF0aCI6ICIvZGFiYWkuaW4xMDQuMjUuMTc1LjEzNyIsICJ0bHMiOiAiIn0=
+trojan://Aimer@162.159.135.35:443?security=tls&sni=epcca.ambercc.filegear-sg.me&type=ws&host=epcca.ambercc.filegear-sg.me#USA
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2ZTY4YWQ2ZDYzOTZkM2Nm@195.7.6.214:22840#USA
+trojan://abf931d0-5be1-440c-802f-a66bcb850139@sla.cn.964e995b760.gogodns.xin:34014?sni=q08m.vgraxiw73s.hasyaf.cn#Hongkong
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@38.121.43.71:8008#USA
+vmess://eyJ2IjogIjIiLCAicHMiOiAiSmFwYW4iLCAiYWRkIjogIjExNi4yMDYuOTIuMTg0IiwgInBvcnQiOiAiMjg5NzYiLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiZDFmMTAyMmItY2Q0My00OWU0LWI3MzYtNzc0NGQxZTExYTc5IiwgInNuaSI6ICIiLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWV9
 ```
 <h5>Die permanente Abonnementadresse des oberen Knotens (Teil): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_de</h5>
  <p>QR-Code für die Abonnementadresse oben</p>
