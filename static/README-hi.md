@@ -35,22 +35,22 @@
  <h4>नोड सूची: (यहां केवल कुछ नोड्स प्रदर्शित हैं, कृपया सभी नोड्स देखने के लिए ऐप डाउनलोड करें)</h4>
     
 ```
-trojan://cbc9f609-dda5-4418-8313-ad0837fc072a@aafrtpfxr.jpl01i9zjfegelp.5xfsur8v62.gosdk.xyz:27001?sni=q08m.vgraxiw73s.hasyaf.cn#Hong+Kong
-vmess://eyJhZGQiOiAiMTcyLjY3LjEzNi4yMzMiLCAidiI6ICIyIiwgInBzIjogIlVuaXRlZCBTdGF0ZXMiLCAicG9ydCI6IDQ0MywgImlkIjogIjNmNjM4ZjM0LThkYmEtNDE4Ni1iYzQzLTI3MTZhN2RkZDRiZSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJhejA1LmJleW9uZHkuY2ZkIiwgInBhdGgiOiAiL2xpbmsiLCAidGxzIjogInRscyJ9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMzgzNzIyNGVkNDY1ZjAw@45.144.48.63:57456#Poland
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.22:8080#Lithuania
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.110.1.88:5600#United+States
-trojan://YQ4dl0s18a@47.79.85.59:56465#United+States
-trojan://Aimer@154.197.64.164:2053?security=tls&sni=epcca.ambercc.filegear-sg.me&type=ws&host=epcca.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#Seychelles
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.79:443#United+Kingdom
-trojan://telegram-id-privatevpns@13.60.139.26:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#Sweden
-vmess://eyJhZGQiOiAiMTA0LjE3LjIyMS4yNDgiLCAidiI6ICIyIiwgInBzIjogIlVuaXRlZCBTdGF0ZXMiLCAicG9ydCI6IDgwLCAiaWQiOiAiNGIzNjYyNWMtYjlkOS0zZWE2LWFlZDUtODZkNjJjNzBlMTZkIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogIjEwMC00OS0xNDEtMjA5LnMxLmRiLWxpbmswMi50b3AiLCAicGF0aCI6ICIvZGFiYWkuaW4xMDQuMTcuMTY5LjExNSIsICJ0bHMiOiAiIn0=
-trojan://d94b51ce-8668-41fc-b7aa-1e3d5d0205e4@45.146.232.171:43583?sni=q08m.vgraxiw73s.hasyaf.cn#Hong+Kong
-trojan://c715b032-89f3-4bc8-b241-d55b08542e44@aafrtpfxr.jpl01i9zjfegelp.5xfsur8v62.gosdk.xyz:27002?sni=q08m.vgraxiw73s.hasyaf.cn#Hong+Kong
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.158.171.146:8080#United+States
-trojan://aa34901b-0877-4143-8e50-67de188e178a@aafrtpfxr.jpl01i9zjfegelp.5xfsur8v62.gosdk.xyz:46926?sni=q08m.vgraxiw73s.hasyaf.cn#Hong+Kong
-vmess://eyJhZGQiOiAiNTcuMTI5LjI1LjIwIiwgInYiOiAiMiIsICJwcyI6ICJGcmFuY2UiLCAicG9ydCI6IDQ0MywgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsICJhaWQiOiAiMSIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICI1Ny4xMjkuMjUuMjAiLCAicGF0aCI6ICJsaW5rdndzIiwgInRscyI6ICJ0bHMifQ==
-trojan://Aimer@162.159.142.238:443?security=tls&sni=epcca.ambercc.filegear-sg.me&type=ws&host=epcca.ambercc.filegear-sg.me#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOR0ppTg==@45.86.66.16:8388#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowTnB0WWIzeDZCSEt1QmFwRXQ4NENK@62.210.88.22:443#France
+vmess://eyJhZGQiOiAiNzkuMTI3LjIyOS41NCIsICJ2IjogIjIiLCAicHMiOiAiTWV4aWNvIiwgInBvcnQiOiAxODAwMCwgImlkIjogImZhMTg5N2RiLTE5MjUtNGM4Ni1hNDk1LTkzOWE5NTlhZjkwMCIsICJhaWQiOiAiMCIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiIiwgInRscyI6ICIifQ==
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@67.220.95.102:3306#United+States
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.62.164:443#Switzerland
+trojan://installshield@38.180.249.177:8443?sni=38.180.249.177#The+Netherlands
+vmess://eyJhZGQiOiAiMTU4LjE4MC4yMjguMjI2IiwgInYiOiAiMiIsICJwcyI6ICJJdGFseSIsICJwb3J0IjogNDQzLCAiaWQiOiAiOWI0NTZjMmEtZjJjMS00NWUxLTg3YTktYjc2MjhiMDRiYjI0IiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogImJleW9uZGRzei5jZmQiLCAicGF0aCI6ICIvbGlua3dzIiwgInRscyI6ICJ0bHMifQ==
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.62.162:443#Switzerland
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@23.154.136.148:6679#United+States
+vmess://eyJ2IjogIjIiLCAicHMiOiAiUG9sYW5kIiwgImFkZCI6ICIzaC1wb2xhbmQxLjA5dnBuLmNvbSIsICJwb3J0IjogIjg0NDMiLCAidHlwZSI6ICJub25lIiwgImlkIjogImE0ODUwNDgxLTliOTUtNDMwZi05YjJkLTE5MmQyNDEwYjRmNCIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvdm1lc3MvIiwgImhvc3QiOiAiM2gtcG9sYW5kMS4wOXZwbi5jb20iLCAidGxzIjogInRscyJ9
+vmess://eyJhZGQiOiAiMTA0LjIxLjMyLjEiLCAidiI6ICIyIiwgInBzIjogIlVuaXRlZCBTdGF0ZXMiLCAicG9ydCI6IDIwODMsICJpZCI6ICIwMjQ1YzJkNC0wYWQxLTRmMGYtZWI5Yy1mYmQ1ZjFjNDdiZTciLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAicmFrMi44OTA2MDIueHl6IiwgInBhdGgiOiAiLyIsICJ0bHMiOiAidGxzIn0=
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.126.239.250:990#Russia
+vmess://eyJhZGQiOiAiMTU0LjI2LjEyOS4yNDciLCAidiI6ICIyIiwgInBzIjogIlNpbmdhcG9yZSIsICJwb3J0IjogNTcxNDMsICJpZCI6ICIyOGVmYmYzNi0wNzlhLTRjOTgtODQ3MC1kMTM0NThkYjZlZTYiLCAiYWlkIjogIjAiLCAibmV0IjogInRjcCIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAiIn0=
+trojan://d94b51ce-8668-41fc-b7aa-1e3d5d0205e4@aafrtpfxr.jpl01i9zjfegelp.5xfsur8v62.gosdk.xyz:43583?sni=q08m.vgraxiw73s.hasyaf.cn#Hong+Kong
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@67.220.95.96:5003#United+States
+vmess://eyJhZGQiOiAiNjIuMTQ2LjIzMy41MyIsICJ2IjogIjIiLCAicHMiOiAiR2VybWFueSIsICJwb3J0IjogNTA2NzgsICJpZCI6ICI1ZDFlYzZlNy1mZDU4LTRlODUtOTFjNS02MzM1YTg2ZDI3NzUiLCAiYWlkIjogIjAiLCAibmV0IjogInRjcCIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAiIn0=
 ```
 <h5>ऊपरी नोड (भाग) का स्थायी सदस्यता पता: https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_hi</h5>
  <p>उपरोक्त सदस्यता पते के लिए QR कोड</p>
