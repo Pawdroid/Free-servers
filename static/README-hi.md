@@ -35,22 +35,22 @@
  <h4>नोड सूची: (यहां केवल कुछ नोड्स प्रदर्शित हैं, कृपया सभी नोड्स देखने के लिए ऐप डाउनलोड करें)</h4>
     
 ```
-vmess://eyJhZGQiOiAiMTUyLjY5LjIyMC45NCIsICJ2IjogIjIiLCAicHMiOiAiU2luZ2Fwb3JlIiwgInBvcnQiOiA0MzA1MCwgImlkIjogIjI4Y2EwNTY3LTc1NGUtNDZmYy1lNzc0LWIxOWM3ODc5NzVmNyIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJhLnppcWl1MTA2MC5nZ2ZmLm5ldCIsICJwYXRoIjogIi9kc2ZzZGYiLCAidGxzIjogInRscyJ9
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.68.135.247:8881#United+States
+vmess://eyJhZGQiOiAiNDUuOC4xNDUuMTQ1IiwgInYiOiAiMiIsICJwcyI6ICJUaGUgTmV0aGVybGFuZHMiLCAicG9ydCI6IDMwNTIwLCAiaWQiOiAiMzAzODAyNGYtM2EzNC00MjI4LWI2MWMtZDc0MWIyZmJlYzhmIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIiLCAidGxzIjogIiJ9
 ss://YWVzLTI1Ni1nY206VDFEMWU4d0pXTjZFZUhDYWU0RitjQT09@45.196.234.180:2525#Hong+Kong
-vmess://eyJhZGQiOiAiNDUuMTM3LjE1NS40NSIsICJob3N0IjogIiIsICJwb3J0IjogIjE3NjQ2IiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIiLCAicHMiOiAiVWtyYWluZSIsICJpZCI6ICI4MjczNDcyNC04YzA2LTRjMmUtOWNmZi1iMzQ3NzZmZTE3NTciLCAidHlwZSI6ICJub25lIiwgInNjeSI6ICJhdXRvIn0=
-vmess://eyJhZGQiOiAiMTA0LjE5LjMyLjAiLCAidiI6ICIyIiwgInBzIjogIlVuaXRlZCBTdGF0ZXMiLCAicG9ydCI6IDQ0MywgImlkIjogIjkzZWE0ODZhLWJhZGEtNDJhNC1hYzM4LWQwODhiMzIwZmExZSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJ4bWl2aWRlby5jZmQiLCAicGF0aCI6ICIvbGlua3dzIiwgInRscyI6ICJ0bHMifQ==
-vmess://eyJhZGQiOiAid3d3LnZpc2EuY29tLnR3IiwgInYiOiAiMiIsICJwcyI6ICJVbml0ZWQgU3RhdGVzIiwgInBvcnQiOiA0NDMsICJpZCI6ICI0N2VhYjBkZS05N2Y5LTQ5YmUtZjJmMy0yZTRlYjE3MjY4ZTYiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiaGsuaW5zYm90LmZpbGVnZWFyLXNnLm1lIiwgInBhdGgiOiAiL2FhIiwgInRscyI6ICJ0bHMifQ==
-trojan://amclubs@156.238.19.69:2096?security=tls&sni=tran.amclubstest.nyc.mn&type=ws&host=tran.amclubstest.nyc.mn&path=%2F%3Fed%3D2560#United+States
-trojan://07381e41-41fb-484d-9dc7-37d5a4b566bd@45.146.232.171:34017?sni=q08m.vgraxiw73s.hasyaf.cn#Hong+Kong
-vmess://eyJhZGQiOiAiMTk5LjE5NS4yNTMuOTgiLCAidiI6ICIyIiwgInBzIjogIlVuaXRlZCBTdGF0ZXMiLCAicG9ydCI6IDgwODAsICJpZCI6ICI2ZTBiYTZiNy1lZTM5LTVkMTctOTRjZi01MDJmN2EyZTkxNDQiLCAiYWlkIjogIjAiLCAibmV0IjogInRjcCIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAiIn0=
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.121.43.71:5003#United+States
-trojan://rXzh%3B%3FnW1GGKB%28K8@104.21.18.192:443?security=tls&sni=sAiKOXpUbGm.ZhkinGkuRD13.WorkErs.dEV&type=ws&host=saikoxpubgm.zhkingkurd13.workers.dev&path=%2Ftr4BCdusB84159lWnu#United+States
-ss://YWVzLTI1Ni1nY206b0ZrejFEcGs=@202.78.163.141:30770#United+Kingdom
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@154.90.63.193:990#Singapore
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5Q0p6M0oxR1lsalE=@88.151.192.57:443#Ukraine
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.193:443#United+Kingdom
-vmess://eyJhZGQiOiAiMTcyLjY2LjE2OC4yMDkiLCAiYWlkIjogMCwgImhvc3QiOiAibWFYTkV0VklQLXVzQS1WUDMubkVUS0gzLlNpVEUiLCAiaWQiOiAiNTQyOGRjYzItOTk1MC00NDA0LWI4YTUtOWRhYzgyYWNiMjEwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9saW5rd3MiLCAicG9ydCI6IDQ0MywgInBzIjogIlVuaXRlZCBTdGF0ZXMiLCAidGxzIjogInRscyIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogZmFsc2UsICJzbmkiOiAibWFYTkV0VklQLXVzQS1WUDMubkVUS0gzLlNpVEUifQ==
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.110.1.146:7002#United+States
+trojan://trojan@104.18.3.150:443?security=tls&sni=main.xicun.us.kg&type=ws&host=main.xicun.us.kg#United+States
+vmess://eyJhZGQiOiAiNDYuMjUwLjIzNy4xOTYiLCAidiI6ICIyIiwgInBzIjogIlVuaXRlZCBLaW5nZG9tIiwgInBvcnQiOiAyOTk5OSwgImlkIjogImIzMWZjMTM0LTk3OGUtNDE3Ni04NTc5LTgxMDdkNmEwY2VkZSIsICJhaWQiOiAiMCIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiIiwgInRscyI6ICIifQ==
+vmess://eyJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJhZGQiOiAiczQuZGItbGluazAxLnRvcCIsICJwb3J0IjogIjIwOTUiLCAidHlwZSI6ICJub25lIiwgImlkIjogIjRiMzY2MjVjLWI5ZDktM2VhNi1hZWQ1LTg2ZDYyYzcwZTE2ZCIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvZGFiYWkuaW4xMDQuMTcuMjguMjQwIiwgImhvc3QiOiAiMTAwLTExNC0xMDctMjIxLnM0LmRiLWxpbmswMS50b3AiLCAidGxzIjogIiJ9
+trojan://4be20cf1-6af1-4e87-ae5a-80d6ec30fecd@172.67.214.21:443?security=tls&sni=8fg.191268.xyz&type=ws&host=8fg.191268.xyz&path=%2FtvowuLtlha3zxRV9PS&fp=chrome&alpn=http%2F1.1#United+States
+trojan://vpn@150.241.78.252:2025?security=none&type=ws&host=vkvd127.mycdn.me&path=%2F#Spain
+vmess://eyJhZGQiOiAiMTQ2LjU5LjU1LjUwIiwgInYiOiAiMiIsICJwcyI6ICJQb2xhbmQiLCAicG9ydCI6IDQ0MywgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJvLm1ldHVqaS5jb20iLCAicGF0aCI6ICIvbGlua3Z3cyIsICJ0bHMiOiAidGxzIn0=
+trojan://bpb-trojan@104.26.5.60:443?security=tls&sni=zamim340.ggff.net&type=ws&host=zamim340.ggff.net&path=%2Ftr%3Fed%3D2560&allowInsecure=1#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmRERtSDRRZWZtV3FNSjhVVVJackdo@86.104.74.243:14255#Canada
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.22:8080#Lithuania
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.121.43.71:3389#United+States
+vmess://eyJhZGQiOiAiMTk4LjQxLjIwOS43MCIsICJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJwb3J0IjogMjA4NiwgImlkIjogIjRiMzY2MjVjLWI5ZDktM2VhNi1hZWQ1LTg2ZDYyYzcwZTE2ZCIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIxMDAtMTcxLTEwNC0yMzguczIuZGItbGluazAyLnRvcCIsICJwYXRoIjogIi9kYWJhaS5pbjE3Mi42NC40My4xNCIsICJ0bHMiOiAiIn0=
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.121.43.71:8118#United+States
+ss://YWVzLTI1Ni1nY206QjJwc1g4TFI=@38.60.217.99:27178#Pakistan
 ```
 <h5>ऊपरी नोड (भाग) का स्थायी सदस्यता पता: https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_hi</h5>
  <p>उपरोक्त सदस्यता पते के लिए QR कोड</p>
