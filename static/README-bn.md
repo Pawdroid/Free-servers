@@ -35,18 +35,18 @@
  <h4>নোড তালিকা: (শুধুমাত্র কিছু নোড এখানে প্রদর্শিত হয়, সমস্ত নোড দেখতে অ্যাপটি ডাউনলোড করুন)</h4>
     
 ```
-trojan://d94b51ce-8668-41fc-b7aa-1e3d5d0205e4@45.146.232.172:43583?sni=q08m.vgraxiw73s.hasyaf.cn#Hong+Kong
-vmess://eyJhZGQiOiAiMTU2LjIzOC4xOC42OCIsICJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJwb3J0IjogODQ0MywgImlkIjogImMzMTM2MDZmLTk4YzItNGQ3Yi1iYTc0LTQ4Yjk0ZjYxYjExZCIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJ1c3d1eGlhbi5wYWk1MDI4OC51ayIsICJwYXRoIjogIi8/bWFwcy5hcHAuZ29vLmdsL0szaE01eHJ3WlY3YlFWQmE3P2VkPTI1NjAiLCAidGxzIjogInRscyJ9
-vmess://eyJhZGQiOiAiMTQxLjEwMS4xMjAuNSIsICJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJwb3J0IjogODQ0MywgImlkIjogIjNiYjNjNzMwLWUxMDctNDljNS1hMGIyLWI1NzZkMWIyNmE1ZSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIxNzQzOTE5OTc4LnNwZWVkLmxheGhhLmNjY3AuZnJlZWZseS5wcC51YSIsICJwYXRoIjogIi8iLCAidGxzIjogInRscyJ9
-trojan://2cba4104747d49d18319e5ade1b93ab5@161.35.34.48:443?security=tls&sni=yourjobnavigator.online&type=tcp#United+Kingdom
-vmess://eyJhZGQiOiAiMTAzLjE3Ny43Ni43OSIsICJ2IjogIjIiLCAicHMiOiAiU2luZ2Fwb3JlIiwgInBvcnQiOiA4MDAwLCAiaWQiOiAiOTMzMjE3YTAtNzRiMC00Y2VhLTk0NWItNjE5ZjY2OWZmYjlmIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogInd3dy5iaW5nLmNvbSIsICJwYXRoIjogIi9ubWtqIiwgInRscyI6ICIifQ==
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.121.43.71:8090#United+States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0RUUzeERpWXVES1BPWWZZZG45dDlOUFBXUVNlaWlkQVc0bHhFT2F2ampvMFdZN2w=@113.30.151.53:31348#Italy
-trojan://Aimer@27.50.49.136:443?security=tls&sni=epcca.ambercc.filegear-sg.me&type=ws&host=epcca.ambercc.filegear-sg.me&path=%2F#Singapore
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5b25GRVdwUmdLbXRNbnh0WEdJV0Qw@77.110.102.235:64864#Lebanon
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.95.183:443#United+States
-vmess://eyJhZGQiOiAiMTMyLjE0NS4yMzIuMTcxIiwgInYiOiAiMiIsICJwcyI6ICJHZXJtYW55IiwgInBvcnQiOiA0NDMsICJpZCI6ICI5YjQ1NmMyYS1mMmMxLTQ1ZTEtODdhOS1iNzYyOGIwNGJiMjQiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiYmV5b25kZHN6LmNmZCIsICJwYXRoIjogIi9saW5rd3MiLCAidGxzIjogInRscyJ9
-trojan://Aimer@172.64.33.144:443?security=tls&sni=epcca.ambercc.filegear-sg.me&type=ws&host=epcca.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#United+States
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@23.157.40.101:7307#United+States
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.121.43.97:8881#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplbVdoc1hicGwySjdEbWdmakt4aXpR@194.87.45.189:443#Spain
+vmess://eyJhZGQiOiAiMzguMTAyLjIzNS4zNiIsICJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJwb3J0IjogMjM2MDIsICJpZCI6ICIxOGIzYjMwMC03YmM0LTRlZTYtODgwNi1kYmRlM2JiYTg0YWMiLCAiYWlkIjogIjAiLCAibmV0IjogInRjcCIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIi8iLCAidGxzIjogIiJ9
+vmess://eyJhZGQiOiAiMTc0NDAwNzU0MS50ZW5jZW50YXBwLmNuIiwgImFpZCI6IDAsICJob3N0IjogIjE3NDQwMDc1Nzguc3BlZWQuYWRsLmNjY3AuZnJlZWZseS5wcC51YSIsICJpZCI6ICIzODFjYjZkMS02YWQ0LTQ5MDktODQ5NC1iOGQ3ODZjZjc4Y2UiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLyIsICJwb3J0IjogODQ0MywgInBzIjogIlVuaXRlZCBTdGF0ZXMiLCAidGxzIjogInRscyIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIifQ==
+trojan://Aimer@27.50.49.230:8443?security=tls&sni=epcca.ambercc.filegear-sg.me&type=ws&host=epcca.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#Singapore
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@23.154.136.51:6697#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0OWQzZGEwMWZhYTU3NTQ4@15.204.67.100:18742#United+States
+vmess://eyJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJhZGQiOiAiMTcyLjY3LjE1OC43MSIsICJwb3J0IjogIjgwIiwgInR5cGUiOiAibm9uZSIsICJpZCI6ICIyZjM4Zjg0OC1hODk5LTRjODctOTgwNy0yMDdhNDE2MTVlM2MiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL3JvbmdzZXZlbj9lZD0yMDQ4IiwgImhvc3QiOiAiaGsuZnJlZXl5ZHMuZHBkbnMub3JnIiwgInRscyI6ICIifQ==
+vmess://eyJhZGQiOiAiNDUuMTM3LjE1NS40NSIsICJob3N0IjogIiIsICJwb3J0IjogIjE3NjQ2IiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIiLCAicHMiOiAiVWtyYWluZSIsICJpZCI6ICI4MjczNDcyNC04YzA2LTRjMmUtOWNmZi1iMzQ3NzZmZTE3NTciLCAidHlwZSI6ICJub25lIiwgInNjeSI6ICJhdXRvIn0=
+trojan://8ebcd7aa-c640-4cd1-941f-91c0989f3813@45.146.232.171:44397?allowInsecure=0&sni=q08m.vgraxiw73s.hasyaf.cn#Hong+Kong
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWEdwMStpaGxmS2c4MjZI@64.176.85.73:1866#Singapore
 ```
 <h5>উপরের নোডের স্থায়ী সদস্যতা ঠিকানা (অংশ): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_bn</h5>
  <p>উপরের সদস্যতা ঠিকানার জন্য QR কোড</p>

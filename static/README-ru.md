@@ -35,18 +35,18 @@
  <h4>Список узлов: (здесь показаны только некоторые узлы. Загрузите приложение, чтобы просмотреть все узлы)</h4>
     
 ```
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@216.39.248.133:7001#%D0%A1%D0%A8%D0%90
-trojan://Aimer@104.16.56.28:443?security=tls&sni=epcca.ambercc.filegear-sg.me&type=ws&host=epcca.ambercc.filegear-sg.me#%D0%A1%D0%A8%D0%90
-vmess://eyJhZGQiOiAiczEuZGItbGluazAyLnRvcCIsICJ2IjogIjIiLCAicHMiOiAiXHUwNDIxXHUwNDI4XHUwNDEwIiwgInBvcnQiOiA4MDgwLCAiaWQiOiAiNGIzNjYyNWMtYjlkOS0zZWE2LWFlZDUtODZkNjJjNzBlMTZkIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogIjEwMC0yMTMtNjEtMTAyLnMxLmRiLWxpbmswMi50b3AiLCAicGF0aCI6ICIvZGFiYWkuaW4xMDQuMjEuMTUxLjIwMiIsICJ0bHMiOiAiIn0=
-vmess://eyJhZGQiOiAiMjAyLjc4LjE2Mi41IiwgImFpZCI6IDAsICJob3N0IjogInBlbmRhci5vbnRoZXdpZmkuY29tIiwgImlkIjogIjcxNmVkZWQ2LTIyMDEtNGRiZC05ZDYzLTE2MzhjOWU4ZTY3NyIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvQGZvcndhcmR2MnJheSIsICJwb3J0IjogNDQzLCAicHMiOiAiXHUwNDFiXHUwNDRlXHUwNDNhXHUwNDQxXHUwNDM1XHUwNDNjXHUwNDMxXHUwNDQzXHUwNDQwXHUwNDMzIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIn0=
-vmess://eyJhZGQiOiAiMTAzLjEwNi4yMjkuMjA3IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICJjMDE5ODhjYy1iMGIxLTQwMjYtYmI5Yi05MTUyZmYxOWMxNDUiLCAibmV0IjogInRjcCIsICJwYXRoIjogIi8iLCAicG9ydCI6ICIxNDQyNyIsICJwcyI6ICJcdTA0MWNcdTA0MzBcdTA0M2JcdTA0MzBcdTA0MzlcdTA0MzdcdTA0MzhcdTA0NGYiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIiLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWV9
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHUwNDI0XHUwNDIwXHUwNDEzIiwgImFkZCI6ICI4NC4yNDcuMTQ3LjY3IiwgInBvcnQiOiAiNTQxNzkiLCAiaWQiOiAiZDE0M2ViYmMtNzgyNS00YjQzLWE1NWUtZjExY2IxNTNiZDViIiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiLyIsICJ0bHMiOiAiIiwgInNuaSI6ICIiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlfQ==
-vmess://eyJhZGQiOiAiMTc0NDAwNzU0MS50ZW5jZW50YXBwLmNuIiwgInYiOiAiMiIsICJwcyI6ICJcdTA0MjFcdTA0MjhcdTA0MTAiLCAicG9ydCI6IDg0NDMsICJpZCI6ICIzODFjYjZkMS02YWQ0LTQ5MDktODQ5NC1iOGQ3ODZjZjc4Y2UiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiMTc0NDAwNzU3OC5zcGVlZC5hZGwuY2NjcC5mcmVlZmx5LnBwLnVhIiwgInBhdGgiOiAiLyIsICJ0bHMiOiAidGxzIn0=
-trojan://d94b51ce-8668-41fc-b7aa-1e3d5d0205e4@aafrtpfxr.jpl01i9zjfegelp.5xfsur8v62.gosdk.xyz:43583?sni=q08m.vgraxiw73s.hasyaf.cn#%D0%93%D0%BE%D0%BD%D0%BA%D0%BE%D0%BD%D0%B3
-vmess://eyJhZGQiOiAiczEuZGItbGluazAxLnRvcCIsICJhaWQiOiAwLCAiaG9zdCI6ICIxMDAtMTUxLTE2NC00Ny5zMS5kYi1saW5rMDEudG9wIiwgImlkIjogIjRiMzY2MjVjLWI5ZDktM2VhNi1hZWQ1LTg2ZDYyYzcwZTE2ZCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvZGFiYWkuaW4xNzIuNjcuMi4xNDIiLCAicG9ydCI6IDIwNTIsICJwcyI6ICJcdTA0MjFcdTA0MjhcdTA0MTAiLCAidGxzIjogIiIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogZmFsc2UsICJzbmkiOiAiMTAwLTE1MS0xNjQtNDcuczEuZGItbGluazAxLnRvcCJ9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.158.171.151:8080#%D0%A1%D0%A8%D0%90
-trojan://Aimer@162.159.138.204:443?security=tls&sni=epcca.ambercc.filegear-sg.me&type=ws&host=epcca.ambercc.filegear-sg.me#%D0%A1%D0%A8%D0%90
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRdWw2QWwxdDlpSklKbE1iZFNmTkdh@62.210.88.22:443#%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D1%8F
+trojan://Aimer@162.159.140.192:443?security=tls&sni=epcca.ambercc.filegear-sg.me&type=ws&host=epcca.ambercc.filegear-sg.me#%D0%A1%D0%A8%D0%90
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.143.66.87:3389#%D0%A1%D0%A8%D0%90
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMTVNOaDIxVHJYalIyb2syNVEybkU4RU5UMnpvQm1QdmthM1JDQ1VBSFpFTENuV29la1ZqdmFmODlxd2NSa2RieEVmZXAyYmMyYVV0bW54cXZGMWF5UVJlejFKSGpVTGo=@exchange.gameaurela.click:52952#%D0%A1%D0%A8%D0%90
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.34.244.68:443#%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHUwNDIxXHUwNDM4XHUwNDNkXHUwNDMzXHUwNDMwXHUwNDNmXHUwNDQzXHUwNDQwIiwgImFkZCI6ICIxNTQuMjYuMTMxLjM5IiwgInBvcnQiOiAiNDI2NTQiLCAiaWQiOiAiZTE3ZjQ2YjUtZTIyNC00OGM5LTk2NWYtZTI0ZjFkZmMyNDE4IiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiIiwgInRscyI6ICIiLCAic25pIjogIiIsICJ0ZXN0X25hbWUiOiAiMTE5In0=
+trojan://Aimer@162.159.142.145:443?security=tls&sni=epcca.ambercc.filegear-sg.me&type=ws&host=epcca.ambercc.filegear-sg.me#%D0%A1%D0%A8%D0%90
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphYzg4NjE4NzY3NWVkMWY2@67.220.74.3:15711#%D0%A1%D0%A8%D0%90
+trojan://utF6JLQd2x@141.227.128.69:1935?security=tls&sni=x1es-ovh.devefun.net#%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D1%8F
+trojan://1e0a3f8d-dd1a-49f5-9d78-70f191f70ca4@45.146.232.171:43396?sni=q08m.vgraxiw73s.hasyaf.cn#%D0%93%D0%BE%D0%BD%D0%BA%D0%BE%D0%BD%D0%B3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxWHZPN3pZVTdLZWFCME1kN0RRTG93@51.195.119.47:1080#%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D1%8F
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@23.150.248.50:8090#%D0%A1%D0%A8%D0%90
+trojan://OLq0FfOlp7@141.227.160.88:1935?security=tls&sni=x1-sweden-ovh-v2.devefun.net&type=tcp#%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D1%8F
 ```
 <h5>Адрес постоянной подписки верхнего узла (части): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ru</h5>
  <p>QR-код для адреса подписки выше</p>
