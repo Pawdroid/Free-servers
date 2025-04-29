@@ -35,21 +35,21 @@
  <h4>نوڈ کی فہرست: (یہاں صرف کچھ نوڈس دکھائے گئے ہیں، براہ کرم تمام نوڈس دیکھنے کے لیے ایپ ڈاؤن لوڈ کریں)</h4>
     
 ```
-vmess://eyJhZGQiOiAiMTU0LjI2LjE1My4xNzMiLCAidiI6ICIyIiwgInBzIjogIkF1c3RyYWxpYSIsICJwb3J0IjogMjg2ODYsICJpZCI6ICI2ZGY3ZDU2Zi00OTUzLTRhMTAtYmUyZS1hODhjYzlmOTRlNDgiLCAiYWlkIjogIjAiLCAibmV0IjogInRjcCIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAiIn0=
-trojan://abf931d0-5be1-440c-802f-a66bcb850139@45.146.232.171:34014?security=tls&sni=q08m.vgraxiw73s.hasyaf.cn&type=tcp&allowInsecure=1#Hong+Kong
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@38.143.66.87:6379#United+States
-vmess://eyJhZGQiOiAiNDcuODMuMTMyLjM2IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICJmNTdjMTJkMC0wMWNiLTQ1ZTAtZmYzNS05NWU3NjM5NGI2MzQiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogIjQ1MDYwIiwgInBzIjogIlVuaXRlZCBTdGF0ZXMiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiIiwgInYiOiAiMiJ9
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.121.43.71:5601#United+States
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@69.50.93.47:6679#United+States
-vmess://eyJhZGQiOiAiNDkuNTEuMjAwLjEyMCIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiY2U4NWYyNGMtYzM0ZC00ZGMyLWFlMmEtYzU4NWY3YjhjNGQyIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIvIiwgInBvcnQiOiAiMTM2NDQiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
-trojan://Aimer@27.50.49.209:2087?security=tls&sni=epcca.ambercc.filegear-sg.me&type=ws&host=epcca.ambercc.filegear-sg.me&path=%2F#Singapore
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@67.220.95.29:443#United+States
-ss://YWVzLTI1Ni1nY206VlVXSzlOeUc=@34.234.217.178:23478#United+States
-vmess://eyJhZGQiOiAiNS4xOTYuMjkuMTIzIiwgInYiOiAiMiIsICJwcyI6ICJGcmFuY2UiLCAicG9ydCI6IDIwODIsICJpZCI6ICIxMTJhYzM2Zi0zZjUzLTRlMjYtODM3MS1kMjVjMDI4ZTFiOWEiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiLyIsICJ0bHMiOiAiIn0=
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@67.220.95.135:8090#United+States
-trojan://Aimer@107.172.180.73:3306?sni=epcca.ambercc.filegear-sg.me&type=ws&host=epcca.ambercc.filegear-sg.me#Canada
-trojan://Aimer@162.159.135.32:443?security=tls&sni=epcca.ambercc.filegear-sg.me&type=ws&host=epcca.ambercc.filegear-sg.me#United+States
-trojan://Aimer@172.66.47.217:443?security=tls&sni=epcca.ambercc.filegear-sg.me&type=ws&host=epcca.ambercc.filegear-sg.me#United+States
+vmess://eyJhZGQiOiAiMTQxLjEwMS4xMjEuMTUwIiwgInYiOiAiMiIsICJwcyI6ICJVbml0ZWQgU3RhdGVzIiwgInBvcnQiOiAyMDk2LCAiaWQiOiAiM2JiM2M3MzAtZTEwNy00OWM1LWEwYjItYjU3NmQxYjI2YTVlIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogIjE3NDM5MTk5Nzguc3BlZWQuYWRsLmNjY3AuZnJlZWZseS5wcC51YSIsICJwYXRoIjogIi8iLCAidGxzIjogInRscyJ9
+trojan://123456@104.25.165.83:8443?security=tls&sni=top-azx.pages.dev&type=ws&host=top-azx.pages.dev#United+States
+vmess://eyJhZGQiOiAiMTg1LjE0Ni4xNzMuMTU4IiwgImFpZCI6IDAsICJob3N0IjogImphaGZramhhLmNmZCIsICJpZCI6ICI5NTBkYjZhYS00OTI2LTQ2MTYtODE2ZS1lYzAzMTJkY2I4N2IiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL2xpbmt3cyIsICJwb3J0IjogNDQzLCAicHMiOiAiU3dlZGVuIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IGZhbHNlLCAic25pIjogImphaGZramhhLmNmZCJ9
+trojan://utF6JLQd2x@141.227.128.69:1935?security=tls&sni=x1es-ovh.devefun.net&type=tcp&alpn=h3%2Ch2%2Chttp%2F1.1#France
+trojan://Aimer@162.159.143.89:443?security=tls&sni=epcca.ambercc.filegear-sg.me&type=ws&host=epcca.ambercc.filegear-sg.me#United+States
+trojan://T%40_WvT8Ho%40LW%25w_%2C@172.66.44.214:2053?security=tls&type=ws&sni=NOp-55q.pAgEs.dEv&path=/trGPZDfetEwuO25SAs?ed=2560&host=nop-55q.pages.dev#United+States
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.196:443#United+Kingdom
+trojan://yaml777@104.21.61.73:443?security=tls&sni=yaml7.ggff.net&type=ws&host=yaml7.ggff.net&path=/#United+States
+ss://YWVzLTI1Ni1nY206NGZ0TEFiYW4=@103.106.229.111:11092#Malaysia
+vmess://eyJhZGQiOiAiNTEuNzcuMjAuMTM3IiwgInYiOiAiMiIsICJwcyI6ICJQb2xhbmQiLCAicG9ydCI6IDQ0MywgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJ0aWxlYmFuaS5jb20iLCAicGF0aCI6ICIvbGlua3Z3cyIsICJ0bHMiOiAidGxzIn0=
+ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@38.121.43.71:6379#United+States
+trojan://bpb-trojan@104.26.4.60:443?security=tls&sni=zamim340.ggff.net&type=ws&host=zamim340.ggff.net&path=%2Ftr%3Fed%3D2560#United+States
+vmess://eyJhZGQiOiAiMWEyZDUxNGItMzdjZi00OTlmLThkMDgtZDAxN2E5MmFiNWJiLmFzb3VsLWF2YS50b3AiLCAidiI6ICIyIiwgInBzIjogIlVuaXRlZCBTdGF0ZXMiLCAicG9ydCI6IDQ0MywgImlkIjogIjVmNzI2ZmUzLWQ4MmUtNGRhNS1hNzExLThhZjBjYmIyYjY4MiIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIxYTJkNTE0Yi0zN2NmLTQ5OWYtOGQwOC1kMDE3YTkyYWI1YmIuYXNvdWwtYXZhLnRvcCIsICJwYXRoIjogIi9henVtYXNlLnJlbiIsICJ0bHMiOiAidGxzIn0=
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.244:443#United+States
+trojan://dQUWbcwECl@automq3-proxy.automq-sg.com:443#United+States
 ```
 <h5>اوپری نوڈ کا مستقل رکنیت کا پتہ (حصہ): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ur-PK</h5>
  <p>اوپر سبسکرپشن ایڈریس کے لیے QR کوڈ</p>

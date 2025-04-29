@@ -35,21 +35,21 @@
  <h4>Knotenliste: (Hier werden nur einige Knoten angezeigt. Bitte laden Sie die App herunter, um alle Knoten anzuzeigen.)</h4>
     
 ```
-vmess://eyJhZGQiOiAiMTA0LjIxLjgwLjEiLCAidiI6ICIyIiwgInBzIjogIlVTQSIsICJwb3J0IjogODQ0MywgImlkIjogIjkxNDU4NGVlLTM1MTUtNDZhYy1hMDlkLTQ2NzdhMmU5ZGM5YSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJ1czAxLnNoLWNsb3VkZmxhcmUuc2JzIiwgInBhdGgiOiAiLyIsICJ0bHMiOiAidGxzIn0=
-trojan://02926f9e-153a-42c8-8ecd-8fade7009ad1@166.0.198.68:443?security=tls&sni=golinkwuxian.top&type=ws&host=222.golinkwuxian.top&path=%2Fapple&allowInsecure=1#Taiwan
-trojan://trojan@104.17.148.22:2053?security=tls&sni=ana-service-anaservice--anaservice-antenircomorg.fmwlmluu.workers.dev&type=ws&host=ana-service-anaservice--anaservice-antenircomorg.fmwlmluu.workers.dev#USA
-vmess://eyJhZGQiOiAiMTQxLjEwMS4xMjEuMjM0IiwgInYiOiAiMiIsICJwcyI6ICJVU0EiLCAicG9ydCI6IDg0NDMsICJpZCI6ICIzODFjYjZkMS02YWQ0LTQ5MDktODQ5NC1iOGQ3ODZjZjc4Y2UiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiMTc0NDAwNzU3OC5zcGVlZC5hZGwuY2NjcC5mcmVlZmx5LnBwLnVhIiwgInBhdGgiOiAiLyIsICJ0bHMiOiAidGxzIn0=
-vmess://eyJhZGQiOiAiMjAyLjc4LjE2Mi41IiwgImFpZCI6IDAsICJob3N0IjogInNhaGFuZC5zZXJ2ZW1pbmVjcmFmdC5uZXQiLCAiaWQiOiAiMTE4Mjg3ZDItZTk2OC00MmUxLTgwZDAtMTJmYTJmNWQzOGQ2IiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9AZm9yd2FyZHYycmF5IiwgInBvcnQiOiA0NDMsICJwcyI6ICJMdXhlbWJ1cmciLCAidGxzIjogInRscyIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIifQ==
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.93.173.218:990#Bolivien
-vmess://eyJhZGQiOiAiMTA0LjIxLjE2LjEiLCAidiI6ICIyIiwgInBzIjogIlVTQSIsICJwb3J0IjogMjA5NiwgImlkIjogIjc1YTA4ODVmLTBjYTUtNDJhNC04NjUxLTM5MWNmODE5MzE1NCIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJkZTAxLnNoLWNsb3VkZmxhcmUuc2JzIiwgInBhdGgiOiAiLyIsICJ0bHMiOiAidGxzIn0=
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.121.43.71:5001#USA
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@23.150.248.235:7306#USA
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@67.220.95.29:8118#USA
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@45.154.206.192:990#UK
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@23.157.40.101:8000#USA
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@23.154.136.44:8881#USA
-vmess://eyJhZGQiOiAiNTEuNzcuMjAuMTMxIiwgInYiOiAiMiIsICJwcyI6ICJQb2xlbiIsICJwb3J0IjogMjIzMjQsICJpZCI6ICIwNDYyMWJhZS1hYjM2LTExZWMtYjkwOS0wMjQyYWMxMjAwMDIiLCAiYWlkIjogIjAiLCAibmV0IjogInRjcCIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAiIn0=
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.160:443#USA
+vmess://eyJhZGQiOiAiMTU0LjI2LjE1My4xNjEiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogImU1ZjE2ZmFkLWY5YzMtNDUyYi04ZTcxLWJjOTUwNGUyOWZjOSIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiMjE3NTkiLCAicHMiOiAiQXVzdHJhbGllbiIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICJub25lIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIifQ==
+trojan://Aimer@172.64.79.148:443?security=tls&sni=epcca.ambercc.filegear-sg.me&type=ws&host=epcca.ambercc.filegear-sg.me#USA
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpma185MWJpZlVKeDlkUWNwMkZTZ3Zn@135.148.11.54:1080#USA
+trojan://Aimer@103.116.7.235:443?security=tls&sni=epccd.ambercc.filegear-sg.me&type=ws&host=epccd.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#Japan
+vmess://eyJhZGQiOiAiMTQxLjEwMS4xMjAuMTcxIiwgInYiOiAiMiIsICJwcyI6ICJVU0EiLCAicG9ydCI6IDg0NDMsICJpZCI6ICIzODFjYjZkMS02YWQ0LTQ5MDktODQ5NC1iOGQ3ODZjZjc4Y2UiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiMTc0NDAwNzU3OC5zcGVlZC5hZGwuY2NjcC5mcmVlZmx5LnBwLnVhIiwgInBhdGgiOiAiLyIsICJ0bHMiOiAidGxzIn0=
+trojan://075b9690-f1cc-4d0c-aa1e-f80f07f09815@104.21.69.50:443?security=tls&sni=4o.191292.xyz&type=ws&host=4o.191292.xyz&path=%2Fw8oHMEEc9tWBZ57XYkE&fp=chrome&alpn=http%2F1.1#USA
+trojan://605da4ca-03f7-4f12-b89c-d2aaae66bde9@45.146.232.171:43394?sni=q08m.vgraxiw73s.hasyaf.cn#Hongkong
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@38.121.43.71:8009#USA
+vmess://eyJhZGQiOiAiNDUuMTIuMTQ1LjExMSIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiMWI0MTE1M2UtYzRkNC00MzFiLTgzZWItMTA0NzJmODY5ZjkzIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIiLCAicG9ydCI6ICI0NjI5MCIsICJwcyI6ICJTcGFuaWVuIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlfQ==
+trojan://Aimer@162.159.138.204:443?security=tls&sni=epcca.ambercc.filegear-sg.me&type=ws&host=epcca.ambercc.filegear-sg.me#USA
+trojan://8r%3C%5B9%27l6hAO%238ZQi@172.66.44.230:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=koma-yt.pages.dev&path=%2Ftro8sFW1S91B6sZrM1%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#USA
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.195:443#UK
+vmess://eyJhZGQiOiAiMTA0LjE2LjE1NS4xMCIsICJ2IjogIjIiLCAicHMiOiAiVVNBIiwgInBvcnQiOiA4MCwgImlkIjogIjRiMzY2MjVjLWI5ZDktM2VhNi1hZWQ1LTg2ZDYyYzcwZTE2ZCIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIxMDAtNDktMTQxLTIwOS5zMS5kYi1saW5rMDIudG9wIiwgInBhdGgiOiAiL2RhYmFpLmluMTA0LjE3LjE2OS4xMTUiLCAidGxzIjogIiJ9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWVE4SndFbGRZbjRLVDJnZlo2ZU5s@89.23.103.21:51584#Niederlande
+trojan://Aimer@162.159.138.192:443?security=tls&sni=epcca.ambercc.filegear-sg.me&type=ws&host=epcca.ambercc.filegear-sg.me#USA
 ```
 <h5>Die permanente Abonnementadresse des oberen Knotens (Teil): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_de</h5>
  <p>QR-Code für die Abonnementadresse oben</p>
