@@ -35,15 +35,15 @@
  <h4>नोड सूची: (यहां केवल कुछ नोड्स प्रदर्शित हैं, कृपया सभी नोड्स देखने के लिए ऐप डाउनलोड करें)</h4>
     
 ```
-trojan://dQUWbcwECl@automq3-proxy.automq-sg.com:443#United+States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.202:8080#The+Netherlands
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.143.66.87:5600#United+States
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.121.43.71:5004#United+States
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.143.66.87:3306#United+States
-vmess://eyJ2IjogIjIiLCAicHMiOiAiU2luZ2Fwb3JlIiwgImFkZCI6ICIxOTQuMjMzLjg3LjE0OCIsICJwb3J0IjogIjU2NjY3IiwgImlkIjogIjY3OGZiYzI1LWY2M2UtNGU1OS1iODU5LWYzYzljYmM2ZWEzYiIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiIiwgInRscyI6ICIiLCAic25pIjogIiIsICJ0ZXN0X25hbWUiOiAiODMifQ==
-trojan://2faaf996-d2b0-440d-8258-81f2b05dd0e4@172.67.75.172:443?security=tls&sni=fwd-refuse-senators-brought.trycloudflare.com&type=ws&host=fwd-refuse-senators-brought.trycloudflare.com&path=%2Ftrojan-argo%3Fed%3D2560#United+States
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@67.220.95.102:7306#United+States
-vmess://eyJ2IjogIjIiLCAicHMiOiAiU2luZ2Fwb3JlIiwgImFkZCI6ICIxNTQuMjYuMTMxLjM5IiwgInBvcnQiOiAiNDI2NTQiLCAiaWQiOiAiZTE3ZjQ2YjUtZTIyNC00OGM5LTk2NWYtZTI0ZjFkZmMyNDE4IiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiIiwgInRscyI6ICIiLCAic25pIjogIiIsICJ0ZXN0X25hbWUiOiAiODgifQ==
+vmess://eyJ2IjogIjIiLCAicHMiOiAiTWFsYXlzaWEiLCAiYWRkIjogIjEwMy4xMDYuMjI5LjEzMiIsICJwb3J0IjogIjM4MjMzIiwgImlkIjogIjUzN2ExOTljLWMxZjEtNGI2Yi1hN2RkLWNkMDBlYjFiYWJmYyIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAiIiwgInNuaSI6ICIiLCAidGVzdF9uYW1lIjogIlx1NjcyYVx1NzdlNSIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZX0=
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@23.166.88.20:8119#United+States
+trojan://5453ae26-250d-4e79-b4ec-016baf806865@104.21.25.95:443?security=tls&sni=1sDFgT.890604.FileGear-sG.mE&type=ws&host=1sdfgt.890604.filegear-sg.me&path=%2FOYzPAeaZdXUq2d6J3gc4aj&fp=chrome&alpn=http%2F1.1#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.123.101.241:990#T%C3%BCrkiye
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@92.118.205.228:990#Poland
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@23.150.248.235:5003#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDbllTOUJjb3lpcUtMQ3VqZ3diZDF3@78.129.140.11:443#United+Kingdom
+vmess://eyJhZGQiOiAid3d3LnZpc2EuY29tIiwgInYiOiAiMiIsICJwcyI6ICJVbml0ZWQgU3RhdGVzIiwgInBvcnQiOiA0NDMsICJpZCI6ICIyYjNlNjFiYi04MTFiLTQ3YjAtYWVjMS0xYzcwM2IxMGExMWYiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAianB2LnhpYW9xaTU1NS54eXoiLCAicGF0aCI6ICIvIiwgInRscyI6ICJ0bHMifQ==
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@23.150.248.50:8090#United+States
 ```
 <h5>ऊपरी नोड (भाग) का स्थायी सदस्यता पता: https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_hi</h5>
  <p>उपरोक्त सदस्यता पते के लिए QR कोड</p>
