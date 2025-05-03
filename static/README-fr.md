@@ -35,20 +35,16 @@
  <h4>Liste des nœuds: (Seuls certains nœuds sont affichés ici, veuillez télécharger l'application pour afficher tous les nœuds)</h4>
     
 ```
-trojan://5453ae26-250d-4e79-b4ec-016baf806865@104.21.23.162:443?security=tls&sni=D05F4aA7-92B1-a659-E3b9-695Dd2870B3c.131.Pp.UA&type=ws&host=d05f4aa7-92b1-a659-e3b9-695dd2870b3c.131.pp.ua&path=%2FOYzPAeaZdXUq2d6J3gc4aj&fp=chrome&alpn=http%2F1.1#%C3%89tats+Unis
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.121.43.71:7307#%C3%89tats+Unis
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.170:443#%C3%89tats+Unis
-trojan://tg-fq521free@216.24.57.30:443?security=tls&sni=torjan.xn--xhq44j.eu.org&type=ws&host=torjan.xn--xhq44j.eu.org&path=/#%C3%89tats+Unis
-ss://YWVzLTI1Ni1nY206NjVmNzE1ZDEtZDE0My00ZDFlLTkzMjItMDNhMGFiNTdmZDg4@194.246.114.54:8443#Hong+Kong
-vmess://eyJhZGQiOiAiMzguMjU1LjM0LjExMCIsICJ2IjogIjIiLCAicHMiOiAiXHUwMGM5dGF0cyBVbmlzIiwgInBvcnQiOiA0Njg5MywgImlkIjogImM2OGIxNmRiLTU2YjItNDBlZi1hNmY0LTE0MmE4ZWUyYTNmMSIsICJhaWQiOiAiMCIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiIiwgInRscyI6ICIifQ==
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@23.150.248.50:8090#%C3%89tats+Unis
-vmess://eyJhZGQiOiAidjQubm1jZi5tZSIsICJ2IjogIjIiLCAicHMiOiAiSG9uZyBLb25nIiwgInBvcnQiOiA4MDAxLCAiaWQiOiAiODc2ODRkNWMtNzFmYi00YjFjLTg5ZjktOTNkNDk4ZjM1ZTIyIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogInd3dy5iaW5nLmNvbSIsICJwYXRoIjogIi9ubWtqIiwgInRscyI6ICIifQ==
-vmess://eyJhZGQiOiAiY2I0MWU2ZmItc3Yyc2cwLXN2MnZkbS0xcXVkei5oay5wNXB2LmNvbSIsICJ2IjogIjIiLCAicHMiOiAiSG9uZyBLb25nIiwgInBvcnQiOiA4MCwgImlkIjogImE2M2IwZDQ0LWUyOTAtMTFlZS05MWY2LWYyM2M5MWNmYmJjOSIsICJhaWQiOiAiMiIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJicm9hZGNhc3Rsdi5jaGF0LmJpbGliaWxpLmNvbSIsICJwYXRoIjogIi8iLCAidGxzIjogIiJ9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmRERtSDRRZWZtV3FNSjhVVVJackdo@86.104.74.243:14255#Canada
-vmess://eyJhZGQiOiAiMjA1LjE5OC42NC43OSIsICJ2IjogIjIiLCAicHMiOiAiXHUwMGM5dGF0cyBVbmlzIiwgInBvcnQiOiAxMDA4MSwgImlkIjogImIxMDI3MWYxLTYyMWUtNDM3Mi05Mjg2LTc0ZGVmNTY1OTFiMiIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIvdm1lc3Mtd3MiLCAidGxzIjogIiJ9
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@23.154.136.103:8090#%C3%89tats+Unis
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWEdwMStpaGxmS2c4MjZI@64.176.184.129:1866#Royaume-Uni
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpydFI0WVg3NHZ3cVJKdTlNR0gzZTFOM0NRZEdNV0NVRmt5TGlzaWppRnV2aGtVOU1jVjVUcHlnZmtlcm5KNFVRZTYzSnRjRFFrclE5SGZjaHpxUXoxa0xDblRSb3I4amc=@166.1.157.228:55330#%C3%89tats+Unis
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.47.255.22:990#Porto+Rico
+vmess://eyJhZGQiOiAiMTA0LjE4LjE0OS43NiIsICJ2IjogIjIiLCAicHMiOiAiXHUwMGM5dGF0cyBVbmlzIiwgInBvcnQiOiA0NDMsICJpZCI6ICJkZTk0Y2MwYS0wNTkyLTQ5NjktYjFmYy05N2VhOGYwZWEwYjMiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAidXMua2twLm1lLmV1Lm9yZyIsICJwYXRoIjogIi9hYSIsICJ0bHMiOiAidGxzIn0=
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.121.43.97:7307#%C3%89tats+Unis
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.173:8080#Pays-Bas
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpidEJadXRmbUFEVndNRUdoZVFlUVhq@89.185.84.185:443#Royaume-Uni
+vmess://eyJhZGQiOiAiODQuMjQ3LjE0Ni4xNjEiLCAiYWlkIjogIjAiLCAiZW5jcnlwdGlvbiI6ICJhdXRvIiwgImhvc3QiOiAiIiwgImlkIjogIjdhYTU2ZTM5LTI5YjgtNDVjMy04YjUzLTZkMmEyM2IyNDYxYyIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiMzk1MzAiLCAicHMiOiAiQWxsZW1hZ25lIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJ0bHMiOiAiIiwgInR5cGUiOiAiIiwgInVybF9ncm91cCI6ICJ2MnJheSIsICJ2IjogIjIifQ==
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.34.244.80:443#Pays-Bas
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.158.171.60:8080#%C3%89tats+Unis
+trojan://t2WqbIW2JE@15.204.175.111:2083?security=tls&sni=usa-vp-111.mETIkaPPs.cOm&type=ws&host=usa-vp-111.mETIkaPPs.cOm&path=%2Flinkvws#%C3%89tats+Unis
+vmess://eyJhZGQiOiAiNDYuMjUwLjIzNC4zMiIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiYjI4MzYzNjktMjIwYi00ODQwLTgwYzQtOGNmOTA0YzczNWVlIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIiLCAicG9ydCI6ICI0NTMxNyIsICJwcyI6ICJSb3lhdW1lLVVuaSIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZX0=
 ```
 <h5>L'adresse d'abonnement permanente du nœud supérieur (partie): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_fr</h5>
  <p>Code QR pour l'adresse d'abonnement ci-dessus</p>
