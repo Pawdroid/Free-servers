@@ -35,20 +35,20 @@
  <h4>Daftar node: (Hanya beberapa node yang ditampilkan di sini, silakan unduh aplikasi untuk melihat semua node)</h4>
     
 ```
-vmess://eyJhZGQiOiAiMTAzLjEwNi4yMjkuMTMyIiwgInYiOiAiMiIsICJwcyI6ICJNYWxheXNpYSIsICJwb3J0IjogMzgyMzMsICJpZCI6ICI1MzdhMTk5Yy1jMWYxLTRiNmItYTdkZC1jZDAwZWIxYmFiZmMiLCAiYWlkIjogIjAiLCAibmV0IjogInRjcCIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAiIn0=
-vmess://eyJhZGQiOiAiMTAzLjExNC4xNjAuMTQ4IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICIwZDU1NDM2Ni0yZDJkLTRlNTQtZmEzNy04OTNjMDNjNDIwMjEiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogIjI2MjQyIiwgInBzIjogIlVuaXRlZCBTdGF0ZXMiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiIiwgInYiOiAiMiJ9
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@23.154.136.148:6679#United+States
-vmess://eyJhZGQiOiAiMjA1LjE5OC42NC43OSIsICJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJwb3J0IjogMTAwODEsICJpZCI6ICJmOGVjY2YxOS1jYjY0LTQzODYtOTg5OS0yYmE3N2EyNWFhOGMiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiL3ZtZXNzLXdzIiwgInRscyI6ICIifQ==
-vmess://eyJhZGQiOiAiNzhlYWM0YWYtc3Y2aHMwLXN3eGpnbi0xbGEycS5oay5wNXB2LmNvbSIsICJ2IjogIjIiLCAicHMiOiAiSG9uZyBLb25nIiwgInBvcnQiOiA4MCwgImlkIjogIjQzMTAyNmM4LTczOTctMTFlZC1hOGJmLWYyM2M5MWNmYmJjOSIsICJhaWQiOiAiMiIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJicm9hZGNhc3Rsdi5jaGF0LmJpbGliaWxpLmNvbSIsICJwYXRoIjogIi8iLCAidGxzIjogIiJ9
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@23.154.136.44:8881#United+States
-vmess://eyJhZGQiOiAidGVzdDEueGlhb3NoaWhvdWtlcGFuZ2xlLnNicyIsICJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJwb3J0IjogMTA4MiwgImlkIjogIjZlNzc1NGYxLWRlZWYtNGQ0My05YzBhLWM1MDNmN2IwMmEyNSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJ3d3cuYmluZy5jb20iLCAicGF0aCI6ICIveGlhb3NoaWhvdWtlcGFuZ2xlVm1lc3MiLCAidGxzIjogInRscyJ9
-trojan://c8b9db60-2132-11f0-880d-1239d0255272@uk1.test3.net:443#United+Kingdom
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@67.220.95.133:5004#United+States
-trojan://605da4ca-03f7-4f12-b89c-d2aaae66bde9@45.146.232.172:43394?sni=q08m.vgraxiw73s.hasyaf.cn&allowInsecure=0#Hong+Kong
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpySWQyZkdPV0JOblBCVDI4a3U4MFY4@62.210.88.22:443#France
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@67.220.95.102:8118#United+States
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.121.43.97:8119#United+States
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.243:443#United+States
+vmess://eyJhZGQiOiAiNTEuNzcuMjAuMTMyIiwgInYiOiAiMiIsICJwcyI6ICJQb2xhbmQiLCAicG9ydCI6IDQ0MywgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJhLmJhcmFkaWhhLmNvbSIsICJwYXRoIjogIi9saW5rdndzIiwgInRscyI6ICJ0bHMifQ==
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@67.220.95.230:5601#United+States
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.121.43.71:7001#United+States
+trojan://4be20cf1-6af1-4e87-ae5a-80d6ec30fecd@104.21.16.1:443?security=tls&sni=8ui.191262.xyz&type=ws&host=8ui.191262.xyz&path=%2FtvowuLtlha3zxRV9PS&fp=chrome&alpn=http%2F1.1#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5TVg5V0dQZ1VFY1JabWxhYTBZSEhD@103.106.1.92:23492#Moldova
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.65:8080#Lithuania
+trojan://vpn@150.241.78.252:2025?security=none&type=ws&host=vkvd127.mycdn.me&path=%2F#Spain
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.47.131:443#United+States
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.121.43.97:8080#United+States
+ss://YWVzLTI1Ni1nY206NjVmNzE1ZDEtZDE0My00ZDFlLTkzMjItMDNhMGFiNTdmZDg4@194.246.114.54:8443#Hong+Kong
+vmess://eyJhZGQiOiAiNGQxMmIwNzEtc3YweHMwLXN3c28weC1peHVyLmhrLnA1cHYuY29tIiwgInYiOiAiMiIsICJwcyI6ICJIb25nIEtvbmciLCAicG9ydCI6IDgwLCAiaWQiOiAiY2Q3YWNjOTAtMGE0Zi0xMWYwLWExYzEtZjIzYzkxM2M4ZDJiIiwgImFpZCI6ICIyIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogImJyb2FkY2FzdGx2LmNoYXQuYmlsaWJpbGkuY29tIiwgInBhdGgiOiAiLyIsICJ0bHMiOiAiIn0=
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@38.143.66.87:9102#United+States
+trojan://Aimer@108.165.152.252:2096?security=tls&sni=epccf.ambercc.filegear-sg.me&type=ws&host=epccf.ambercc.filegear-sg.me&path=%2F#United+States
+ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@67.220.95.102:5499#United+States
 ```
 <h5>Alamat langganan permanen node atas (bagian): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_id</h5>
  <p>Kode QR untuk alamat berlangganan di atas</p>
