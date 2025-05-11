@@ -35,22 +35,23 @@
  <h4>Daftar node: (Hanya beberapa node yang ditampilkan di sini, silakan unduh aplikasi untuk melihat semua node)</h4>
     
 ```
-trojan://Bc%23%3F%3Fcut0k9l@188.114.97.1:2053?security=tls&sni=G7tAu5Zf41EQNf9fpWJ8RmQy3SFyEi4l.prX11.WOrkers.DEV&type=ws&host=g7tau5zf41eqnf9fpwj8rmqy3sfyei4l.prx11.workers.dev&path=%2FtrBO8dCAU3xSWEBOKo%3Fed%3D2560&fp=randomized&alpn=http%2F1.1#The+Netherlands
-trojan://rXzh%3B%3FnW1GGKB%28K8@104.21.18.192:443?security=tls&sni=sAiKOXpUbGm.ZhkinGkuRD13.WorkErs.dEV&type=ws&host=saikoxpubgm.zhkingkurd13.workers.dev&path=%2Ftr4BCdusB84159lWnu#United+States
-trojan://123@104.24.92.207:2053?sni=epeius001-ea1.pages.dev&type=ws&host=epeius001-ea1.pages.dev#United+States
-trojan://e6a2e741-0fce-440b-910c-b81325e2263a@94.131.20.3:443?sni=cache-giver-wife.stark-industries.solutions#United+States
-vmess://eyJhZGQiOiAiMmUzYWM1ZDEtc3Yyc2cwLXQ3dWRjMC0xcHFocC5oazMucDVwdi5jb20iLCAidiI6ICIyIiwgInBzIjogIkhvbmcgS29uZyIsICJwb3J0IjogODAsICJpZCI6ICJiMDIzMjdhYy1hNDlhLTExZWYtYTY3My1mMjNjOTEzYzhkMmIiLCAiYWlkIjogIjIiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiYnJvYWRjYXN0bHYuY2hhdC5iaWxpYmlsaS5jb20iLCAicGF0aCI6ICIvIiwgInRscyI6ICIifQ==
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYkhzMGZjdTNUdHBDOUw5S21RTU1J@185.139.230.55:5170#Germany
-vmess://eyJhZGQiOiAiNDMuMTUzLjEwNC42MiIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiOTdjYzAzMjMtZGU1My00YTc1LWQ2OWQtYzZhY2RhYzVmZGM3IiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi85N2NjMDMyMyIsICJwb3J0IjogIjQ1MTEzIiwgInBzIjogIlVuaXRlZCBTdGF0ZXMiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiLS0tIiwgInYiOiAiMiJ9
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.107.226.14:8091#United+States
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.121.43.71:8080#United+States
-vmess://eyJhZGQiOiAiNGU5MDlhOWQtc3Yyc2cwLXN3MjZxMi1waHA0LmhrMy5wNXB2LmNvbSIsICJ2IjogIjIiLCAicHMiOiAiSG9uZyBLb25nIiwgInBvcnQiOiA4MCwgImlkIjogImM2NDhlY2MwLTgzOGEtMTFlZC1iZDgxLWYyM2M5MTNjOGQyYiIsICJhaWQiOiAiMiIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJicm9hZGNhc3Rsdi5jaGF0LmJpbGliaWxpLmNvbSIsICJwYXRoIjogIi8iLCAidGxzIjogIiJ9
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.195:443#United+Kingdom
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@67.220.95.96:5003#United+States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2SVZPdXpNZkg1Uk9wZ3d0UlRjTkpLWUp2WWU5RkRWYVU3d0FZWWg4UFJMeHhaczY=@188.191.147.127:31348#Israel
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.154.136.132:5601#United+States
-vmess://eyJhZGQiOiAiMzA5NTFhMTItc3Y2aHMwLXRibnVjci0xdGhmdi5oay5wNXB2LmNvbSIsICJ2IjogIjIiLCAicHMiOiAiSG9uZyBLb25nIiwgInBvcnQiOiA4MCwgImlkIjogIjBhNGQxYzg4LWZiM2EtMTFlZi04YzNmLWYyM2M5MTNjOGQyYiIsICJhaWQiOiAiMiIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJicm9hZGNhc3Rsdi5jaGF0LmJpbGliaWxpLmNvbSIsICJwYXRoIjogIi8iLCAidGxzIjogIiJ9
-trojan://vip@104.26.7.112:443?security=tls&sni=heihu880.pages.dev&type=ws&host=heihu880.pages.dev&path=%2F%3Fed%3D2560#United+States
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.68.135.247:8882#United+States
+vmess://eyJhZGQiOiAiNzE3MzVkOWYtc3Yyc2cwLXQ3MW1vdy00Y2w3LmhrLnA1cHYuY29tIiwgInYiOiAiMiIsICJwcyI6ICJIb25nIEtvbmciLCAicG9ydCI6IDgwLCAiaWQiOiAiN2MxMjk3NjYtODY1Ni0xMWVhLThmYzktZjIzYzkxM2M4ZDJiIiwgImFpZCI6ICIyIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIi8iLCAidGxzIjogIiJ9
+vmess://eyJhZGQiOiAiMGVhMWMyYjYtc3Y2aHMwLXN2NWp5cy0xdDkyNi5oay5wNXB2LmNvbSIsICJ2IjogIjIiLCAicHMiOiAiSG9uZyBLb25nIiwgInBvcnQiOiA4MCwgImlkIjogIjkyMWJkOTEyLWVmOGEtMTFlZi04ZWFmLWYyM2M5MTY0Y2E1ZCIsICJhaWQiOiAiMiIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJicm9hZGNhc3Rsdi5jaGF0LmJpbGliaWxpLmNvbSIsICJwYXRoIjogIi8iLCAidGxzIjogIiJ9
+trojan://vip@104.20.18.168:2087?security=tls&sni=heihu880.pages.dev&type=ws&host=heihu880.pages.dev&path=%2F%3Fed%3D2560#United+States
+vmess://eyJhZGQiOiAiZTRmYWM4NTQtc3VtNGcwLXN4MWN4eC0xdGZqay5oay5wNXB2LmNvbSIsICJ2IjogIjIiLCAicHMiOiAiSG9uZyBLb25nIiwgInBvcnQiOiA4MCwgImlkIjogIjQ5Mzk2ZDk4LWY0YjQtMTFlZi04YzNmLWYyM2M5MTNjOGQyYiIsICJhaWQiOiAiMiIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJicm9hZGNhc3Rsdi5jaGF0LmJpbGliaWxpLmNvbSIsICJwYXRoIjogIi8iLCAidGxzIjogIiJ9
+trojan://4f435a3a-dfb8-4c90-b637-8df8c5d44550@104.21.26.17:443?security=tls&sni=m9rrrfgh.459.pp.ua&type=ws&host=m9rrrfgh.459.pp.ua&path=%2Fl6lvY4hFZriQDBimbKYmPIggy&fp=chrome&alpn=http%2F1.1#United+States
+vmess://eyJhZGQiOiAiMDRlNDY3OWItc3Yyc2cwLXN3ZmxhNi0xcmRxZy5oazMucDVwdi5jb20iLCAidiI6ICIyIiwgInBzIjogIkhvbmcgS29uZyIsICJwb3J0IjogODAsICJpZCI6ICIyYjU3ZWM0OC0wZGE0LTExZWYtOGYzNS1mMjNjOTEzYzhkMmIiLCAiYWlkIjogIjIiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiYnJvYWRjYXN0bHYuY2hhdC5iaWxpYmlsaS5jb20iLCAicGF0aCI6ICIvIiwgInRscyI6ICIifQ==
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.170:443#United+States
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@23.154.136.103:8090#United+States
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.121.43.71:5500#United+States
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.121.43.71:7307#United+States
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.68.135.247:8881#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvMzh5dXZ6U2UzbTVhRE5wSHRVUEgxekd3YkdFWFhNRHNHd1ZhdWIyU1lFbUhVYTJXR1pVamllelgzVnZ2YTlDQ3pwanhZdHVKTGdLc1Nuc3lLQmY5Y2lQVmJhM3k0bzM=@94.131.21.174:54075#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.178:8080#Lithuania
+trojan://15b24b56-d667-4fa8-b548-f3dc942fb461@104.21.15.232:443?security=tls&sni=ab2c7f0b-bf1b-4eb3-9884-256f4de3d.2030.pp.ua&type=ws&host=ab2c7f0b-bf1b-4eb3-9884-256f4de3d.2030.pp.ua&path=%2F4p35eUnmGxQ8YJFJxz&fp=chrome&alpn=http%2F1.1#United+States
+trojan://auto@104.21.35.43:443?security=tls&sni=esetsecuritylicense3.wawafec355.workers.dev&type=ws&host=esetsecuritylicense3.wawafec355.workers.dev&path=%2F#United+States
+trojan://vip@104.16.142.237:443?security=tls&sni=heihu880.pages.dev&type=ws&host=heihu880.pages.dev&path=%2F%3Fed%3D2560#United+States
 ```
 <h5>Alamat langganan permanen node atas (bagian): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_id</h5>
  <p>Kode QR untuk alamat berlangganan di atas</p>

@@ -35,22 +35,23 @@
  <h4>नोड सूची: (यहां केवल कुछ नोड्स प्रदर्शित हैं, कृपया सभी नोड्स देखने के लिए ऐप डाउनलोड करें)</h4>
     
 ```
-trojan://vip@172.65.90.53:443?security=tls&sni=heihu880.pages.dev&type=ws&host=heihu880.pages.dev&path=%2F%3Fed%3D2560#United+States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.47.255.22:990#Puerto+Rico
-vmess://eyJhZGQiOiAiMDMzZDYyZGYtc3Y0bjQwLXRjc2puZC0xdGZmNS5oazMucDVwdi5jb20iLCAidiI6ICIyIiwgInBzIjogIkhvbmcgS29uZyIsICJwb3J0IjogODAsICJpZCI6ICJkZmI2YjQwMi1mNDIyLTExZWYtODBlNS1mMjNjOTE2NGNhNWQiLCAiYWlkIjogIjIiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiYnJvYWRjYXN0bHYuY2hhdC5iaWxpYmlsaS5jb20iLCAicGF0aCI6ICIvIiwgInRscyI6ICIifQ==
-vmess://eyJhZGQiOiAiMDdkMmUyY2Itc3YweHMwLXN2djcyby0xZTB0eS5oazMucDVwdi5jb20iLCAidiI6ICIyIiwgInBzIjogIkhvbmcgS29uZyIsICJwb3J0IjogODAsICJpZCI6ICJjY2Q5NzA0YS1mOTgwLTExZWItYTBmYy1mMjNjOTEzYzhkMmIiLCAiYWlkIjogIjIiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiYnJvYWRjYXN0bHYuY2hhdC5iaWxpYmlsaS5jb20iLCAicGF0aCI6ICIvIiwgInRscyI6ICIifQ==
-trojan://cad5a49f-14e5-4a05-aae9-c5df8fad394f@172.67.157.220:443?security=tls&sni=c1sWER.777159.XYz&type=ws&host=c1swer.777159.xyz&path=%2F5txgrUN3oqXENw4Z4&fp=chrome&alpn=http%2F1.1#United+States
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.110.1.146:8118#United+States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPSEpIYTFjeVowUm5ObEZ4V0haUWRHZHJVR2RxTlhWbw==@45.196.235.33:48019#Hong+Kong
-trojan://vip@104.18.5.250:443?security=tls&sni=heihu880.pages.dev&type=ws&host=heihu880.pages.dev&path=%2F%3Fed%3D2560#United+States
-vmess://eyJhZGQiOiAiOTEuMTk0LjExLjE2MiIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiNDQzOWNmM2UtZDA3Mi00YTViLTg4YjItMmEyZWM2ZDcxMzQwIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIiLCAicG9ydCI6ICI1ODg5MSIsICJwcyI6ICJDYW5hZGEiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiIiwgInYiOiAiMiJ9
-trojan://9e7caa3b-ca9c-40ba-9ea0-f0c992359239@104.21.86.140:443?security=tls&sni=m2rrrty.777219.xyz&type=ws&host=m2rrrty.777219.xyz&path=%2FduJhdsnTCbijwHNYeMcCs9&fp=chrome&alpn=http%2F1.1#United+States
-trojan://vip@104.18.42.98:443?security=tls&sni=heihu880.pages.dev&type=ws&host=heihu880.pages.dev&path=%2F%3Fed%3D2560#United+States
-vmess://eyJhZGQiOiAiMTcyLjIzMi4xMS4yNDMiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogIjAwNDFkYWRhLTIyYmMtNGM4MC1mNjU1LWQzMmM5ZmFlY2JjOCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiNDc3ODEiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICIiLCAidiI6ICIyIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlfQ==
-ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@38.110.1.88:5499#United+States
-trojan://vip@104.22.14.132:443?security=tls&type=ws&sni=heihu880.pages.dev&path=/?ed=2560&host=heihu880.pages.dev#United+States
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@139.59.119.143:443?security=tls&sni=connectwithemployers.online&type=tcp#Singapore
-trojan://xxoo@us.blazeppn.info:443?sni=us.blazeppn.info#United+States
+trojan://67db0c34-ae7a-4369-a6b5-554c99d8e5c9@172.67.218.63:443?security=tls&sni=M4rrT.999157.XYz&type=ws&host=m4rrt.999157.xyz&path=%2FNuDL4mLrBwsbnEcmJLxC&fp=chrome&alpn=http%2F1.1#United+States
+trojan://3482c71a-d01c-4ae5-b454-fa8cb3785f66@guy-trace-lyric.stark-industries.solutions:443#United+States
+trojan://Dea6yR4qDISnzRwj3eSClagCRCyXSZRzaNOYDAyS0NFY8ICzcF3C48RaIDyj4ZOgATuCAR2eFeFOSZD@154.17.31.167:28331?security=tls&sni=basket.homeofbrave.net&type=tcp&host=%2FJoin_Bade_Channel%40JOKERRVPN#United+States
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.47.130:443#United+States
+trojan://amclubs@162.159.129.67:8443?sni=tran.amclubs.rr.nu&type=ws&host=tran.amclubs.rr.nu#United+States
+trojan://4732adfa16c6450bbef87264e41332db@165.22.74.230:443?security=tls&sni=nextstepcareer.online&type=tcp#Germany
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.204:443#United+States
+vmess://eyJhZGQiOiAiMTcyLjY3LjEzNS42MiIsICJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJwb3J0IjogNDQzLCAiaWQiOiAiZDEzZmMyZjUtM2UwNS00Nzk1LTgxZWItNDQxNDNhMDllNTUyIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogImhrbmJ5aXZmZmZqLnNpdGUiLCAicGF0aCI6ICIvcmJxcXZ3cyIsICJ0bHMiOiAidGxzIn0=
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@23.150.248.50:8090#United+States
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@67.220.95.102:8118#United+States
+vmess://eyJhZGQiOiAiYjJkNWNiMjAtc3Yyc2cwLXQ3cXkyNi0xNGc3Ni5oazMucDVwdi5jb20iLCAidiI6ICIyIiwgInBzIjogIkhvbmcgS29uZyIsICJwb3J0IjogODAsICJpZCI6ICI0NzI5YjRjOC0xNzkwLTExZWItODY4NC1mMjNjOTEzYzhkMmIiLCAiYWlkIjogIjIiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiYnJvYWRjYXN0bHYuY2hhdC5iaWxpYmlsaS5jb20iLCAicGF0aCI6ICIvIiwgInRscyI6ICIifQ==
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@67.220.95.96:7002#United+States
+vmess://eyJhZGQiOiAiMmUyMWNlZGMtZmE4Yi00MDIwLThjZTAtMzkwZTcyODdkMjc2Ljg5MDYwMy5wcC51YSIsICJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJwb3J0IjogNDQzLCAiaWQiOiAiNTQ1M2FlMjYtMjUwZC00ZTc5LWI0ZWMtMDE2YmFmODA2ODY1IiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogIjJlMjFjZWRjLWZhOGItNDAyMC04Y2UwLTM5MGU3Mjg3ZDI3Ni44OTA2MDMucHAudWEiLCAicGF0aCI6ICIvaDdSY3UweTMwbGhqZFZqSjNnYzRhaiIsICJ0bHMiOiAidGxzIn0=
+trojan://vip@172.67.179.98:443?security=tls&sni=heihu880.pages.dev&type=ws&host=heihu880.pages.dev&path=%2F%3Fed%3D2560#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@154.90.63.193:990#Singapore
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMjc1ODQ5ZWJjZmNlYzdl@57.128.190.110:11703#France
+vmess://eyJhZGQiOiAiMjRiMDE0Mjgtc3Yyc2cwLXRkMWwxdC0xczgyNC5oay5wNXB2LmNvbSIsICJ2IjogIjIiLCAicHMiOiAiSG9uZyBLb25nIiwgInBvcnQiOiA4MCwgImlkIjogIjZkNGFiYWMwLTg2ZTYtMTFlZi04M2NjLWYyM2M5MTNjOGQyYiIsICJhaWQiOiAiMiIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJicm9hZGNhc3Rsdi5jaGF0LmJpbGliaWxpLmNvbSIsICJwYXRoIjogIi8iLCAidGxzIjogIiJ9
 ```
 <h5>ऊपरी नोड (भाग) का स्थायी सदस्यता पता: https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_hi</h5>
  <p>उपरोक्त सदस्यता पते के लिए QR कोड</p>
