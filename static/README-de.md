@@ -35,18 +35,20 @@
  <h4>Knotenliste: (Hier werden nur einige Knoten angezeigt. Bitte laden Sie die App herunter, um alle Knoten anzuzeigen.)</h4>
     
 ```
-trojan://vpn@150.241.78.252:2025?security=none&type=ws&host=vkvd127.mycdn.me&path=/#Spanien
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpubFZxSVZ5S3dXb0RzRDdkVllUOVkw@81.19.140.31:65305#Kanada
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.170:443#USA
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@67.220.95.102:8080#USA
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.121.43.71:5601#USA
-trojan://12345678@198.62.62.4:443?security=tls&sni=7bdfb97a.ikl.pages.dev&type=ws&host=7bdfb97a.ikl.pages.dev&path=%2F7bdfb97a.ikl.pages.dev#USA
-vmess://eyJhZGQiOiAiMTUuMjA0LjI0OC45MiIsICJ2IjogIjIiLCAicHMiOiAiVVNBIiwgInBvcnQiOiAzMDU2MiwgImlkIjogIjgyNDY2NzE1LTZhNTgtNDA0Ni1hMzYzLWEwZDE4ZTViMmFiNCIsICJhaWQiOiAiMCIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiIiwgInRscyI6ICIifQ==
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@67.220.95.102:3306#USA
-trojan://123456@104.25.165.83:8443?security=tls&sni=top-azx.pages.dev&type=ws&host=top-azx.pages.dev#USA
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGamdHTk5IUWlFTHp4WG1hSFJ4eHRRYnhERHZHWEZ4WWRUYlllOTFKS1pzanZLTEhvWTlybjlydVlFNDUzNzdXanRVM200a21YUVpEWGlIQkpzZ1ZmaG1wYXdFb0d2cTk=@mx2.drawnrisha.one:55988#UK
-vmess://eyJ2IjogIjIiLCAicHMiOiAiVVNBIiwgImFkZCI6ICIxNTkuNTQuMTYyLjYiLCAicG9ydCI6ICIzMzA2IiwgInR5cGUiOiAibm9uZSIsICJpZCI6ICI2YjQxNGY2YS05Y2ZkLTQ2YzMtYmNjOC1hZjJjMzQ0Nzg3MWQiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL3JheSIsICJob3N0IjogIm9yYTIuYWloaS51ayIsICJ0bHMiOiAidGxzIiwgInNuaSI6ICJvcmEyLmFpaGkudWsiLCAiYWxsb3dpbnNlY3VyZSI6IDF9
-trojan://Aimer@27.50.49.136:443?security=tls&sni=epccj.ambercc.filegear-sg.me&type=ws&host=epccj.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&fp=randomized&alpn=h3#Singapur
+vmess://eyJhZGQiOiAiN2IyZjhjNWUtc3Yyc2cwLXRjNjFjcy0xdGphOC5oay5wNXB2LmNvbSIsICJ2IjogIjIiLCAicHMiOiAiSG9uZ2tvbmciLCAicG9ydCI6IDgwLCAiaWQiOiAiZDJmMGJlZTItMDJmMS0xMWYwLThlYjAtZjIzYzkxNjRjYTVkIiwgImFpZCI6ICIyIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogImJyb2FkY2FzdGx2LmNoYXQuYmlsaWJpbGkuY29tIiwgInBhdGgiOiAiLyIsICJ0bHMiOiAiIn0=
+vmess://eyJhZGQiOiAiYzF4eGRjc3dlLjc3NzE2OS54eXoiLCAidiI6ICIyIiwgInBzIjogIlVTQSIsICJwb3J0IjogODAsICJpZCI6ICJjYWQ1YTQ5Zi0xNGU1LTRhMDUtYWFlOS1jNWRmOGZhZDM5NGYiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiYzF4eGRjc3dlLjc3NzE2OS54eXoiLCAicGF0aCI6ICIvVGpVeld5Um1SNFAyZkdxWEVOdzRaNCIsICJ0bHMiOiAiIn0=
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.197:443#UK
+trojan://Aimer@27.50.48.126:2083?security=tls&sni=tyep.esslh.filegear-sg.me&type=ws&host=tyep.esslh.filegear-sg.me&path=%2F%3Fed%3D2560#Singapur
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5NmZneUMyOGhzY21kd3FYajJ2MEZt@62.60.152.158:37618#Iran
+vmess://eyJhZGQiOiAiMTUuMjA0LjI0OC45MiIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiODI0NjY3MTUtNmE1OC00MDQ2LWEzNjMtYTBkMThlNWIyYWI0IiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIiLCAicG9ydCI6ICIzMDU2MiIsICJwcyI6ICJVU0EiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIifQ==
+trojan://I46LpSIM1f@194.164.57.9:1935?security=tls&sni=x4ger-ionos.devefun.net&type=tcp#Deutschland
+vmess://eyJhZGQiOiAiMGY2NGU2ODUtc3YweHMwLXN2d251aC0xdDR3Zy5oazMucDVwdi5jb20iLCAidiI6ICIyIiwgInBzIjogIkhvbmdrb25nIiwgInBvcnQiOiA4MCwgImlkIjogIjFiMTNlMjBjLWU3NzgtMTFlZi05MDdmLWYyM2M5MTNjOGQyYiIsICJhaWQiOiAiMiIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJicm9hZGNhc3Rsdi5jaGF0LmJpbGliaWxpLmNvbSIsICJwYXRoIjogIi8iLCAidGxzIjogIiJ9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@119.59.98.58:990#Thailand
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.121.43.97:2376#USA
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowMDcyYzVlMjQxYWVjZmI3@217.77.3.42:40410#UK
+vmess://eyJhZGQiOiAiMGVjYzI2NTQtc3Yyc2cwLXN2dms3aC0xdGdkdy5oazMucDVwdi5jb20iLCAidiI6ICIyIiwgInBzIjogIkhvbmdrb25nIiwgInBvcnQiOiA4MCwgImlkIjogImExOTM5N2I4LWY3ZmEtMTFlZi04MzZhLWYyM2M5MTNjOGQyYiIsICJhaWQiOiAiMiIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJicm9hZGNhc3Rsdi5jaGF0LmJpbGliaWxpLmNvbSIsICJwYXRoIjogIi8iLCAidGxzIjogIiJ9
+trojan://telegram-id-privatevpns@13.53.33.12:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#Schweden
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.10:8080#Litauen
 ```
 <h5>Die permanente Abonnementadresse des oberen Knotens (Teil): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_de</h5>
  <p>QR-Code für die Abonnementadresse oben</p>
