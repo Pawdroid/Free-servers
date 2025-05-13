@@ -35,18 +35,18 @@
  <h4>Daftar node: (Hanya beberapa node yang ditampilkan di sini, silakan unduh aplikasi untuk melihat semua node)</h4>
     
 ```
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.121.43.71:7002#United+States
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@67.220.95.96:8091#United+States
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.75.136.28:7001#United+States
-vmess://eyJhZGQiOiAiMTcyLjY3LjE1NC44NCIsICJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJwb3J0IjogNDQzLCAiaWQiOiAiZTUzN2YyZjUtMmEwYy00ZjU5LTkyYzktODMyY2E2NDMzYmYzIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogImlydmlkZW8uY2ZkIiwgInBhdGgiOiAiL2xpbmt3cyIsICJ0bHMiOiAidGxzIn0=
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.121.43.71:4444#United+States
-vmess://eyJhZGQiOiAiMTM0LjE5OS4yMzIuMTEwIiwgInYiOiAiMiIsICJwcyI6ICJVbml0ZWQgU3RhdGVzIiwgInBvcnQiOiAzMDgzMiwgImlkIjogImNiYjNmODc3LWQxZmItMzQ0Yy04N2E5LWQxNTNiZmZkNTQ4NCIsICJhaWQiOiAiMiIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJiYWlkdS5jb20iLCAicGF0aCI6ICIvb29vbyIsICJ0bHMiOiAiIn0=
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@23.157.40.101:7307#United+States
-trojan://dQUWbcwECl@automq4-proxy.automq-sg.com:443#Singapore
-vmess://eyJ2IjogIjIiLCAicHMiOiAiR2VybWFueSIsICJhZGQiOiAiODQuMjQ3LjE0Ny42NyIsICJwb3J0IjogIjU0MTc5IiwgImlkIjogImQxNDNlYmJjLTc4MjUtNGI0My1hNTVlLWYxMWNiMTUzYmQ1YiIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogIiIsICJwYXRoIjogIi8iLCAidGxzIjogIiIsICJzbmkiOiAiIiwgInRlc3RfbmFtZSI6ICI2MCJ9
-trojan://G9CHhXltVx@96.9.213.108:12646?sni=96.9.213.108&allowInsecure=0#Singapore
-vmess://eyJhZGQiOiAiMTcyLjY3LjIwMC4xMyIsICJhaWQiOiAwLCAiaG9zdCI6ICIxYTJkNTE0Yi0zN2NmLTQ5OWYtOGQwOC1kMDE3YTkyYWI1YmIuYXNvdWwtYXZhLnRvcCIsICJpZCI6ICI1ZjcyNmZlMy1kODJlLTRkYTUtYTcxMS04YWYwY2JiMmI2ODIiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL2F6dW1hc2UucmVuIiwgInBvcnQiOiA0NDMsICJwcyI6ICJVbml0ZWQgU3RhdGVzIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IGZhbHNlLCAic25pIjogIjFhMmQ1MTRiLTM3Y2YtNDk5Zi04ZDA4LWQwMTdhOTJhYjViYi5hc291bC1hdmEudG9wIn0=
-vmess://eyJhZGQiOiAiMTUyLjY5LjIyMC45NCIsICJ2IjogIjIiLCAicHMiOiAiU2luZ2Fwb3JlIiwgInBvcnQiOiA0MzA1MCwgImlkIjogIjI4Y2EwNTY3LTc1NGUtNDZmYy1lNzc0LWIxOWM3ODc5NzVmNyIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJhLnppcWl1MTA2MC5nZ2ZmLm5ldCIsICJwYXRoIjogIi9kc2ZzZGYiLCAidGxzIjogInRscyJ9
+vmess://eyJhZGQiOiAiYTFhMTNiMDctc3Y0bjQwLXN2dms3aC0xdGdkdy5oazMucDVwdi5jb20iLCAidiI6ICIyIiwgInBzIjogIkhvbmcgS29uZyIsICJwb3J0IjogODAsICJpZCI6ICJhMTkzOTdiOC1mN2ZhLTExZWYtODM2YS1mMjNjOTEzYzhkMmIiLCAiYWlkIjogIjIiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiYTFhMTNiMDctc3Y0bjQwLXN2dms3aC0xdGdkdy5oazMucDVwdi5jb20iLCAicGF0aCI6ICIvIiwgInRscyI6ICIifQ==
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@103.104.247.49:8080#The+Netherlands
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSaVB1S0pKbDE4Wmd2THBUald4QndTZktpUGt0OWd6Rkt5eEdDWThlSHRPY0RiMlg=@5.189.201.250:31348#Russia
+trojan://dQUWbcwECl@74.176.59.185:443?security=tls&sni=automq3-proxy.automq-sg.com&allowInsecure=1#United+States
+trojan://f82fb954-06a1-4f0b-9180-17e07585b61f@104.21.32.1:443?security=tls&sni=6hj8.191262.xyz&type=ws&host=6hj8.191262.xyz&path=%2FYu29UN3Yz8hcnI3SlZor0&fp=chrome&alpn=http%2F1.1#United+States
+trojan://telegram-id-vlessconfig@56.228.53.24:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.123.101.241:990#T%C3%BCrkiye
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.121.43.71:8118#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@103.104.247.72:8080#The+Netherlands
+trojan://53249200-30ff-436f-a032-0bb00605f8f9@104.21.24.172:443?security=tls&sni=3derty.852224.dpdns.org&type=ws&host=3derty.852224.dpdns.org&path=%2FYPTDHLX8qjvTU5JqXZxjQ5ILc&fp=chrome&alpn=http%2F1.1#United+States
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@69.50.93.113:9101#United+States
+trojan://tg-fq521free@45.67.215.95:443?security=tls&sni=torjan.xn--xhq44j.eu.org&type=ws&host=torjan.xn--xhq44j.eu.org&path=%2F#Russia
 ```
 <h5>Alamat langganan permanen node atas (bagian): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_id</h5>
  <p>Kode QR untuk alamat berlangganan di atas</p>
