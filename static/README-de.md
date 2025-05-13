@@ -35,18 +35,18 @@
  <h4>Knotenliste: (Hier werden nur einige Knoten angezeigt. Bitte laden Sie die App herunter, um alle Knoten anzuzeigen.)</h4>
     
 ```
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.121.43.71:5600#USA
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.158.171.110:8080#USA
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@38.114.114.245:8008#USA
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@142.202.49.84:6679#USA
-vmess://eyJhZGQiOiAidjQubm1jZi5tZSIsICJ2IjogIjIiLCAicHMiOiAiSG9uZ2tvbmciLCAicG9ydCI6IDgwMDEsICJpZCI6ICI5NDIyZTcwOS0xNmMxLTQyOTAtOWE4Mi05ZjQxNDkxYjAzZmEiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAid3d3LmJpbmcuY29tIiwgInBhdGgiOiAiL25ta2oiLCAidGxzIjogIiJ9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuWTNVVmJ4NlhXNUliRHhZRm9mT2No@78.129.140.11:443#UK
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.114.114.143:7002#USA
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.121.43.97:7306#USA
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@69.50.95.245:7002#USA
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@67.220.95.96:7002#USA
-trojan://2faaf996-d2b0-440d-8258-81f2b05dd0e4@104.26.13.31:443?security=tls&sni=fwd-refuse-senators-brought.trycloudflare.com&type=ws&host=fwd-refuse-senators-brought.trycloudflare.com&path=%2Ftrojan-argo%3Fed%3D2560#USA
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@23.154.136.132:5004#USA
+trojan://telegram-id-privatevpns@56.228.53.24:22222?sni=trojan.burgerip.co.uk#USA
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.158.171.141:8080#USA
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjMzQ2MmQzZjYwMjA1Mjhk@85.239.239.182:16309#USA
+vmess://eyJhZGQiOiAiNjRmNmUwYjItc3cxejQwLXQ1MWJwMC0xbnl5NS5oZ2MxLnRjcGJici5uZXQiLCAidiI6ICIyIiwgInBzIjogIkhvbmdrb25nIiwgInBvcnQiOiA4MDgwLCAiaWQiOiAiOGY3Y2I3NzAtMTMwNS0xMWVlLWIxMDctZjIzYzkxY2ZiYmM5IiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIi8iLCAidGxzIjogIiJ9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.10:8080#Litauen
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@147.78.1.27:990#Mexiko
+vmess://eyJ2IjogIjIiLCAicHMiOiAiSG9uZ2tvbmciLCAiYWRkIjogIjMyMzcyOTQxLXN2MnNnMC1zdzF3NWotMWEzc3kuaGszLnA1cHYuY29tIiwgInBvcnQiOiA4MCwgImFpZCI6ICIyIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJpZCI6ICJiOTNjNjZjYy0wMGVkLTExZWMtODY3My1mMjNjOTE2NGNhNWQiLCAiaG9zdCI6ICJicm9hZGNhc3Rsdi5jaGF0LmJpbGliaWxpLmNvbSIsICJwYXRoIjogIi8ifQ==
+trojan://70776bb4-d791-4cbd-9c9b-c76e937f9e60@172.67.216.240:443?security=tls&sni=xCVD.857856.XyZ&type=ws&host=xcvd.857856.xyz&path=%2F71M8Ov1I5Gk9247fHC0XGZG6&fp=chrome&alpn=http%2F1.1#USA
+trojan://cad5a49f-14e5-4a05-aae9-c5df8fad394f@172.67.157.220:443?security=tls&type=ws&sni=c1sWER.777159.XYz&path=/5txgrUN3oqXENw4Z4&host=c1swer.777159.xyz#USA
+trojan://3482c71a-d01c-4ae5-b454-fa8cb3785f66@nacho-rerun-crepe.stark-industries.solutions:443?sni=nacho-rerun-crepe.stark-industries.solutions#USA
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3NDFkZGNlZC1lNmVlLTQxNzUtOWMxYS1lNTI0MDA5ZjkwNDU=@144.126.146.38:30100#USA
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@69.50.93.47:5003#USA
 ```
 <h5>Die permanente Abonnementadresse des oberen Knotens (Teil): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_de</h5>
  <p>QR-Code für die Abonnementadresse oben</p>

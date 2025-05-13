@@ -35,18 +35,18 @@
  <h4>নোড তালিকা: (শুধুমাত্র কিছু নোড এখানে প্রদর্শিত হয়, সমস্ত নোড দেখতে অ্যাপটি ডাউনলোড করুন)</h4>
     
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSaVB1S0pKbDE4Wmd2THBUald4QndTZktpUGt0OWd6Rkt5eEdDWThlSHRPY0RiMlg=@5.189.201.250:31348#Russia
-vmess://eyJhZGQiOiAiMTkzLjEyMy44MS4xMDUiLCAidiI6ICIyIiwgInBzIjogIlVuaXRlZCBBcmFiIEVtaXJhdGVzIiwgInBvcnQiOiA0NDMsICJpZCI6ICI5YjQ1NmMyYS1mMmMxLTQ1ZTEtODdhOS1iNzYyOGIwNGJiMjQiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiYmV5b25kZHN6LmNmZCIsICJwYXRoIjogIi9saW5rd3MiLCAidGxzIjogInRscyJ9
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@38.121.43.71:6697#United+States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjMzQ2MmQzZjYwMjA1Mjhk@85.239.239.182:16309#United+States
-trojan://telegram-id-vlessconfig@15.237.241.92:22222?sni=trojan.burgerip.co.uk#France
-vmess://eyJhZGQiOiAiMzguMjU1LjM0LjExMCIsICJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJwb3J0IjogNDY4OTMsICJpZCI6ICJjNjhiMTZkYi01NmIyLTQwZWYtYTZmNC0xNDJhOGVlMmEzZjEiLCAiYWlkIjogIjAiLCAibmV0IjogInRjcCIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAiIn0=
-vmess://eyJhZGQiOiAiOC4yMTguMjQ0LjU2IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogInNiLnpodWFuc2h1LmNvbSIsICJpZCI6ICJjYzEwMWZmMS0zNDUyLTQxYzMtODlmZS1jMmE1YTIwZGM2ZGMiLCAibmV0IjogInRjcCIsICJwYXRoIjogIi8iLCAicG9ydCI6ICIzMDAwIiwgInBzIjogIkhvbmcgS29uZyIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJodHRwIiwgInYiOiAiMiJ9
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.121.43.71:4444#United+States
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@38.121.43.71:8008#United+States
+trojan://telegram-id-directvpn@15.237.238.243:22223?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#France
+vmess://eyJhZGQiOiAiYXV0aDAub3BlbmFpLmNvbSIsICJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJwb3J0IjogNDQzLCAiaWQiOiAiZTUzN2YyZjUtMmEwYy00ZjU5LTkyYzktODMyY2E2NDMzYmYzIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogImFkbWluLmthc3JheC5pciIsICJwYXRoIjogIi9pcnZpZGVvLmNmZC9saW5rd3MiLCAidGxzIjogInRscyJ9
+vmess://eyJhZGQiOiAiYzJhYmM1ZjItc3YweHMwLXN5MHZ1YS0xcnBubS5oazMucDVwdi5jb20iLCAidiI6ICIyIiwgInBzIjogIkhvbmcgS29uZyIsICJwb3J0IjogODAsICJpZCI6ICI0ZDBlMDFjZS0yYWU2LTExZWYtODQzMy1mMjNjOTE2NGNhNWQiLCAiYWlkIjogIjIiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiYzJhYmM1ZjItc3YweHMwLXN5MHZ1YS0xcnBubS5oazMucDVwdi5jb20iLCAicGF0aCI6ICIvIiwgInRscyI6ICIifQ==
+trojan://d889b4c8-dab9-4b0c-932b-e4071c727308@172.67.158.146:443?security=tls&sni=M6ghjK.777169.xyz&type=ws&host=m6ghjk.777169.xyz&path=%2FvFeLkPJXEksjERPwvxRA&fp=chrome&alpn=http%2F1.1#United+States
 trojan://bpb-trojan@est.madison.eu.org:443?allowInsecure=1&sni=skwygx.top&type=ws&host=skwygx.top&path=/tr?ed=2560#Estonia
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.95.183:443#United+States
-trojan://I46LpSIM1f@194.164.57.9:1935?security=tls&sni=x4ger-ionos.devefun.net&type=tcp#Germany
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwVjVCQXpxTFpvc09mdUlya3lvYWRU@5.181.21.194:18660#Austria
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.194:443#United+Kingdom
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206TDhLc3c0TVNNc090WG54OEY4S1RXc084UThLcHdwb0piMmZEbjA3Q2dNS3N3NnZDa2l6RGswZkR2TUtUdzVYQ253PT06YkZRVnc3bDd3N0l4TmNLcGRzT3h3NlhDaU1PUlU4S253N1ExUU1PMmJXNFd3NjRrUEhjUXc1bHpYc09D@64.226.102.252:45746#Germany
+trojan://b30a50bc-0f63-422d-bbd6-8c790c0abb4d@104.21.63.226:443?security=tls&sni=m8ghytr.457.pp.ua&type=ws&host=m8ghytr.457.pp.ua&path=%2FKLcD0D18SR866TVMXPAl&fp=chrome&alpn=http%2F1.1#United+States
+trojan://dQUWbcwECl@automq3-proxy.automq-sg.com:443#United+States
+vmess://eyJhZGQiOiAiNDUuMTIuMTQ1LjExMSIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiMWI0MTE1M2UtYzRkNC00MzFiLTgzZWItMTA0NzJmODY5ZjkzIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIiLCAicG9ydCI6ICI0NjI5MCIsICJwcyI6ICJTcGFpbiIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICIiLCAidiI6ICIyIn0=
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.167:443#United+States
 ```
 <h5>উপরের নোডের স্থায়ী সদস্যতা ঠিকানা (অংশ): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_bn</h5>
  <p>উপরের সদস্যতা ঠিকানার জন্য QR কোড</p>
