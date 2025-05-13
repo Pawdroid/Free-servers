@@ -35,20 +35,19 @@
  <h4>قائمة العقد: (يتم عرض بعض العقد فقط هنا، يرجى تنزيل التطبيق لعرض جميع العقد)</h4>
     
 ```
-trojan://123@104.24.92.207:2053?sni=epeius001-ea1.pages.dev&type=ws&host=epeius001-ea1.pages.dev#United+States
-trojan://trojan@104.18.12.229:8443?security=tls&sni=betashop.foz.rf.gd&type=ws&host=betashop.foz.rf.gd&path=%2F%3Fed%3D2560&fp=random#United+States
-vmess://eyJhZGQiOiAiMTE3LjE4LjEyNC4xMTIiLCAidiI6ICIyIiwgInBzIjogIkhvbmcgS29uZyIsICJwb3J0IjogNDYwMTYsICJpZCI6ICI1ZDMwMzYwMi1kNGY4LTRjYzItYmI1ZS1lZjMyZWQxNzBkNjYiLCAiYWlkIjogIjAiLCAibmV0IjogInRjcCIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAiIn0=
-vmess://eyJhZGQiOiAiNDUuMTIuMTM4LjQ3IiwgInYiOiAiMiIsICJwcyI6ICJTd2VkZW4iLCAicG9ydCI6IDIyODM5LCAiaWQiOiAiMjg1OGE0MDQtZDBjYS00ZDY3LTgwYTYtY2U4ZTk1ZTM4M2ZmIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIiLCAidGxzIjogIiJ9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.158.171.132:8080#United+States
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.121.43.71:8091#United+States
-vmess://eyJhZGQiOiAiNGU5MDlhOWQtc3Yyc2cwLXN3MjZxMi1waHA0LmhrMy5wNXB2LmNvbSIsICJ2IjogIjIiLCAicHMiOiAiSG9uZyBLb25nIiwgInBvcnQiOiA4MCwgImlkIjogImM2NDhlY2MwLTgzOGEtMTFlZC1iZDgxLWYyM2M5MTNjOGQyYiIsICJhaWQiOiAiMiIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJicm9hZGNhc3Rsdi5jaGF0LmJpbGliaWxpLmNvbSIsICJwYXRoIjogIi8iLCAidGxzIjogIiJ9
-trojan://vip@104.18.27.94:443?security=tls&sni=heihu880.pages.dev&type=ws&host=heihu880.pages.dev&path=%2F%3Fed%3D2560#United+States
-trojan://auto@172.66.45.2:443?security=tls&sni=dcf741e8.epeius-2gy.pages.dev&type=ws&host=dcf741e8.epeius-2gy.pages.dev&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3#United+States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.65:8080#Lithuania
-vmess://eyJhZGQiOiAiNmRiYWVhNDUtc3YweHMwLXQ5aTdvMi0xbHQyMC5oazMucDVwdi5jb20iLCAidiI6ICIyIiwgInBzIjogIkhvbmcgS29uZyIsICJwb3J0IjogODAsICJpZCI6ICJiZjRlYzEwOC1mMmI3LTExZWYtYjY1NC1mMjNjOTFjZmJiYzkiLCAiYWlkIjogIjIiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiYnJvYWRjYXN0bHYuY2hhdC5iaWxpYmlsaS5jb20iLCAicGF0aCI6ICIvIiwgInRscyI6ICIifQ==
-vmess://eyJhZGQiOiAiMTA0LjIxLjk2LjEiLCAidiI6ICIyIiwgInBzIjogIlVuaXRlZCBTdGF0ZXMiLCAicG9ydCI6IDIwOTYsICJpZCI6ICJiMzkyOGY4ZC1lYTgxLTRkNzUtYmNlYy00MDE2YTA3MmFkZmYiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiZGUwMS5zaC1jbG91ZGZsYXJlLnNicyIsICJwYXRoIjogIi8iLCAidGxzIjogInRscyJ9
-ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@23.154.136.132:5499#United+States
-vmess://eyJhZGQiOiAiMTA0LjIxLjk2LjEiLCAidiI6ICIyIiwgInBzIjogIlVuaXRlZCBTdGF0ZXMiLCAicG9ydCI6IDg0NDMsICJpZCI6ICI5MTQ1ODRlZS0zNTE1LTQ2YWMtYTA5ZC00Njc3YTJlOWRjOWEiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAidXMwMS5zaC1jbG91ZGZsYXJlLnNicyIsICJwYXRoIjogIi8iLCAidGxzIjogInRscyJ9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.199:8080#Lithuania
+ss://YWVzLTI1Ni1nY206MWRYNTl6VzlRR0EwTncwYg==@51.161.164.74:8388#Australia
+trojan://s8xwZ%5D%7C%3FV%3EcH@172.67.149.227:443?security=tls&type=ws&sni=fL9F9zCnHrfnvkA1oYA84yy6p44dHfqP.tUrbOOsErveR.wOrKeRS.dEv&path=/trOMMGv7luGhBNaxVb?ed=2560&host=fl9f9zcnhrfnvka1oya84yy6p44dhfqp.turbooserver.workers.dev#United+States
+ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@38.110.1.88:5499#United+States
+trojan://a926af96-2cfe-4169-8107-6c5f0d74a938@104.21.48.1:443?security=tls&sni=zsde.7777128.xyz&type=ws&host=zsde.7777128.xyz&path=%2F5NB3RVAWa3Uo1P5zFPkui&fp=chrome&alpn=http%2F1.1#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.158.171.60:8080#United+States
+vmess://eyJhZGQiOiAiNTcuMTI5LjI1LjI1IiwgInYiOiAiMiIsICJwcyI6ICJGcmFuY2UiLCAicG9ydCI6IDQ0MywgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJmLmtoaWxlaS5jb20iLCAicGF0aCI6ICIvbGlua3Z3cyIsICJ0bHMiOiAidGxzIn0=
+trojan://telegram-id-privatevpns@99.80.179.36:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#Ireland
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@216.39.248.133:7001#United+States
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.114.114.143:2376#United+States
+trojan://trojan@104.18.4.250:2053?security=tls&sni=ana-service-anaservice--anaservice-antenircomorg.fmwlmluu.workers.dev&type=ws&host=ana-service-anaservice--anaservice-antenircomorg.fmwlmluu.workers.dev#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaMFV1ckdrRzZpSmE=@185.39.207.60:443#Greece
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.198:443#United+Kingdom
 ```
 <h5>عنوان الاشتراك الدائم للعقدة العليا (جزء): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ar</h5>
  <p>رمز الاستجابة السريعة لعنوان الاشتراك أعلاه</p>

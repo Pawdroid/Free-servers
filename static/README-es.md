@@ -35,20 +35,19 @@
  <h4>Lista de nodos: (aquí solo se muestran algunos nodos; descargue la aplicación para ver todos los nodos)</h4>
     
 ```
-trojan://5453ae26-250d-4e79-b4ec-016baf806865@172.67.133.248:443?security=tls&sni=1sDFgT.890604.FileGear-sG.mE&type=ws&host=1sdfgt.890604.filegear-sg.me&path=%2FOYzPAeaZdXUq2d6J3gc4aj&fp=chrome&alpn=http%2F1.1#Estados+Unidos
-trojan://vip@104.16.144.63:443?security=tls&sni=heihu880.pages.dev&type=ws&host=heihu880.pages.dev#Estados+Unidos
-trojan://4732adfa16c6450bbef87264e41332db@nextstepcareer.online:443#Alemania
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.79:443#Reino+Unido
-vmess://eyJhZGQiOiAiYjJkNWNiMjAtc3Yyc2cwLXQ3cXkyNi0xNGc3Ni5oazMucDVwdi5jb20iLCAidiI6ICIyIiwgInBzIjogIkhvbmcgS29uZyIsICJwb3J0IjogODAsICJpZCI6ICI0NzI5YjRjOC0xNzkwLTExZWItODY4NC1mMjNjOTEzYzhkMmIiLCAiYWlkIjogIjIiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiYnJvYWRjYXN0bHYuY2hhdC5iaWxpYmlsaS5jb20iLCAicGF0aCI6ICIvIiwgInRscyI6ICIifQ==
-ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@38.143.66.87:9102#Estados+Unidos
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXN2ZJbzhHcDZUTGIxWUhaTkgxZnU1@62.60.231.81:39008#Hong+Kong
-vmess://eyJhZGQiOiAicmFrMS45ODY5ODYuc2hvcCIsICJ2IjogIjIiLCAicHMiOiAiRXN0YWRvcyBVbmlkb3MiLCAicG9ydCI6IDIwOTYsICJpZCI6ICJhMjllMjM4Ni03NDQ1LTQyNGQtOWJlMS01MDFmMmIyYjRkNGUiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAicmFrMS45ODY5ODYuc2hvcCIsICJwYXRoIjogIi8iLCAidGxzIjogInRscyJ9
-trojan://G9CHhXltVx@96.9.213.108:12646?sni=96.9.213.108&allowInsecure=0#Singapur
-ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@23.154.136.132:5499#Estados+Unidos
-vmess://eyJhZGQiOiAiMTUuMjM1LjgzLjIyNyIsICJ2IjogIjIiLCAicHMiOiAiQ2FuYWRcdTAwZTEiLCAicG9ydCI6IDQ0MywgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJtYW5rYWRtdS5jb20iLCAicGF0aCI6ICIvbGlua3Z3cyIsICJ0bHMiOiAidGxzIn0=
-trojan://3482c71a-d01c-4ae5-b454-fa8cb3785f66@nacho-rerun-crepe.stark-industries.solutions:443?sni=nacho-rerun-crepe.stark-industries.solutions#Estados+Unidos
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.114.114.143:7002#Estados+Unidos
-trojan://a926af96-2cfe-4169-8107-6c5f0d74a938@104.21.112.1:443?security=tls&sni=zsde.7777128.xyz&type=ws&host=zsde.7777128.xyz&path=%2F5NB3RVAWa3Uo1P5zFPkui&fp=chrome&alpn=http%2F1.1#Estados+Unidos
+trojan://auto@104.21.72.108:443?security=tls&sni=esetsecuritylicense1.cxlrazo.workers.dev&type=ws&host=esetsecuritylicense1.cxlrazo.workers.dev&path=%2F#Estados+Unidos
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@23.157.40.101:8009#Estados+Unidos
+trojan://telegram-id-privatevpns@52.47.82.168:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#Francia
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.75.136.28:7001#Estados+Unidos
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.196:443#Reino+Unido
+vmess://eyJ2IjogIjIiLCAicHMiOiAiRXN0YWRvcyBVbmlkb3MiLCAiYWRkIjogIjE3Mi42Ny4xNzAuNTEiLCAicG9ydCI6IDgwLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJpZCI6ICJjZWQzMDdhMi1hZjJjLTQxMTMtYmViYy1mYjg4OGM3MDJiN2QiLCAiaG9zdCI6ICJtNGZydC45OTkxODIueHl6IiwgInBhdGgiOiAiL1BFUTdDb0ExVnJCd3NibkVjbUpMeEMifQ==
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@69.50.93.47:7001#Estados+Unidos
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMTVNOaDIxVHJYalIyb2syNVEybkU4RU5UMnpvQm1QdmthM1JDQ1VBSFpFTENuV29la1ZqdmFmODlxd2NSa2RieEVmZXAyYmMyYVV0bW54cXZGMWF5UVJlejFKSGpVTGo=@exchange.gameaurela.click:52952#Estados+Unidos
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.110.1.146:8118#Estados+Unidos
+trojan://telegram-id-privatevpns@56.228.53.24:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#Estados+Unidos
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@38.121.43.97:6697#Estados+Unidos
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.121.43.71:5001#Estados+Unidos
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5NmZneUMyOGhzY21kd3FYajJ2MEZt@62.60.152.158:37618#Ir%C3%A1n
 ```
 <h5>La dirección de suscripción permanente del nodo superior (parte): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_es</h5>
  <p>Código QR para la dirección de suscripción anterior</p>
