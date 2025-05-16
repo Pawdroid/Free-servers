@@ -35,18 +35,18 @@
  <h4>قائمة العقد: (يتم عرض بعض العقد فقط هنا، يرجى تنزيل التطبيق لعرض جميع العقد)</h4>
     
 ```
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@162.251.63.123:5004#United+States
-vmess://eyJhZGQiOiAiMTA0LjE4LjE0OS43NSIsICJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJwb3J0IjogNDQzLCAiaWQiOiAiY2FlOTdiMWMtMzVlOC00Y2YyLWRjMWItNTIwMzJjM2QzZmE3IiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogImpwLmluc2JvdC5maWxlZ2Vhci1zZy5tZSIsICJwYXRoIjogIi9hYSIsICJ0bHMiOiAidGxzIn0=
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@23.154.136.44:8881#United+States
-vmess://eyJ2IjogIjIiLCAicHMiOiAiQXVzdHJhbGlhIiwgImFkZCI6ICIxNTQuMjYuMTUzLjE3MyIsICJwb3J0IjogMjg2ODYsICJpZCI6ICI2ZGY3ZDU2Zi00OTUzLTRhMTAtYmUyZS1hODhjYzlmOTRlNDgiLCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIm5vbmUifQ==
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@181.119.30.20:990#Colombia
-vmess://eyJhZGQiOiAiMTcyLjY3LjcxLjIxNyIsICJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJwb3J0IjogNDQzLCAiaWQiOiAiOTA3MmQzMzktMzg4NS00ZmUxLWIwYmMtMjlmYTc1MDU0MTBlIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogIjF0M2NoeDAuemVkMjMud2ViMTMzNy5uZXQiLCAicGF0aCI6ICIvZml4ZWRmbG9hdGkuY2ZkL2xpbmt3c2QiLCAidGxzIjogInRscyJ9
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.121.43.71:7307#United+States
-trojan://f82fb954-06a1-4f0b-9180-17e07585b61f@172.67.212.82:443?security=tls&sni=6tyu.131.pp.ua&type=ws&host=6tyu.131.pp.ua&path=%2FYu29UN3Yz8hcnI3SlZor0&fp=chrome&alpn=http%2F1.1#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMzgzNzIyNGVkNDY1ZjAw@45.144.48.63:57456#Poland
 vmess://eyJhZGQiOiAiM2ZiYzEwLjJjYTUyNjI5LTNhNjAuc2hvcCIsICJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJwb3J0IjogODAsICJpZCI6ICI1YmU3NmZhNS0zNzU4LTQyODItYmI1NC1iMWVmYWJkNmJhM2QiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiaGswMnMuMmNhNTI2MjktM2E2MC5zaG9wIiwgInBhdGgiOiAiLyIsICJ0bHMiOiAiIn0=
-trojan://5453ae26-250d-4e79-b4ec-016baf806865@172.67.205.22:443?allowInsecure=0&sni=1SSdDdFfffHhHJJJJ.20220420.Pp.uA&type=ws&host=1ssdddffffhhhjjjj.20220420.pp.ua&path=/OYzPAeaZdXUq2d6J3gc4aj#United+States
-ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@67.220.95.102:9101#United+States
-trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@217.163.76.51:443?allowInsecure=1&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz&path=/proxyip=217.163.76.51:443&proxyIP=null#United+Kingdom
+trojan://cad5a49f-14e5-4a05-aae9-c5df8fad394f@172.67.157.220:443?security=tls&sni=c1sWER.777159.XYz&type=ws&host=c1swer.777159.xyz&path=%2F5txgrUN3oqXENw4Z4&fp=chrome&alpn=http%2F1.1#United+States
+vmess://eyJhZGQiOiAiMTUuMjM1LjgzLjIyNyIsICJ2IjogIjIiLCAicHMiOiAiQ2FuYWRhIiwgInBvcnQiOiA0NDMsICJpZCI6ICIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAibWFua2FkbXUuY29tIiwgInBhdGgiOiAiL2xpbmt2d3MiLCAidGxzIjogInRscyJ9
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@67.220.95.102:8080#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3aXk2TEZiNE92WEM2VGU0MEh3SzFG@81.19.141.45:443#Germany
+ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@23.154.136.132:5499#United+States
+vmess://eyJhZGQiOiAiMTA0LjE3LjIxMy4yNDEiLCAidiI6ICIyIiwgInBzIjogIlVuaXRlZCBTdGF0ZXMiLCAicG9ydCI6IDIwNTIsICJpZCI6ICIzZTJiYWY2YS02NWYxLTMxOWEtYWRkMy0wMzkwMjljOTczNzIiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiMTAwLTk4LTc1LTE1Ny5zMi5kYi1saW5rMDEudG9wIiwgInBhdGgiOiAiL2RhYmFpLmluMTA0LjIxLjE4OC4xNzQiLCAidGxzIjogIiJ9
+trojan://123@104.24.92.207:2053?sni=epeius001-ea1.pages.dev&type=ws&host=epeius001-ea1.pages.dev#United+States
+vmess://eyJ2IjogIjIiLCAicHMiOiAiR2VybWFueSIsICJhZGQiOiAiOTQuMTM2LjE4NC4xNTYiLCAicG9ydCI6IDM4ODcyLCAiaWQiOiAiMjIwNzMyY2MtOWU0My00NDUzLTgzZjEtYzk0MzViZTI1YjViIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICJub25lIn0=
+trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@160.79.105.220:443?allowInsecure=0&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz&path=/proxyip=160.79.105.220:443#United+States
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@67.220.95.29:443#United+States
 ```
 <h5>عنوان الاشتراك الدائم للعقدة العليا (جزء): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ar</h5>
  <p>رمز الاستجابة السريعة لعنوان الاشتراك أعلاه</p>

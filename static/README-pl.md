@@ -35,18 +35,18 @@
  <h4>Lista węzłów: (wyświetlane są tutaj tylko niektóre węzły. Pobierz aplikację, aby wyświetlić wszystkie węzły)</h4>
     
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWEdwMStpaGxmS2c4MjZI@64.176.85.73:1866#Singapore
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@67.220.95.102:3389#United+States
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.68.135.247:8881#United+States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMzgzNzIyNGVkNDY1ZjAw@45.144.48.63:57456#Poland
-vmess://eyJhZGQiOiAiMTkzLjEyMi41OC4xNTgiLCAidiI6ICIyIiwgInBzIjogIkdlcm1hbnkiLCAicG9ydCI6IDQ0MywgImlkIjogImU1MzdmMmY1LTJhMGMtNGY1OS05MmM5LTgzMmNhNjQzM2JmMyIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJpcnZpZGVvLmNmZCIsICJwYXRoIjogIi9saW5rd3MiLCAidGxzIjogInRscyJ9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.166:8080#Lithuania
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@67.220.95.102:9101#United+States
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.241:443#United+States
+trojan://T%40_WvT8Ho%40LW%25w_%2C@172.66.47.42:2053?security=tls&sni=NOp-55q.pAgEs.dEv&type=ws&host=nop-55q.pages.dev&path=%2FtrGPZDfetEwuO25SAs%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#United+States
+vmess://eyJhZGQiOiAiNDUuOC4xNDUuMTQ1IiwgInYiOiAiMiIsICJwcyI6ICJUaGUgTmV0aGVybGFuZHMiLCAicG9ydCI6IDMwNTIwLCAiaWQiOiAiMzAzODAyNGYtM2EzNC00MjI4LWI2MWMtZDc0MWIyZmJlYzhmIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIiLCAidGxzIjogIiJ9
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.121.43.71:443#United+States
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.34.244.77:443#The+Netherlands
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@64.74.163.130:990#United+States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxYTE3YjE5ZC00ODk2LTQ1MzEtYWY3OS02ZTkxZDhlZjgyMjg=@13.209.10.213:6666#South+Korea
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.34.244.68:443#The+Netherlands
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@67.220.95.102:7001#United+States
+trojan://15153c1d-fc81-4b2a-9689-7b4e4a72dce5@104.21.32.242:443?security=tls&sni=b9uujhyt.890604.dpdns.org&type=ws&host=b9uujhyt.890604.dpdns.org&path=%2Fl6lvY4hFZriQDBimbKYmPIggy&fp=chrome&alpn=http%2F1.1#United+States
+trojan://rXzh%3B%3FnW1GGKB%28K8@104.21.18.192:443?security=tls&sni=sAiKOXpUbGm.ZhkinGkuRD13.WorkErs.dEV&type=ws&host=saikoxpubgm.zhkingkurd13.workers.dev&path=%2Ftr4BCdusB84159lWnu#United+States
+trojan://f0f6e76e-e5fe-4e2c-9faf-34832e021eae@104.21.25.95:443?sni=DDd.890604.FIlEGear-sG.Me&type=ws&host=DDd.890604.FIlEGear-sG.Me&path=%2FmZr1mA5hub7QHHkQBzYO&allowInsecure=0#United+States
+ss://YWVzLTEyOC1nY206WWMyQ3RySXo4TA==@2.58.87.221:16899#United+States
+trojan://0bf83a1d-f785-487a-a479-3c3de2566ba6@104.21.77.44:443?security=tls&sni=x4444.890603.xyz&type=ws&host=x4444.890603.xyz&path=%2FxJXdWGMbbZovkcaL2SsGTGxE&fp=chrome&alpn=http%2F1.1#United+States
+vmess://eyJhZGQiOiAiMTQ2LjE5LjE2OC4xNjEiLCAiYWlkIjogMCwgImhvc3QiOiAiYXowNS5iZXlvbmR5LmNmZCIsICJpZCI6ICIzZjYzOGYzNC04ZGJhLTQxODYtYmM0My0yNzE2YTdkZGQ0YmUiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL2xpbmsiLCAicG9ydCI6IDQ0MywgInBzIjogIkZyYW5jZSIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiBmYWxzZSwgInNuaSI6ICJhejA1LmJleW9uZHkuY2ZkIn0=
+ss://YWVzLTI1Ni1nY206N0JjTGRzTzFXd2VvR0QwWA==@193.243.147.128:40368#France
 ```
 <h5>Stały adres subskrypcji górnego węzła (część): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_pl</h5>
  <p>Kod QR dla adresu subskrypcji powyżej</p>

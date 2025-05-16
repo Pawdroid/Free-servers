@@ -35,18 +35,18 @@
  <h4>Lista de nodos: (aquí solo se muestran algunos nodos; descargue la aplicación para ver todos los nodos)</h4>
     
 ```
-trojan://trojan@104.18.3.150:443?security=tls&sni=main.xicun.us.kg&type=ws&host=main.xicun.us.kg#Estados+Unidos
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@67.220.95.133:5004#Estados+Unidos
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@103.104.247.47:8080#Holanda
-trojan://4abad10b-be0d-48bf-ab8a-3311463084d4@wb.kaiqsz.com:42765?allowInsecure=1&sni=mmbiz1.redapricotcloud.com#China
-trojan://Bc%23%3F%3Fcut0k9l@188.114.97.1:2053?security=tls&sni=G7tAu5Zf41EQNf9fpWJ8RmQy3SFyEi4l.prX11.WOrkers.DEV&type=ws&host=g7tau5zf41eqnf9fpwj8rmqy3sfyei4l.prx11.workers.dev&path=%2FtrTelegram%40V2ray_Alpha%2F%3Fed%3D2560&fp=randomized&alpn=http%2F1.1#Holanda
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@23.150.248.235:6679#Estados+Unidos
-vmess://eyJhZGQiOiAiMTcyLjY3LjE1Ni4yMTAiLCAidiI6ICIyIiwgInBzIjogIkVzdGFkb3MgVW5pZG9zIiwgInBvcnQiOiA0NDMsICJpZCI6ICI3NjIyMWJmYi1lOTJmLTRlODAtODFjNS02ZmU0OGY1MGFjMGIiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiZ2x3ZWlkZi5zYnMiLCAicGF0aCI6ICIvbGlua3dzIiwgInRscyI6ICJ0bHMifQ==
-vmess://eyJhZGQiOiAiNjIuMTQ2LjIzMy43OSIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiYWUwZmE4MjItNThiYi00ODNmLTlhZjUtZDQxN2Q4YzIzYjIxIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIiLCAicG9ydCI6ICI0NDEyNyIsICJwcyI6ICJBbGVtYW5pYSIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
-trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@192.0.54.184:443?allowInsecure=0&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz&path=/proxyip=192.0.54.184:443#Estados+Unidos
-vmess://eyJhZGQiOiAiMTA0LjIxLjgyLjE4MyIsICJhaWQiOiAwLCAiaG9zdCI6ICJzZXJ2ZXIyNi5iZWhlc2h0YmFuZWguY29tIiwgImlkIjogIjVhNzAyMWUwLTI2YjQtNDVkNi1iMTc1LWZlNTUxNjAxY2E5NyIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgInBvcnQiOiA4ODgwLCAicHMiOiAiRXN0YWRvcyBVbmlkb3MiLCAidGxzIjogIiIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIifQ==
-vmess://eyJhZGQiOiAiMTcyLjY3LjE3MC41MSIsICJ2IjogIjIiLCAicHMiOiAiRXN0YWRvcyBVbmlkb3MiLCAicG9ydCI6IDgwLCAiaWQiOiAiY2VkMzA3YTItYWYyYy00MTEzLWJlYmMtZmI4ODhjNzAyYjdkIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogIm00ZnJ0Ljk5OTE4Mi54eXoiLCAicGF0aCI6ICIvUEVRN0NvQTFWckJ3c2JuRWNtSkx4QyIsICJ0bHMiOiAiIn0=
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@45.154.206.192:990#Reino+Unido
+vmess://eyJhZGQiOiAiMTA0LjIxLjExMi4xIiwgInYiOiAiMiIsICJwcyI6ICJFc3RhZG9zIFVuaWRvcyIsICJwb3J0IjogMjA4MywgImlkIjogIjk5NjAxNmY3LWRhODktNDVmMS1iM2I0LTU1NWJjNzk5ZWQ4NiIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJyYWsyZDIuNzc3MjY5Lnh5eiIsICJwYXRoIjogIi8iLCAidGxzIjogInRscyJ9
+trojan://f0f6e76e-e5fe-4e2c-9faf-34832e021eae@172.67.172.91:443?allowInsecure=0&sni=Ty.457.pP.uA&type=ws&host=Ty.457.pP.uA&path=%2FmZr1mA5hub7QHHkQBzYO#Estados+Unidos
+trojan://klZqKyxq0H@57.128.165.173:1935?sni=x1-england-ovh-v2.devefun.net#Francia
+trojan://b32dc323-4d33-471c-870b-b6c0d0bd8034@172.67.201.36:443?security=tls&sni=ZxsW34.FrEEvPN2026.DPdnS.ORg&type=ws&host=zxsw34.freevpn2026.dpdns.org&path=%2F8WDTEY2cOCqJ1IJp7eBtFJ&fp=chrome&alpn=http%2F1.1#Estados+Unidos
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@23.150.152.43:7002#Estados+Unidos
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.181:8080#Lituania
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMTVNOaDIxVHJYalIyb2syNVEybkU4RU5UMnpvQm1QdmthM1JDQ1VBSFpFTENuV29la1ZqdmFmODlxd2NSa2RieEVmZXAyYmMyYVV0bW54cXZGMWF5UVJlejFKSGpVTGo=@166.88.131.195:52952#Estados+Unidos
+trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@212.183.88.172:443?sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz&allowInsecure=1#Austria
+vmess://eyJhZGQiOiAiZGUwMS5zaC1jbG91ZGZsYXJlLnNicyIsICJ2IjogIjIiLCAicHMiOiAiRXN0YWRvcyBVbmlkb3MiLCAicG9ydCI6IDIwOTYsICJpZCI6ICJlZmE2OWM3MC1iZDhhLTRmMjQtOGIwMi1lYzQyN2JlMTBjM2QiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiZGUwMS5zaC1jbG91ZGZsYXJlLnNicyIsICJwYXRoIjogIi8iLCAidGxzIjogInRscyJ9
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@69.50.93.47:7002#Estados+Unidos
+vmess://eyJhZGQiOiAiNDUuMTIuMTM4LjgyIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICJjZGU5ZjA3NC1jOTMwLTRhYTMtYTU1OC00NmJiYzlkMGE1YTEiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogIjU0NzU3IiwgInBzIjogIlN1ZWNpYSIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.154.136.132:5000#Estados+Unidos
 ```
 <h5>La dirección de suscripción permanente del nodo superior (parte): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_es</h5>
  <p>Código QR para la dirección de suscripción anterior</p>

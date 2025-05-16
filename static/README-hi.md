@@ -35,18 +35,18 @@
  <h4>नोड सूची: (यहां केवल कुछ नोड्स प्रदर्शित हैं, कृपया सभी नोड्स देखने के लिए ऐप डाउनलोड करें)</h4>
     
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXZm14S1gyRkJKUlUwSWU5VkxJWURM@141.98.234.93:20012#Hong+Kong
-trojan://9e7caa3b-ca9c-40ba-9ea0-f0c992359239@172.67.220.93:443?security=tls&sni=m2rrrty.777219.xyz&type=ws&host=m2rrrty.777219.xyz&path=%2FduJhdsnTCbijwHNYeMcCs9&fp=chrome&alpn=http%2F1.1#United+States
-vmess://eyJhZGQiOiAiMTA0LjE4LjE0OS43NiIsICJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJwb3J0IjogNDQzLCAiaWQiOiAiZGU5NGNjMGEtMDU5Mi00OTY5LWIxZmMtOTdlYThmMGVhMGIzIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogInVzLmtrcC5tZS5ldS5vcmciLCAicGF0aCI6ICIvYWEiLCAidGxzIjogInRscyJ9
-vmess://eyJhZGQiOiAiNDYuMjUwLjIzNC4zMiIsICJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIEtpbmdkb20iLCAicG9ydCI6IDQ1MzE3LCAiaWQiOiAiYjI4MzYzNjktMjIwYi00ODQwLTgwYzQtOGNmOTA0YzczNWVlIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIiLCAidGxzIjogIiJ9
-vmess://eyJhZGQiOiAiMTkzLjEyMi41OC4xNTgiLCAidiI6ICIyIiwgInBzIjogIkdlcm1hbnkiLCAicG9ydCI6IDQ0MywgImlkIjogImU1MzdmMmY1LTJhMGMtNGY1OS05MmM5LTgzMmNhNjQzM2JmMyIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJpcnZpZGVvLmNmZCIsICJwYXRoIjogIi9saW5rd3MiLCAidGxzIjogInRscyJ9
-trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@185.133.35.38:443?allowInsecure=1&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz&path=/proxyip=185.133.35.38:443&proxyIP=null#Brazil
-trojan://feac8d6d-8fcf-4ef1-9ad0-18833c9fca11@green.cdntencentmusic.com:28505?allowInsecure=0&sni=green.cdntencentmusic.com#Taiwan
-trojan://vpn@89.191.234.182:2025?security=none&type=ws&host=vkvd127.mycdn.me&path=%2F#United+States
-trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@217.163.76.227:443?allowInsecure=0&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz&path=/proxyip=217.163.76.227:443#United+Kingdom
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@23.154.136.51:6697#United+States
-trojan://xxoo@us.blazeppn.info:443?allowInsecure=0&sni=us.blazeppn.info#United+States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.158.171.151:8080#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpucTk2S2Z0clpBajNMdUZRRVNxbW40NE1vNW9DdW8yY2lwb0VzYWUyNW1ybUhHMm9KNFZUMzdzY0JmVkJwTjVEV3RVRUxadXRWaGhYczhMZTVCOGZaOWhMbjl5dHd2YmY=@208.67.105.87:42501#The+Netherlands
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0NmU2N2Y1YS02M2U0LTQ1NjYtODcwYy03NmVhYTljZjc2ZmU=@149.28.106.134:31444#United+States
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.121.43.71:8119#United+States
+trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@194.76.18.122:443?allowInsecure=0&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz&path=/proxyip=194.76.18.122:443#Kazakhstan
+vmess://eyJhZGQiOiAiMTcyLjY3LjE1Ni4yMTAiLCAidiI6ICIyIiwgInBzIjogIlVuaXRlZCBTdGF0ZXMiLCAicG9ydCI6IDQ0MywgImlkIjogIjc2MjIxYmZiLWU5MmYtNGU4MC04MWM1LTZmZTQ4ZjUwYWMwYiIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJnbHdlaWRmLnNicyIsICJwYXRoIjogIi9saW5rd3MiLCAidGxzIjogInRscyJ9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowMDcyYzVlMjQxYWVjZmI3@217.77.3.42:40410#United+Kingdom
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@67.220.95.133:7306#United+States
+vmess://eyJhZGQiOiAiNTcuMTI5LjI1LjI1IiwgInYiOiAiMiIsICJwcyI6ICJGcmFuY2UiLCAicG9ydCI6IDQ0MywgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJmLmtoaWxlaS5jb20iLCAicGF0aCI6ICIvbGlua3Z3cyIsICJ0bHMiOiAidGxzIn0=
+trojan://OLq0FfOlp7@141.227.160.88:1935?security=tls&sni=x1-sweden-ovh-v2.devefun.net&type=tcp&allowInsecure=1#France
+vmess://eyJ2IjogIjIiLCAicHMiOiAiSG9uZyBLb25nIiwgImFkZCI6ICIxODIuMjM3LjAuMTI3IiwgInBvcnQiOiAiMTA4NiIsICJ0eXBlIjogIm5vbmUiLCAiaWQiOiAiNWFlZjliZmQtMjBlMy00MjBhLTliMTYtNDMzMDMxOTg0YmQ5IiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi96eGFzY2FzIiwgImhvc3QiOiAid3d3Lm91YWJhdWEuY29tIiwgInRscyI6ICJ0bHMiLCAic25pIjogImhrLTAyLmZveHNwaXJpdC5jbGljayIsICJhbGxvd2luc2VjdXJlIjogMSwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlfQ==
+trojan://a926af96-2cfe-4169-8107-6c5f0d74a938@104.21.22.211:443?security=tls&sni=5.taipei108.dpdns.org&type=ws&host=5.taipei108.dpdns.org&path=%2F5NB3RVAWa3Uo1P5zFPkui&fp=chrome&alpn=http%2F1.1#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.93.173.218:990#Bolivia
 ```
 <h5>ऊपरी नोड (भाग) का स्थायी सदस्यता पता: https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_hi</h5>
  <p>उपरोक्त सदस्यता पते के लिए QR कोड</p>

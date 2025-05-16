@@ -35,18 +35,18 @@
  <h4>Lista de nós: (Apenas alguns nós são exibidos aqui, baixe o aplicativo para visualizar todos os nós)</h4>
     
 ```
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.34.244.68:443#Holanda
-trojan://xxoo@138.197.5.103:443?allowInsecure=0&sni=us.blazeppn.info#EUA
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowUnNyY0ZKMXZPc1dFcWczUDU1aHZhYWNLZnVTaFQwY2MxaDB0OEFEME5BOHUxdVI=@92.38.171.215:31348#Espanha
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMY2MxbHc4SVAyS0k=@77.91.103.73:443#Finl%C3%A2ndia
-vmess://eyJ2IjogIjIiLCAicHMiOiAiSG9uZyBLb25nIiwgImFkZCI6ICIxNDBkOGE4ZC1zd2V4czAtdDV1cmI3LTFpMS5oZ2MxLnRjcGJici5uZXQiLCAicG9ydCI6ICI4MDgwIiwgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiNmJjZjVhMTAtYmZlOC0xMWVjLWJkN2MtZjIzYzkxM2M4ZDJiIiwgInNuaSI6ICIiLCAiaG9zdCI6ICJicm9hZGNhc3Rsdi5jaGF0LmJpbGliaWxpLmNvbSIsICJwYXRoIjogIi8ifQ==
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOWQ3M2M4NGUzMmExMGYz@57.128.190.171:11259#Fran%C3%A7a
-vmess://eyJhZGQiOiAiZ292LnVrIiwgInYiOiAiMiIsICJwcyI6ICJFVUEiLCAicG9ydCI6IDQ0MywgImlkIjogIjc3ODQ4ODI0LTkzYjctNGI4OS1mZmQwLWU5MWFmZmY0MDZjZSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJ6aGVzaGlzY3AuY29tIiwgInBhdGgiOiAiLzc3ODQ4ODI0IiwgInRscyI6ICJ0bHMifQ==
-trojan://G9CHhXltVx@96.9.213.108:12646?security=tls&sni=96.9.213.108&type=tcp&allowInsecure=1#Singapura
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@64.74.163.218:990#EUA
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@uk-dc1.yangon.club:443#Reino+Unido
-vmess://eyJhZGQiOiAiMTUyLjY3LjI1MS4yMzIiLCAiYWlkIjogMCwgImhvc3QiOiAiaXJ2aWRlby5jZmQiLCAiaWQiOiAiZTUzN2YyZjUtMmEwYy00ZjU5LTkyYzktODMyY2E2NDMzYmYzIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9saW5rd3MiLCAicG9ydCI6IDQ0MywgInBzIjogIkVVQSIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiBmYWxzZSwgInNuaSI6ICJpcnZpZGVvLmNmZCJ9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpucTk2S2Z0clpBajNMdUZRRVNxbW40NE1vNW9DdW8yY2lwb0VzYWUyNW1ybUhHMm9KNFZUMzdzY0JmVkJwTjVEV3RVRUxadXRWaGhYczhMZTVCOGZaOWhMbjl5dHd2YmY=@208.67.105.87:42501#Holanda
+ss://YWVzLTI1Ni1nY206VlhOYmFKN3JDZDY1aVBkYw==@51.161.164.74:8388#Austr%C3%A1lia
+vmess://eyJhZGQiOiAiMTA0LjIxLjMuMjE5IiwgInYiOiAiMiIsICJwcyI6ICJFVUEiLCAicG9ydCI6IDg0NDMsICJpZCI6ICJjMzEzNjA2Zi05OGMyLTRkN2ItYmE3NC00OGI5NGY2MWIxMWQiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAidXN3dXhpYW4ucGFpNTAyODgudWsiLCAicGF0aCI6ICIvIiwgInRscyI6ICJ0bHMifQ==
+vmess://eyJ2IjogIjIiLCAicHMiOiAiQWxlbWFuaGEiLCAiYWRkIjogIjk0LjEzNi4xODQuMTU1IiwgInBvcnQiOiAzOTI1MywgImlkIjogIjY5YjQ5YTM1LWNmNTUtNGQxNC05ZjJiLWQ3Y2UzYTBkYjcyZSIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAibm9uZSIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZX0=
+trojan://Mojtaba-shieldheart@104.24.28.219:2083?security=tls&sni=broken-bread-6ba6.shieldheart4.workers.dev&type=ws&host=broken-bread-6ba6.shieldheart4.workers.dev&path=%2F%3Fed%3D2560&fp=randomized#EUA
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.114.114.143:443#EUA
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.132:8080#Holanda
+vmess://eyJhZGQiOiAiMzguMTQ3LjEwNy4yMTQiLCAidiI6ICIyIiwgInBzIjogIkVVQSIsICJwb3J0IjogMjM3NzAsICJpZCI6ICI2YzU2NTBjZC1hYWFjLTQxMTAtZmIzNS1iNjVlN2RkNDJiNDIiLCAiYWlkIjogIjAiLCAibmV0IjogInRjcCIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAiIn0=
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.121.43.71:8882#EUA
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.121.43.71:2376#EUA
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.121.43.97:8091#EUA
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.75.136.28:7001#EUA
+trojan://12345678@198.62.62.4:443?security=tls&sni=7bdfb97a.ikl.pages.dev&type=ws&host=7bdfb97a.ikl.pages.dev&path=%2F7bdfb97a.ikl.pages.dev#EUA
 ```
 <h5>O endereço de assinatura permanente do nó superior (parte): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_pt-BR</h5>
  <p>Código QR do endereço de assinatura acima</p>

@@ -35,18 +35,18 @@
  <h4>نوڈ کی فہرست: (یہاں صرف کچھ نوڈس دکھائے گئے ہیں، براہ کرم تمام نوڈس دیکھنے کے لیے ایپ ڈاؤن لوڈ کریں)</h4>
     
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.35:8080#Lithuania
-trojan://vpn@46.29.234.154:2025?security=none&type=ws&path=/&host=dns.google.com#Lithuania
-trojan://FiSo7J6vfS@51.68.13.106:1935?security=tls&sni=x1fr-ovh.devefun.net#France
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZc015YzJLZXpINUxFdU9rTDNoSUtE@185.221.196.34:57602#Russia
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.121.43.97:7306#United+States
-vmess://eyJhZGQiOiAiNjYuMjI1LjIyOC4xOCIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiYWZkOTE4OTItYWE0NS00Mzc0LWVlZTItODY5MmNjOTJkOGJmIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIvIiwgInBvcnQiOiAiNTA3OTUiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZX0=
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwVjVCQXpxTFpvc09mdUlya3lvYWRU@5.181.21.194:18660#Austria
-vmess://eyJhZGQiOiAiNjIuMTQ2LjIzMy42NiIsICJ2IjogIjIiLCAicHMiOiAiR2VybWFueSIsICJwb3J0IjogMTU4MjgsICJpZCI6ICI4YjljZjNkYy1jMjgyLTQyNGYtYTU5MC1jNDVjOWEzNmQzZjkiLCAiYWlkIjogIjAiLCAibmV0IjogInRjcCIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAiIn0=
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.167:443#United+States
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.196:443#United+Kingdom
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@38.121.43.71:6679#United+States
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@uk-dc1.yangon.club:443#United+Kingdom
+trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@194.76.18.122:443?allowInsecure=0&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz&path=/proxyip=194.76.18.122:443#Kazakhstan
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.143.66.87:5000#United+States
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@23.157.40.101:8008#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.69:8080#Lithuania
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@beesyar.org:8080#Lithuania
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@45.154.206.192:990#United+Kingdom
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@92.118.205.228:990#Poland
+trojan://4732adfa16c6450bbef87264e41332db@nextstepcareer.online:443#Germany
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@67.220.95.102:8000#United+States
+trojan://53249200-30ff-436f-a032-0bb00605f8f9@172.67.219.196:443?security=tls&sni=3derty.852224.dpdns.org&type=ws&host=3derty.852224.dpdns.org&path=%2FYPTDHLX8qjvTU5JqXZxjQ5ILc&fp=chrome&alpn=http%2F1.1#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.65:8080#Lithuania
+trojan://d889b4c8-dab9-4b0c-932b-e4071c727308@172.67.158.146:443?security=tls&sni=M6ghjK.777169.xyz&type=ws&host=m6ghjk.777169.xyz&path=%2FvFeLkPJXEksjERPwvxRA&fp=chrome&alpn=http%2F1.1#United+States
 ```
 <h5>اوپری نوڈ کا مستقل رکنیت کا پتہ (حصہ): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ur-PK</h5>
  <p>اوپر سبسکرپشن ایڈریس کے لیے QR کوڈ</p>

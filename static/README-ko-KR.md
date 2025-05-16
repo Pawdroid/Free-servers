@@ -35,18 +35,18 @@
  <h4>노드 목록: (여기에는 일부 노드만 표시됩니다. 모든 노드를 보려면 앱을 다운로드하세요.)</h4>
     
 ```
-trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@45.67.215.5:443?allowInsecure=1&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz&path=/proxyip=45.67.215.5:443&proxyIP=null#Russia
-vmess://eyJhZGQiOiAiMTA0LjIxLjgyLjM5IiwgInYiOiAiMiIsICJwcyI6ICJVbml0ZWQgU3RhdGVzIiwgInBvcnQiOiA4MCwgImlkIjogIjRiZTIwY2YxLTZhZjEtNGU4Ny1hZTVhLTgwZDZlYzMwZmVjZCIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICI4dWlvcC4xOTEyODgueHl6IiwgInBhdGgiOiAiL1d1ZFEyaHpqMnFqSDFHaHp4UlY5UFMiLCAidGxzIjogIiJ9
-trojan://Mojtaba-shieldheart@162.159.152.241:2096?security=tls&sni=broken-bread-6ba6.shieldheart4.workers.dev&type=ws&host=broken-bread-6ba6.shieldheart4.workers.dev&path=%2F%3Fed%3D2560&fp=randomized#United+States
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@67.220.95.102:3306#United+States
-trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@212.183.88.172:443?sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz&allowInsecure=1#Austria
-trojan://vpn@89.191.234.182:2025?security=none&type=ws&host=vkvd127.mycdn.me&path=%2F#United+States
-trojan://fefba36d-5142-42f1-b14d-db5249511d93@172.67.152.170:443?security=tls&sni=5ttt.191288.xyz&type=ws&host=5ttt.191288.xyz&path=%2FBFBuPh4SuxTxCwkqKrjE&fp=chrome&alpn=http%2F1.1#United+States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.158.171.132:8080#United+States
-vmess://eyJhZGQiOiAiNjIuMTQ2LjIzMy42NiIsICJ2IjogIjIiLCAicHMiOiAiR2VybWFueSIsICJwb3J0IjogMTU4MjgsICJpZCI6ICI4YjljZjNkYy1jMjgyLTQyNGYtYTU5MC1jNDVjOWEzNmQzZjkiLCAiYWlkIjogIjAiLCAibmV0IjogInRjcCIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAiIn0=
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.121.43.71:8080#United+States
-trojan://4a3ee276-f50f-46f6-ba4d-13571732ab70@172.67.175.139:443?security=tls&sni=X3W4.859886.XYz&type=ws&host=x3w4.859886.xyz&path=%2FCOp52Dbu3dvwvDWUxOqxq&fp=chrome&alpn=http%2F1.1#United+States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwVjVCQXpxTFpvc09mdUlya3lvYWRU@5.181.21.194:18660#Austria
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMzgzNzIyNGVkNDY1ZjAw@war.ssvpnapp.win:57456#Poland
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.154.136.51:8888#United+States
+vmess://eyJhZGQiOiAiNTEuNzkuMTAyLjI1MyIsICJhaWQiOiAwLCAiaG9zdCI6ICI1MS43OS4xMDIuMjUzIiwgImlkIjogIjU4ZmUxNTQyLTUyOTAtNDBhZC04MTVhLTc3NzA3YTgxYWZlNSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvSU9lYmhMTWhsMUNUYkZIYkw5NW15ZlJYMiIsICJwb3J0IjogODAsICJwcyI6ICJDYW5hZGEiLCAidGxzIjogIiIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIifQ==
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@23.154.136.132:7002#United+States
+vmess://eyJhZGQiOiAiMTA0LjIxLjk2LjEiLCAiYWlkIjogMCwgImhvc3QiOiAiZGUwMS5zaC1jbG91ZGZsYXJlLnNicyIsICJpZCI6ICJiMzkyOGY4ZC1lYTgxLTRkNzUtYmNlYy00MDE2YTA3MmFkZmYiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLyIsICJwb3J0IjogMjA5NiwgInBzIjogIlVuaXRlZCBTdGF0ZXMiLCAidGxzIjogInRscyIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIifQ==
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuT2ZrS2JvREF4aFR4MmsxY0FsdEl6@194.87.45.189:443#Spain
+trojan://895552fa-6284-4c1d-ba00-3944e0c7c626@104.21.71.112:443?security=tls&sni=CFR56ty7890.288288.sHOP&type=ws&host=cfr56ty7890.288288.shop&path=%2FBy7cEmOrNRS58yeduy9AOG&fp=chrome&alpn=http%2F1.1#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.251:8080#The+Netherlands
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@139.59.119.143:443?sni=connectwithemployers.online#Singapore
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@69.50.93.47:7002#United+States
+trojan://a5fd0c47-f3f6-48c8-becb-cc766edf3e1a@172.67.201.201:443?security=tls&sni=m5rtyu.999658.xyz&type=ws&host=m5rtyu.999658.xyz&path=%2FGawgMugyRDAQXp6e0CScyGqcQZW&fp=chrome&alpn=http%2F1.1#United+States
+trojan://15153c1d-fc81-4b2a-9689-7b4e4a72dce5@172.67.188.77:443?sni=edfr4.890604.dpdns.org&type=ws&host=edfr4.890604.dpdns.org&path=/l6lvY4hFZriQDBimbKYmPIggy&allowInsecure=0#United+States
 ```
 <h5>상위 노드(일부)의 영구 구독 주소: https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ko-KR</h5>
  <p>위 구독 주소의 QR 코드</p>

@@ -35,18 +35,18 @@
  <h4>Danh sách nút: (Chỉ hiển thị một số nút ở đây, vui lòng tải xuống ứng dụng để xem tất cả các nút)</h4>
     
 ```
-trojan://895552fa-6284-4c1d-ba00-3944e0c7c626@172.67.144.126:443?security=tls&type=ws&sni=CFR56ty7890.288288.sHOP&path=/By7cEmOrNRS58yeduy9AOG&host=cfr56ty7890.288288.shop#United+States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.69:8080#Lithuania
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.110.1.88:5600#United+States
-trojan://fefba36d-5142-42f1-b14d-db5249511d93@104.21.82.39:443?security=tls&sni=5ttt.191288.xyz&type=ws&host=5ttt.191288.xyz&path=%2FBFBuPh4SuxTxCwkqKrjE&fp=chrome&alpn=http%2F1.1#United+States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.158.171.132:8080#United+States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@147.78.1.27:990#Mexico
-trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@217.163.76.89:443?allowInsecure=1&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz&path=/proxyip=217.163.76.89:443&proxyIP=null#United+Kingdom
-vmess://eyJhZGQiOiAiaXAuc2IiLCAidiI6ICIyIiwgInBzIjogIlVuaXRlZCBTdGF0ZXMiLCAicG9ydCI6IDQ0MywgImlkIjogImNmYThjMzZjLTk2NTItNDg0YS04OWUxLTM0ZGNjOThmYWFjMyIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJjZG4uM2lhcHBzLmNvbSIsICJwYXRoIjogIi92bWVzcz9lZD0yMDQ4IiwgInRscyI6ICJ0bHMifQ==
-vmess://eyJhZGQiOiAiMTA0LjIxLjY0LjEiLCAidiI6ICIyIiwgInBzIjogIlVuaXRlZCBTdGF0ZXMiLCAicG9ydCI6IDIwOTYsICJpZCI6ICI4Zjc4ZTcwOS0yYzVmLTRjMTktOWY0NC1iNWI1ZjgwYWI3NGMiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiY2MyZDEuOTg4OTg4LnNob3AiLCAicGF0aCI6ICIvIiwgInRscyI6ICJ0bHMifQ==
-trojan://1549e70f-dc57-45e3-ac7c-515f0161db72@104.21.7.147:443?security=tls&sni=6667.HUAnGSHanG.dpdNs.orG&type=ws&host=6667.HUAnGSHanG.dpdNs.orG&path=%2FTomYJoQX0RSt1mktNrT&allowInsecure=1#United+States
-trojan://trojan@45.192.222.112:8443?security=tls&sni=store.timimi.dpdns.org&type=ws&host=store.timimi.dpdns.org&path=%2F%3Fed%3D2560&fp=random#Hong+Kong
-trojan://f82fb954-06a1-4f0b-9180-17e07585b61f@104.21.23.162:443?allowInsecure=0&sni=6tghjk.131.pp.ua&type=ws&host=6tghjk.131.pp.ua&path=%2FYu29UN3Yz8hcnI3SlZor0#United+States
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.121.43.71:5601#United+States
+vmess://eyJhZGQiOiAiaGsyLmxyemR4LnVrIiwgInYiOiAiMiIsICJwcyI6ICJVbml0ZWQgU3RhdGVzIiwgInBvcnQiOiA0NDMsICJpZCI6ICJkYjY5ZDViYy1kMzZjLTQ5MDMtZjQ3MS03NGI5OGM1Y2VmZTUiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiL3JlZ2lzdGVyIiwgInRscyI6ICJ0bHMifQ==
+ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@69.50.93.47:6379#United+States
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@23.157.40.101:7307#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.199:8080#Lithuania
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.121.43.71:443#United+States
+vmess://eyJhZGQiOiAiMTU0LjI2LjE1My4xNjEiLCAidiI6ICIyIiwgInBzIjogIkF1c3RyYWxpYSIsICJwb3J0IjogMjE3NTksICJpZCI6ICJlNWYxNmZhZC1mOWMzLTQ1MmItOGU3MS1iYzk1MDRlMjlmYzkiLCAiYWlkIjogIjAiLCAibmV0IjogInRjcCIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAiIn0=
+trojan://12345678@198.62.62.4:443?security=tls&sni=7bdfb97a.ikl.pages.dev&type=ws&host=7bdfb97a.ikl.pages.dev&path=%2F7bdfb97a.ikl.pages.dev#United+States
+trojan://bpb-trojan@us.madison.eu.org:443?allowInsecure=0&sni=skwygx.top&type=ws&host=skwygx.top&path=/tr?ed=2560#Hong+Kong
+vmess://eyJhZGQiOiAiNDUuMTIuMTQ1LjExMSIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiMWI0MTE1M2UtYzRkNC00MzFiLTgzZWItMTA0NzJmODY5ZjkzIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIiLCAicG9ydCI6ICI0NjI5MCIsICJwcyI6ICJTcGFpbiIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
+trojan://I46LpSIM1f@194.164.57.9:1935?sni=x4ger-ionos.devefun.net#Germany
+trojan://telegram-id-directvpn@13.62.15.8:22223?allowInsecure=0&sni=trojan.burgerip.co.uk#United+States
 ```
 <h5>Địa chỉ đăng ký vĩnh viễn của nút trên (một phần): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_vi</h5>
  <p>Mã QR cho địa chỉ đăng ký ở trên</p>

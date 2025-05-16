@@ -35,18 +35,18 @@
  <h4>Список узлов: (здесь показаны только некоторые узлы. Загрузите приложение, чтобы просмотреть все узлы)</h4>
     
 ```
-trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@217.163.76.237:443?allowInsecure=0&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz&path=/proxyip=217.163.76.237:443#%D0%91%D1%80%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D1%8F
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.10:8080#%D0%9B%D0%B8%D1%82%D0%B2%D0%B0
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.121.43.71:2375#%D0%A1%D0%A8%D0%90
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHUwNDIxXHUwNDI4XHUwNDEwIiwgImFkZCI6ICIxMDQuMjEuNjQuMSIsICJwb3J0IjogIjIwNTMiLCAidHlwZSI6ICJub25lIiwgImlkIjogIjhmNzhlNzA5LTJjNWYtNGMxOS05ZjQ0LWI1YjVmODBhYjc0YyIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgImhvc3QiOiAiY2MyZDQuOTg4OTg4LnNob3AiLCAidGxzIjogInRscyJ9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVRGNqWVE2WjZBSVd4VmlacHF5T21P@46.246.98.155:44013#%D0%A8%D0%B2%D0%B5%D1%86%D0%B8%D1%8F
-trojan://trojan@172.64.155.16:2053?security=tls&sni=ana-service-anaservice--anaservice-antenircomorg.fmwlmluu.workers.dev&type=ws&host=ana-service-anaservice--anaservice-antenircomorg.fmwlmluu.workers.dev#%D0%A1%D0%A8%D0%90
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.121.43.71:8080#%D0%A1%D0%A8%D0%90
-trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@212.183.88.156:443?sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz&allowInsecure=1#%D0%90%D0%B2%D1%81%D1%82%D1%80%D0%B8%D1%8F
-trojan://I46LpSIM1f@194.164.57.9:1935?sni=x4ger-ionos.devefun.net#%D0%A4%D0%A0%D0%93
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@103.104.247.72:8080#%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@64.74.163.130:990#%D0%A1%D0%A8%D0%90
-vmess://eyJhZGQiOiAiMTA0LjIxLjgyLjE4MyIsICJhaWQiOiAwLCAiaG9zdCI6ICJzZXJ2ZXIyNi5iZWhlc2h0YmFuZWguY29tIiwgImlkIjogIjVhNzAyMWUwLTI2YjQtNDVkNi1iMTc1LWZlNTUxNjAxY2E5NyIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgInBvcnQiOiA4ODgwLCAicHMiOiAiXHUwNDIxXHUwNDI4XHUwNDEwIiwgInRscyI6ICIiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIn0=
+trojan://cad5a49f-14e5-4a05-aae9-c5df8fad394f@104.21.14.54:443?security=tls&sni=C1Swew.777159.xyz&type=ws&host=c1swew.777159.xyz&path=%2F5txgrUN3oqXENw4Z4&fp=chrome&alpn=http%2F1.1#%D0%A1%D0%A8%D0%90
+ss://YWVzLTI1Ni1nY206TlBPQTRXWUlEMldGOE40RQ==@8tv68qhq.slashdevslashnetslashtun.net:15016#%D0%9A%D0%B8%D1%82%D0%B0%D0%B9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1UVM1bnRWcUMwMHNTS2tlTnpVaUQz@89.23.103.125:42090#%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B
+trojan://auto@172.67.213.48:443?security=tls&sni=esetsecuritylicense2.wawafec355.workers.dev&type=ws&host=esetsecuritylicense2.wawafec355.workers.dev#%D0%A1%D0%A8%D0%90
+vmess://eyJhZGQiOiAiMi41Ni4xMjUuMTAxIiwgInYiOiAiMiIsICJwcyI6ICJcdTA0MThcdTA0NDJcdTA0MzBcdTA0M2JcdTA0MzhcdTA0NGYiLCAicG9ydCI6IDM4MDg4LCAiaWQiOiAiMTI3NWVhMTgtYmM5Yy00YmNiLWIzZmQtZmVlNzAyNzJlMTQzIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIiLCAidGxzIjogIiJ9
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@23.154.136.148:6679#%D0%A1%D0%A8%D0%90
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.81:443#%D0%91%D1%80%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D1%8F
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@23.154.136.51:6697#%D0%A1%D0%A8%D0%90
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@147.78.1.27:990#%D0%9C%D0%B5%D0%BA%D1%81%D0%B8%D0%BA%D0%B0
+trojan://trojan@104.18.13.229:8443?security=tls&sni=betashop.foz.rf.gd&type=ws&host=betashop.foz.rf.gd&path=%2F%3Fed%3D2560&fp=random#%D0%A1%D0%A8%D0%90
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@67.220.95.133:5004#%D0%A1%D0%A8%D0%90
+vmess://eyJhZGQiOiAiOTEuMTk0LjExLjExOCIsICJ2IjogIjIiLCAicHMiOiAiXHUwNDFhXHUwNDMwXHUwNDNkXHUwNDMwXHUwNDM0XHUwNDMwIiwgInBvcnQiOiAyNzY5OSwgImlkIjogImMyM2IxMjdiLWFmODctNDNiYi1hYTFlLWNlNDIzNzRhMmI1MyIsICJhaWQiOiAiMCIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiIiwgInRscyI6ICIifQ==
 ```
 <h5>Адрес постоянной подписки верхнего узла (части): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ru</h5>
  <p>QR-код для адреса подписки выше</p>
