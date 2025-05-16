@@ -35,16 +35,16 @@
  <h4>Lista węzłów: (wyświetlane są tutaj tylko niektóre węzły. Pobierz aplikację, aby wyświetlić wszystkie węzły)</h4>
     
 ```
-trojan://ad4a124c-12fb-4467-9ad0-dc6d9b509ac0@104.21.32.1:443?sni=7bhui.191262.xyz&allowInsecure=1&type=ws&path=%2FwGgR8FyAGgRCKSiyxgvJgLl&host=7bhui.191262.xyz&fp=chrome#United+States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3aXk2TEZiNE92WEM2VGU0MEh3SzFG@81.19.141.45:443#Germany
-vmess://eyJhZGQiOiAiMTYzLjUuMTU5LjIzMSIsICJ2IjogIjIiLCAicHMiOiAiRnJhbmNlIiwgInBvcnQiOiA0NDMsICJpZCI6ICJlNTM3ZjJmNS0yYTBjLTRmNTktOTJjOS04MzJjYTY0MzNiZjMiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiaXJ2aWRlby5jZmQiLCAicGF0aCI6ICIvbGlua3dzIiwgInRscyI6ICJ0bHMifQ==
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@67.220.95.102:3389#United+States
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@67.220.95.133:7001#United+States
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@216.39.248.133:7001#United+States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0NGZlNGI3ZC1jZDQ4LTQ1ZmMtYTAzNi02MGVhNDBlNGE5NmM=@107.191.63.241:30665#France
-vmess://eyJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJhZGQiOiAiNTEuODEuMjAzLjU3IiwgInBvcnQiOiAiMjg4NjAiLCAiaWQiOiAiMTc4NDQ5N2QtMDNhMS00MGJiLWJiOGItZGU0ZmZhYzdjNTljIiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiIiwgInRscyI6ICJub25lIiwgInNuaSI6ICIiLCAidGVzdF9uYW1lIjogIlVTNyJ9
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.79:443#United+Kingdom
-trojan://15b24b56-d667-4fa8-b548-f3dc942fb461@172.67.173.64:443?security=tls&sni=d9032d6c-0ac0-4bdf-bd2f.2032.pp.ua&type=ws&host=d9032d6c-0ac0-4bdf-bd2f.2032.pp.ua&path=%2F4p35eUnmGxQ8YJFJxz&fp=chrome&alpn=http%2F1.1#United+States
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.47.129:443#United+States
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@38.121.43.71:8009#United+States
+vmess://eyJhZGQiOiAiMjAyLjc4LjE2Mi41IiwgImFpZCI6IDAsICJob3N0IjogInNhaGFuZC5zZXJ2ZW1pbmVjcmFmdC5uZXQiLCAiaWQiOiAiMTE4Mjg3ZDItZTk2OC00MmUxLTgwZDAtMTJmYTJmNWQzOGQ2IiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9AZm9yd2FyZHYycmF5IiwgInBvcnQiOiA0NDMsICJwcyI6ICJMdXhlbWJvdXJnIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIn0=
+trojan://vpn@109.120.132.80:2025?security=none&type=ws&host=vkvd127.mycdn.me&path=%2F#Russia
+trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@162.159.153.216:443?sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz&allowInsecure=1#United+States
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@uk-dc1.yangon.club:443#United+Kingdom
+trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@45.67.215.153:443?sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz&allowInsecure=0#Russia
+trojan://ypDt8RkT7J@89.187.181.179:43118?sni=wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@193.29.139.175:8080#The+Netherlands
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@67.220.95.102:5601#United+States
 ```
 <h5>Stały adres subskrypcji górnego węzła (część): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_pl</h5>
  <p>Kod QR dla adresu subskrypcji powyżej</p>

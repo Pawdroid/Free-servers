@@ -35,16 +35,16 @@
  <h4>قائمة العقد: (يتم عرض بعض العقد فقط هنا، يرجى تنزيل التطبيق لعرض جميع العقد)</h4>
     
 ```
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@67.220.95.102:8881#United+States
-vmess://eyJhZGQiOiAiMTUyLjY5LjIyMC45NCIsICJhaWQiOiAwLCAiaG9zdCI6ICJhLnppcWl1MTA2MC5nZ2ZmLm5ldCIsICJpZCI6ICIyOGNhMDU2Ny03NTRlLTQ2ZmMtZTc3NC1iMTljNzg3OTc1ZjciLCAibmV0IjogIndzIiwgInBhdGgiOiAiL2RzZnNkZiIsICJwb3J0IjogNDMwNTAsICJwcyI6ICJTaW5nYXBvcmUiLCAidGxzIjogInRscyIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICJhLnppcWl1MTA2MC5nZ2ZmLm5ldCIsICJhbGxvd2luc2VjdXJlIjogMX0=
-trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@217.163.76.254:443?allowInsecure=0&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz&path=/proxyip=217.163.76.254:443#United+Kingdom
-trojan://bpb-trojan@104.26.4.60:443?security=tls&sni=zamim340.ggff.net&type=ws&host=zamim340.ggff.net&path=%2Ftr%3Fed%3D2560&allowInsecure=1#United+States
-trojan://telegram-id-privatevpns@52.58.168.251:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#Germany
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmRERtSDRRZWZtV3FNSjhVVVJackdo@86.104.74.243:14255#Canada
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.62.163:443#Switzerland
-ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@69.50.93.80:5498#United+States
-trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@160.123.255.134:443?allowInsecure=1&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz&path=/proxyip=160.123.255.134:443&proxyIP=null#South+Africa
-vmess://eyJhZGQiOiAiNDYuMjUwLjIzNC4zMiIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiYjI4MzYzNjktMjIwYi00ODQwLTgwYzQtOGNmOTA0YzczNWVlIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIiLCAicG9ydCI6ICI0NTMxNyIsICJwcyI6ICJVbml0ZWQgS2luZ2RvbSIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
+trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@217.163.76.221:443?sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz&allowInsecure=1#United+Kingdom
+trojan://bpb-trojan@104.26.5.60:443?security=tls&sni=zamim340.ggff.net&type=ws&host=zamim340.ggff.net&path=%2Ftr%3Fed%3D2560&allowInsecure=1#United+States
+ss://YWVzLTI1Ni1nY206OWFjZmM1NzQtYWNjMy00YzJiLWFiM2ItNDkxZDQzYTZlYjgz@okanc.node-is.green:21115#United+States
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.81:443#United+Kingdom
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@203.23.128.33:990#Hong+Kong
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.143.66.87:5600#United+States
+vmess://eyJhZGQiOiAiNjcuMjIwLjY2LjE5NCIsICJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJwb3J0IjogNDQzLCAiaWQiOiAiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwgImFpZCI6ICIxIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogIjY3LjIyMC42Ni4xOTQiLCAicGF0aCI6ICJsaW5rdndzIiwgInRscyI6ICJ0bHMifQ==
+vmess://eyJhZGQiOiAiMTAxLjk5LjkxLjIzNCIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiMTI3ZmY0M2MtMTg1MS00YjJkLWJhOGMtNmFmYmEyMWVjMDRkIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIiLCAicG9ydCI6ICIzNjcwMCIsICJwcyI6ICJNYWxheXNpYSIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
+trojan://FiSo7J6vfS@51.68.13.106:1935?sni=x1fr-ovh.devefun.net#France
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.121.43.71:2375#United+States
 ```
 <h5>عنوان الاشتراك الدائم للعقدة العليا (جزء): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ar</h5>
  <p>رمز الاستجابة السريعة لعنوان الاشتراك أعلاه</p>

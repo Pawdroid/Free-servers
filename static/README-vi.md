@@ -35,16 +35,16 @@
  <h4>Danh sách nút: (Chỉ hiển thị một số nút ở đây, vui lòng tải xuống ứng dụng để xem tất cả các nút)</h4>
     
 ```
-vmess://eyJhZGQiOiAibm9kZTQub3VyZmFzdC5hc2lhIiwgInYiOiAiMiIsICJwcyI6ICJVbml0ZWQgU3RhdGVzIiwgInBvcnQiOiA0NDMsICJpZCI6ICJjOGZhNmU5ZS02NmQ2LTRiZTItYjJhOS02NTExMTBjODQyYjMiLCAiYWlkIjogIjAiLCAibmV0IjogInRjcCIsICJ0eXBlIjogIiIsICJob3N0IjogIm5vZGU0Lm91cmZhc3QuYXNpYSIsICJwYXRoIjogIiIsICJ0bHMiOiAidGxzIn0=
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.121.43.71:8080#United+States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMzgzNzIyNGVkNDY1ZjAw@45.144.48.63:57456#Poland
-trojan://bpb-trojan@us.madison.eu.org:443?allowInsecure=1&sni=skwygx.top&type=ws&host=skwygx.top&path=/tr?ed=2560#Hong+Kong
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@176.103.53.105:990#Ukraine
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@69.50.93.113:8888#United+States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPSEpIYTFjeVowUm5ObEZ4V0haUWRHZHJVR2RxTlhWbw==@45.196.235.33:48019#Hong+Kong
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMjc1ODQ5ZWJjZmNlYzdl@57.128.190.110:11703#France
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@23.154.136.51:8118#United+States
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.244:443#United+States
+vmess://eyJhZGQiOiAiMTA0LjE5LjQ4LjIzNiIsICJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJwb3J0IjogMjA4NiwgImlkIjogImM3Y2U0ZjJmLTFmODctM2E3Yy1iNDA3LTNmOGI4YTZjMzNkNCIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIxMDAtMjI1LTYyLTMuczUuZGItbGluazAxLnRvcCIsICJwYXRoIjogIi9kYWJhaS5pbjE3Mi42NC4yOS43NCIsICJ0bHMiOiAiIn0=
+trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@160.123.255.134:443?sni=icecream.955850.xyz&allowInsecure=1&type=ws&path=%2Fproxyip%3D160.123.255.134%3A443%26proxyIP%3Dnull&host=icecream.955850.xyz#South+Africa
+trojan://pqlnPNu423@57.129.89.172:1935?sni=x1-germany-ovh-v2.devefun.net#France
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@69.50.93.113:5004#United+States
+trojan://74260667533381300@89.39.70.158:443?security=tls&sni=loving-calf.shiner427.skin&type=tcp#Romania
+vmess://eyJ2IjogIjIiLCAicHMiOiAiUG9ydHVnYWwiLCAiYWRkIjogIjQ1LjEyLjEzMy40MyIsICJwb3J0IjogIjI4NDQ0IiwgInR5cGUiOiAibm9uZSIsICJpZCI6ICIxYmU4ZWRkYi00ZjhjLTQ1ZDAtYjJhMS1lNTM4ZWIzYWJkMzkiLCAiYWlkIjogIjAiLCAibmV0IjogInRjcCIsICJwYXRoIjogIi8iLCAiaG9zdCI6ICIiLCAidGxzIjogIiJ9
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@23.154.136.132:7002#United+States
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@23.154.136.103:8090#United+States
+vmess://eyJhZGQiOiAiMi41Ni4xMjUuMTAxIiwgInYiOiAiMiIsICJwcyI6ICJJdGFseSIsICJwb3J0IjogMzgwODgsICJpZCI6ICIxMjc1ZWExOC1iYzljLTRiY2ItYjNmZC1mZWU3MDI3MmUxNDMiLCAiYWlkIjogIjAiLCAibmV0IjogInRjcCIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAiIn0=
+vmess://eyJhZGQiOiAiMzguMTQ3LjEwNy4yMTQiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogIjZjNTY1MGNkLWFhYWMtNDExMC1mYjM1LWI2NWU3ZGQ0MmI0MiIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiMjM3NzAiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICIiLCAidiI6ICIyIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlfQ==
 ```
 <h5>Địa chỉ đăng ký vĩnh viễn của nút trên (một phần): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_vi</h5>
  <p>Mã QR cho địa chỉ đăng ký ở trên</p>
