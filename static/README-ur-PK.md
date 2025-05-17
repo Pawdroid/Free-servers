@@ -35,23 +35,23 @@
  <h4>نوڈ کی فہرست: (یہاں صرف کچھ نوڈس دکھائے گئے ہیں، براہ کرم تمام نوڈس دیکھنے کے لیے ایپ ڈاؤن لوڈ کریں)</h4>
     
 ```
-vmess://eyJhZGQiOiAiMzguMjU1LjU1LjIxIiwgInYiOiAiMiIsICJwcyI6ICJVbml0ZWQgU3RhdGVzIiwgInBvcnQiOiAyMjY0MCwgImlkIjogIjcxOTk1NTgxLWE4NGItNDc5NS1hYmEyLWVkOWVlMjEyNGNmNSIsICJhaWQiOiAiMCIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiIiwgInRscyI6ICIifQ==
-vmess://eyJhZGQiOiAiMTg4LjExNC45Ni4zIiwgInYiOiAiMiIsICJwcyI6ICJUaGUgTmV0aGVybGFuZHMiLCAicG9ydCI6IDQ0MywgImlkIjogImQxM2ZjMmY1LTNlMDUtNDc5NS04MWViLTQ0MTQzYTA5ZTU1MiIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJheWFuamxpemkueWl3aXMzMjc2Mi53b3JrZXJzLmRldiIsICJwYXRoIjogIi9zZ2Zxa3FtbHRjeS5zaXRlL3JicXF2d3MiLCAidGxzIjogInRscyJ9
-trojan://vpn@46.29.234.154:2025?security=none&type=ws&host=dns.google.com&path=%2F#Lithuania
-trojan://pqlnPNu423@57.129.89.172:1935?security=tls&sni=x1-germany-ovh-v2.devefun.net&type=tcp#France
-trojan://5e2f888c-68ef-11ef-96ca-f23c9164ca5d@1e01bfff-swgsg0-swy6li-tni2.la3.tcpbbr.net:443#United+States
-trojan://9e7caa3b-ca9c-40ba-9ea0-f0c992359239@172.67.220.93:443?security=tls&sni=m2rrrty.777219.xyz&type=ws&host=m2rrrty.777219.xyz&path=%2FduJhdsnTCbijwHNYeMcCs9&fp=chrome&alpn=http%2F1.1#United+States
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@67.220.95.29:7002#United+States
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.75.136.28:7001#United+States
-trojan://trojan@104.18.2.150:443?security=tls&sni=main.xicun.us.kg&type=ws&host=main.xicun.us.kg&path=%2F%3Fed%3D2560&fp=chrome#United+States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.158.171.60:8080#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyb2RHUzh2TkpqSlpwMUJWSE9Sc3Nq@78.129.140.11:443#United+Kingdom
+vmess://eyJhZGQiOiAiODQuMjQ3LjE1MC4xNzciLCAidiI6ICIyIiwgInBzIjogIkdlcm1hbnkiLCAicG9ydCI6IDM2MTQxLCAiaWQiOiAiZDMxZWU1MmYtYjZlNC00ZGI4LTljOTUtOTg4NTVlYzgyM2NjIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIiLCAidGxzIjogIiJ9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyM3NVcndSY1RCRUF2eExTNlZNNkFheTU3S1Fid3MxdXBEQXhyN0J0ZjRoWHU0Z2FVUVc0QlBiQ29takpqU3RNMkpxSkxEd1ZrdGVYTDhWMzNrOGVXa1pSNFVCOGludHo=@107.181.151.147:43669#United+Kingdom
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@103.104.247.49:8080#The+Netherlands
+vmess://eyJhZGQiOiAidjMzLmVtb3llcy50b3AiLCAidiI6ICIyIiwgInBzIjogIlVuaXRlZCBTdGF0ZXMiLCAicG9ydCI6IDQ0MywgImlkIjogImE3OGZjMTRlLTRlOGItNGZjMC04Y2FiLTg2ZmQ4MWM1ODNjYSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJ2MzMuZW1veWVzLnRvcCIsICJwYXRoIjogIi8iLCAidGxzIjogInRscyJ9
+trojan://vpn@109.120.132.80:2025?security=none&type=ws&host=vkvd127.mycdn.me&path=%2F#Russia
+trojan://b32dc323-4d33-471c-870b-b6c0d0bd8034@104.21.52.157:443?security=tls&sni=ZxsW34.FrEEvPN2026.DPdnS.ORg&type=ws&host=zxsw34.freevpn2026.dpdns.org&path=%2F8WDTEY2cOCqJ1IJp7eBtFJ&fp=chrome&alpn=http%2F1.1#United+States
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.236:443#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMcWxQSTE5b3FudW5HTlNMTXZkWHlC@147.45.60.33:16356#Russia
+vmess://eyJhZGQiOiAiMTA0LjIxLjk2LjEiLCAidiI6ICIyIiwgInBzIjogIlVuaXRlZCBTdGF0ZXMiLCAicG9ydCI6IDIwODcsICJpZCI6ICIxYzM2OTA2ZS0xYTIxLTQzMzAtYjA0Zi04NWJhZjFhNmZmMjYiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAicmFrMWQzLjc3NzI2OS54eXoiLCAicGF0aCI6ICIvIiwgInRscyI6ICJ0bHMifQ==
 ```
 <h5>اوپری نوڈ کا مستقل رکنیت کا پتہ (حصہ): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ur-PK</h5>
  <p>اوپر سبسکرپشن ایڈریس کے لیے QR کوڈ</p>
  <img src='https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ur-PK.png' width=250 height=250>
  <blockquote style='text-align: center;'>مزید نوڈس، مفت سبسکرپشن ایڈریسز اور سبسکرپشن تبادلوں کے لیے، براہ کرم اس سائٹ کی طرف سے فراہم کردہ مشترکہ نوڈ ایپ سافٹ ویئر ڈاؤن لوڈ کریں <a href='https://shadowsharing.com'>ShadowShare . تمام مفت نوڈس بلٹ ان ہیں۔ </a></blockquote>
  <h4>یہ تجویز کیا جاتا ہے کہ گھریلو iOS صارفین <a href='https://apps.apple.com/cn/app/shadowshare/id1612647259'>App Store ڈاؤن لوڈ کریں</a> اور اسے جلد از جلد محفوظ کریں۔ مستقبل میں کسی وقت ڈاؤن لوڈ کیا جا سکتا ہے</h4>
- <h4>تیز رفتار اور اعلیٰ معیار کے VPN کی تازہ ترین ریلیز <a href='https://letsgovpn.com'>LetsVPN</a> نے Android اور Windows پلیٹ فارمز کو سپورٹ کیا ہے اسے ڈاؤن لوڈ کرنے اور استعمال کرنے میں آپ کا استقبال ہے۔ ایک محدود وقت کے لیے لامحدود مفت ٹرائل فراہم کیا جاتا ہے۔ </h4>
+ <h4>تیز رفتار اور اعلیٰ معیار کے VPN کی تازہ ترین ریلیز <a href='https://pawdollvpn.com'>PawdollVPN</a> نے Android اور iOS پلیٹ فارمز کو سپورٹ کیا ہے اسے ڈاؤن لوڈ کرنے اور استعمال کرنے میں آپ کا استقبال ہے۔ ایک محدود وقت کے لیے لامحدود مفت ٹرائل فراہم کیا جاتا ہے۔ </h4>
  <div class="nv-content-wrap entry-content">
  <h2>کلائنٹ سبسکرپشن پتوں کی ایک کلک کی تبدیلی جیسے کہ Clash اور SS:</h2>
  <p>اگر SS/SSR/V2ray کلائنٹ براہ راست SSR نوڈ لنک کا استعمال نہیں کر سکتا، تو اسے سبسکرپشن ایڈریس میں تبدیل کرنے کے لیے نیچے لنک کا استعمال کریں پھر SSR/SSD/Surge/Quantum/Surfboard/Loon اور دیگر موبائل اور کمپیوٹر کلائنٹس۔ یہاں استعمال کیا جا سکتا ہے:</p>

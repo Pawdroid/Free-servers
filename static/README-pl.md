@@ -35,23 +35,23 @@
  <h4>Lista węzłów: (wyświetlane są tutaj tylko niektóre węzły. Pobierz aplikację, aby wyświetlić wszystkie węzły)</h4>
     
 ```
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@69.50.93.10:8091#United+States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMzgzNzIyNGVkNDY1ZjAw@45.144.48.63:57456#Poland
-vmess://eyJhZGQiOiAiMi41Ni4xMjUuMTAxIiwgInYiOiAiMiIsICJwcyI6ICJJdGFseSIsICJwb3J0IjogMzgwODgsICJpZCI6ICIxMjc1ZWExOC1iYzljLTRiY2ItYjNmZC1mZWU3MDI3MmUxNDMiLCAiYWlkIjogIjAiLCAibmV0IjogInRjcCIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAiIn0=
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@38.143.66.87:6697#United+States
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.194:443#United+Kingdom
-trojan://OLq0FfOlp7@141.227.160.88:1935?security=tls&sni=x1-sweden-ovh-v2.devefun.net&type=tcp&allowInsecure=1#France
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.123.101.241:990#T%C3%BCrkiye
-trojan://Aimer@27.50.48.126:2083?security=tls&sni=tyep.esslh.filegear-sg.me&type=ws&host=tyep.esslh.filegear-sg.me&path=%2F%3Fed%3D2560#Singapore
-vmess://eyJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJhZGQiOiAiMTA0LjIxLjExMi4xIiwgInBvcnQiOiAyMDUzLCAiaWQiOiAiOTk2MDE2ZjctZGE4OS00NWYxLWIzYjQtNTU1YmM3OTllZDg2IiwgInR5cGUiOiAiIiwgImFpZCI6IDAsICJuZXQiOiAid3MiLCAidGxzIjogInRscyIsICJzbmkiOiAicmFrMmQxLjc3NzI2OS54eXoiLCAicGF0aCI6ICIvIiwgImhvc3QiOiAicmFrMmQxLjc3NzI2OS54eXoifQ==
-vmess://eyJhZGQiOiAiNDcuMjM3Ljg0Ljc5IiwgInYiOiAiMiIsICJwcyI6ICJTaW5nYXBvcmUiLCAicG9ydCI6IDMwMzAsICJpZCI6ICJkZTQ5MTM4Yy1kZjExLTRiNmMtZWQ5NC0wOWUzNmI4ZmI4OTAiLCAiYWlkIjogIjAiLCAibmV0IjogInRjcCIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIi8iLCAidGxzIjogIiJ9
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.110.1.88:2376#United+States
+trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@217.163.76.221:443?allowInsecure=1&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz&path=/proxyip=217.163.76.221:443&proxyIP=null#United+Kingdom
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.166:8080#Lithuania
+vmess://eyJhZGQiOiAibHY0Ljc4OTkwMC54eXoiLCAidiI6ICIyIiwgInBzIjogIlNvdXRoIEtvcmVhIiwgInBvcnQiOiAyMDg3LCAiaWQiOiAiN2RkMTZhYjEtMmEzNi00YjMyLTg2ZmQtZWI0OWZiMDM5NzUyIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogImx2NC43ODk5MDAueHl6IiwgInBhdGgiOiAiLzdkZDE2YWIxLTJhMzYtNGIzMi04NmZkLWViNDlmYjAzOTc1Mi12bSIsICJ0bHMiOiAidGxzIn0=
+trojan://FiSo7J6vfS@51.68.13.106:1935?sni=x1fr-ovh.devefun.net#France
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvMzh5dXZ6U2UzbTVhRE5wSHRVUEgxekd3YkdFWFhNRHNHd1ZhdWIyU1lFbUhVYTJXR1pVamllelgzVnZ2YTlDQ3pwanhZdHVKTGdLc1Nuc3lLQmY5Y2lQVmJhM3k0bzM=@beta.mattenadene.org:54075#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1UVM1bnRWcUMwMHNTS2tlTnpVaUQz@89.23.103.125:42090#The+Netherlands
+trojan://5e2f888c-68ef-11ef-96ca-f23c9164ca5d@1e01bfff-swgsg0-swy6li-tni2.la3.tcpbbr.net:443#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSaVB1S0pKbDE4Wmd2THBUald4QndTZktpUGt0OWd6Rkt5eEdDWThlSHRPY0RiMlg=@5.189.201.250:31348#Russia
+trojan://53249200-30ff-436f-a032-0bb00605f8f9@104.21.24.172:443?security=tls&sni=3derty.852224.dpdns.org&type=ws&host=3derty.852224.dpdns.org&path=%2FYPTDHLX8qjvTU5JqXZxjQ5ILc&fp=chrome&alpn=http%2F1.1#United+States
 ```
 <h5>Stały adres subskrypcji górnego węzła (część): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_pl</h5>
  <p>Kod QR dla adresu subskrypcji powyżej</p>
  <img src='https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_pl.png' width=250 height=250>
  <blockquote style='text-align: center;'>Aby uzyskać więcej węzłów, bezpłatnych adresów subskrypcji i konwersji subskrypcji, pobierz oprogramowanie aplikacji współdzielonych węzłów dostarczone z tej witryny <a href='https://shadowsharing.com'>ShadowShare </a> Eksportuj wykorzystanie węzłów, obsługuj pobieranie plików na iOS i Androida. Użytkownikom Androida zaleca się bezpośrednie korzystanie z <a href='https://github.com/Pawdroid/shadowrocket_for_android'>shadowrocket dla Androida</a> Android Rocket z wbudowane wszystkie wolne węzły. </blockquote>
  <h4>Zaleca się, aby krajowi użytkownicy systemu iOS <a href='https://apps.apple.com/cn/app/shadowshare/id1612647259'>pobrali aplikację App Store</a> i jak najszybciej ją zapisali można pobrać w przyszłości</h4>
- <h4>Najnowsza wersja szybkiej i wysokiej jakości sieci VPN <a href='https://letsgovpn.com'>LetsVPN</a> obsługuje platformy Android i Windows. Możesz ją pobrać i używać Nieograniczony, bezpłatny okres próbny jest dostępny przez ograniczony czas. </h4>
+ <h4>Najnowsza wersja szybkiej i wysokiej jakości sieci VPN <a href='https://pawdollvpn.com'>PawdollVPN</a> obsługuje platformy Android i iOS. Możesz ją pobrać i używać Nieograniczony, bezpłatny okres próbny jest dostępny przez ograniczony czas. </h4>
  <div class="nv-content-wrap wpis-treść">
  <h2>Konwersja adresów subskrypcji klientów, takich jak Clash i SS:</h2> jednym kliknięciem
  <p>Jeśli klient SS/SSR/V2ray nie może bezpośrednio użyć łącza węzła SSR, użyj poniższego narzędzia, aby przekonwertować je na adres subskrypcji, a następnie SSR/SSD/Surge/Quantum/Surfboard/Loon i innych klientów mobilnych i komputerowych można użyć tutaj:</p>

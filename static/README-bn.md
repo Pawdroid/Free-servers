@@ -35,23 +35,23 @@
  <h4>নোড তালিকা: (শুধুমাত্র কিছু নোড এখানে প্রদর্শিত হয়, সমস্ত নোড দেখতে অ্যাপটি ডাউনলোড করুন)</h4>
     
 ```
-vmess://eyJhZGQiOiAiMTUuMjM1LjgzLjIyOCIsICJ2IjogIjIiLCAicHMiOiAiQ2FuYWRhIiwgInBvcnQiOiA0NDMsICJpZCI6ICIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAid3JtZWxtd3hsZi5na3RldmxycXpud3Fxb3p5LmZhYnBmczY2Z2l6bW5vamhjdnF4d2wua3l0cmNmenFsYTg3Z3ZndnM2Yzdram5ydWJ1aC5jYyIsICJwYXRoIjogIi9saW5rdndzIiwgInRscyI6ICJ0bHMifQ==
-ss://YWVzLTEyOC1nY206MTYyNjI5ZDctY2IxNy00M2IxLTgyYzktZjljN2FlNmNiYTcw@82.180.146.173:30607#Belgium
-trojan://trojan@104.18.2.150:443?security=tls&sni=main.xicun.us.kg&type=ws&host=main.xicun.us.kg&path=%2F%3Fed%3D2560&fp=chrome#United+States
-trojan://Aimer@167.68.5.85:2053?security=tls&sni=epccx.ambercc.filegear-sg.me&type=ws&host=epccx.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560#United+States
-vmess://eyJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIEtpbmdkb20iLCAiYWRkIjogIjUuMTAuMjQ3LjE1OSIsICJwb3J0IjogIjQ0MyIsICJ0eXBlIjogIm5vbmUiLCAiaWQiOiAiMTY0YTZhZDAtNDc2YS00YmFlLWI3OGYtYTNkMzdjZjBmNDE0IiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9sempqaiIsICJob3N0IjogInRoLmx6ajUyMGh4dy5kcGRucy5vcmciLCAidGxzIjogInRscyJ9
-trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@217.163.76.89:443?type=ws&sni=icecream.955850.xyz&path=/proxyip=217.163.76.89:443&host=icecream.955850.xyz#United+Kingdom
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@103.104.247.49:8080#The+Netherlands
-trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@212.183.88.156:443?allowInsecure=1&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz&path=/proxyip=212.183.88.156:443&proxyIP=null#Austria
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSaVB1S0pKbDE4Wmd2THBUald4QndTZktpUGt0OWd6Rkt5eEdDWThlSHRPY0RiMlg=@5.189.201.250:31348#Russia
-trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@45.67.215.5:443?allowInsecure=0&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz&path=/proxyip=45.67.215.5:443#Russia
+trojan://vpn@150.241.78.252:2025?security=none&type=ws&host=vkvd127.mycdn.me&path=/#Spain
+trojan://2cba4104747d49d18319e5ade1b93ab5@161.35.34.48:443?security=tls&sni=yourjobnavigator.online&type=tcp#United+Kingdom
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.199:8080#Lithuania
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@38.114.114.245:8008#United+States
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.110.1.88:2376#United+States
+vmess://eyJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJhZGQiOiAiMTA0LjIxLjExMi4xIiwgInBvcnQiOiAyMDUzLCAiaWQiOiAiOTk2MDE2ZjctZGE4OS00NWYxLWIzYjQtNTU1YmM3OTllZDg2IiwgInR5cGUiOiAiIiwgImFpZCI6IDAsICJuZXQiOiAid3MiLCAidGxzIjogInRscyIsICJzbmkiOiAicmFrMmQxLjc3NzI2OS54eXoiLCAicGF0aCI6ICIvIiwgImhvc3QiOiAicmFrMmQxLjc3NzI2OS54eXoifQ==
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptNkRGQ0V6UmFDUEtQUjV6QzJ3VHlaY0xCOGphU2tnQ3lPam50YkdEcHJvelRkb08=@185.246.153.12:31348#The+Netherlands
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.47.130:443#United+States
+vmess://eyJhZGQiOiAiNDUuMTM3LjE1NS40NSIsICJ2IjogIjIiLCAicHMiOiAiVWtyYWluZSIsICJwb3J0IjogMTc2NDYsICJpZCI6ICI4MjczNDcyNC04YzA2LTRjMmUtOWNmZi1iMzQ3NzZmZTE3NTciLCAiYWlkIjogIjAiLCAibmV0IjogInRjcCIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAiIn0=
+vmess://eyJhZGQiOiAiNDYuMjUwLjIzNy4xOTYiLCAidiI6ICIyIiwgInBzIjogIlVuaXRlZCBLaW5nZG9tIiwgInBvcnQiOiAyOTk5OSwgImlkIjogImIzMWZjMTM0LTk3OGUtNDE3Ni04NTc5LTgxMDdkNmEwY2VkZSIsICJhaWQiOiAiMCIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiIiwgInRscyI6ICIifQ==
 ```
 <h5>উপরের নোডের স্থায়ী সদস্যতা ঠিকানা (অংশ): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_bn</h5>
  <p>উপরের সদস্যতা ঠিকানার জন্য QR কোড</p>
  <img src='https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_bn.png' width=250 height=250>
  <blockquote style='text-align: center;'>আরো নোড, বিনামূল্যের সাবস্ক্রিপশন ঠিকানা এবং সাবস্ক্রিপশন রূপান্তরের জন্য, অনুগ্রহ করে এই সাইটের দেওয়া শেয়ার্ড নোড অ্যাপ সফ্টওয়্যারটি ডাউনলোড করুন <a href='https://shadowsharing.com'>ShadowShare </a> নোড ব্যবহার রপ্তানি করুন, iOS এবং Android ডাউনলোড সমর্থন করুন, Android ব্যবহারকারীদের সরাসরি <a href='https://github.com/Pawdroid/shadowrocket_for_android'>অ্যান্ড্রয়েডের জন্য শ্যাডোরকেট</a> অ্যান্ড্রয়েড রকেট ব্যবহার করার পরামর্শ দেওয়া হচ্ছে সমস্ত বিনামূল্যে নোড অন্তর্নির্মিত. </blockquote>
  <h4>দেশীয় iOS ব্যবহারকারীদের <a href='https://apps.apple.com/cn/app/shadowshare/id1612647259'>অ্যাপ স্টোর ডাউনলোড করুন</a> এবং যত তাড়াতাড়ি সম্ভব এটি সংরক্ষণ করুন ভবিষ্যতে কোনো সময়ে ডাউনলোড করা হতে পারে</h4>
- <h4>হাই-স্পিড এবং উচ্চ-মানের VPN <a href='https://letsgovpn.com'>LetsVPN</a> এর সর্বশেষ রিলিজ অ্যান্ড্রয়েড এবং উইন্ডোজ প্ল্যাটফর্মগুলিকে এটি ডাউনলোড করতে এবং ব্যবহার করতে স্বাগত জানাই৷ একটি সীমিত সময়ের জন্য একটি সীমাহীন বিনামূল্যে ট্রায়াল প্রদান করা হয়. </h4>
+ <h4>হাই-স্পিড এবং উচ্চ-মানের VPN <a href='https://pawdollvpn.com'>PawdollVPN</a> এর সর্বশেষ রিলিজ অ্যান্ড্রয়েড এবং উইন্ডোজ প্ল্যাটফর্মগুলিকে এটি ডাউনলোড করতে এবং ব্যবহার করতে স্বাগত জানাই৷ একটি সীমিত সময়ের জন্য একটি সীমাহীন বিনামূল্যে ট্রায়াল প্রদান করা হয়. </h4>
  <div class="nv-content-wrap entry-content">
  <h2>ক্ল্যাশ এবং এসএসের মতো ক্লায়েন্ট সাবস্ক্রিপশন ঠিকানাগুলির এক-ক্লিক রূপান্তর:</h2>
  <p>যদি SS/SSR/V2ray ক্লায়েন্ট সরাসরি SSR নোড লিঙ্ক ব্যবহার করতে না পারে, তাহলে এটিকে একটি সাবস্ক্রিপশন ঠিকানায় রূপান্তর করতে নীচে লিঙ্ক করা টুলটি ব্যবহার করুন তারপর SSR/SSD/Surge/Quantum/Surfboard/Loon এবং অন্যান্য মোবাইল এবং কম্পিউটার ক্লায়েন্ট। এখানে ব্যবহার করা যেতে পারে:</p>

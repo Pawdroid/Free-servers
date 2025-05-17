@@ -35,23 +35,23 @@
  <h4>Lista de nós: (Apenas alguns nós são exibidos aqui, baixe o aplicativo para visualizar todos os nós)</h4>
     
 ```
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@139.59.119.143:443?security=tls&sni=connectwithemployers.online&type=tcp#Singapura
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@23.150.248.235:7306#EUA
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@38.143.66.87:6379#EUA
-trojan://ad4a124c-12fb-4467-9ad0-dc6d9b509ac0@104.21.112.1:443?sni=7bhui.191262.xyz&allowInsecure=1&type=ws&path=%2FwGgR8FyAGgRCKSiyxgvJgLl&host=7bhui.191262.xyz&fp=chrome#EUA
-vmess://eyJhZGQiOiAiMTc0LjEzNi4yMDQuMjA5IiwgInYiOiAiMiIsICJwcyI6ICJFVUEiLCAicG9ydCI6IDExNjExLCAiaWQiOiAiYmFlYzlhZGItZDZiOS00NjVhLWY1MzEtZDBhMzgxNDRjZjZjIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIi8iLCAidGxzIjogIiJ9
-vmess://eyJhZGQiOiAiY2xvdWRnZXRzZXJ2aWNlLm1jbG91ZHNlcnZpY2Uuc2l0ZSIsICJ2IjogIjIiLCAicHMiOiAiRVVBIiwgInBvcnQiOiA0NDMsICJpZCI6ICI4MTM4MGE1ZS02MTNjLTQ4NjMtOGIzYS01NTg4ZjMyNjkwYzMiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiTWFYbkV0VmlwQXAtY2ExLk1heG5ldHNlclZpY0VzLk9ObGlOZSIsICJwYXRoIjogIi9saW5rd3MiLCAidGxzIjogInRscyJ9
-vmess://eyJhZGQiOiAiNDUuMTIuMTM4LjgyIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICJjZGU5ZjA3NC1jOTMwLTRhYTMtYTU1OC00NmJiYzlkMGE1YTEiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogIjU0NzU3IiwgInBzIjogIlN1XHUwMGU5Y2lhIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.160:443#EUA
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.158.171.60:8080#EUA
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSaVB1S0pKbDE4Wmd2THBUald4QndTZktpUGt0OWd6Rkt5eEdDWThlSHRPY0RiMlg=@5.189.201.250:31348#R%C3%BAssia
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowMDcyYzVlMjQxYWVjZmI3@217.77.3.42:40410#Reino+Unido
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.47.132:443#EUA
+trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@45.154.98.100:4002?allowInsecure=1&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz&path=/proxyip=45.154.98.100:4002&proxyIP=null#Holanda
+trojan://trojan@104.18.3.150:443?security=tls&sni=main.xicun.us.kg&type=ws&host=main.xicun.us.kg#EUA
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3NEo1Z1M4aTZGaUd1cHFyYWhGdk05@77.110.102.235:31080#L%C3%ADbano
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@195.181.160.6:990#Ch%C3%A9quia
+ss://YWVzLTEyOC1nY206WWMyQ3RySXo4TA==@2.58.87.221:16899#EUA
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.114.114.143:7002#EUA
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.158.171.66:8080#EUA
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiWjg3YW1QcGRHN0t1V002MmJLdG0xS0hvb3d1VmpuVjhDS3RxNjUzeW1IY2cyZFBZY1BKZm5hUTYxc3R1QWpyMlppTERhcUg1Nlhwa3hFWXV3RHp6UnJNV2llZWJXR3Q=@mx2.drawnrisha.one:55988#Reino+Unido
 ```
 <h5>O endereço de assinatura permanente do nó superior (parte): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_pt-BR</h5>
  <p>Código QR do endereço de assinatura acima</p>
  <img src='https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_pt-BR.png' width=250 height=250>
  <blockquote style='text-align: center;'>Para obter mais nós, endereços de assinatura gratuitos e conversões de assinatura, baixe o software de aplicativo de nó compartilhado fornecido por este site <a href='https://shadowsharing.com'>ShadowShare </a> Exportar uso de nós, suportar downloads de iOS e Android, recomenda-se que usuários de Android usem diretamente o <a href='https://github.com/Pawdroid/shadowrocket_for_android'>shadowrocket para android</a> Android Rocket, com todos os nós livres integrados. </blockquote>
  <h4>Recomenda-se que usuários domésticos de iOS <a href='https://apps.apple.com/cn/app/shadowshare/id1612647259'>baixem a App Store</a> e salvem-na o mais rápido possível. poderá ser baixado em algum momento no futuro.</h4>
- <h4>A versão mais recente da VPN de alta velocidade e qualidade <a href='https://letsgovpn.com'>LetsVPN</a> oferece suporte às plataformas Android e Windows. Você pode baixá-la e usá-la. . Uma avaliação gratuita ilimitada é fornecida por tempo limitado. </h4>
+ <h4>A versão mais recente da VPN de alta velocidade e qualidade <a href='https://pawdollvpn.com'>PawdollVPN</a> oferece suporte às plataformas Android e iOS. Você pode baixá-la e usá-la. . Uma avaliação gratuita ilimitada é fornecida por tempo limitado. </h4>
  <div class="nv-content-wrap entry-content">
  <h2>Conversão com um clique de endereços de assinatura de clientes, como Clash e SS:</h2>
  <p>Se o cliente SS/SSR/V2ray não puder usar diretamente o link do nó SSR, use a ferramenta vinculada abaixo para convertê-lo em um endereço de assinatura. Em seguida, SSR/SSD/Surge/Quantum/Surfboard/Loon e outros clientes móveis e de computador. pode ser usado aqui:</p>

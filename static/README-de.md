@@ -35,23 +35,23 @@
  <h4>Knotenliste: (Hier werden nur einige Knoten angezeigt. Bitte laden Sie die App herunter, um alle Knoten anzuzeigen.)</h4>
     
 ```
-vmess://eyJ2IjogIjIiLCAicHMiOiAiRGV1dHNjaGxhbmQiLCAiYWRkIjogIjk0LjEzNi4xODQuMTU2IiwgInBvcnQiOiAzODg3MiwgImlkIjogIjIyMDczMmNjLTllNDMtNDQ1My04M2YxLWM5NDM1YmUyNWI1YiIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAibm9uZSJ9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@176.103.53.105:990#Ukraine
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0NGZlNGI3ZC1jZDQ4LTQ1ZmMtYTAzNi02MGVhNDBlNGE5NmM=@107.191.63.241:30665#Frankreich
-trojan://dQUWbcwECl@automq4-proxy.automq-sg.com:443#Singapur
-trojan://c8eac4b7-95ba-4ce0-920d-c3279eb3b391@104.21.35.247:443?security=tls&sni=ff.HuangSHANg2030.DPDnS.oRg&type=ws&host=ff.huangshang2030.dpdns.org&path=%2FptGwaGzcA4KNAXX&fp=chrome&alpn=http%2F1.1#USA
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@173.244.56.9:443#USA
-trojan://Aimer@167.68.5.85:2053?security=tls&sni=epccx.ambercc.filegear-sg.me&type=ws&host=epccx.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560#USA
-trojan://yaml777@104.21.61.73:443?security=tls&sni=yaml7.ggff.net&type=ws&host=yaml7.ggff.net&path=/#USA
-vmess://eyJhZGQiOiAiYWZsenp1bC5tZWlxdWFua29uZ2ppYW4uY29tIiwgInYiOiAiMiIsICJwcyI6ICJIb25na29uZyIsICJwb3J0IjogNTI1MTEsICJpZCI6ICIzNDJiYWNmZC0yYjhmLTNmNDktYTE2ZS00MzlkYjViMGI5ZDUiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiYWZsenp1bC5tZWlxdWFua29uZ2ppYW4uY29tIiwgInBhdGgiOiAiLzU2NGRmYTIwLyIsICJ0bHMiOiAiIn0=
-vmess://eyJhZGQiOiAiNjIuMTQ2LjIzMy43OSIsICJ2IjogIjIiLCAicHMiOiAiRGV1dHNjaGxhbmQiLCAicG9ydCI6IDQ0MTI3LCAiaWQiOiAiYWUwZmE4MjItNThiYi00ODNmLTlhZjUtZDQxN2Q4YzIzYjIxIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIiLCAidGxzIjogIiJ9
+trojan://f82fb954-06a1-4f0b-9180-17e07585b61f@172.67.212.82:443?security=tls&sni=6tyu.131.pp.ua&type=ws&host=6tyu.131.pp.ua&path=%2FYu29UN3Yz8hcnI3SlZor0&fp=chrome&alpn=http%2F1.1#USA
+trojan://15b24b56-d667-4fa8-b548-f3dc942fb461@104.21.15.232:443?security=tls&sni=ab2c7f0b-bf1b-4eb3-9884-256f4de3d.2030.pp.ua&type=ws&host=ab2c7f0b-bf1b-4eb3-9884-256f4de3d.2030.pp.ua&path=%2F4p35eUnmGxQ8YJFJxz&fp=chrome&alpn=http%2F1.1#USA
+vmess://eyJhZGQiOiAiMTI5LjgwLjE5OS4yMzkiLCAidiI6ICIyIiwgInBzIjogIlVTQSIsICJwb3J0IjogMTcwOTksICJpZCI6ICJlMDYyYjIxNy01YjFkLTRiZmUtYjFmZS1jMWJkOGZkNDQ4NjEiLCAiYWlkIjogIjAiLCAibmV0IjogInRjcCIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAiIn0=
+vmess://eyJhZGQiOiAiMi41Ni4xMjUuMTAxIiwgInYiOiAiMiIsICJwcyI6ICJJdGFsaWVuIiwgInBvcnQiOiAzODA4OCwgImlkIjogIjEyNzVlYTE4LWJjOWMtNGJjYi1iM2ZkLWZlZTcwMjcyZTE0MyIsICJhaWQiOiAiMCIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiIiwgInRscyI6ICIifQ==
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.170:443#USA
+vmess://eyJhZGQiOiAiNS4xODAuMzAuODUiLCAidiI6ICIyIiwgInBzIjogIlVTQSIsICJwb3J0IjogMTg1OTgsICJpZCI6ICJiZjI2ZjJmYi05ZDJhLTQ5YjYtODUyNy04MmU4YWJhM2E5YTkiLCAiYWlkIjogIjAiLCAibmV0IjogInRjcCIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAiIn0=
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@67.220.95.102:3389#USA
+trojan://123@104.24.92.207:2053?sni=epeius001-ea1.pages.dev&type=ws&host=epeius001-ea1.pages.dev#USA
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@195.181.160.6:990#Tschechien
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.121.43.71:8881#USA
 ```
 <h5>Die permanente Abonnementadresse des oberen Knotens (Teil): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_de</h5>
  <p>QR-Code für die Abonnementadresse oben</p>
  <img src='https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_de.png' width=250 height=250>
  <blockquote style='text-align: center;'>Für weitere Knoten, kostenlose Abonnementadressen und Abonnementkonvertierungen laden Sie bitte die Shared-Node-App-Software herunter, die auf dieser Website <a href='https://shadowsharing.com'>ShadowShare bereitgestellt wird </a> Knotennutzung exportieren, iOS- und Android-Downloads unterstützen. Android-Benutzern wird empfohlen, <a href='https://github.com/Pawdroid/shadowrocket_for_android'>shadowrocket für Android</a> direkt mit Android Rocket zu verwenden alle freien Knoten integriert. </blockquote>
  <h4>Inländischen iOS-Benutzern wird empfohlen, den App Store so schnell wie möglich herunterzuladen und zu speichern kann zu einem späteren Zeitpunkt heruntergeladen werden</h4>
- <h4>Die neueste Version des schnellen und hochwertigen VPN <a href='https://letsgovpn.com'>LetsVPN</a> unterstützt Android- und Windows-Plattformen. Sie können es gerne herunterladen und verwenden Für einen begrenzten Zeitraum wird eine unbegrenzte kostenlose Testversion bereitgestellt. </h4>
+ <h4>Die neueste Version des schnellen und hochwertigen VPN <a href='https://pawdollvpn.com'>PawdollVPN</a> unterstützt Android- und iOS-Plattformen. Sie können es gerne herunterladen und verwenden Für einen begrenzten Zeitraum wird eine unbegrenzte kostenlose Testversion bereitgestellt. </h4>
  <div class="nv-content-wrap-Eintragsinhalt">
  <h2>Konvertierung von Client-Abonnementadressen wie Clash und SS mit einem Klick:</h2>
  <p>Wenn der SS/SSR/V2ray-Client den SSR-Knotenlink nicht direkt verwenden kann, verwenden Sie das unten verlinkte Tool, um ihn in eine Abonnementadresse umzuwandeln. Dann SSR/SSD/Surge/Quantum/Surfboard/Loon und andere mobile und Computer-Clients Hier kann verwendet werden:</p>
