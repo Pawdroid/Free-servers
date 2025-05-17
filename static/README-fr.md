@@ -35,16 +35,17 @@
  <h4>Liste des nœuds: (Seuls certains nœuds sont affichés ici, veuillez télécharger l'application pour afficher tous les nœuds)</h4>
     
 ```
-trojan://cad5a49f-14e5-4a05-aae9-c5df8fad394f@172.67.143.250:443?security=tls&sni=C1wSdm.777162.Xyz&type=ws&host=c1wsdm.777162.xyz&path=%2F5txgrUN3oqXENw4Z4&fp=chrome&alpn=http%2F1.1#%C3%89tats+Unis
-vmess://eyJhZGQiOiAiMjAyLjc4LjE2Mi41IiwgImFpZCI6IDAsICJob3N0IjogInBlbmRhci5vbnRoZXdpZmkuY29tIiwgImlkIjogIjcxNmVkZWQ2LTIyMDEtNGRiZC05ZDYzLTE2MzhjOWU4ZTY3NyIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvQGZvcndhcmR2MnJheSIsICJwb3J0IjogNDQzLCAicHMiOiAiTHV4ZW1ib3VyZyIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiJ9
-trojan://f82fb954-06a1-4f0b-9180-17e07585b61f@172.67.212.82:443?security=tls&sni=6tyu.131.pp.ua&type=ws&host=6tyu.131.pp.ua&path=%2FYu29UN3Yz8hcnI3SlZor0&fp=chrome&alpn=http%2F1.1#%C3%89tats+Unis
-trojan://bpb-trojan@104.26.5.60:443?security=tls&sni=zamim340.ggff.net&type=ws&host=zamim340.ggff.net&path=%2Ftr%3Fed%3D2560&allowInsecure=1#%C3%89tats+Unis
-trojan://OLq0FfOlp7@141.227.160.88:1935?sni=x1-sweden-ovh-v2.devefun.net#France
-vmess://eyJhZGQiOiAiODQuMjQ3LjE0OS43NyIsICJ2IjogIjIiLCAicHMiOiAiQWxsZW1hZ25lIiwgInBvcnQiOiA0NzIxMSwgImlkIjogImZiNjc0MjYwLTFjMjEtNGY5OS04YmQwLTNkMWQzNDFjNjc3MSIsICJhaWQiOiAiMCIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiIiwgInRscyI6ICIifQ==
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.121.43.71:2375#%C3%89tats+Unis
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.121.43.71:443#%C3%89tats+Unis
-vmess://eyJ2IjogIjIiLCAicHMiOiAiQWxsZW1hZ25lIiwgImFkZCI6ICI2Mi4xNDYuMjMzLjc5IiwgInBvcnQiOiAiNDQxMjciLCAiaWQiOiAiYWUwZmE4MjItNThiYi00ODNmLTlhZjUtZDQxN2Q4YzIzYjIxIiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiIiwgInRscyI6ICIiLCAic25pIjogIiIsICJ0ZXN0X25hbWUiOiAiMTM3In0=
-trojan://tg-fq521free@216.24.57.30:443?security=tls&sni=torjan.xn--xhq44j.eu.org&type=ws&host=torjan.xn--xhq44j.eu.org&path=/#%C3%89tats+Unis
+trojan://5a81db08-7af3-49a4-b089-b7a5b2c24c38@jp007.421421.xyz:20230?sni=www.alibaba.com&allowInsecure=1&type=ws&path=%2F&host=www.alibaba.com#Japon
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@38.165.233.18:990#Paraguay
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@67.220.95.29:8118#%C3%89tats+Unis
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.244:443#%C3%89tats+Unis
+vmess://eyJhZGQiOiAidXMwMS5zaC1jbG91ZGZsYXJlLnNicyIsICJhaWQiOiAwLCAiaG9zdCI6ICJ1czAxLnNoLWNsb3VkZmxhcmUuc2JzIiwgImlkIjogIjJiZDBjOWQ3LWYyMzktNDM3ZS1hMWUxLTZjZjgzMGFmMmExYSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgInBvcnQiOiA4NDQzLCAicHMiOiAiXHUwMGM5dGF0cyBVbmlzIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IGZhbHNlLCAic25pIjogInVzMDEuc2gtY2xvdWRmbGFyZS5zYnMifQ==
+vmess://eyJhZGQiOiAiMTcyLjY3LjE3MC41MSIsICJ2IjogIjIiLCAicHMiOiAiXHUwMGM5dGF0cyBVbmlzIiwgInBvcnQiOiA4MCwgImlkIjogImNlZDMwN2EyLWFmMmMtNDExMy1iZWJjLWZiODg4YzcwMmI3ZCIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJtNGZydC45OTkxODIueHl6IiwgInBhdGgiOiAiL1BFUTdDb0ExVnJCd3NibkVjbUpMeEMiLCAidGxzIjogIiJ9
+vmess://eyJhZGQiOiAiMzguMjU1LjU1LjIxIiwgInYiOiAiMiIsICJwcyI6ICJcdTAwYzl0YXRzIFVuaXMiLCAicG9ydCI6IDIyNjQwLCAiaWQiOiAiNzE5OTU1ODEtYTg0Yi00Nzk1LWFiYTItZWQ5ZWUyMTI0Y2Y1IiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIiLCAidGxzIjogIiJ9
+trojan://1549e70f-dc57-45e3-ac7c-515f0161db72@172.67.155.140:443?security=tls&sni=6667.HUAnGSHanG.dpdNs.orG&type=ws&host=6667.huangshang.dpdns.org&path=%2FTomYJoQX0RSt1mktNrT&fp=chrome&alpn=http%2F1.1#%C3%89tats+Unis
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHUwMGM5dGF0cyBVbmlzIiwgImFkZCI6ICI2NS43NS4xOTQuMjgiLCAicG9ydCI6IDQ5OTMwLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiNzUxOTFiMWUtNzRhNS00ZjU0LWFkOTQtM2JjMDlmZjYxMzIyIn0=
+trojan://telegram-id-directvpn@51.44.1.140:22223?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#France
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@67.220.95.102:8881#%C3%89tats+Unis
 ```
 <h5>L'adresse d'abonnement permanente du nœud supérieur (partie): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_fr</h5>
  <p>Code QR pour l'adresse d'abonnement ci-dessus</p>
