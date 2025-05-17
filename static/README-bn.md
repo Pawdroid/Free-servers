@@ -35,17 +35,16 @@
  <h4>নোড তালিকা: (শুধুমাত্র কিছু নোড এখানে প্রদর্শিত হয়, সমস্ত নোড দেখতে অ্যাপটি ডাউনলোড করুন)</h4>
     
 ```
-vmess://eyJhZGQiOiAibm9kZTMub3VyZmFzdC5hc2lhIiwgInYiOiAiMiIsICJwcyI6ICJIb25nIEtvbmciLCAicG9ydCI6IDQ0MywgImlkIjogIjhhOTRmZjM1LTk0ZTQtNDQyNS04MDAxLTgzNmMxODJkYzg2NSIsICJhaWQiOiAiMCIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAiIiwgImhvc3QiOiAibm9kZTMub3VyZmFzdC5hc2lhIiwgInBhdGgiOiAiIiwgInRscyI6ICJ0bHMifQ==
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206TDhLc3c0TVNNc090WG54OEY4S1RXc084UThLcHdwb0piMmZEbjA3Q2dNS3N3NnZDa2l6RGswZkR2TUtUdzVYQ253PT06YkZRVnc3bDd3N0l4TmNLcGRzT3h3NlhDaU1PUlU4S253N1ExUU1PMmJXNFd3NjRrUEhjUXc1bHpYc09D@64.226.102.252:45746#Germany
-trojan://0017bbce-e963-4b81-8981-a8e4117d2cd4@104.21.63.226:443?security=tls&sni=m8tttr5.457.pp.ua&type=ws&host=m8tttr5.457.pp.ua&path=%2FKLcD0D18SR866TVMXPAl&fp=chrome&alpn=http%2F1.1#United+States
-vmess://eyJhZGQiOiAiMTcyLjY3LjE3MC41MSIsICJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJwb3J0IjogODAsICJpZCI6ICJjZWQzMDdhMi1hZjJjLTQxMTMtYmViYy1mYjg4OGM3MDJiN2QiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAibTRmcnQuOTk5MTgyLnh5eiIsICJwYXRoIjogIi9QRVE3Q29BMVZyQndzYm5FY21KTHhDIiwgInRscyI6ICIifQ==
-trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@202.37.33.80:443?sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz&allowInsecure=1#New+Zealand
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.10:8080#Lithuania
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@67.220.95.29:2376#United+States
-ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@69.50.93.80:5498#United+States
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@67.220.95.96:7002#United+States
-trojan://I46LpSIM1f@194.164.57.9:1935?security=tls&sni=x4ger-ionos.devefun.net&type=tcp#Germany
-trojan://installshield@38.180.249.177:8443?sni=38.180.249.177#The+Netherlands
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@67.220.95.29:8118#United+States
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@67.220.95.133:7307#United+States
+trojan://klZqKyxq0H@57.128.165.173:1935?sni=x1-england-ovh-v2.devefun.net#France
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTamRHQ0h3YWZqa3R0MXJ6cEd4VEtZVHZWQldiOFhhNkU1RFRyNk16YmRIUVN3dnBMaURjemozbjZNQmp5MnV5RlN6Z3FndkNXc0RRbXBNNFZRemZQenlHWUY1OHdkeUQ=@208.67.105.196:42029#The+Netherlands
+trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@212.183.88.172:443?allowInsecure=1&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz&path=/proxyip=212.183.88.172:443&proxyIP=null#Austria
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.251:8080#The+Netherlands
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.47.255.22:990#Puerto+Rico
+vmess://eyJhZGQiOiAiMTA0LjIxLjMyLjEiLCAiYWlkIjogMCwgImhvc3QiOiAidXMwMS5zaC1jbG91ZGZsYXJlLnNicyIsICJpZCI6ICIyYmQwYzlkNy1mMjM5LTQzN2UtYTFlMS02Y2Y4MzBhZjJhMWEiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLyIsICJwb3J0IjogODQ0MywgInBzIjogIlVuaXRlZCBTdGF0ZXMiLCAidGxzIjogInRscyIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogZmFsc2UsICJzbmkiOiAidXMwMS5zaC1jbG91ZGZsYXJlLnNicyJ9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.132:8080#The+Netherlands
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXZm14S1gyRkJKUlUwSWU5VkxJWURM@141.98.234.93:20012#Hong+Kong
 ```
 <h5>উপরের নোডের স্থায়ী সদস্যতা ঠিকানা (অংশ): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_bn</h5>
  <p>উপরের সদস্যতা ঠিকানার জন্য QR কোড</p>

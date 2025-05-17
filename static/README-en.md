@@ -35,17 +35,16 @@
 <h4>Node list: (Only some nodes are shown here, please download the app to view all nodes)</h4>
     
 ```
-vmess://eyJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJhZGQiOiAiNjUuNzUuMTk0LjI4IiwgInBvcnQiOiAiNDk5MzAiLCAidHlwZSI6ICJub25lIiwgImlkIjogIjc1MTkxYjFlLTc0YTUtNGY1NC1hZDk0LTNiYzA5ZmY2MTMyMiIsICJhaWQiOiAiMCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiLyIsICJob3N0IjogIiIsICJ0bHMiOiAiIn0=
-trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@45.154.98.124:12001?sni=icecream.955850.xyz&allowInsecure=1&type=ws&path=%2Fproxyip%3D45.154.98.124%3A12001%26proxyIP%3Dnull&host=icecream.955850.xyz#The+Netherlands
+vmess://eyJhZGQiOiAibTExd2VyNTYuODU5ODg2Lnh5eiIsICJhaWQiOiAwLCAiaG9zdCI6ICJtMTF3ZXI1Ni44NTk4ODYueHl6IiwgImlkIjogIjBhMjhiNDIwLTRmN2MtNDNhZC1hMjllLTgwMDY4Y2UwODI2MyIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvbGhVOFNoc29QWmx1bG5uWVBiODZjc3AiLCAicG9ydCI6IDgwLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJ0bHMiOiAiIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiJ9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.28:8080#Lithuania
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.193:443#United+Kingdom
-trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@160.123.255.173:443?allowInsecure=1&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz&path=/proxyip=160.123.255.173:443&proxyIP=null#South+Africa
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@67.220.95.102:8881#United+States
-trojan://9e7caa3b-ca9c-40ba-9ea0-f0c992359239@172.67.220.93:443?security=tls&sni=m2rrrty.777219.xyz&type=ws&host=m2rrrty.777219.xyz&path=%2FduJhdsnTCbijwHNYeMcCs9&fp=chrome&alpn=http%2F1.1#United+States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.158.171.110:8080#United+States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@38.165.233.18:990#Paraguay
-trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@217.163.76.254:443?sni=icecream.955850.xyz&allowInsecure=1&type=ws&path=%2Fproxyip%3D217.163.76.254%3A443%26proxyIP%3Dnull&host=icecream.955850.xyz#United+Kingdom
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@69.50.93.113:5004#United+States
-ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@38.143.66.87:9102#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.164:8080#Lithuania
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.62.164:443#Switzerland
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.138:8080#The+Netherlands
+trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@138.2.107.107:443?sni=icecream.955850.xyz&allowInsecure=1&type=ws&path=%2Fproxyip%3D138.2.107.107%3A443%26proxyIP%3Dnull&host=icecream.955850.xyz#Singapore
+vmess://eyJhZGQiOiAiNTcuMTI5LjI4LjY5IiwgInYiOiAiMiIsICJwcyI6ICJGcmFuY2UiLCAicG9ydCI6IDQ0MywgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJiYXJhZGloYS5jb20iLCAicGF0aCI6ICIvbGlua3Z3cyIsICJ0bHMiOiAidGxzIn0=
+vmess://eyJhZGQiOiAiMjAyLjc4LjE2Mi41IiwgImFpZCI6IDAsICJob3N0IjogInBlbmRhci5vbnRoZXdpZmkuY29tIiwgImlkIjogIjcxNmVkZWQ2LTIyMDEtNGRiZC05ZDYzLTE2MzhjOWU4ZTY3NyIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvQGZvcndhcmR2MnJheSIsICJwb3J0IjogNDQzLCAicHMiOiAiTHV4ZW1ib3VyZyIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiJ9
+vmess://eyJhZGQiOiAidjQubm1jZi5tZSIsICJ2IjogIjIiLCAicHMiOiAiSG9uZyBLb25nIiwgInBvcnQiOiA4MDAxLCAiaWQiOiAiZjlhZDdkN2UtYzY5YS00YTlkLTljOTQtYmU3ZWJjOTk4NDlkIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogInd3dy5iaW5nLmNvbSIsICJwYXRoIjogIi9ubWtqIiwgInRscyI6ICIifQ==
 ```
 <h5>Permanent subscription address of the node above (part): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_en</h5>
 <p>QR code of the subscription address above</p>
