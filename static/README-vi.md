@@ -35,17 +35,17 @@
  <h4>Danh sách nút: (Chỉ hiển thị một số nút ở đây, vui lòng tải xuống ứng dụng để xem tất cả các nút)</h4>
     
 ```
-vmess://eyJhZGQiOiAiaXJ2aWRlby5jZmQiLCAiYWlkIjogMCwgImhvc3QiOiAiaXJ2aWRlby5jZmQiLCAiaWQiOiAiZTUzN2YyZjUtMmEwYy00ZjU5LTkyYzktODMyY2E2NDMzYmYzIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9saW5rd3MiLCAicG9ydCI6IDQ0MywgInBzIjogIkZyYW5jZSIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiBmYWxzZSwgInNuaSI6ICJpcnZpZGVvLmNmZCJ9
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@38.143.66.87:6697#United+States
-vmess://eyJ2IjogMiwgInBzIjogIkNhbmFkYSIsICJhZGQiOiAiNTEuNzkuMTAyLjI1MyIsICJwb3J0IjogODAsICJpZCI6ICI1OGZlMTU0Mi01MjkwLTQwYWQtODE1YS03NzcwN2E4MWFmZTUiLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogbnVsbCwgImhvc3QiOiAiNTEuNzkuMTAyLjI1MyIsICJwYXRoIjogIi9JT2ViaExNaGwxQ1RiRkhiTDk1bXlmUlgyIiwgInRscyI6IGZhbHNlLCAic25pIjogIiJ9
-trojan://telegram-id-privatevpns@51.44.1.140:22222?sni=trojan.burgerip.co.uk#France
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@67.220.95.29:8118#United+States
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.62.163:443#Switzerland
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWVE4SndFbGRZbjRLVDJnZlo2ZU5s@89.23.103.21:51584#The+Netherlands
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.69:8080#Lithuania
-trojan://auto@172.67.174.252:443?security=tls&sni=esetsecuritylicense1.vowexa5791.workers.dev&type=ws&host=esetsecuritylicense1.vowexa5791.workers.dev&path=%2F#United+States
-trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@185.133.35.38:443?sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz&allowInsecure=1#Brazil
-vmess://eyJhZGQiOiAiNDUuMTIuMTQ1LjExMSIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiMWI0MTE1M2UtYzRkNC00MzFiLTgzZWItMTA0NzJmODY5ZjkzIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIiLCAicG9ydCI6ICI0NjI5MCIsICJwcyI6ICJTcGFpbiIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICIiLCAidiI6ICIyIn0=
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@ca225.vpnbook.com:80#Canada
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWZmFFYXRHajdpWG5jVnBpaktGQzFl@62.60.231.81:59945#Hong+Kong
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiWjg3YW1QcGRHN0t1V002MmJLdG0xS0hvb3d1VmpuVjhDS3RxNjUzeW1IY2cyZFBZY1BKZm5hUTYxc3R1QWpyMlppTERhcUg1Nlhwa3hFWXV3RHp6UnJNV2llZWJXR3Q=@mx2.drawnrisha.one:55988#United+Kingdom
+trojan://1549e70f-dc57-45e3-ac7c-515f0161db72@172.67.155.140:443?security=tls&sni=6667.HUAnGSHanG.dpdNs.orG&type=ws&host=6667.huangshang.dpdns.org&path=%2FTomYJoQX0RSt1mktNrT&fp=chrome&alpn=http%2F1.1#United+States
+trojan://xxoo@138.197.5.103:443?sni=us.blazeppn.info#United+States
+vmess://eyJhZGQiOiAiNDUuMTIuMTE0LjE1IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICI5ZGM1YmZmOC1iY2JiLTQ3MDMtYjBmZS00ZjkxYmE1MTc0MDIiLCAibmV0IjogInRjcCIsICJwYXRoIjogIi8iLCAicG9ydCI6ICIyMDc3OSIsICJwcyI6ICJDaGluYSIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
+trojan://Aimer@27.50.48.126:2083?security=tls&sni=tyep.esslh.filegear-sg.me&type=ws&host=tyep.esslh.filegear-sg.me&path=%2F%3Fed%3D2560#Singapore
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.121.43.71:2376#United+States
+vmess://eyJhZGQiOiAiMTA0LjIxLjExMi4xIiwgInYiOiAiMiIsICJwcyI6ICJVbml0ZWQgU3RhdGVzIiwgInBvcnQiOiAyMDg3LCAiaWQiOiAiMWMzNjkwNmUtMWEyMS00MzMwLWIwNGYtODViYWYxYTZmZjI2IiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogInJhazFkMy43NzcyNjkueHl6IiwgInBhdGgiOiAiLyIsICJ0bHMiOiAidGxzIn0=
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.158.171.151:8080#United+States
+trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@185.133.35.38:443?allowInsecure=1&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz&path=/proxyip=185.133.35.38:443&proxyIP=null#Brazil
 ```
 <h5>Địa chỉ đăng ký vĩnh viễn của nút trên (một phần): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_vi</h5>
  <p>Mã QR cho địa chỉ đăng ký ở trên</p>

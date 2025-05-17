@@ -35,17 +35,17 @@
 <h4>Node list: (Only some nodes are shown here, please download the app to view all nodes)</h4>
     
 ```
-ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@69.50.93.80:5498#United+States
-vmess://eyJ2IjogMiwgInBzIjogIkNhbmFkYSIsICJhZGQiOiAiNTEuNzkuMTAyLjI1MyIsICJwb3J0IjogODAsICJpZCI6ICI1OGZlMTU0Mi01MjkwLTQwYWQtODE1YS03NzcwN2E4MWFmZTUiLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogbnVsbCwgImhvc3QiOiAiNTEuNzkuMTAyLjI1MyIsICJwYXRoIjogIi9JT2ViaExNaGwxQ1RiRkhiTDk1bXlmUlgyIiwgInRscyI6IGZhbHNlLCAic25pIjogIiJ9
-vmess://eyJ2IjogIjIiLCAicHMiOiAiTm9yd2F5IiwgImFkZCI6ICIyLjU2LjEyNi4xMDMiLCAicG9ydCI6ICIzMzU3OSIsICJpZCI6ICIyZWIzZWUyYS03YmY4LTRiNTAtOWI5My0yZDQ4OWQyZjM0NTYiLCAiYWlkIjogIjAiLCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIiLCAidGxzIjogIiIsICJzbmkiOiAiIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZX0=
-vmess://eyJhZGQiOiAiMTAzLjEyNC4xMDcuMTQ0IiwgInYiOiAiMiIsICJwcyI6ICJVbml0ZWQgU3RhdGVzIiwgInBvcnQiOiAyOTgwMCwgImlkIjogImNjMzFkZGZjLWQ5MmUtNGRhYi1jZDA2LTAwZGZiODRhZjhhYyIsICJhaWQiOiAiMCIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiIiwgInRscyI6ICIifQ==
-vmess://eyJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIEtpbmdkb20iLCAiYWRkIjogIjQ2LjI1MC4yMzcuMTk2IiwgInBvcnQiOiAiMjk5OTkiLCAiaWQiOiAiYjMxZmMxMzQtOTc4ZS00MTc2LTg1NzktODEwN2Q2YTBjZWRlIiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiIiwgInRscyI6ICIiLCAic25pIjogIiIsICJ0ZXN0X25hbWUiOiAiNSJ9
-trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@185.133.35.243:443?allowInsecure=0&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz&path=/proxyip=185.133.35.243:443#Brazil
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvMzh5dXZ6U2UzbTVhRE5wSHRVUEgxekd3YkdFWFhNRHNHd1ZhdWIyU1lFbUhVYTJXR1pVamllelgzVnZ2YTlDQ3pwanhZdHVKTGdLc1Nuc3lLQmY5Y2lQVmJhM3k0bzM=@beta.mattenadene.org:54075#United+States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.158.171.132:8080#United+States
-vmess://eyJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJhZGQiOiAiMzguMTQ3LjEwNy4yMTQiLCAicG9ydCI6ICIyMzc3MCIsICJpZCI6ICI2YzU2NTBjZC1hYWFjLTQxMTAtZmIzNS1iNjVlN2RkNDJiNDIiLCAiYWlkIjogIjAiLCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAiIiwgInNuaSI6ICIiLCAidGVzdF9uYW1lIjogIlVTMjcifQ==
-trojan://9f19a22d-60d0-4cf8-935d-ebcff8546054@wb.kaiqsz.com:42765?allowInsecure=1&sni=mmbiz1.redapricotcloud.com#China
-trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@185.133.35.160:443?allowInsecure=1&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz&path=/proxyip=185.133.35.160:443&proxyIP=null#Brazil
+vmess://eyJhZGQiOiAiMTcyLjY3LjE1NC44NCIsICJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJwb3J0IjogNDQzLCAiaWQiOiAiZTUzN2YyZjUtMmEwYy00ZjU5LTkyYzktODMyY2E2NDMzYmYzIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogImlydmlkZW8uY2ZkIiwgInBhdGgiOiAiL2xpbmt3cyIsICJ0bHMiOiAidGxzIn0=
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.164:8080#Lithuania
+trojan://auto@104.17.147.22:80?security=none&type=ws&host=floral-shadow-a524.bestmanvpn2020.workers.dev&path=%2Ffloral-shadow-a524.bestmanvpn2020.workers.dev%2F%3Fed%3D2560#United+States
+trojan://dQUWbcwECl@20.191.138.47:443?security=tls&sni=automq4-proxy.automq-sg.com#Singapore
+trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@160.79.105.220:443?sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz&allowInsecure=0#United+States
+trojan://a926af96-2cfe-4169-8107-6c5f0d74a938@172.67.207.27:443?security=tls&sni=yu765.taipei108.dpdns.org&type=ws&host=yu765.taipei108.dpdns.org&path=%2F5NB3RVAWa3Uo1P5zFPkui&fp=chrome&alpn=http%2F1.1#United+States
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.47.131:443#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWVE4SndFbGRZbjRLVDJnZlo2ZU5s@89.23.103.21:51584#The+Netherlands
+trojan://70776bb4-d791-4cbd-9c9b-c76e937f9e60@172.67.216.240:443?sni=Xxs345rf.857856.xYZ&allowInsecure=1&type=ws&path=%2F71M8Ov1I5Gk9247fHC0XGZG6&host=Xxs345rf.857856.xYZ#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@193.29.139.175:8080#The+Netherlands
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@67.220.95.102:8881#United+States
 ```
 <h5>Permanent subscription address of the node above (part): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_en</h5>
 <p>QR code of the subscription address above</p>

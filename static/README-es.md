@@ -35,17 +35,17 @@
  <h4>Lista de nodos: (aquí solo se muestran algunos nodos; descargue la aplicación para ver todos los nodos)</h4>
     
 ```
-trojan://f82fb954-06a1-4f0b-9180-17e07585b61f@172.67.212.82:443?security=tls&sni=6tyu.131.pp.ua&type=ws&host=6tyu.131.pp.ua&path=%2FYu29UN3Yz8hcnI3SlZor0&fp=chrome&alpn=http%2F1.1#Estados+Unidos
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.121.43.97:7001#Estados+Unidos
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.202:8080#Holanda
-trojan://bpb-trojan@162.159.152.2:443?security=tls&sni=zamim340.ggff.net&type=ws&host=zamim340.ggff.net&path=%2Ftr%3Fed%3D2560#Estados+Unidos
-vmess://eyJhZGQiOiAiMTAxLjk5LjkxLjIzNCIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiMTI3ZmY0M2MtMTg1MS00YjJkLWJhOGMtNmFmYmEyMWVjMDRkIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIiLCAicG9ydCI6ICIzNjcwMCIsICJwcyI6ICJNYWxhc2lhIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=
-trojan://a5fd0c47-f3f6-48c8-becb-cc766edf3e1a@104.21.60.213:443?security=tls&sni=m5rtyu.999658.xyz&type=ws&host=m5rtyu.999658.xyz&path=%2FGawgMugyRDAQXp6e0CScyGqcQZW&fp=chrome&alpn=http%2F1.1#Estados+Unidos
-trojan://trojan@104.18.13.229:8443?security=tls&sni=betashop.foz.rf.gd&type=ws&host=betashop.foz.rf.gd&path=%2F%3Fed%3D2560&fp=random#Estados+Unidos
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@45.154.206.192:990#Reino+Unido
-trojan://vpn@46.29.234.154:2025?security=none&type=ws&host=dns.google.com&path=%2F#Lituania
-vmess://eyJhZGQiOiAiOTUuMTY0LjM4LjYiLCAidiI6ICIyIiwgInBzIjogIk5vcnVlZ2EiLCAicG9ydCI6IDIxOTM4LCAiaWQiOiAiNTgzYmViZWYtM2UwYi00Yzg1LWJhODAtMzllMDdjZTM1YWQ5IiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIiLCAidGxzIjogIiJ9
-trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@162.159.153.209:443?allowInsecure=1&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz&path=/proxyip=162.159.153.209:443&proxyIP=null#Estados+Unidos
+trojan://tg-fq521free@45.67.215.95:443?security=tls&sni=torjan.xn--xhq44j.eu.org&type=ws&host=torjan.xn--xhq44j.eu.org&path=%2F#Rusia
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.121.43.71:443#Estados+Unidos
+trojan://aTArbZ2F0E@172.66.168.213:443?sni=uSa-vp-27.bLAzECLOUD.SITE&type=ws&host=uSa-vp-27.bLAzECLOUD.SITE&path=/linkvkws#Estados+Unidos
+vmess://eyJhZGQiOiAiYWZsenp1bC5tZWlxdWFua29uZ2ppYW4uY29tIiwgInYiOiAiMiIsICJwcyI6ICJIb25nIEtvbmciLCAicG9ydCI6IDUyNTEyLCAiaWQiOiAiMzQyYmFjZmQtMmI4Zi0zZjQ5LWExNmUtNDM5ZGI1YjBiOWQ1IiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogImFmbHp6dWwubWVpcXVhbmtvbmdqaWFuLmNvbSIsICJwYXRoIjogIi81NjRkZmEyMC8iLCAidGxzIjogIiJ9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWEdwMStpaGxmS2c4MjZI@185.177.229.245:1866#Alemania
+vmess://eyJhZGQiOiAiNTcuMTI5LjI0LjEyNCIsICJ2IjogIjIiLCAicHMiOiAiQWxlbWFuaWEiLCAicG9ydCI6IDQ0MywgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJ3cm1lbG13eGxmLmdrdGV2bHJxem53cXFvenkuZmFicGZzNjZnaXptbm9qaGN2cXh3bC5reXRyY2Z6cWxhODdndmd2czZjN2tqbnJ1YnVoLmNjIiwgInBhdGgiOiAiL2xpbmt2d3MiLCAidGxzIjogInRscyJ9
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.121.43.71:8118#Estados+Unidos
+trojan://5e2f888c-68ef-11ef-96ca-f23c9164ca5d@1e01bfff-swgsg0-swy6li-tni2.la3.tcpbbr.net:443?#Estados+Unidos
+vmess://eyJhZGQiOiAiOXguOTM4LnBwLnVhIiwgInYiOiAiMiIsICJwcyI6ICJFc3RhZG9zIFVuaWRvcyIsICJwb3J0IjogNDQzLCAiaWQiOiAiOTA2YmE5MmYtZWY5Ni00MTMzLThlZWUtZjMzMjAyYTVhNzIxIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIi9EQXhKZGRPZFRkNXBWYW05dyIsICJ0bHMiOiAidGxzIn0=
+ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@23.154.136.132:5499#Estados+Unidos
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVRGNqWVE2WjZBSVd4VmlacHF5T21P@46.246.98.155:44013#Suecia
 ```
 <h5>La dirección de suscripción permanente del nodo superior (parte): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_es</h5>
  <p>Código QR para la dirección de suscripción anterior</p>

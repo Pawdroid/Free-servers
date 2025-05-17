@@ -35,17 +35,17 @@
  <h4>Daftar node: (Hanya beberapa node yang ditampilkan di sini, silakan unduh aplikasi untuk melihat semua node)</h4>
     
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxYTE3YjE5ZC00ODk2LTQ1MzEtYWY3OS02ZTkxZDhlZjgyMjg=@3.36.68.170:6666#South+Korea
-vmess://eyJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJhZGQiOiAiMTA0LjE4LjE0OS43NiIsICJwb3J0IjogNDQzLCAiaWQiOiAiZGU5NGNjMGEtMDU5Mi00OTY5LWIxZmMtOTdlYThmMGVhMGIzIiwgInR5cGUiOiAiIiwgImFpZCI6IDAsICJuZXQiOiAid3MiLCAidGxzIjogInRscyIsICJzbmkiOiAidXMua2twLm1lLmV1Lm9yZyIsICJwYXRoIjogIi9hYSIsICJob3N0IjogInVzLmtrcC5tZS5ldS5vcmcifQ==
-vmess://eyJhZGQiOiAiODQuMjQ3LjE0Ni4xNjEiLCAidiI6ICIyIiwgInBzIjogIkdlcm1hbnkiLCAicG9ydCI6IDM5NTMwLCAiaWQiOiAiN2FhNTZlMzktMjliOC00NWMzLThiNTMtNmQyYTIzYjI0NjFjIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIiLCAidGxzIjogIiJ9
-trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@130.61.51.100:8443?sni=icecream.955850.xyz&allowInsecure=1&type=ws&path=%2Fproxyip%3D130.61.51.100%3A8443%26proxyIP%3Dnull&host=icecream.955850.xyz#Germany
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.158.171.146:8080#United+States
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@38.121.43.71:6679#United+States
-trojan://vpn@109.120.132.80:2025?security=none&type=ws&path=/&host=vkvd127.mycdn.me#Russia
-trojan://ypDt8RkT7J@89.187.181.179:43118#United+States
-trojan://123456@104.25.165.81:8443?security=tls&sni=top-azx.pages.dev&type=ws&host=top-azx.pages.dev&path=%2FAz1.vpn.33.TOP%2F%3Fed%3D2560#United+States
-vmess://eyJhZGQiOiAibnkxLmJ1bGtjYXNoLnRvcCIsICJ2IjogIjIiLCAicHMiOiAiQ2FuYWRhIiwgInBvcnQiOiA0MTUwNywgImlkIjogIjY5NWFjMGEzLTQwNmEtNDFkNy04M2M1LTVhZjhjMzlkM2JlYyIsICJhaWQiOiAiNSIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIvIiwgInRscyI6ICJ0bHMifQ==
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@69.50.93.47:8119#United+States
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.169:443#United+States
+vmess://eyJ2IjogIjIiLCAicHMiOiAiR2VybWFueSIsICJhZGQiOiAiOTQuMTM2LjE4NC4xNTUiLCAicG9ydCI6IDM5MjUzLCAiaWQiOiAiNjliNDlhMzUtY2Y1NS00ZDE0LTlmMmItZDdjZTNhMGRiNzJlIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICJub25lIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlfQ==
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.154.136.132:5601#United+States
+trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@160.123.255.134:443?allowInsecure=1&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz&path=/proxyip=160.123.255.134:443&proxyIP=null#South+Africa
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.107.226.14:443#United+States
+trojan://12345678@198.62.62.4:443?security=tls&sni=7bdfb97a.ikl.pages.dev&type=ws&host=7bdfb97a.ikl.pages.dev&path=%2F7bdfb97a.ikl.pages.dev#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.240:8080#The+Netherlands
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.121.43.71:8119#United+States
+trojan://cad5a49f-14e5-4a05-aae9-c5df8fad394f@172.67.143.250:443?security=tls&sni=C1wSdm.777162.Xyz&type=ws&host=c1wsdm.777162.xyz&path=%2F5txgrUN3oqXENw4Z4&fp=chrome&alpn=http%2F1.1#United+States
+vmess://eyJhZGQiOiAiZ292LnVrIiwgInYiOiAiMiIsICJwcyI6ICJVbml0ZWQgU3RhdGVzIiwgInBvcnQiOiA0NDMsICJpZCI6ICI3Nzg0ODgyNC05M2I3LTRiODktZmZkMC1lOTFhZmZmNDA2Y2UiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiemhlc2hpc2NwLmNvbSIsICJwYXRoIjogIi83Nzg0ODgyNCIsICJ0bHMiOiAidGxzIn0=
+vmess://eyJhZGQiOiAiNTcuMTI5LjI1LjI1IiwgInYiOiAiMiIsICJwcyI6ICJGcmFuY2UiLCAicG9ydCI6IDQ0MywgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJmLmtoaWxlaS5jb20iLCAicGF0aCI6ICIvbGlua3Z3cyIsICJ0bHMiOiAidGxzIn0=
 ```
 <h5>Alamat langganan permanen node atas (bagian): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_id</h5>
  <p>Kode QR untuk alamat berlangganan di atas</p>

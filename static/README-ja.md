@@ -35,17 +35,17 @@
  <h4>ノード リスト: (ここには一部のノードのみが表示されます。すべてのノードを表示するにはアプリをダウンロードしてください)</h4>
     
 ```
-trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@45.67.215.234:443?allowInsecure=0&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz&path=/proxyip=45.67.215.234:443#%E3%83%AD%E3%82%B7%E3%82%A2
-trojan://9f19a22d-60d0-4cf8-935d-ebcff8546054@wb.kaiqsz.com:42765?allowInsecure=1&sni=mmbiz1.redapricotcloud.com#%E4%B8%AD%E5%9B%BD
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.181:8080#%E3%83%AA%E3%83%88%E3%82%A2%E3%83%8B%E3%82%A2%E5%85%B1%E5%92%8C%E5%9B%BD
-vmess://eyJhZGQiOiAiMTcyLjY3LjE3MC41MSIsICJ2IjogIjIiLCAicHMiOiAiXHUzMGEyXHUzMGUxXHUzMGVhXHUzMGFiIiwgInBvcnQiOiA4MCwgImlkIjogImNlZDMwN2EyLWFmMmMtNDExMy1iZWJjLWZiODg4YzcwMmI3ZCIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJtNGZydC45OTkxODIueHl6IiwgInBhdGgiOiAiL1BFUTdDb0ExVnJCd3NibkVjbUpMeEMiLCAidGxzIjogIiJ9
-trojan://fefba36d-5142-42f1-b14d-db5249511d93@104.21.82.39:443?security=tls&sni=5ttt.191288.xyz&type=ws&host=5ttt.191288.xyz&path=%2FBFBuPh4SuxTxCwkqKrjE&fp=chrome&alpn=http%2F1.1#%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@23.150.248.235:6679#%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHUzMGEyXHUzMGUxXHUzMGVhXHUzMGFiIiwgImFkZCI6ICIxMDQuMTguMTQ5Ljc2IiwgInBvcnQiOiA0NDMsICJpZCI6ICJkZTk0Y2MwYS0wNTkyLTQ5NjktYjFmYy05N2VhOGYwZWEwYjMiLCAidHlwZSI6ICIiLCAiYWlkIjogMCwgIm5ldCI6ICJ3cyIsICJ0bHMiOiAidGxzIiwgInNuaSI6ICJ1cy5ra3AubWUuZXUub3JnIiwgInBhdGgiOiAiL2FhIiwgImhvc3QiOiAidXMua2twLm1lLmV1Lm9yZyJ9
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.121.43.97:7306#%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB
-vmess://eyJhZGQiOiAiMzguOTkuODIuMTkzIiwgInYiOiAiMiIsICJwcyI6ICJcdTMwYTJcdTMwZTFcdTMwZWFcdTMwYWIiLCAicG9ydCI6IDQ0MywgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJ0aWxlYmFuaS5jb20iLCAicGF0aCI6ICIvbGlua3Z3cyIsICJ0bHMiOiAidGxzIn0=
-trojan://f82fb954-06a1-4f0b-9180-17e07585b61f@104.21.32.1:443?security=tls&sni=6hj8.191262.xyz&type=ws&host=6hj8.191262.xyz&path=%2FYu29UN3Yz8hcnI3SlZor0&fp=chrome&alpn=http%2F1.1#%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMjc1ODQ5ZWJjZmNlYzdl@57.128.190.110:11703#%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9%E5%85%B1%E5%92%8C%E5%9B%BD
+vmess://eyJhZGQiOiAiMTUuMjM1LjUwLjE3MiIsICJ2IjogIjIiLCAicHMiOiAiXHUzMGFiXHUzMGNhXHUzMGMwIiwgInBvcnQiOiA0NDMsICJpZCI6ICIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiYmFyYWRpaGEuY29tIiwgInBhdGgiOiAiL2xpbmt2d3MiLCAidGxzIjogInRscyJ9
+vmess://eyJhZGQiOiAiMTQ2LjE5LjE2OC4xNjEiLCAidiI6ICIyIiwgInBzIjogIlx1MzBkNVx1MzBlOVx1MzBmM1x1MzBiOVx1NTE3MVx1NTQ4Y1x1NTZmZCIsICJwb3J0IjogNDQzLCAiaWQiOiAiM2Y2MzhmMzQtOGRiYS00MTg2LWJjNDMtMjcxNmE3ZGRkNGJlIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogImF6MDUuYmV5b25keS5jZmQiLCAicGF0aCI6ICIvbGluayIsICJ0bHMiOiAidGxzIn0=
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.177:8080#%E3%82%AA%E3%83%A9%E3%83%B3%E3%83%80%E7%8E%8B%E5%9B%BD
+trojan://a5fd0c47-f3f6-48c8-becb-cc766edf3e1a@104.21.60.213:443?security=tls&sni=m5rtyu.999658.xyz&type=ws&host=m5rtyu.999658.xyz&path=%2FGawgMugyRDAQXp6e0CScyGqcQZW&fp=chrome&alpn=http%2F1.1#%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXZm14S1gyRkJKUlUwSWU5VkxJWURM@141.98.234.93:20012#%E9%A6%99%E6%B8%AF
+trojan://trojan@172.64.155.16:2053?security=tls&sni=ana-service-anaservice--anaservice-antenircomorg.fmwlmluu.workers.dev&type=ws&host=ana-service-anaservice--anaservice-antenircomorg.fmwlmluu.workers.dev#%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@192.71.249.146:990#%E3%83%99%E3%83%AB%E3%82%AE%E3%83%BC%E7%8E%8B%E5%9B%BD
+vmess://eyJhZGQiOiAiMjAyLjc4LjE2Mi41IiwgImFpZCI6IDAsICJob3N0IjogInNhaGFuZC5zZXJ2ZW1pbmVjcmFmdC5uZXQiLCAiaWQiOiAiMTE4Mjg3ZDItZTk2OC00MmUxLTgwZDAtMTJmYTJmNWQzOGQ2IiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9AZm9yd2FyZHYycmF5IiwgInBvcnQiOiA0NDMsICJwcyI6ICJcdTMwZWJcdTMwYWZcdTMwYmJcdTMwZjNcdTMwZDZcdTMwZWJcdTMwYWYiLCAidGxzIjogInRscyIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIifQ==
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@67.220.95.102:7001#%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB
+trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@138.2.107.107:443?sni=icecream.955850.xyz&allowInsecure=1&type=ws&path=%2Fproxyip%3D138.2.107.107%3A443%26proxyIP%3Dnull&host=icecream.955850.xyz#%E3%82%B7%E3%83%B3%E3%82%AC%E3%83%9D%E3%83%BC%E3%83%AB
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.121.43.71:5001#%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB
 ```
 <h5>上位ノードの永続サブスクリプション アドレス (部分): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ja</h5>
  <p>上記の購読アドレスの QR コード</p>

@@ -35,17 +35,17 @@
  <h4>নোড তালিকা: (শুধুমাত্র কিছু নোড এখানে প্রদর্শিত হয়, সমস্ত নোড দেখতে অ্যাপটি ডাউনলোড করুন)</h4>
     
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.138:8080#The+Netherlands
-trojan://s8xwZ%5D%7C%3FV%3EcH@172.67.149.227:443?security=tls&sni=fL9F9zCnHrfnvkA1oYA84yy6p44dHfqP.tUrbOOsErveR.wOrKeRS.dEv&type=ws&host=fl9f9zcnhrfnvka1oya84yy6p44dhfqp.turbooserver.workers.dev&path=%2FtrOMMGv7luGhBNaxVb%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#United+States
-trojan://fefba36d-5142-42f1-b14d-db5249511d93@104.21.61.154:443?security=tls&sni=5dfg.191266.xyz&type=ws&host=5dfg.191266.xyz&path=%2FBFBuPh4SuxTxCwkqKrjE&fp=chrome&alpn=http%2F1.1#United+States
-trojan://1549e70f-dc57-45e3-ac7c-515f0161db72@172.67.155.140:443?security=tls&sni=6667.HUAnGSHanG.dpdNs.orG&type=ws&host=6667.huangshang.dpdns.org&path=%2FTomYJoQX0RSt1mktNrT&fp=chrome&alpn=http%2F1.1#United+States
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.121.43.97:7306#United+States
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.121.43.71:2376#United+States
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@69.50.93.47:7001#United+States
-vmess://eyJhZGQiOiAiNTcuMTI5LjI0LjEyNSIsICJ2IjogIjIiLCAicHMiOiAiR2VybWFueSIsICJwb3J0IjogNDQzLCAiaWQiOiAiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogImF2ZWlyb3IuY29tIiwgInBhdGgiOiAiL2xpbmt2d3MiLCAidGxzIjogInRscyJ9
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@38.121.43.71:6679#United+States
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.121.43.71:3306#United+States
-vmess://eyJhZGQiOiAiNDUuMTIuMTMzLjQzIiwgInYiOiAiMiIsICJwcyI6ICJQb3J0dWdhbCIsICJwb3J0IjogMjg0NDQsICJpZCI6ICIxYmU4ZWRkYi00ZjhjLTQ1ZDAtYjJhMS1lNTM4ZWIzYWJkMzkiLCAiYWlkIjogIjAiLCAibmV0IjogInRjcCIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAiIn0=
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@67.220.95.102:9101#United+States
+trojan://bpb-trojan@us.madison.eu.org:443?allowInsecure=1&sni=skwygx.top&type=ws&host=skwygx.top&path=/tr?ed=2560#Hong+Kong
+vmess://eyJhZGQiOiAiOXguOTM4LnBwLnVhIiwgInYiOiAiMiIsICJwcyI6ICJVbml0ZWQgU3RhdGVzIiwgInBvcnQiOiA0NDMsICJpZCI6ICI5MDZiYTkyZi1lZjk2LTQxMzMtOGVlZS1mMzMyMDJhNWE3MjEiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiL0RBeEpkZE9kVGQ1cFZhbTl3IiwgInRscyI6ICJ0bHMifQ==
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@103.104.247.49:8080#The+Netherlands
+trojan://Mojtaba-shieldheart@104.24.145.86:2087?security=tls&sni=broken-bread-6ba6.shieldheart4.workers.dev&type=ws&host=broken-bread-6ba6.shieldheart4.workers.dev&path=%2F%3Fed%3D2560&fp=randomized#United+States
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.114.114.108:8881#United+States
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.143.66.87:3306#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMTVNOaDIxVHJYalIyb2syNVEybkU4RU5UMnpvQm1QdmthM1JDQ1VBSFpFTENuV29la1ZqdmFmODlxd2NSa2RieEVmZXAyYmMyYVV0bW54cXZGMWF5UVJlejFKSGpVTGo=@exchange.gameaurela.click:52952#United+States
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@69.50.93.47:7002#United+States
+trojan://vpn@109.120.132.80:2025?security=none&type=ws&path=/&host=vkvd127.mycdn.me#Russia
+trojan://auto@104.21.72.108:443?security=tls&sni=esetsecuritylicense1.cxlrazo.workers.dev&type=ws&host=esetsecuritylicense1.cxlrazo.workers.dev&path=%2F#United+States
 ```
 <h5>উপরের নোডের স্থায়ী সদস্যতা ঠিকানা (অংশ): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_bn</h5>
  <p>উপরের সদস্যতা ঠিকানার জন্য QR কোড</p>

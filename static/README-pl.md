@@ -35,17 +35,17 @@
  <h4>Lista węzłów: (wyświetlane są tutaj tylko niektóre węzły. Pobierz aplikację, aby wyświetlić wszystkie węzły)</h4>
     
 ```
-trojan://bpb-trojan@104.26.5.60:443?security=tls&sni=zamim340.ggff.net&type=ws&host=zamim340.ggff.net&path=%2Ftr%3Fed%3D2560#United+States
-trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@140.238.212.95:443?allowInsecure=1&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz&path=/proxyip=140.238.212.95:443&proxyIP=null#Switzerland
-trojan://3d4ad187-b554-4300-bf71-d26c71962504@104.21.78.243:443?sni=FFfgtyy.7282728.XYZ&type=ws&host=FFfgtyy.7282728.XYZ&path=/WaHA3RC540rQ8PWqRcOEICAwmfH7&allowInsecure=1#United+States
-trojan://ypDt8RkT7J@89.187.181.179:43118#United+States
-trojan://Bc%23%3F%3Fcut0k9l@104.17.148.22:2053?security=tls&sni=G7tAU5ZF41eqnF9FpwJ8rmQY3SFYEI4l.PRX11.wORKeRS.dEV&type=ws&host=g7tau5zf41eqnf9fpwj8rmqy3sfyei4l.prx11.workers.dev&path=%2FtrfoKzrMN87amrjlOx%3Fed%3D2560&fp=randomized&alpn=http%2F1.1#United+States
-trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@192.0.54.194:443?allowInsecure=1&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz&path=/proxyip=192.0.54.194:443&proxyIP=null#United+States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@103.104.247.47:8080#The+Netherlands
-vmess://eyJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJhZGQiOiAiMTA0LjE4LjE0OS43NiIsICJwb3J0IjogNDQzLCAiaWQiOiAiZGU5NGNjMGEtMDU5Mi00OTY5LWIxZmMtOTdlYThmMGVhMGIzIiwgInR5cGUiOiAiIiwgImFpZCI6IDAsICJuZXQiOiAid3MiLCAidGxzIjogInRscyIsICJzbmkiOiAidXMua2twLm1lLmV1Lm9yZyIsICJwYXRoIjogIi9hYSIsICJob3N0IjogInVzLmtrcC5tZS5ldS5vcmcifQ==
-vmess://eyJhZGQiOiAiMTA0LjIxLjk2LjEiLCAidiI6ICIyIiwgInBzIjogIlVuaXRlZCBTdGF0ZXMiLCAicG9ydCI6IDIwODcsICJpZCI6ICIxYzM2OTA2ZS0xYTIxLTQzMzAtYjA0Zi04NWJhZjFhNmZmMjYiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAicmFrMWQzLjc3NzI2OS54eXoiLCAicGF0aCI6ICIvIiwgInRscyI6ICJ0bHMifQ==
-vmess://eyJhZGQiOiAiNDUuOC4xNDUuMTQ1IiwgInYiOiAiMiIsICJwcyI6ICJUaGUgTmV0aGVybGFuZHMiLCAicG9ydCI6IDMwNTIwLCAiaWQiOiAiMzAzODAyNGYtM2EzNC00MjI4LWI2MWMtZDc0MWIyZmJlYzhmIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIiLCAidGxzIjogIiJ9
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.110.1.88:5600#United+States
+vmess://eyJ2IjogIjIiLCAicHMiOiAiQXVzdHJhbGlhIiwgImFkZCI6ICIxNTQuMjYuMTUzLjE3MyIsICJwb3J0IjogMjg2ODYsICJpZCI6ICI2ZGY3ZDU2Zi00OTUzLTRhMTAtYmUyZS1hODhjYzlmOTRlNDgiLCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIm5vbmUifQ==
+vmess://eyJ2IjogIjIiLCAicHMiOiAiR2VybWFueSIsICJhZGQiOiAiZGUudm1lc3MuY29tbnBtanMuY29tIiwgInBvcnQiOiAiNDQzIiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJncnBjIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAidGxzIiwgImlkIjogImNlYWFmNjUzLTk4NzQtNThjNi1iMTAwLTA5MmMwMWExZjczZCIsICJzbmkiOiAiZGUudm1lc3MuY29tbnBtanMuY29tIiwgInBhdGgiOiAidm1lc3MtZ3JwYyJ9
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.121.43.97:8091#United+States
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.143.66.87:3389#United+States
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.244:443#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMTVNOaDIxVHJYalIyb2syNVEybkU4RU5UMnpvQm1QdmthM1JDQ1VBSFpFTENuV29la1ZqdmFmODlxd2NSa2RieEVmZXAyYmMyYVV0bW54cXZGMWF5UVJlejFKSGpVTGo=@166.88.131.195:52952#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.158.171.146:8080#United+States
+vmess://eyJwcyI6ICJJdGFseSIsICJob3N0IjogIiIsICJpZCI6ICIxMjc1ZWExOC1iYzljLTRiY2ItYjNmZC1mZWU3MDI3MmUxNDMiLCAicG9ydCI6ICIzODA4OCIsICJ0eXBlIjogIm5vbmUiLCAiYWRkIjogIjIuNTYuMTI1LjEwMSIsICJuZXQiOiAidGNwIiwgInNjeSI6ICJhdXRvIiwgInBhdGgiOiAiIn0=
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@193.29.139.175:8080#The+Netherlands
+trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@160.123.255.18:443?allowInsecure=1&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz&path=/proxyip=160.123.255.18:443&proxyIP=null#South+Africa
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.121.43.71:8000#United+States
 ```
 <h5>Stały adres subskrypcji górnego węzła (część): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_pl</h5>
  <p>Kod QR dla adresu subskrypcji powyżej</p>

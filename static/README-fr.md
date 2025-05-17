@@ -35,17 +35,17 @@
  <h4>Liste des nœuds: (Seuls certains nœuds sont affichés ici, veuillez télécharger l'application pour afficher tous les nœuds)</h4>
     
 ```
-trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@212.183.88.29:443?allowInsecure=1&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz&path=/proxyip=212.183.88.29:443&proxyIP=null#Autriche
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@67.220.95.133:7001#%C3%89tats+Unis
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@67.220.95.135:8090#%C3%89tats+Unis
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.196:443#Royaume-Uni
-trojan://aTArbZ2F0E@172.66.168.213:443?sni=uSa-vp-27.bLAzECLOUD.SITE&type=ws&host=uSa-vp-27.bLAzECLOUD.SITE&path=/linkvkws#%C3%89tats+Unis
-trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@185.133.35.254:443?allowInsecure=1&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz&path=/proxyip=185.133.35.254:443&proxyIP=null#Br%C3%A9sil
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.154.136.132:5000#%C3%89tats+Unis
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmRERtSDRRZWZtV3FNSjhVVVJackdo@86.104.74.243:14255#Canada
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@67.220.95.29:8118#%C3%89tats+Unis
-trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@160.79.105.220:443?sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz&allowInsecure=0#%C3%89tats+Unis
-trojan://8r%3C%5B9%27l6hAO%238ZQi@172.66.44.230:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=koma-yt.pages.dev&path=%2Ftro8sFW1S91B6sZrM1%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#%C3%89tats+Unis
+vmess://eyJhZGQiOiAiNDUuMTIuMTM4LjQ3IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICIyODU4YTQwNC1kMGNhLTRkNjctODBhNi1jZThlOTVlMzgzZmYiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogIjIyODM5IiwgInBzIjogIlN1XHUwMGU4ZGUiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiIiwgInYiOiAiMiJ9
+trojan://5e2f888c-68ef-11ef-96ca-f23c9164ca5d@1e01bfff-swgsg0-swy6li-tni2.la3.tcpbbr.net:443?#%C3%89tats+Unis
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.78:443#Royaume-Uni
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcEtBQmNPcE5OQTBsNUcyQVZPbXc4@213.109.147.242:62685#Royaume-Uni
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.114.114.143:7002#%C3%89tats+Unis
+vmess://eyJhZGQiOiAiMTAxLjk5LjkxLjIzNCIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiMTI3ZmY0M2MtMTg1MS00YjJkLWJhOGMtNmFmYmEyMWVjMDRkIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIiLCAicG9ydCI6ICIzNjcwMCIsICJwcyI6ICJNYWxhaXNpZSIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWZmFFYXRHajdpWG5jVnBpaktGQzFl@62.60.231.81:59945#Hong+Kong
+ss://YWVzLTEyOC1nY206Nzk3Mzk4MzItYjg4OC00MTVhLWE0NTQtOGI1MzkxMWM5NDRh@1.170.192.182:30332#Ta%C3%AFwan
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.22:8080#Lituanie
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.121.43.97:7306#%C3%89tats+Unis
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@23.150.248.235:5003#%C3%89tats+Unis
 ```
 <h5>L'adresse d'abonnement permanente du nœud supérieur (partie): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_fr</h5>
  <p>Code QR pour l'adresse d'abonnement ci-dessus</p>

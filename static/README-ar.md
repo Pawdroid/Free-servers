@@ -35,17 +35,17 @@
  <h4>قائمة العقد: (يتم عرض بعض العقد فقط هنا، يرجى تنزيل التطبيق لعرض جميع العقد)</h4>
     
 ```
-trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@45.67.215.234:443?allowInsecure=0&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz&path=/proxyip=45.67.215.234:443#Russia
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.92:8080#Lithuania
-trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@194.76.18.129:443?type=ws&sni=icecream.955850.xyz&path=/proxyip=194.76.18.129:443&host=icecream.955850.xyz#Kazakhstan
-vmess://eyJhZGQiOiAidmMuZmx5LmRldiIsICJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJwb3J0IjogNDQzLCAiaWQiOiAiMzUzNzkyMTktNjUzNS00ZjJlLWE0ZmUtM2U0NGY2MWUwZWVlIiwgImFpZCI6ICIzMiIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJ2Yy5mbHkuZGV2IiwgInBhdGgiOiAiL3ZjIiwgInRscyI6ICJ0bHMifQ==
-vmess://eyJhZGQiOiAiNTcuMTI5LjI0LjEyNCIsICJ2IjogIjIiLCAicHMiOiAiR2VybWFueSIsICJwb3J0IjogNDQzLCAiaWQiOiAiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogIndybWVsbXd4bGYuZ2t0ZXZscnF6bndxcW96eS5mYWJwZnM2Nmdpem1ub2poY3ZxeHdsLmt5dHJjZnpxbGE4N2d2Z3ZzNmM3a2pucnVidWguY2MiLCAicGF0aCI6ICIvbGlua3Z3cyIsICJ0bHMiOiAidGxzIn0=
-trojan://Bc%23%3F%3Fcut0k9l@104.17.148.22:2053?security=tls&sni=G7tAU5ZF41eqnF9FpwJ8rmQY3SFYEI4l.PRX11.wORKeRS.dEV&type=ws&host=g7tau5zf41eqnf9fpwj8rmqy3sfyei4l.prx11.workers.dev&path=%2FtrfoKzrMN87amrjlOx%3Fed%3D2560&fp=randomized&alpn=http%2F1.1#United+States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNlpDSGVhYlVTZktqZlFFdko0SERW@185.242.86.156:54170#The+Netherlands
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.47.129:443#United+States
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.107.226.14:8091#United+States
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.121.43.71:8118#United+States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppWkRKczJDRGNrSEtxSjVXN2NwdkNxMnZlcXNxV245NWlxczZLcjZGM1lObnlNc2sydVBkUnJDaFFmU2h2SDF2NTZCcjFxV0VXNDRxSm5hNVFjTWNaRjdSQ0ptZHZ3dXE=@185.5.38.111:55988#United+Kingdom
+vmess://eyJhZGQiOiAiMTQ2LjE5MC4yMjguNjciLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogIjQxMmVjYjczLTcyNmUtNDI2MS1iMTIxLTBlODA2MmJmYWRiMiIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiNTk0NTIiLCAicHMiOiAiVGhlIE5ldGhlcmxhbmRzIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlfQ==
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.47.253.227:990#Ecuador
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.199:8080#Lithuania
+trojan://12345678@198.62.62.4:443?security=tls&sni=7bdfb97a.ikl.pages.dev&type=ws&host=7bdfb97a.ikl.pages.dev&path=%2F7bdfb97a.ikl.pages.dev#United+States
+ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@38.110.1.88:5499#United+States
+vmess://eyJhZGQiOiAiMTcyLjY3LjIxNC4zMyIsICJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJwb3J0IjogMjA4MiwgImlkIjogIjJmODIxMTUyLWMzZTktNDA3NC05MTg1LTI3OTBlNzQyNWY0MiIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJjcy5mbGhhLnJ1IiwgInBhdGgiOiAiLyIsICJ0bHMiOiAiIn0=
+vmess://eyJ2IjogIjIiLCAicHMiOiAiR2VybWFueSIsICJhZGQiOiAiNjIuMTQ2LjIzMy42NiIsICJwb3J0IjogIjE1ODI4IiwgImlkIjogIjhiOWNmM2RjLWMyODItNDI0Zi1hNTkwLWM0NWM5YTM2ZDNmOSIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAiIiwgInNuaSI6ICIiLCAidGVzdF9uYW1lIjogIjEwNyJ9
+vmess://eyJhZGQiOiAiaG1zMjMuZml4ZWRmbG9hdGkuY2ZkIiwgInYiOiAiMiIsICJwcyI6ICJHZXJtYW55IiwgInBvcnQiOiA0NDMsICJpZCI6ICI5MDcyZDMzOS0zODg1LTRmZTEtYjBiYy0yOWZhNzUwNTQxMGUiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiZml4ZWRmbG9hdGkuY2ZkIiwgInBhdGgiOiAiL2xpbmt3c2QiLCAidGxzIjogInRscyJ9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMjc1ODQ5ZWJjZmNlYzdl@57.128.190.110:11703#France
+trojan://telegram-id-privatevpns@13.61.166.141:22222?sni=trojan.burgerip.co.uk&allowInsecure=0#Sweden
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWEdwMStpaGxmS2c4MjZI@64.176.85.73:1866#Singapore
 ```
 <h5>عنوان الاشتراك الدائم للعقدة العليا (جزء): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ar</h5>
  <p>رمز الاستجابة السريعة لعنوان الاشتراك أعلاه</p>
