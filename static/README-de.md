@@ -35,17 +35,17 @@
  <h4>Knotenliste: (Hier werden nur einige Knoten angezeigt. Bitte laden Sie die App herunter, um alle Knoten anzuzeigen.)</h4>
     
 ```
-trojan://f0f6e76e-e5fe-4e2c-9faf-34832e021eae@172.67.133.248:443?security=tls&sni=DDd.890604.FIlEGear-sG.Me&type=ws&host=ddd.890604.filegear-sg.me&path=%2FmZr1mA5hub7QHHkQBzYO&fp=chrome&alpn=http%2F1.1#USA
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.47.253.227:990#Ecuador
-vmess://eyJ2IjogIjIiLCAicHMiOiAiVVNBIiwgImFkZCI6ICI0Ny43OS44OC4xMTMiLCAicG9ydCI6ICI1MzcxMCIsICJ0eXBlIjogIm5vbmUiLCAiaWQiOiAiMWRiODM4ZDAtZWNkMi00YjczLWE3ZjgtNWFmNmI0MDFkODMzIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIvIiwgImhvc3QiOiAiIiwgInRscyI6ICIiLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWV9
+trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@212.183.88.58:443?allowInsecure=1&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz&path=/proxyip=212.183.88.58:443&proxyIP=null#%C3%96sterreich
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@23.150.248.235:6679#USA
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.162:8080#Niederlande
+ss://YWVzLTI1Ni1nY206YTA2ZDY5ZDY2MWU1N2E1ZQ==@195.58.48.141:2015#Russland
 trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@59.3.209.82:50000?sni=icecream.955850.xyz&allowInsecure=1&type=ws&path=%2Fproxyip%3D59.3.209.82%3A50000%26proxyIP%3Dnull&host=icecream.955850.xyz#S%C3%BCdkorea
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.132:8080#Niederlande
-trojan://ypDt8RkT7J@89.187.181.179:43118?sni=89.187.181.179#USA
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@67.220.95.29:7002#USA
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@69.50.93.113:8888#USA
-trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@149.129.8.215:443?allowInsecure=1&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz&path=/proxyip=149.129.8.215:443&proxyIP=null#S%C3%BCdkorea
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.22:8080#Litauen
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.158.171.60:8080#USA
+vmess://eyJhZGQiOiAid3d3LnduMDMuY2MiLCAiYWlkIjogMCwgImhvc3QiOiAidXMuZnJlZXl5ZHMuZHBkbnMub3JnIiwgImlkIjogIjJmMzhmODQ4LWE4OTktNGM4Ny05ODA3LTIwN2E0MTYxNWUzYyIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvcm9uZ3NldmVuP2VkPTIwNDgiLCAicG9ydCI6IDgwLCAicHMiOiAiVVNBIiwgInRscyI6ICIiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIn0=
+vmess://eyJhZGQiOiAiN2ZhNTQzNDMtN2MwYS00NWM5LjIwMzEucHAudWEiLCAidiI6ICIyIiwgInBzIjogIlVTQSIsICJwb3J0IjogNDQzLCAiaWQiOiAiMTViMjRiNTYtZDY2Ny00ZmE4LWI1NDgtZjNkYzk0MmZiNDYxIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogIjdmYTU0MzQzLTdjMGEtNDVjOS4yMDMxLnBwLnVhIiwgInBhdGgiOiAiL3VzWWhtNjBVeFE4WUpGSnh6IiwgInRscyI6ICJ0bHMifQ==
+trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@217.163.76.237:443?sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz&allowInsecure=0#UK
+vmess://eyJhZGQiOiAiNTEuODEuMjAzLjU3IiwgInYiOiAiMiIsICJwcyI6ICJVU0EiLCAicG9ydCI6IDI4ODYwLCAiaWQiOiAiMTc4NDQ5N2QtMDNhMS00MGJiLWJiOGItZGU0ZmZhYzdjNTljIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIiLCAidGxzIjogIiJ9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.158.171.146:8080#USA
+trojan://telegram-id-privatevpns@13.39.152.74:22222?security=tls&sni=trojan.burgerip.co.uk#Frankreich
 ```
 <h5>Die permanente Abonnementadresse des oberen Knotens (Teil): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_de</h5>
  <p>QR-Code für die Abonnementadresse oben</p>

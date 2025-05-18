@@ -35,17 +35,17 @@
  <h4>نوڈ کی فہرست: (یہاں صرف کچھ نوڈس دکھائے گئے ہیں، براہ کرم تمام نوڈس دیکھنے کے لیے ایپ ڈاؤن لوڈ کریں)</h4>
     
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@38.54.2.182:990#Bahrain
-trojan://telegram-id-directvpn@35.181.19.90:22223?sni=trojan.burgerip.co.uk#France
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@193.29.139.179:8080#The+Netherlands
-vmess://eyJhZGQiOiAiMTA0LjIxLjExMi4xIiwgInYiOiAiMiIsICJwcyI6ICJVbml0ZWQgU3RhdGVzIiwgInBvcnQiOiAyMDg3LCAiaWQiOiAiMWMzNjkwNmUtMWEyMS00MzMwLWIwNGYtODViYWYxYTZmZjI2IiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogInJhazFkMy43NzcyNjkueHl6IiwgInBhdGgiOiAiLyIsICJ0bHMiOiAidGxzIn0=
-vmess://eyJhZGQiOiAiNDkuNTEuMjAwLjEyMCIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiY2U4NWYyNGMtYzM0ZC00ZGMyLWFlMmEtYzU4NWY3YjhjNGQyIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIiLCAicG9ydCI6ICIxMzY0NCIsICJwcyI6ICJVbml0ZWQgU3RhdGVzIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=
-trojan://ad4a124c-12fb-4467-9ad0-dc6d9b509ac0@104.21.112.1:443?sni=7bhui.191262.xyz&allowInsecure=1&type=ws&path=%2FwGgR8FyAGgRCKSiyxgvJgLl&host=7bhui.191262.xyz&fp=chrome#United+States
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.168:443#United+States
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@38.143.66.87:6697#United+States
-trojan://Aimer@167.68.5.85:2053?security=tls&sni=epccx.ambercc.filegear-sg.me&type=ws&host=epccx.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560#United+States
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.121.43.71:7307#United+States
-vmess://eyJhZGQiOiAidGVzdDEueGlhb3NoaWhvdWtlcGFuZ2xlLnNicyIsICJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJwb3J0IjogMTA4MiwgImlkIjogImYxNzQ3ZDMxLTA3ZjItNDU2ZC05MWI2LTM4MjhjYTQzNDc4MCIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJ3d3cuYmluZy5jb20iLCAicGF0aCI6ICIveGlhb3NoaWhvdWtlcGFuZ2xlVm1lc3MiLCAidGxzIjogInRscyJ9
+trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@45.154.98.124:12001?sni=icecream.955850.xyz&allowInsecure=1&type=ws&path=%2Fproxyip%3D45.154.98.124%3A12001%26proxyIP%3Dnull&host=icecream.955850.xyz#The+Netherlands
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.121.43.97:7306#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowMEFRTHNCN1c0SXRPMW1VYkNtc1dF@77.83.246.74:443#Poland
+vmess://eyJhZGQiOiAidXMwMS5zaC1jbG91ZGZsYXJlLnNicyIsICJhaWQiOiAwLCAiaG9zdCI6ICJ1czAxLnNoLWNsb3VkZmxhcmUuc2JzIiwgImlkIjogIjJiZDBjOWQ3LWYyMzktNDM3ZS1hMWUxLTZjZjgzMGFmMmExYSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgInBvcnQiOiA4NDQzLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiBmYWxzZSwgInNuaSI6ICJ1czAxLnNoLWNsb3VkZmxhcmUuc2JzIn0=
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.114.114.143:7002#United+States
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@67.220.95.29:443#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkM1RwaFBQZk1rSXhGbVBKcEEwajdSa1BKSGplSHFhSmsyRDdDbzdWc0Z1VVUydjE=@45.128.151.67:31348#Latvia
+vmess://eyJhZGQiOiAiNS4xODAuMzAuMTQ2IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICJiMjM0NzIzOS1kZDE1LTQwYjMtYjY4My01MGNjMmZmMTlhZTciLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogIjI3NzczIiwgInBzIjogIlVuaXRlZCBTdGF0ZXMiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIifQ==
+trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@192.0.54.194:443?allowInsecure=1&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz&path=/proxyip=192.0.54.194:443&proxyIP=null#United+States
+trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@212.183.88.29:443?allowInsecure=1&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz&path=/proxyip=212.183.88.29:443&proxyIP=null#Austria
+trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@160.123.255.18:443?sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz&allowInsecure=1#South+Africa
 ```
 <h5>اوپری نوڈ کا مستقل رکنیت کا پتہ (حصہ): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ur-PK</h5>
  <p>اوپر سبسکرپشن ایڈریس کے لیے QR کوڈ</p>

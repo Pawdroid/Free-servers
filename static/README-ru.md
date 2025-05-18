@@ -35,17 +35,17 @@
  <h4>Список узлов: (здесь показаны только некоторые узлы. Загрузите приложение, чтобы просмотреть все узлы)</h4>
     
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxWHZPN3pZVTdLZWFCME1kN0RRTG93@51.195.119.47:1080#%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D1%8F
-trojan://vpn@109.120.132.80:2025?security=none&type=ws&host=vkvd127.mycdn.me&path=%2F#%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F
-trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@185.133.35.254:443?sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz&allowInsecure=1#%D0%91%D1%80%D0%B0%D0%B7%D0%B8%D0%BB%D0%B8%D1%8F
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@38.165.233.18:990#%D0%9F%D0%B0%D1%80%D0%B0%D0%B3%D0%B2%D0%B0%D0%B9
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.47.132:443#%D0%A1%D0%A8%D0%90
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.121.43.71:8882#%D0%A1%D0%A8%D0%90
-ss://YWVzLTEyOC1nY206Nzk3Mzk4MzItYjg4OC00MTVhLWE0NTQtOGI1MzkxMWM5NDRh@1.170.192.182:30332#%D0%A2%D0%B0%D0%B9%D0%B2%D0%B0%D0%BD%D1%8C
-trojan://bpb-trojan@43.206.192.211:443?sni=skwygx.top&type=ws&host=skwygx.top&path=/tr&allowInsecure=0#%D0%AF%D0%BF%D0%BE%D0%BD%D0%B8%D1%8F
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.121.43.71:8091#%D0%A1%D0%A8%D0%90
-vmess://eyJhZGQiOiAiMTUuMjM1LjUwLjE3MiIsICJ2IjogIjIiLCAicHMiOiAiXHUwNDFhXHUwNDMwXHUwNDNkXHUwNDMwXHUwNDM0XHUwNDMwIiwgInBvcnQiOiA0NDMsICJpZCI6ICIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiYmFyYWRpaGEuY29tIiwgInBhdGgiOiAiL2xpbmt2d3MiLCAidGxzIjogInRscyJ9
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@38.121.43.71:6697#%D0%A1%D0%A8%D0%90
+trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@194.76.18.129:443?allowInsecure=1&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz&path=/proxyip=194.76.18.129:443&proxyIP=null#%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@ca225.vpnbook.com:80#%D0%9A%D0%B0%D0%BD%D0%B0%D0%B4%D0%B0
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@67.220.95.29:2375#%D0%A1%D0%A8%D0%90
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMY2MxbHc4SVAyS0k=@77.91.103.73:443#%D0%A4%D0%B8%D0%BD%D0%BB%D1%8F%D0%BD%D0%B4%D0%B8%D1%8F
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHMG8yaEU0ZUx1UjJ3d3lGYW8wbHNK@185.39.204.12:16297#%D0%A2%D1%83%D1%80%D1%86%D0%B8%D1%8F
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@38.121.43.71:6679#%D0%A1%D0%A8%D0%90
+trojan://vpn@150.241.78.252:2025?security=none&type=ws&host=vkvd127.mycdn.me&path=/#%D0%98%D1%81%D0%BF%D0%B0%D0%BD%D0%B8%D1%8F
+trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@160.79.105.81:443?sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz&allowInsecure=0#%D0%A1%D0%A8%D0%90
+trojan://15b24b56-d667-4fa8-b548-f3dc942fb461@2qwert.2031.pp.ua:443?sni=2qwert.2031.pp.ua&allowInsecure=1&type=ws&path=%2F4p35eUnmGxQ8YJFJxz&alpn=http%2F1.1&fp=chrome#%D0%A1%D0%A8%D0%90
+trojan://3482c71a-d01c-4ae5-b454-fa8cb3785f66@94.131.20.3:443?security=tls&sni=nacho-rerun-crepe.stark-industries.solutions&type=tcp#%D0%A1%D0%A8%D0%90
+vmess://eyJhZGQiOiAidXMwMS5zaC1jbG91ZGZsYXJlLnNicyIsICJhaWQiOiAwLCAiaG9zdCI6ICJ1czAxLnNoLWNsb3VkZmxhcmUuc2JzIiwgImlkIjogIjJiZDBjOWQ3LWYyMzktNDM3ZS1hMWUxLTZjZjgzMGFmMmExYSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgInBvcnQiOiA4NDQzLCAicHMiOiAiXHUwNDIxXHUwNDI4XHUwNDEwIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IGZhbHNlLCAic25pIjogInVzMDEuc2gtY2xvdWRmbGFyZS5zYnMifQ==
 ```
 <h5>Адрес постоянной подписки верхнего узла (части): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ru</h5>
  <p>QR-код для адреса подписки выше</p>

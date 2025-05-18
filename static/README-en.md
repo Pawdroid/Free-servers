@@ -35,17 +35,17 @@
 <h4>Node list: (Only some nodes are shown here, please download the app to view all nodes)</h4>
     
 ```
-trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@212.183.88.58:443?allowInsecure=1&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz&path=/proxyip=212.183.88.58:443&proxyIP=null#Austria
-trojan://telegram-id-privatevpns@35.181.19.90:22222?security=tls&sni=trojan.burgerip.co.uk#France
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.47.129:443#United+States
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@67.220.95.102:7002#United+States
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.193:443#United+Kingdom
-trojan://53249200-30ff-436f-a032-0bb00605f8f9@104.21.24.172:443?security=tls&type=ws&sni=3derty.852224.dpdns.org&path=/YPTDHLX8qjvTU5JqXZxjQ5ILc&host=3derty.852224.dpdns.org#United+States
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.244:443#United+States
-vmess://eyJhZGQiOiAiNDkuNTEuMjAwLjEyMCIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiY2U4NWYyNGMtYzM0ZC00ZGMyLWFlMmEtYzU4NWY3YjhjNGQyIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIiLCAicG9ydCI6ICIxMzY0NCIsICJwcyI6ICJVbml0ZWQgU3RhdGVzIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=
-trojan://15b24b56-d667-4fa8-b548-f3dc942fb461@104.21.34.159:443?security=tls&sni=2qwert.2031.pp.ua&type=ws&host=2qwert.2031.pp.ua&path=/4p35eUnmGxQ8YJFJxz#United+States
-vmess://eyJhZGQiOiAiMTg4LjExNC45Ni4zIiwgInYiOiAiMiIsICJwcyI6ICJUaGUgTmV0aGVybGFuZHMiLCAicG9ydCI6IDQ0MywgImlkIjogImQxM2ZjMmY1LTNlMDUtNDc5NS04MWViLTQ0MTQzYTA5ZTU1MiIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJheWFuamxpemkueWl3aXMzMjc2Mi53b3JrZXJzLmRldiIsICJwYXRoIjogIi9zZ2Zxa3FtbHRjeS5zaXRlL3JicXF2d3MiLCAidGxzIjogInRscyJ9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5TVg5V0dQZ1VFY1JabWxhYTBZSEhD@103.106.1.92:23492#Moldova
+trojan://telegram-id-privatevpns@18.193.175.187:22222?security=tls&sni=trojan.burgerip.co.uk#Germany
+vmess://eyJhZGQiOiAiMjMuMTYyLjIwMC4yMjciLCAiYWlkIjogMCwgImhvc3QiOiAiIiwgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvbGlua3Z3cyIsICJwb3J0IjogNDQzLCAicHMiOiAiQ2FuYWRhIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIn0=
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@69.50.93.47:8119#United+States
+vmess://eyJhZGQiOiAiMTA0LjIxLjY0LjEiLCAiYWlkIjogMCwgImhvc3QiOiAicmFrMWQzLjc3NzI2OS54eXoiLCAiaWQiOiAiMWMzNjkwNmUtMWEyMS00MzMwLWIwNGYtODViYWYxYTZmZjI2IiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi8iLCAicG9ydCI6IDIwODcsICJwcyI6ICJVbml0ZWQgU3RhdGVzIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IGZhbHNlLCAic25pIjogInJhazFkMy43NzcyNjkueHl6In0=
+trojan://xxoo@138.197.5.103:443?sni=us.blazeppn.info&allowInsecure=1#United+States
+trojan://2cba4104747d49d18319e5ade1b93ab5@161.35.34.48:443?security=tls&sni=yourjobnavigator.online&type=tcp#United+Kingdom
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@67.220.95.133:7307#United+States
+vmess://eyJhZGQiOiAibTExc2RmZy44OTA2MDQuZHBkbnMub3JnIiwgInYiOiAiMiIsICJwcyI6ICJVbml0ZWQgU3RhdGVzIiwgInBvcnQiOiA4MCwgImlkIjogIjBhMjhiNDIwLTRmN2MtNDNhZC1hMjllLTgwMDY4Y2UwODI2MyIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJtMTFzZGZnLjg5MDYwNC5kcGRucy5vcmciLCAicGF0aCI6ICIvbGhVOFNoc29QWmx1bG5uWVBiODZjc3AiLCAidGxzIjogIiJ9
+vmess://eyJhZGQiOiAiNDMuMTUzLjEwNC42MiIsICJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJwb3J0IjogNDUxMTMsICJpZCI6ICI5N2NjMDMyMy1kZTUzLTRhNzUtZDY5ZC1jNmFjZGFjNWZkYzciLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiLzk3Y2MwMzIzIiwgInRscyI6ICIifQ==
+trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@212.183.88.156:443?sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz&allowInsecure=1#Austria
+trojan://fefba36d-5142-42f1-b14d-db5249511d93@104.21.61.154:443?security=tls&sni=5dfg.191266.xyz&type=ws&host=5dfg.191266.xyz&path=%2FBFBuPh4SuxTxCwkqKrjE&fp=chrome&alpn=http%2F1.1#United+States
 ```
 <h5>Permanent subscription address of the node above (part): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_en</h5>
 <p>QR code of the subscription address above</p>

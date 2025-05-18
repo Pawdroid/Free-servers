@@ -35,17 +35,17 @@
  <h4>Lista de nodos: (aquí solo se muestran algunos nodos; descargue la aplicación para ver todos los nodos)</h4>
     
 ```
-vmess://eyJhZGQiOiAiMTMyLjE0NS4yMzIuMTcxIiwgImFpZCI6IDAsICJob3N0IjogImJleW9uZGRzei5jZmQiLCAiaWQiOiAiOWI0NTZjMmEtZjJjMS00NWUxLTg3YTktYjc2MjhiMDRiYjI0IiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9saW5rd3MiLCAicG9ydCI6IDQ0MywgInBzIjogIkFsZW1hbmlhIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IGZhbHNlLCAic25pIjogImJleW9uZGRzei5jZmQifQ==
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwVjVCQXpxTFpvc09mdUlya3lvYWRU@5.181.21.194:18660#Austria
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.158.171.151:8080#Estados+Unidos
-trojan://ad4a124c-12fb-4467-9ad0-dc6d9b509ac0@104.21.112.1:443?sni=7bhui.191262.xyz&allowInsecure=1&type=ws&path=%2FwGgR8FyAGgRCKSiyxgvJgLl&host=7bhui.191262.xyz&fp=chrome#Estados+Unidos
-trojan://e6a2e741-0fce-440b-910c-b81325e2263a@94.131.20.3:443?sni=cache-giver-wife.stark-industries.solutions#Estados+Unidos
-vmess://eyJ2IjogIjIiLCAicHMiOiAiQWxlbWFuaWEiLCAiYWRkIjogIjYyLjE0Ni4yMzIuMTU2IiwgInBvcnQiOiAiMzMyODEiLCAiaWQiOiAiMjRlZGEwZWEtYWNmMC00NTM4LWEwMDEtZjc0NmE0ODAyMzdhIiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIiLCAidGxzIjogIiIsICJzbmkiOiAiIiwgInRlc3RfbmFtZSI6ICI0OCJ9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5TVg5V0dQZ1VFY1JabWxhYTBZSEhD@103.106.1.92:23492#Moldavia
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@uk-dc1.yangon.club:443#Reino+Unido
-vmess://eyJhZGQiOiAiYm9va215c2hvdy5jb20iLCAidiI6ICIyIiwgInBzIjogIkVzdGFkb3MgVW5pZG9zIiwgInBvcnQiOiA0NDMsICJpZCI6ICJmZGE3M2NiOC1hYWIwLTRkNTktYjk1ZS1lNDhjODM1NDlkNGMiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAianB2LnhpYW9xaTU1NS54eXoiLCAicGF0aCI6ICIvIiwgInRscyI6ICJ0bHMifQ==
-trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@212.183.88.172:443?allowInsecure=1&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz&path=/proxyip=212.183.88.172:443&proxyIP=null#Austria
-trojan://74260667533381300@89.39.70.158:443?sni=loving-calf.shiner427.skin#Ruman%C3%ADa
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.114.114.143:7002#Estados+Unidos
+trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@202.37.33.80:443?sni=icecream.955850.xyz&allowInsecure=1&type=ws&path=%2Fproxyip%3D202.37.33.80%3A443%26proxyIP%3Dnull&host=icecream.955850.xyz#Nueva+Zelanda
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.204:443#Estados+Unidos
+trojan://fefba36d-5142-42f1-b14d-db5249511d93@104.21.61.154:443?security=tls&sni=5dfg.191266.xyz&type=ws&host=5dfg.191266.xyz&path=%2FBFBuPh4SuxTxCwkqKrjE&fp=chrome&alpn=http%2F1.1#Estados+Unidos
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@23.154.136.103:8090#Estados+Unidos
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@67.220.95.102:443#Estados+Unidos
+trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@45.154.98.124:12001?sni=icecream.955850.xyz&allowInsecure=1&type=ws&path=%2Fproxyip%3D45.154.98.124%3A12001%26proxyIP%3Dnull&host=icecream.955850.xyz#Holanda
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@67.220.95.133:7001#Estados+Unidos
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@67.220.95.102:7306#Estados+Unidos
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.121.43.71:8090#Estados+Unidos
+vmess://eyJhZGQiOiAiNTcuMTI5LjI1LjIyIiwgInYiOiAiMiIsICJwcyI6ICJGcmFuY2lhIiwgInBvcnQiOiA0NDMsICJpZCI6ICIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAid3JtZWxtd3hsZi5na3RldmxycXpud3Fxb3p5LmZhYnBmczY2Z2l6bW5vamhjdnF4d2wua3l0cmNmenFsYTg3Z3ZndnM2Yzdram5ydWJ1aC5jYyIsICJwYXRoIjogIi9saW5rdndzIiwgInRscyI6ICJ0bHMifQ==
 ```
 <h5>La dirección de suscripción permanente del nodo superior (parte): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_es</h5>
  <p>Código QR para la dirección de suscripción anterior</p>

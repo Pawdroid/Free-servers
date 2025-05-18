@@ -35,17 +35,17 @@
  <h4>قائمة العقد: (يتم عرض بعض العقد فقط هنا، يرجى تنزيل التطبيق لعرض جميع العقد)</h4>
     
 ```
-vmess://eyJhZGQiOiAiOTEuMTk0LjExLjE3OCIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiOWIyMzM1YWYtZjI0Yy00ODEwLTljMzQtOTU1NjhlYmQ1NzlkIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIiLCAicG9ydCI6ICIyODk4NCIsICJwcyI6ICJDYW5hZGEiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiIiwgInYiOiAiMiJ9
-trojan://c6840587-7ac4-40be-aa4b-ae327eb4fa53@172.67.200.117:443?security=tls&sni=ccdfRt6.890634.Xyz&type=ws&host=ccdfrt6.890634.xyz&path=%2FogSVyJu0ksqZjqvVUXlLhk95Ad&fp=chrome&alpn=http%2F1.1#United+States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3NEo1Z1M4aTZGaUd1cHFyYWhGdk05@77.110.102.235:31080#Lebanon
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.68.135.247:8881#United+States
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@23.150.248.235:2376#United+States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.178:8080#Lithuania
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@67.220.95.102:5003#United+States
-vmess://eyJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJhZGQiOiAid3d3LnZpc2EuY29tLnNnIiwgInBvcnQiOiAiNDQzIiwgInR5cGUiOiAibm9uZSIsICJpZCI6ICIzOGQxYTg5MS1mM2Y5LWVmMzktNmE5NS1jMTA2ZTJhMzg2ZWIiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL3ZtZXNzLWFyZ28iLCAiaG9zdCI6ICJyYWRpYXRpb24tYnJvd3NlLWRhbGxhcy1zbGlnaHQudHJ5Y2xvdWRmbGFyZS5jb20iLCAidGxzIjogInRscyJ9
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.68.135.247:8882#United+States
-trojan://4a3ee276-f50f-46f6-ba4d-13571732ab70@172.67.204.120:443?security=tls&sni=ddcDe.890603.XYz&type=ws&host=ddcde.890603.xyz&path=%2FCOp52Dbu3dvwvDWUxOqxq&fp=chrome&alpn=http%2F1.1#United+States
-vmess://eyJhZGQiOiAiNDUuMTIuMTM4LjgyIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICJjZGU5ZjA3NC1jOTMwLTRhYTMtYTU1OC00NmJiYzlkMGE1YTEiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogIjU0NzU3IiwgInBzIjogIlN3ZWRlbiIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
+trojan://bpb-trojan@43.206.192.211:443?sni=skwygx.top&type=ws&host=skwygx.top&path=/tr&allowInsecure=0#Japan
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@119.59.98.58:990#Thailand
+vmess://eyJhZGQiOiAiMTc0LjEzNi4yMDQuMjA5IiwgInYiOiAiMiIsICJwcyI6ICJVbml0ZWQgU3RhdGVzIiwgInBvcnQiOiAxMTYxMSwgImlkIjogImJhZWM5YWRiLWQ2YjktNDY1YS1mNTMxLWQwYTM4MTQ0Y2Y2YyIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIvIiwgInRscyI6ICIifQ==
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.164:8080#The+Netherlands
+ss://YWVzLTI1Ni1nY206N0JjTGRzTzFXd2VvR0QwWA==@193.243.147.128:40368#France
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.121.43.71:5004#United+States
+trojan://bpb-trojan@172.67.70.92:443?security=tls&sni=zamim340.ggff.net&type=ws&host=zamim340.ggff.net&path=%2Ftr%3Fed%3D2560&allowInsecure=1#United+States
+trojan://installshield@38.180.249.177:8443?sni=38.180.249.177#The+Netherlands
+trojan://c8eac4b7-95ba-4ce0-920d-c3279eb3b391@172.67.181.193:443?security=tls&sni=EEeEee4.hUAngSHANG2030.dPdNS.org&type=ws&host=EEeEee4.hUAngSHANG2030.dPdNS.org&path=%2FptGwaGzcA4KNAXX#United+States
+vmess://eyJhZGQiOiAiMTA0LjIxLjk2LjEiLCAiYWlkIjogMCwgImhvc3QiOiAidXMwMS5zaC1jbG91ZGZsYXJlLnNicyIsICJpZCI6ICI5MTQ1ODRlZS0zNTE1LTQ2YWMtYTA5ZC00Njc3YTJlOWRjOWEiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLyIsICJwb3J0IjogODQ0MywgInBzIjogIlVuaXRlZCBTdGF0ZXMiLCAidGxzIjogInRscyIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIifQ==
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.143.66.87:5600#United+States
 ```
 <h5>عنوان الاشتراك الدائم للعقدة العليا (جزء): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ar</h5>
  <p>رمز الاستجابة السريعة لعنوان الاشتراك أعلاه</p>
