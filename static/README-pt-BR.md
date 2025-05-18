@@ -35,13 +35,16 @@
  <h4>Lista de nós: (Apenas alguns nós são exibidos aqui, baixe o aplicativo para visualizar todos os nós)</h4>
     
 ```
-trojan://15153c1d-fc81-4b2a-9689-7b4e4a72dce5@172.67.188.77:443?sni=edfr4.890604.dpdns.org&allowInsecure=1&type=ws&path=%2Fl6lvY4hFZriQDBimbKYmPIggy&host=edfr4.890604.dpdns.org#EUA
-trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@138.2.107.107:443?sni=icecream.955850.xyz&allowInsecure=1&type=ws&path=%2Fproxyip%3D138.2.107.107%3A443%26proxyIP%3Dnull&host=icecream.955850.xyz#Singapura
-vmess://eyJhZGQiOiAiMTg4LjExNC45Ni4zIiwgInYiOiAiMiIsICJwcyI6ICJIb2xhbmRhIiwgInBvcnQiOiA0NDMsICJpZCI6ICJkMTNmYzJmNS0zZTA1LTQ3OTUtODFlYi00NDE0M2EwOWU1NTIiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiYXlhbmpsaXppLnlpd2lzMzI3NjIud29ya2Vycy5kZXYiLCAicGF0aCI6ICIvc2dmcWtxbWx0Y3kuc2l0ZS9yYnFxdndzIiwgInRscyI6ICJ0bHMifQ==
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.158.171.110:8080#EUA
-vmess://eyJhZGQiOiAiNTEuODEuMjAzLjU3IiwgInYiOiAiMiIsICJwcyI6ICJFVUEiLCAicG9ydCI6IDI4ODYwLCAiaWQiOiAiMTc4NDQ5N2QtMDNhMS00MGJiLWJiOGItZGU0ZmZhYzdjNTljIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIiLCAidGxzIjogIiJ9
-trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@160.123.255.134:443?sni=icecream.955850.xyz&allowInsecure=1&type=ws&path=%2Fproxyip%3D160.123.255.134%3A443%26proxyIP%3Dnull&host=icecream.955850.xyz#%C3%81frica+do+Sul
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@38.143.66.87:6379#EUA
+trojan://c8eac4b7-95ba-4ce0-920d-c3279eb3b391@104.21.35.247:443?security=tls&sni=ff.HuangSHANg2030.DPDnS.oRg&type=ws&host=ff.huangshang2030.dpdns.org&path=%2FptGwaGzcA4KNAXX&fp=chrome&alpn=http%2F1.1#EUA
+vmess://eyJhZGQiOiAiNDUuODIuMjQ2LjE3MyIsICJ2IjogIjIiLCAicHMiOiAiTVx1MDBlOXhpY28iLCAicG9ydCI6IDI2NTIxLCAiaWQiOiAiY2ZmNzAwMWUtM2E3NC00M2U4LWJmZDgtYTdhZjk2MzBhNThiIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIiLCAidGxzIjogIiJ9
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@38.121.43.71:9102#EUA
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.206:8080#Holanda
+vmess://eyJ2IjogIjIiLCAicHMiOiAiRVVBIiwgImFkZCI6ICIxMDQuMjEuOTYuMSIsICJwb3J0IjogIjIwODciLCAidHlwZSI6ICJhdXRvIiwgImlkIjogIjFjMzY5MDZlLTFhMjEtNDMzMC1iMDRmLTg1YmFmMWE2ZmYyNiIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgImhvc3QiOiAicmFrMWQzLjc3NzI2OS54eXoiLCAidGxzIjogInRscyJ9
+trojan://trojan@104.18.2.150:443?security=tls&sni=main.xicun.us.kg&type=ws&host=main.xicun.us.kg#EUA
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWVE4SndFbGRZbjRLVDJnZlo2ZU5s@89.23.103.21:51584#Holanda
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.121.43.71:7001#EUA
+trojan://bpb-trojan@104.26.5.60:443?security=tls&sni=zamim340.ggff.net&type=ws&host=zamim340.ggff.net&path=%2Ftr%3Fed%3D2560&allowInsecure=1#EUA
+vmess://eyJhZGQiOiAiNS4xODAuMzAuMTQ2IiwgInYiOiAiMiIsICJwcyI6ICJFVUEiLCAicG9ydCI6IDI3NzczLCAiaWQiOiAiYjIzNDcyMzktZGQxNS00MGIzLWI2ODMtNTBjYzJmZjE5YWU3IiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIiLCAidGxzIjogIiJ9
 ```
 <h5>O endereço de assinatura permanente do nó superior (parte): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_pt-BR</h5>
  <p>Código QR do endereço de assinatura acima</p>

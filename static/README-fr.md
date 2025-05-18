@@ -35,13 +35,16 @@
  <h4>Liste des nœuds: (Seuls certains nœuds sont affichés ici, veuillez télécharger l'application pour afficher tous les nœuds)</h4>
     
 ```
-trojan://15153c1d-fc81-4b2a-9689-7b4e4a72dce5@172.67.188.77:443?sni=edfr4.890604.dpdns.org&allowInsecure=1&type=ws&path=%2Fl6lvY4hFZriQDBimbKYmPIggy&host=edfr4.890604.dpdns.org#%C3%89tats+Unis
-vmess://eyJhZGQiOiAiMi41Ni4xMjUuMTAxIiwgInYiOiAiMiIsICJwcyI6ICJJdGFsaWUiLCAicG9ydCI6IDM4MDg4LCAiaWQiOiAiMTI3NWVhMTgtYmM5Yy00YmNiLWIzZmQtZmVlNzAyNzJlMTQzIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIiLCAidGxzIjogIiJ9
-vmess://eyJhZGQiOiAiNDUuMTIuMTM4LjgyIiwgInYiOiAiMiIsICJwcyI6ICJTdVx1MDBlOGRlIiwgInBvcnQiOiA1NDc1NywgImlkIjogImNkZTlmMDc0LWM5MzAtNGFhMy1hNTU4LTQ2YmJjOWQwYTVhMSIsICJhaWQiOiAiMCIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiIiwgInRscyI6ICIifQ==
-vmess://eyJhZGQiOiAiODQuMjQ3LjE1MC4xNzciLCAidiI6ICIyIiwgInBzIjogIkFsbGVtYWduZSIsICJwb3J0IjogMzYxNDEsICJpZCI6ICJkMzFlZTUyZi1iNmU0LTRkYjgtOWM5NS05ODg1NWVjODIzY2MiLCAiYWlkIjogIjAiLCAibmV0IjogInRjcCIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAiIn0=
-trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@202.37.33.80:443?sni=icecream.955850.xyz&allowInsecure=1&type=ws&path=%2Fproxyip%3D202.37.33.80%3A443%26proxyIP%3Dnull&host=icecream.955850.xyz#Nouvelle-Z%C3%A9lande
-ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@38.143.66.87:9102#%C3%89tats+Unis
-trojan://2cba4104747d49d18319e5ade1b93ab5@161.35.34.48:443?sni=yourjobnavigator.online#Royaume-Uni
+trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@192.0.54.194:443?allowInsecure=1&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz&path=/proxyip=192.0.54.194:443&proxyIP=null#%C3%89tats+Unis
+trojan://3482c71a-d01c-4ae5-b454-fa8cb3785f66@94.131.20.3:443?sni=nacho-rerun-crepe.stark-industries.solutions#%C3%89tats+Unis
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMjc1ODQ5ZWJjZmNlYzdl@57.128.190.110:11703#France
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.166:8080#Lituanie
+trojan://9e7caa3b-ca9c-40ba-9ea0-f0c992359239@104.21.86.140:443?security=tls&type=ws&sni=m2rrrty.777219.xyz&path=/duJhdsnTCbijwHNYeMcCs9&host=m2rrrty.777219.xyz#%C3%89tats+Unis
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.68.135.247:8882#%C3%89tats+Unis
+trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@160.123.255.18:443?sni=icecream.955850.xyz&allowInsecure=1&type=ws&path=%2Fproxyip%3D160.123.255.18%3A443%26proxyIP%3Dnull&host=icecream.955850.xyz#Afrique+du+Sud
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@67.220.95.102:3389#%C3%89tats+Unis
+trojan://xxoo@138.197.5.103:443?security=tls&sni=us.blazeppn.info#%C3%89tats+Unis
+vmess://eyJhZGQiOiAic2Uudm1lc3MuY29tbnBtanMuY29tIiwgInYiOiAiMiIsICJwcyI6ICJBbGxlbWFnbmUiLCAicG9ydCI6IDQ0MywgImlkIjogImQ5NTVjZjc1LTUyMDYtNWJkNC1iZWZmLTNiOWNlNmRiNjdiMCIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJzZS52bWVzcy5jb21ucG1qcy5jb20iLCAicGF0aCI6ICIvdm1lc3MjRE9OVC1GT1JHRVQtVE8tU1VQUE9SVC1TU0hNQVguQ09NLVRPLUtFRVAtVEhJUy1TRVJWRVItQUxJVkUiLCAidGxzIjogInRscyJ9
 ```
 <h5>L'adresse d'abonnement permanente du nœud supérieur (partie): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_fr</h5>
  <p>Code QR pour l'adresse d'abonnement ci-dessus</p>
