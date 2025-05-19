@@ -35,17 +35,17 @@
  <h4>ノード リスト: (ここには一部のノードのみが表示されます。すべてのノードを表示するにはアプリをダウンロードしてください)</h4>
     
 ```
-ss://YWVzLTEyOC1nY206MTYyNjI5ZDctY2IxNy00M2IxLTgyYzktZjljN2FlNmNiYTcw@82.180.146.173:30607#%E3%83%99%E3%83%AB%E3%82%AE%E3%83%BC%E7%8E%8B%E5%9B%BD
-trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@160.123.255.243:443?sni=icecream.955850.xyz&allowInsecure=1&type=ws&path=%2Fproxyip%3D160.123.255.243%3A443&host=icecream.955850.xyz#%E5%8D%97%E3%82%A2%E3%83%95%E3%83%AA%E3%82%AB
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.107.226.14:443#%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@195.181.160.6:990#%E3%83%81%E3%82%A7%E3%82%B3%E5%85%B1%E5%92%8C%E5%9B%BD
-trojan://bpb-trojan@91.227.77.87:443?security=tls&sni=skwygx.top&type=ws&host=skwygx.top&path=%2Ftr#%E3%83%96%E3%83%AB%E3%82%AC%E3%83%AA%E3%82%A2%E5%85%B1%E5%92%8C%E5%9B%BD
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.114.114.108:8881#%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB
-vmess://eyJhZGQiOiAid3d3LnJhY2tuZXJkLmNvbSIsICJ2IjogIjIiLCAicHMiOiAiXHUzMGEyXHUzMGUxXHUzMGVhXHUzMGFiIiwgInBvcnQiOiA0NDMsICJpZCI6ICI4MGMwZTJlNC02NDJmLTRlZjgtZWEzOC00ODBmMmMwMTJiOWYiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiMTAwbS5jZG4tY2hpbmEuZmlsZWdlYXItc2cubWUiLCAicGF0aCI6ICIvP2VkPTIwNDgiLCAidGxzIjogInRscyJ9
-trojan://70776bb4-d791-4cbd-9c9b-c76e937f9e60@172.67.216.240:443?sni=Xxs345rf.857856.xYZ&allowInsecure=1&type=ws&path=%2F71M8Ov1I5Gk9247fHC0XGZG6&host=Xxs345rf.857856.xYZ#%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB
-trojan://aTArbZ2F0E@172.66.168.218:443?sni=uSa-vp-27.bLAzECLOUD.SITE&type=ws&host=uSa-vp-27.bLAzECLOUD.SITE&path=/linkvkws#%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@23.150.248.50:8090#%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB
-trojan://FiSo7J6vfS@51.68.13.106:1935?security=tls&sni=x1fr-ovh.devefun.net&type=tcp&alpn=h3%2Ch2%2Chttp%2F1.1#%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9%E5%85%B1%E5%92%8C%E5%9B%BD
+trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@217.163.76.227:443?allowInsecure=0&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz&path=/proxyip=217.163.76.227:443?sni=217.163.76.227%3A443%3FallowInsecure%3D0%26sni%3Dicecream.955850.xyz%26type%3Dws%26host%3Dicecream.955850.xyz%26path%3D%2Fproxyip%3D217.163.76.227&allowInsecure=1#%E8%8B%B1%E5%9B%BD
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyb2RHUzh2TkpqSlpwMUJWSE9Sc3Nq@78.129.140.11:443#%E8%8B%B1%E5%9B%BD
+trojan://zsu4Mq3A9J@51.195.254.75:8443?sni=uk-02.allhubb.info#%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9%E5%85%B1%E5%92%8C%E5%9B%BD
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.158.171.146:8080#%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.168:443#%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB
+trojan://trojan@104.18.3.150:443?security=tls&sni=main.xicun.us.kg&type=ws&host=main.xicun.us.kg#%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@45.154.206.192:990#%E8%8B%B1%E5%9B%BD
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHUzMGEyXHUzMGUxXHUzMGVhXHUzMGFiIiwgImFkZCI6ICJ3d3cudmlzYS5jb20uc2ciLCAicG9ydCI6ICI0NDMiLCAidHlwZSI6ICJub25lIiwgImlkIjogIjM4ZDFhODkxLWYzZjktZWYzOS02YTk1LWMxMDZlMmEzODZlYiIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvdm1lc3MtYXJnbyIsICJob3N0IjogInJhZGlhdGlvbi1icm93c2UtZGFsbGFzLXNsaWdodC50cnljbG91ZGZsYXJlLmNvbSIsICJ0bHMiOiAidGxzIn0=
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@176.103.53.105:990#%E3%82%A6%E3%82%AF%E3%83%A9%E3%82%A4%E3%83%8A%E5%85%B1%E5%92%8C%E5%9B%BD
+trojan://84831b86-5c76-4173-bdf1-02fa3ed78a32@104.21.80.1:443?security=tls&sni=eeERrrR.999815.xYZ&type=ws&host=eeerrrr.999815.xyz&path=%2FeS3prPmcpzbScA5VUAi1psm38Tz&fp=chrome&alpn=http%2F1.1#%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB
+trojan://508a5202-d450-42d2-a74c-9326dcda8b63@172.67.137.6:443?security=tls&sni=SsSxderT.fREevPnatM.Dpdns.ORG&type=ws&host=sssxdert.freevpnatm.dpdns.org&path=%2FdDWfJuXDH50Q7a7NsRZbl4sVHqtMKS&fp=chrome&alpn=http%2F1.1#%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB
 ```
 <h5>上位ノードの永続サブスクリプション アドレス (部分): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ja</h5>
  <p>上記の購読アドレスの QR コード</p>

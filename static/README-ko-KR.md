@@ -35,17 +35,17 @@
  <h4>노드 목록: (여기에는 일부 노드만 표시됩니다. 모든 노드를 보려면 앱을 다운로드하세요.)</h4>
     
 ```
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.110.1.88:2376#United+States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyb2RHUzh2TkpqSlpwMUJWSE9Sc3Nq@78.129.140.11:443#United+Kingdom
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@64.74.163.218:990#United+States
+trojan://installshield@38.180.249.177:8443?security=tls&sni=38.180.249.177&type=tcp#The+Netherlands
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowenlEUloxWG1OWGFhQ0FON0tFQThh@45.151.62.54:28825#Germany
+ss://YWVzLTI1Ni1nY206YTNmOGQzNTU2MjNkZGZmNg==@195.58.48.119:2015#Russia
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@38.143.66.87:9102#United+States
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.110.1.88:5600#United+States
+ss://YWVzLTEyOC1nY206Nzk3Mzk4MzItYjg4OC00MTVhLWE0NTQtOGI1MzkxMWM5NDRh@1.170.192.182:30332#Taiwan
+vmess://eyJhZGQiOiAiMjAyLjc4LjE2Mi41IiwgImFpZCI6IDAsICJob3N0IjogInBlbmRhci5vbnRoZXdpZmkuY29tIiwgImlkIjogIjcxNmVkZWQ2LTIyMDEtNGRiZC05ZDYzLTE2MzhjOWU4ZTY3NyIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvQGZvcndhcmR2MnJheSIsICJwb3J0IjogNDQzLCAicHMiOiAiTHV4ZW1ib3VyZyIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiJ9
+trojan://bpb-trojan@154.211.8.72:443?sni=skwygx.top&type=ws&host=skwygx.top&path=/tr#Hong+Kong
+vmess://eyJhZGQiOiAidGVzdDEueGlhb3NoaWhvdWtlcGFuZ2xlLnNicyIsICJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJwb3J0IjogMTA4MiwgImlkIjogImYxNzQ3ZDMxLTA3ZjItNDU2ZC05MWI2LTM4MjhjYTQzNDc4MCIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJ3d3cuYmluZy5jb20iLCAicGF0aCI6ICIveGlhb3NoaWhvdWtlcGFuZ2xlVm1lc3MiLCAidGxzIjogInRscyJ9
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvMzh5dXZ6U2UzbTVhRE5wSHRVUEgxekd3YkdFWFhNRHNHd1ZhdWIyU1lFbUhVYTJXR1pVamllelgzVnZ2YTlDQ3pwanhZdHVKTGdLc1Nuc3lLQmY5Y2lQVmJhM3k0bzM=@94.131.21.174:54075#United+States
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@67.220.95.135:8090#United+States
-trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@217.163.76.221:443?allowInsecure=1&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz&path=/proxyip=217.163.76.221:443&proxyIP=null#United+Kingdom
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.80:443#United+Kingdom
-vmess://eyJhZGQiOiAiYmV5b25kZHN6LmNmZCIsICJhaWQiOiAwLCAiaG9zdCI6ICJiZXlvbmRkc3ouY2ZkIiwgImlkIjogIjliNDU2YzJhLWYyYzEtNDVlMS04N2E5LWI3NjI4YjA0YmIyNCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvbGlua3dzIiwgInBvcnQiOiA0NDMsICJwcyI6ICJGcmFuY2UiLCAidGxzIjogInRscyIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIifQ==
-ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@38.121.43.71:9102#United+States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.199:8080#Lithuania
-trojan://bpb-trojan@162.159.152.2:443?security=tls&sni=zamim340.ggff.net&type=ws&host=zamim340.ggff.net&path=%2Ftr%3Fed%3D2560#United+States
-vmess://eyJhZGQiOiAiaGsyLmxyemR4LnVrIiwgInYiOiAiMiIsICJwcyI6ICJVbml0ZWQgU3RhdGVzIiwgInBvcnQiOiA0NDMsICJpZCI6ICJkYjY5ZDViYy1kMzZjLTQ5MDMtZjQ3MS03NGI5OGM1Y2VmZTUiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiL3JlZ2lzdGVyIiwgInRscyI6ICJ0bHMifQ==
 ```
 <h5>상위 노드(일부)의 영구 구독 주소: https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ko-KR</h5>
  <p>위 구독 주소의 QR 코드</p>

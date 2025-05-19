@@ -35,17 +35,17 @@
  <h4>نوڈ کی فہرست: (یہاں صرف کچھ نوڈس دکھائے گئے ہیں، براہ کرم تمام نوڈس دیکھنے کے لیے ایپ ڈاؤن لوڈ کریں)</h4>
     
 ```
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.121.43.71:2376#United+States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.158.171.141:8080#United+States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.157:8080#Lithuania
-trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@210.61.97.241:81?sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz#Taiwan
+trojan://telegram-id-privatevpns@3.126.52.228:22222?security=tls&sni=trojan.burgerip.co.uk#Germany
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@67.220.95.133:2375#United+States
 ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.121.43.71:8090#United+States
-vmess://eyJhZGQiOiAiaG1zMjMuZml4ZWRmbG9hdGkuY2ZkIiwgInYiOiAiMiIsICJwcyI6ICJHZXJtYW55IiwgInBvcnQiOiA0NDMsICJpZCI6ICI5MDcyZDMzOS0zODg1LTRmZTEtYjBiYy0yOWZhNzUwNTQxMGUiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiZml4ZWRmbG9hdGkuY2ZkIiwgInBhdGgiOiAiL2xpbmt3c2QiLCAidGxzIjogInRscyJ9
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.121.43.71:2375#United+States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.10:8080#Lithuania
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.121.43.71:8118#United+States
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.110.1.197:5003#United+States
-ss://YWVzLTI1Ni1nY206STFoVG1hMEJvTA==@92.119.199.33:443#United+States
+vmess://eyJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJhZGQiOiAiMTI5LjgwLjE5OS4yMzkiLCAicG9ydCI6ICIxNzA5OSIsICJ0eXBlIjogIm5vbmUiLCAiaWQiOiAiZTA2MmIyMTctNWIxZC00YmZlLWIxZmUtYzFiZDhmZDQ0ODYxIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIvIiwgImhvc3QiOiAiIiwgInRscyI6ICIiLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWV9
+vmess://eyJhZGQiOiAiNDcuNzkuODguMTEzIiwgInYiOiAiMiIsICJwcyI6ICJVbml0ZWQgU3RhdGVzIiwgInBvcnQiOiA1MzcxMCwgImlkIjogIjFkYjgzOGQwLWVjZDItNGI3My1hN2Y4LTVhZjZiNDAxZDgzMyIsICJhaWQiOiAiMCIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiIiwgInRscyI6ICIifQ==
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.198:443#United+Kingdom
+trojan://I46LpSIM1f@194.164.57.9:1935?security=tls&sni=x4ger-ionos.devefun.net&type=tcp#Germany
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.110.1.88:2376#United+States
+vmess://eyJhZGQiOiAid3d3LnJhY2tuZXJkLmNvbSIsICJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJwb3J0IjogNDQzLCAiaWQiOiAiODBjMGUyZTQtNjQyZi00ZWY4LWVhMzgtNDgwZjJjMDEyYjlmIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogIjEwMG0uY2RuLWNoaW5hLmZpbGVnZWFyLXNnLm1lIiwgInBhdGgiOiAiLz9lZD0yMDQ4IiwgInRscyI6ICJ0bHMifQ==
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.158.171.110:8080#United+States
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.121.43.71:8000#United+States
 ```
 <h5>اوپری نوڈ کا مستقل رکنیت کا پتہ (حصہ): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ur-PK</h5>
  <p>اوپر سبسکرپشن ایڈریس کے لیے QR کوڈ</p>

@@ -35,17 +35,17 @@
 <h4>Node list: (Only some nodes are shown here, please download the app to view all nodes)</h4>
     
 ```
-trojan://installshield@38.180.249.177:8443?security=tls&sni=38.180.249.177&type=tcp#The+Netherlands
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.47.130:443#United+States
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.243:443#United+States
-trojan://15153c1d-fc81-4b2a-9689-7b4e4a72dce5@172.67.188.77:443?sni=edfr4.890604.dpdns.org&allowInsecure=1&type=ws&path=%2Fl6lvY4hFZriQDBimbKYmPIggy&host=edfr4.890604.dpdns.org#United+States
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@67.220.95.102:5003#United+States
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.68.135.247:8882#United+States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.158.171.146:8080#United+States
-trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@160.123.255.134:443?sni=icecream.955850.xyz&allowInsecure=1&type=ws&path=%2Fproxyip%3D160.123.255.134%3A443%26proxyIP%3Dnull&host=icecream.955850.xyz#South+Africa
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@103.243.215.17:990#Malaysia
-vmess://eyJhZGQiOiAiYXowNS5iZXlvbmR5LmNmZCIsICJ2IjogIjIiLCAicHMiOiAiRnJhbmNlIiwgInBvcnQiOiA0NDMsICJpZCI6ICIzZjYzOGYzNC04ZGJhLTQxODYtYmM0My0yNzE2YTdkZGQ0YmUiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiYXowNS5iZXlvbmR5LmNmZCIsICJwYXRoIjogIi9saW5rIiwgInRscyI6ICJ0bHMifQ==
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4QXZ1bDI5cG81Y25yNFZOVGFTNHNo@104.192.227.162:443#United+States
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.121.43.71:7307#United+States
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.114.114.108:8091#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMjc1ODQ5ZWJjZmNlYzdl@57.128.190.110:11703#France
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.121.43.71:8888#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLdmk0WjlYNEpzeHdTMHp4T05pUzFDTk91RmV6WXlhag==@79.137.205.30:29884#The+Netherlands
+vmess://eyJ2IjogIjIiLCAicHMiOiAiSG9uZyBLb25nIiwgImFkZCI6ICI0NS4xOTYuMjM0LjEzNSIsICJwb3J0IjogIjI5NzE0IiwgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogIjI2MzEyYWE3LTEzYTgtNDBjOS05YzM3LWRhMGNkZmMyZDIyNSIsICJzbmkiOiAiIn0=
+trojan://FiSo7J6vfS@51.68.13.106:1935?sni=x1fr-ovh.devefun.net#France
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@67.220.95.102:8881#United+States
+vmess://eyJhZGQiOiAiMTg2LjE5MC4yMTUuMTkzIiwgInYiOiAiMiIsICJwcyI6ICJVbml0ZWQgU3RhdGVzIiwgInBvcnQiOiAyMjMyNCwgImlkIjogIjA0NjIxYmFlLWFiMzYtMTFlYy1iOTA5LTAyNDJhYzEyMDAwMiIsICJhaWQiOiAiMCIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiIiwgInRscyI6ICIifQ==
+vmess://eyJhZGQiOiAiNzQzNzhhN2Ytc3ZuNXMwLXN6dDZreS0xYm9uaC5oay5wNXB2LmNvbSIsICJ2IjogIjIiLCAicHMiOiAiSG9uZyBLb25nIiwgInBvcnQiOiA4MCwgImlkIjogImU4YTk2MGQ4LTE0ZjUtMTFlYy1hMGZjLWYyM2M5MTNjOGQyYiIsICJhaWQiOiAiMiIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIvIiwgInRscyI6ICIifQ==
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.196:443#United+Kingdom
 ```
 <h5>Permanent subscription address of the node above (part): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_en</h5>
 <p>QR code of the subscription address above</p>

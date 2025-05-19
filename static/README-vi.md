@@ -35,17 +35,17 @@
  <h4>Danh sách nút: (Chỉ hiển thị một số nút ở đây, vui lòng tải xuống ứng dụng để xem tất cả các nút)</h4>
     
 ```
-vmess://eyJhZGQiOiAiMTA0LjIxLjQ4LjEiLCAiYWlkIjogMCwgImhvc3QiOiAicmFrMmQyLjc3NzI2OS54eXoiLCAiaWQiOiAiOTk2MDE2ZjctZGE4OS00NWYxLWIzYjQtNTU1YmM3OTllZDg2IiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi8iLCAicG9ydCI6IDIwODMsICJwcyI6ICJVbml0ZWQgU3RhdGVzIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIn0=
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@23.154.136.51:8118#United+States
-trojan://9e7caa3b-ca9c-40ba-9ea0-f0c992359239@172.67.220.93:443?security=tls&sni=m2rrrty.777219.xyz&type=ws&host=m2rrrty.777219.xyz&path=%2FduJhdsnTCbijwHNYeMcCs9&fp=chrome&alpn=http%2F1.1#United+States
-vmess://eyJhZGQiOiAiMTUuMjM1LjgzLjIyNyIsICJ2IjogIjIiLCAicHMiOiAiQ2FuYWRhIiwgInBvcnQiOiA0NDMsICJpZCI6ICIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAibWFua2FkbXUuY29tIiwgInBhdGgiOiAiL2xpbmt2d3MiLCAidGxzIjogInRscyJ9
-vmess://eyJhZGQiOiAiMTA0LjIxLjE2LjEiLCAidiI6ICIyIiwgInBzIjogIlVuaXRlZCBTdGF0ZXMiLCAicG9ydCI6IDIwODMsICJpZCI6ICI4Zjc4ZTcwOS0yYzVmLTRjMTktOWY0NC1iNWI1ZjgwYWI3NGMiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiY2MyZDMuOTg4OTg4LnNob3AiLCAicGF0aCI6ICIvIiwgInRscyI6ICJ0bHMifQ==
-vmess://eyJhZGQiOiAiMTg2LjE5MC4yMTUuMTkzIiwgInYiOiAiMiIsICJwcyI6ICJVbml0ZWQgU3RhdGVzIiwgInBvcnQiOiAyMjMyNCwgImlkIjogIjA0NjIxYmFlLWFiMzYtMTFlYy1iOTA5LTAyNDJhYzEyMDAwMiIsICJhaWQiOiAiMCIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiLyIsICJ0bHMiOiAiIn0=
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@38.54.2.182:990#Bahrain
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMcWxQSTE5b3FudW5HTlNMTXZkWHlC@147.45.60.33:16356#Russia
-vmess://eyJhZGQiOiAiOTEuMTk0LjExLjE3OCIsICJ2IjogIjIiLCAicHMiOiAiQ2FuYWRhIiwgInBvcnQiOiAyODk4NCwgImlkIjogIjliMjMzNWFmLWYyNGMtNDgxMC05YzM0LTk1NTY4ZWJkNTc5ZCIsICJhaWQiOiAiMCIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiIiwgInRscyI6ICIifQ==
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.121.43.71:7002#United+States
-trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@162.159.153.217:443?sni=icecream.955850.xyz&allowInsecure=1&type=ws&path=%2Fproxyip%3D162.159.153.217%3A443%26proxyIP%3Dnull&host=icecream.955850.xyz#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@147.78.1.27:990#Mexico
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplekcyTHF4OFNTNjg=@147.45.116.44:443#Russia
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.199:8080#Lithuania
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpncVBseTZzMUJOYU1sRm5oOVV4Y2F1@193.42.36.207:1125#Poland
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.154:8080#Lithuania
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.244:443#United+States
+vmess://eyJhZGQiOiAiMzguMjU1LjU1LjIxIiwgInYiOiAiMiIsICJwcyI6ICJVbml0ZWQgU3RhdGVzIiwgInBvcnQiOiAyMjY0MCwgImlkIjogIjcxOTk1NTgxLWE4NGItNDc5NS1hYmEyLWVkOWVlMjEyNGNmNSIsICJhaWQiOiAiMCIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiIiwgInRscyI6ICIifQ==
+vmess://eyJhZGQiOiAiMzguOTkuODIuMTkzIiwgInYiOiAiMiIsICJwcyI6ICJVbml0ZWQgU3RhdGVzIiwgInBvcnQiOiA0NDMsICJpZCI6ICIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAidGlsZWJhbmkuY29tIiwgInBhdGgiOiAiL2xpbmt2d3MiLCAidGxzIjogInRscyJ9
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@69.50.93.47:8119#United+States
+trojan://aTArbZ2F0E@172.66.168.213:443?sni=uSa-vp-27.bLAzECLOUD.SITE&type=ws&host=uSa-vp-27.bLAzECLOUD.SITE&path=/linkvkws#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLdmk0WjlYNEpzeHdTMHp4T05pUzFDTk91RmV6WXlhag==@79.137.205.30:29884#The+Netherlands
 ```
 <h5>Địa chỉ đăng ký vĩnh viễn của nút trên (một phần): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_vi</h5>
  <p>Mã QR cho địa chỉ đăng ký ở trên</p>

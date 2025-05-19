@@ -35,17 +35,17 @@
  <h4>नोड सूची: (यहां केवल कुछ नोड्स प्रदर्शित हैं, कृपया सभी नोड्स देखने के लिए ऐप डाउनलोड करें)</h4>
     
 ```
-trojan://bpb-trojan@104.19.13.57:443?sni=skwygx.top&type=ws&host=skwygx.top&path=/tr#United+States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.202:8080#The+Netherlands
-vmess://eyJhZGQiOiAiMTkzLjEyMi41OC4xNTgiLCAidiI6ICIyIiwgInBzIjogIkdlcm1hbnkiLCAicG9ydCI6IDQ0MywgImlkIjogImU1MzdmMmY1LTJhMGMtNGY1OS05MmM5LTgzMmNhNjQzM2JmMyIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJpcnZpZGVvLmNmZCIsICJwYXRoIjogIi9saW5rd3MiLCAidGxzIjogInRscyJ9
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@67.220.95.29:2375#United+States
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@38.121.43.71:6697#United+States
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.121.43.97:7306#United+States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.199:8080#Lithuania
-vmess://eyJhZGQiOiAiNTEuNzkuMTAzLjc2IiwgInYiOiAiMiIsICJwcyI6ICJDYW5hZGEiLCAicG9ydCI6IDgwLCAiaWQiOiAiNThmZTE1NDItNTI5MC00MGFkLTgxNWEtNzc3MDdhODFhZmU1IiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogIndybWVsbXd4bGYuZ2t0ZXZscnF6bndxcW96eS5mYWJwZnM2Nmdpem1ub2poY3ZxeHdsLmt5dHJjZnpxbGE4N2d2Z3ZzNmM3a2pucnVidWguY2MiLCAicGF0aCI6ICIvSU9lYmhMTWhsMUNUYkZIYkw5NW15ZlJYMiIsICJ0bHMiOiAiIn0=
-vmess://eyJhZGQiOiAiMTYzLjUuMTU5LjIzMSIsICJ2IjogIjIiLCAicHMiOiAiRnJhbmNlIiwgInBvcnQiOiA0NDMsICJpZCI6ICJlNTM3ZjJmNS0yYTBjLTRmNTktOTJjOS04MzJjYTY0MzNiZjMiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiaXJ2aWRlby5jZmQiLCAicGF0aCI6ICIvbGlua3dzIiwgInRscyI6ICJ0bHMifQ==
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.158.171.60:8080#United+States
-trojan://4a3ee276-f50f-46f6-ba4d-13571732ab70@104.21.83.113:443?security=tls&sni=SxcDe3.859886.XYz&type=ws&host=sxcde3.859886.xyz&path=%2FCOp52Dbu3dvwvDWUxOqxq&fp=chrome&alpn=http%2F1.1#United+States
+trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@212.183.88.194:443?sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz&allowInsecure=0#Austria
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.121.43.97:8080#United+States
+trojan://telegram-id-directvpn@13.61.140.186:22223?sni=trojan.burgerip.co.uk#Sweden
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkM1RwaFBQZk1rSXhGbVBKcEEwajdSa1BKSGplSHFhSmsyRDdDbzdWc0Z1VVUydjE=@45.128.151.67:31348#Latvia
+trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@185.133.35.254:443?sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz&allowInsecure=1#Brazil
+vmess://eyJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJhZGQiOiAiMTA0LjIxLjE2LjEiLCAicG9ydCI6IDgwLCAiaWQiOiAiMmYzOGY4NDgtYTg5OS00Yzg3LTk4MDctMjA3YTQxNjE1ZTNjIiwgInR5cGUiOiAiIiwgImFpZCI6IDAsICJuZXQiOiAid3MiLCAidGxzIjogIiIsICJwYXRoIjogIi9yb25nc2V2ZW4/ZWQ9MjA0OCIsICJob3N0IjogInVzLmZyZWV5eWRzLmRwZG5zLm9yZyJ9
+trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@185.133.35.243:443?sni=icecream.955850.xyz&allowInsecure=1&type=ws&path=%2Fproxyip%3D185.133.35.243%3A443%26proxyIP%3Dnull&host=icecream.955850.xyz#Brazil
+trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@160.123.255.243:443?sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz&allowInsecure=1#South+Africa
+vmess://eyJhZGQiOiAidjcubm1jZi5tZSIsICJ2IjogIjIiLCAicHMiOiAiU2luZ2Fwb3JlIiwgInBvcnQiOiA4MDAwLCAiaWQiOiAiZDI2ZmMxYTMtMGQ5Ny00MTZiLWFiY2QtYjMzNWI0YmY3ODgxIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogInd3dy5iaW5nLmNvbSIsICJwYXRoIjogIi9ubWtqIiwgInRscyI6ICIifQ==
+trojan://telegram-id-privatevpns@13.61.140.186:22222?sni=trojan.burgerip.co.uk#Sweden
+vmess://eyJhZGQiOiAiMTcyLjY3LjIxMy4xMTAiLCAidiI6ICIyIiwgInBzIjogIlVuaXRlZCBTdGF0ZXMiLCAicG9ydCI6IDQ0MywgImlkIjogImQxM2ZjMmY1LTNlMDUtNDc5NS04MWViLTQ0MTQzYTA5ZTU1MiIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJzZ2Zxa3FtbHRjeS5zaXRlIiwgInBhdGgiOiAiL3JicXF2d3MiLCAidGxzIjogInRscyJ9
 ```
 <h5>ऊपरी नोड (भाग) का स्थायी सदस्यता पता: https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_hi</h5>
  <p>उपरोक्त सदस्यता पते के लिए QR कोड</p>
