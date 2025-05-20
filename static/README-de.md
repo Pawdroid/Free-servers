@@ -35,19 +35,18 @@
  <h4>Knotenliste: (Hier werden nur einige Knoten angezeigt. Bitte laden Sie die App herunter, um alle Knoten anzuzeigen.)</h4>
     
 ```
-trojan://c8eac4b7-95ba-4ce0-920d-c3279eb3b391@104.21.35.247:443?security=tls&sni=ff.HuangSHANg2030.DPDnS.oRg&type=ws&host=ff.huangshang2030.dpdns.org&path=%2FptGwaGzcA4KNAXX&fp=chrome&alpn=http%2F1.1#USA
-trojan://bpb-trojan@104.19.13.57:443?sni=skwygx.top&type=ws&host=skwygx.top&path=/tr#USA
-vmess://eyJhZGQiOiAiNDUuODkuMjMzLjY3IiwgInYiOiAiMiIsICJwcyI6ICJEZXV0c2NobGFuZCIsICJwb3J0IjogMTkwMTksICJpZCI6ICI4MDJlMTYzMi05YzI5LTRmMmQtODIxZi05NmEzNWRhZWVkM2IiLCAiYWlkIjogIjAiLCAibmV0IjogInRjcCIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAiIn0=
-trojan://telegram-id-directvpn@63.178.35.184:22223?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#Deutschland
-vmess://eyJhZGQiOiAiMGFmMTEyYzktc3Yyc2cwLXN3YmRncS0xaWRkeS5oazMucDVwdi5jb20iLCAidiI6ICIyIiwgInBzIjogIkhvbmdrb25nIiwgInBvcnQiOiA4MCwgImlkIjogImUxNjhjNDNlLWM2ZDktMTFlZC1hOGJmLWYyM2M5MWNmYmJjOSIsICJhaWQiOiAiMiIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJicm9hZGNhc3Rsdi5jaGF0LmJpbGliaWxpLmNvbSIsICJwYXRoIjogIi8iLCAidGxzIjogIiJ9
-trojan://vpn@46.29.234.154:2025?security=none&type=ws&host=dns.google.com&path=/#Litauen
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpucTk2S2Z0clpBajNMdUZRRVNxbW40NE1vNW9DdW8yY2lwb0VzYWUyNW1ybUhHMm9KNFZUMzdzY0JmVkJwTjVEV3RVRUxadXRWaGhYczhMZTVCOGZaOWhMbjl5dHd2YmY=@208.67.105.87:42501#Niederlande
-trojan://vip@104.20.18.168:2087?security=tls&sni=heihu880.pages.dev&type=ws&host=heihu880.pages.dev#USA
-vmess://eyJhZGQiOiAiNjcuMjIwLjY2LjE5NCIsICJ2IjogIjIiLCAicHMiOiAiVVNBIiwgInBvcnQiOiA0NDMsICJpZCI6ICIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCAiYWlkIjogIjEiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiNjcuMjIwLjY2LjE5NCIsICJwYXRoIjogImxpbmt2d3MiLCAidGxzIjogInRscyJ9
-vmess://eyJhZGQiOiAiYXV0aDAub3BlbmFpLmNvbSIsICJ2IjogIjIiLCAicHMiOiAiVVNBIiwgInBvcnQiOiA0NDMsICJpZCI6ICJlNTM3ZjJmNS0yYTBjLTRmNTktOTJjOS04MzJjYTY0MzNiZjMiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiYWRtaW4ua2FzcmF4LmlyIiwgInBhdGgiOiAiL2lydmlkZW8uY2ZkL2xpbmt3cyIsICJ0bHMiOiAidGxzIn0=
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppWkRKczJDRGNrSEtxSjVXN2NwdkNxMnZlcXNxV245NWlxczZLcjZGM1lObnlNc2sydVBkUnJDaFFmU2h2SDF2NTZCcjFxV0VXNDRxSm5hNVFjTWNaRjdSQ0ptZHZ3dXE=@185.5.38.111:55988#UK
-vmess://eyJhZGQiOiAiNzkuMTI3LjIyOS41NCIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICJjc2dvLm1vemlsbGEuNS4wLnhuLS0yYjViYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhLjEyNy4wLjAuMS5vZmZsaW5lc3BlZWR0ZXN0Lm5ldGRvd24udXNlci54bi0tMmI1YmFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWEuMC4yLjEueG4tLWo5aDEwMjhtcW1hb3l0aWkwMGFoYTIxaGZqcmQueG4tLW0zOWgudG9yLnJ1YmlrYS5jbG91ZG5zLmNoLiIsICJpZCI6ICJmYTE4OTdkYi0xOTI1LTRjODYtYTQ5NS05MzlhOTU5YWY5MDAiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogIjE4MDAwIiwgInBzIjogIk1leGlrbyIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
-trojan://vip@104.26.5.57:443?security=tls&sni=heihu880.pages.dev&type=ws&host=heihu880.pages.dev&path=%2F%3Fed%3D2560#USA
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@67.220.95.96:7002#USA
+trojan://xxoo@138.197.5.103:443#USA
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.241:443#USA
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.114.114.143:2376#USA
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@beesyar.org:8080#Litauen
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@38.121.43.71:8009#USA
+trojan://pqlnPNu423@57.129.89.172:1935?sni=x1-germany-ovh-v2.devefun.net#Frankreich
+trojan://trojan@104.18.13.229:8443?security=tls&sni=pangpi.pages.dev&type=ws&host=pangpi.pages.dev#USA
+vmess://eyJhZGQiOiAiMTc0LjEzNi4yMDQuMjA5IiwgInYiOiAiMiIsICJwcyI6ICJVU0EiLCAicG9ydCI6IDExNjExLCAiaWQiOiAiYmFlYzlhZGItZDZiOS00NjVhLWY1MzEtZDBhMzgxNDRjZjZjIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIi8iLCAidGxzIjogIiJ9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0NmU2N2Y1YS02M2U0LTQ1NjYtODcwYy03NmVhYTljZjc2ZmU=@149.28.106.134:31444#USA
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.244:443#USA
+trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@172.64.153.54:443?security=tls&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz&path=%2Fproxyip%3D45.67.215.153%3A443%26proxyIP%3Dnull&fp=randomized&alpn=h3#USA
 ```
 <h5>Die permanente Abonnementadresse des oberen Knotens (Teil): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_de</h5>
  <p>QR-Code für die Abonnementadresse oben</p>

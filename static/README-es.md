@@ -35,19 +35,18 @@
  <h4>Lista de nodos: (aquí solo se muestran algunos nodos; descargue la aplicación para ver todos los nodos)</h4>
     
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.251:8080#Holanda
-vmess://eyJhZGQiOiAiNTcuMTI5LjI0LjEyNCIsICJ2IjogIjIiLCAicHMiOiAiQWxlbWFuaWEiLCAicG9ydCI6IDQ0MywgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJ3cm1lbG13eGxmLmdrdGV2bHJxem53cXFvenkuZmFicGZzNjZnaXptbm9qaGN2cXh3bC5reXRyY2Z6cWxhODdndmd2czZjN2tqbnJ1YnVoLmNjIiwgInBhdGgiOiAiL2xpbmt2d3MiLCAidGxzIjogInRscyJ9
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@uk-dc1.yangon.club:443#Reino+Unido
-vmess://eyJhZGQiOiAiYXowNS5iZXlvbmR5LmNmZCIsICJhaWQiOiAwLCAiaG9zdCI6ICJhejA1LmJleW9uZHkuY2ZkIiwgImlkIjogIjNmNjM4ZjM0LThkYmEtNDE4Ni1iYzQzLTI3MTZhN2RkZDRiZSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvbGluayIsICJwb3J0IjogNDQzLCAicHMiOiAiRnJhbmNpYSIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiBmYWxzZSwgInNuaSI6ICJhejA1LmJleW9uZHkuY2ZkIn0=
-trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@160.123.255.173:443?sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz&allowInsecure=1#Sud%C3%A1frica
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@79.127.233.170:990#Reino+Unido
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.121.43.71:5004#Estados+Unidos
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKaURHRzV3QzVpQnFZdWVHZmJoamFk@62.210.88.22:443#Francia
-trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@160.79.105.169:443?sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz&allowInsecure=1#Estados+Unidos
-trojan://vip@104.21.90.78:443?security=tls&sni=heihu880.pages.dev&type=ws&host=heihu880.pages.dev#Estados+Unidos
-trojan://bpb-trojan@154.211.8.72:443?sni=skwygx.top&type=ws&host=skwygx.top&path=/tr#Hong+Kong
-vmess://eyJhZGQiOiAibTExc2RmZy44OTA2MDQuZHBkbnMub3JnIiwgImFpZCI6IDAsICJob3N0IjogIm0xMXNkZmcuODkwNjA0LmRwZG5zLm9yZyIsICJpZCI6ICIwYTI4YjQyMC00ZjdjLTQzYWQtYTI5ZS04MDA2OGNlMDgyNjMiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL2xoVThTaHNvUFpsdWxubllQYjg2Y3NwIiwgInBvcnQiOiA4MCwgInBzIjogIkVzdGFkb3MgVW5pZG9zIiwgInRscyI6ICIiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIn0=
-trojan://84831b86-5c76-4173-bdf1-02fa3ed78a32@104.21.80.1:443?security=tls&sni=eeERrrR.999815.xYZ&type=ws&host=eeerrrr.999815.xyz&path=%2FeS3prPmcpzbScA5VUAi1psm38Tz&fp=chrome&alpn=http%2F1.1#Estados+Unidos
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.158.171.66:8080#Estados+Unidos
+trojan://Mojtaba-shieldheart@104.24.180.193:8443?security=tls&sni=broken-bread-6ba6.shieldheart4.workers.dev&type=ws&host=broken-bread-6ba6.shieldheart4.workers.dev#Estados+Unidos
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@38.121.43.97:6697#Estados+Unidos
+trojan://bpb-trojan@104.26.5.60:443?security=tls&sni=zamim340.ggff.net&type=ws&host=zamim340.ggff.net&path=%2Ftr%3Fed%3D2560&allowInsecure=1#Estados+Unidos
+trojan://dQUWbcwECl@automq3-proxy.automq-sg.com:443#Estados+Unidos
+vmess://eyJhZGQiOiAiMTM4LjEyNC4zMS4xODciLCAidiI6ICIyIiwgInBzIjogIlNlcmJpYSIsICJwb3J0IjogMjA5NiwgImlkIjogIjcwODM1OGE1LThjOWEtNTViOC1hNTIxLTczYjhkN2I2M2QzYiIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJmci52bWVzcy5jb21ucG1qcy5jb20iLCAicGF0aCI6ICIvdm1lc3MiLCAidGxzIjogInRscyJ9
+trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@217.163.76.221:443?security=tls&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz#Reino+Unido
+vmess://eyJhZGQiOiAiNDUuMTIuMTM4LjQ3IiwgInYiOiAiMiIsICJwcyI6ICJTdWVjaWEiLCAicG9ydCI6IDIyODM5LCAiaWQiOiAiMjg1OGE0MDQtZDBjYS00ZDY3LTgwYTYtY2U4ZTk1ZTM4M2ZmIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIiLCAidGxzIjogIiJ9
+trojan://auto@172.67.174.252:443?security=tls&sni=esetsecuritylicense1.vowexa5791.workers.dev&type=ws&host=esetsecuritylicense1.vowexa5791.workers.dev&path=%2F#Estados+Unidos
+trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@162.159.153.209:443?sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz&allowInsecure=1#Estados+Unidos
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.75.136.28:7001#Estados+Unidos
+vmess://eyJhZGQiOiAiMTQ2LjE5LjE2OC4xNjEiLCAidiI6ICIyIiwgInBzIjogIkZyYW5jaWEiLCAicG9ydCI6IDQ0MywgImlkIjogIjNmNjM4ZjM0LThkYmEtNDE4Ni1iYzQzLTI3MTZhN2RkZDRiZSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJhejA1LmJleW9uZHkuY2ZkIiwgInBhdGgiOiAiL2xpbmsiLCAidGxzIjogInRscyJ9
 ```
 <h5>La dirección de suscripción permanente del nodo superior (parte): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_es</h5>
  <p>Código QR para la dirección de suscripción anterior</p>
