@@ -35,18 +35,18 @@
  <h4>Liste des nœuds: (Seuls certains nœuds sont affichés ici, veuillez télécharger l'application pour afficher tous les nœuds)</h4>
     
 ```
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.47.132:443#%C3%89tats+Unis
-trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@172.67.30.171:443?security=tls&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz&path=%2Fproxyip%3D45.67.215.153%3A443&alpn=h3#%C3%89tats+Unis
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.110.1.197:5003#%C3%89tats+Unis
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@67.220.95.102:7306#%C3%89tats+Unis
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@38.143.66.87:6379#%C3%89tats+Unis
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHUwMGM5dGF0cyBVbmlzIiwgImFkZCI6ICIxMDQuMTguMTQ5Ljc2IiwgInBvcnQiOiA0NDMsICJpZCI6ICJkZTk0Y2MwYS0wNTkyLTQ5NjktYjFmYy05N2VhOGYwZWEwYjMiLCAidHlwZSI6ICIiLCAiYWlkIjogMCwgIm5ldCI6ICJ3cyIsICJ0bHMiOiAidGxzIiwgInNuaSI6ICJ1cy5ra3AubWUuZXUub3JnIiwgInBhdGgiOiAiL2FhIiwgImhvc3QiOiAidXMua2twLm1lLmV1Lm9yZyJ9
-trojan://ad4a124c-12fb-4467-9ad0-dc6d9b509ac0@104.21.112.1:443?sni=7bhui.191262.xyz&allowInsecure=1&type=ws&path=%2FwGgR8FyAGgRCKSiyxgvJgLl&host=7bhui.191262.xyz&fp=chrome#%C3%89tats+Unis
-ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@23.154.136.132:5499#%C3%89tats+Unis
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.162:8080#Pays-Bas
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@67.220.95.102:7002#%C3%89tats+Unis
-vmess://eyJhZGQiOiAiNjYuOTQuMTE0LjEyMiIsICJ2IjogIjIiLCAicHMiOiAiXHUwMGM5dGF0cyBVbmlzIiwgInBvcnQiOiA1MzUwMywgImlkIjogImM5YjlkZWEzLTU4NjgtNDc3Zi1lNTRkLTJjOGYxMjRmNjQ3ZCIsICJhaWQiOiAiMCIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiIiwgInRscyI6ICIifQ==
-vmess://eyJhZGQiOiAiOTQuMTM2LjE4NS4yMzAiLCAidiI6ICIyIiwgInBzIjogIkFsbGVtYWduZSIsICJwb3J0IjogMTA1MzQsICJpZCI6ICJiMDFjN2VmOS0zM2VjLTQxZjYtYmZiZi03N2RkYzRkMjE2NDkiLCAiYWlkIjogIjAiLCAibmV0IjogInRjcCIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAiIn0=
+vmess://eyJhZGQiOiAiZ292LnVrIiwgInYiOiAiMiIsICJwcyI6ICJcdTAwYzl0YXRzIFVuaXMiLCAicG9ydCI6IDQ0MywgImlkIjogIjc3ODQ4ODI0LTkzYjctNGI4OS1mZmQwLWU5MWFmZmY0MDZjZSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJ6aGVzaGlzY3AuY29tIiwgInBhdGgiOiAiLzc3ODQ4ODI0IiwgInRscyI6ICJ0bHMifQ==
+vmess://eyJhZGQiOiAiNjYuOTQuMTE0LjEyMiIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiYzliOWRlYTMtNTg2OC00NzdmLWU1NGQtMmM4ZjEyNGY2NDdkIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIiLCAicG9ydCI6ICI1MzUwMyIsICJwcyI6ICJcdTAwYzl0YXRzIFVuaXMiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIifQ==
+trojan://t2WqbIW2JE@15.204.175.111:2083?security=tls&sni=usa-vp-111.mETIkaPPs.cOm&type=ws&host=usa-vp-111.mETIkaPPs.cOm&path=%2Flinkvws#%C3%89tats+Unis
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHUwMGM5dGF0cyBVbmlzIiwgImFkZCI6ICIxMjkuODAuMTk5LjIzOSIsICJwb3J0IjogIjE3MDk5IiwgInR5cGUiOiAibm9uZSIsICJpZCI6ICJlMDYyYjIxNy01YjFkLTRiZmUtYjFmZS1jMWJkOGZkNDQ4NjEiLCAiYWlkIjogIjAiLCAibmV0IjogInRjcCIsICJwYXRoIjogIi8iLCAiaG9zdCI6ICIiLCAidGxzIjogIiIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZX0=
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.121.43.71:443#%C3%89tats+Unis
+trojan://bpb-trojan@91.227.77.87:443?security=tls&sni=skwygx.top&type=ws&host=skwygx.top&path=/tr#Bulgarie
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplSk5iQjF6VUlGcjA2Qnd1a0oxRVQw@89.185.84.185:443#Royaume-Uni
+trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@45.67.215.153:443?sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz&allowInsecure=1#Russie
+vmess://eyJhZGQiOiAiMzU5ZDE3ODUtc3Yyc2cwLXN2aW0wby0xc2xvcC5oay5wNXB2LmNvbSIsICJ2IjogIjIiLCAicHMiOiAiSG9uZyBLb25nIiwgInBvcnQiOiA4MCwgImlkIjogIjUyMGI5MTI2LTk4NzAtMTFlZi04MWIwLWYyM2M5MTY0Y2E1ZCIsICJhaWQiOiAiMiIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJicm9hZGNhc3Rsdi5jaGF0LmJpbGliaWxpLmNvbSIsICJwYXRoIjogIi8iLCAidGxzIjogIiJ9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.158.171.141:8080#%C3%89tats+Unis
+trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@130.61.51.100:8443?sni=icecream.955850.xyz&allowInsecure=1&type=ws&path=%2Fproxyip%3D130.61.51.100%3A8443%26proxyIP%3Dnull&host=icecream.955850.xyz#Allemagne
+trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@104.18.42.17:443?security=tls&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz&path=%2Fproxyip%3D45.67.215.153%3A443%26proxyIP%3Dnull&fp=randomized&alpn=h3#%C3%89tats+Unis
 ```
 <h5>L'adresse d'abonnement permanente du nœud supérieur (partie): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_fr</h5>
  <p>Code QR pour l'adresse d'abonnement ci-dessus</p>

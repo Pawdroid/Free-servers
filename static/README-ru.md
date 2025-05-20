@@ -35,18 +35,18 @@
  <h4>Список узлов: (здесь показаны только некоторые узлы. Загрузите приложение, чтобы просмотреть все узлы)</h4>
     
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@134.255.210.49:990#%D0%9A%D0%B8%D0%BF%D1%80
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.62.161:443#%D0%A8%D0%B2%D0%B5%D0%B9%D1%86%D0%B0%D1%80%D0%B8%D1%8F
-trojan://vpn@46.29.234.154:2025?security=none&type=ws&host=dns.google.com&path=/#%D0%9B%D0%B8%D1%82%D0%B2%D0%B0
-trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@217.163.76.237:443?sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz&allowInsecure=0#%D0%91%D1%80%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D1%8F
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1bDhvSE1BRThmbkpjR283QTJEa1M2@194.87.45.189:443#%D0%98%D1%81%D0%BF%D0%B0%D0%BD%D0%B8%D1%8F
-trojan://895552fa-6284-4c1d-ba00-3944e0c7c626@172.67.144.126:443?security=tls&sni=CFR56ty7890.288288.sHOP&type=ws&host=cfr56ty7890.288288.shop&path=/By7cEmOrNRS58yeduy9AOG#%D0%A1%D0%A8%D0%90
-vmess://eyJhZGQiOiAiMTE4LjQzLjE0MS4xNzUiLCAidiI6ICIyIiwgInBzIjogIlx1MDQyMFx1MDQzNVx1MDQ0MVx1MDQzZlx1MDQ0M1x1MDQzMVx1MDQzYlx1MDQzOFx1MDQzYVx1MDQzMCBcdTA0MWFcdTA0M2VcdTA0NDBcdTA0MzVcdTA0NGYiLCAicG9ydCI6IDQwMzI4LCAiaWQiOiAiNWI5NDA2ODAtZjViMS00M2ZmLWFiYzMtNzA4NTY2NmViOTRkIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIi81Yjk0MDY4MCIsICJ0bHMiOiAiIn0=
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@23.154.136.132:5004#%D0%A1%D0%A8%D0%90
-trojan://telegram-id-privatevpns@3.76.52.178:22222?sni=trojan.burgerip.co.uk#%D0%A4%D0%A0%D0%93
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.121.43.71:2375#%D0%A1%D0%A8%D0%90
-vmess://eyJhZGQiOiAiMTUuMjA0LjI0OC45MiIsICJ2IjogIjIiLCAicHMiOiAiXHUwNDIxXHUwNDI4XHUwNDEwIiwgInBvcnQiOiAzMDU2MiwgImlkIjogIjgyNDY2NzE1LTZhNTgtNDA0Ni1hMzYzLWEwZDE4ZTViMmFiNCIsICJhaWQiOiAiMCIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiIiwgInRscyI6ICIifQ==
-trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@104.18.42.17:443?security=tls&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz&path=%2Fproxyip%3D45.67.215.153%3A443%26proxyIP%3Dnull&fp=randomized&alpn=h3#%D0%A1%D0%A8%D0%90
+trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@140.238.212.95:443?sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz#%D0%A8%D0%B2%D0%B5%D0%B9%D1%86%D0%B0%D1%80%D0%B8%D1%8F
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZc015YzJLZXpINUxFdU9rTDNoSUtE@185.221.196.34:57602#%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F
+trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@104.16.223.254:443?security=tls&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz&path=%2Fproxyip%3D45.67.215.153%3A443%26proxyIP%3Dnull&fp=randomized&alpn=h3#%D0%A1%D0%A8%D0%90
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.121.43.97:8080#%D0%A1%D0%A8%D0%90
+trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@104.18.160.63:443?security=tls&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz&path=%2Fproxyip%3D45.67.215.153%3A443%26proxyIP%3Dnull&fp=randomized&alpn=h3#%D0%A1%D0%A8%D0%90
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.121.43.71:8882#%D0%A1%D0%A8%D0%90
+trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@172.67.68.240:443?security=tls&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz&path=%2Fproxyip%3D45.67.215.153%3A443%26proxyIP%3Dnull&fp=randomized&alpn=h3#%D0%A1%D0%A8%D0%90
+vmess://eyJhZGQiOiAiNjYuOTQuMTE0LjEyMiIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiYzliOWRlYTMtNTg2OC00NzdmLWU1NGQtMmM4ZjEyNGY2NDdkIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIiLCAicG9ydCI6ICI1MzUwMyIsICJwcyI6ICJcdTA0MjFcdTA0MjhcdTA0MTAiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIifQ==
+trojan://t2WqbIW2JE@15.204.175.111:2083?security=tls&sni=usa-vp-111.mETIkaPPs.cOm&type=ws&host=usa-vp-111.mETIkaPPs.cOm&path=%2Flinkvws#%D0%A1%D0%A8%D0%90
+vmess://eyJwcyI6ICJcdTA0MThcdTA0NDJcdTA0MzBcdTA0M2JcdTA0MzhcdTA0NGYiLCAiaG9zdCI6ICIiLCAiaWQiOiAiMTI3NWVhMTgtYmM5Yy00YmNiLWIzZmQtZmVlNzAyNzJlMTQzIiwgInBvcnQiOiAiMzgwODgiLCAidHlwZSI6ICJub25lIiwgImFkZCI6ICIyLjU2LjEyNS4xMDEiLCAibmV0IjogInRjcCIsICJzY3kiOiAiYXV0byIsICJwYXRoIjogIiJ9
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHUwNDI0XHUwNDIwXHUwNDEzIiwgImFkZCI6ICJkZS52bWVzcy5jb21ucG1qcy5jb20iLCAicG9ydCI6ICI0NDMiLCAidHlwZSI6ICJub25lIiwgImlkIjogImNlYWFmNjUzLTk4NzQtNThjNi1iMTAwLTA5MmMwMWExZjczZCIsICJhaWQiOiAiMCIsICJuZXQiOiAiZ3JwYyIsICJwYXRoIjogInZtZXNzLWdycGMiLCAiaG9zdCI6ICJkZS52bWVzcy5jb21ucG1qcy5jb20iLCAidGxzIjogInRscyJ9
+trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@160.123.255.173:443?sni=icecream.955850.xyz&allowInsecure=1&type=ws&path=%2Fproxyip%3D160.123.255.173%3A443%26proxyIP%3Dnull&host=icecream.955850.xyz#%D0%AE%D0%90%D0%A0
 ```
 <h5>Адрес постоянной подписки верхнего узла (части): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ru</h5>
  <p>QR-код для адреса подписки выше</p>
