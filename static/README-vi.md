@@ -35,18 +35,18 @@
  <h4>Danh sách nút: (Chỉ hiển thị một số nút ở đây, vui lòng tải xuống ứng dụng để xem tất cả các nút)</h4>
     
 ```
-vmess://eyJhZGQiOiAiYXowNS5iZXlvbmR5LmNmZCIsICJhaWQiOiAwLCAiaG9zdCI6ICJhejA1LmJleW9uZHkuY2ZkIiwgImlkIjogIjNmNjM4ZjM0LThkYmEtNDE4Ni1iYzQzLTI3MTZhN2RkZDRiZSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvbGluayIsICJwb3J0IjogNDQzLCAicHMiOiAiRnJhbmNlIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IGZhbHNlLCAic25pIjogImF6MDUuYmV5b25keS5jZmQifQ==
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.178:8080#Lithuania
-vmess://eyJhZGQiOiAiMTU4LjE4MC4yMjguMjI2IiwgInYiOiAiMiIsICJwcyI6ICJJdGFseSIsICJwb3J0IjogNDQzLCAiaWQiOiAiOWI0NTZjMmEtZjJjMS00NWUxLTg3YTktYjc2MjhiMDRiYjI0IiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogImJleW9uZGRzei5jZmQiLCAicGF0aCI6ICIvbGlua3dzIiwgInRscyI6ICJ0bHMifQ==
-vmess://eyJhZGQiOiAiOTEuMTk0LjExLjE2MiIsICJ2IjogIjIiLCAicHMiOiAiQ2FuYWRhIiwgInBvcnQiOiA1ODg5MSwgImlkIjogIjQ0MzljZjNlLWQwNzItNGE1Yi04OGIyLTJhMmVjNmQ3MTM0MCIsICJhaWQiOiAiMCIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiIiwgInRscyI6ICIifQ==
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@119.59.98.58:990#Thailand
-trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@160.123.255.134:443?sni=icecream.955850.xyz&allowInsecure=1&type=ws&path=%2Fproxyip%3D160.123.255.134%3A443%26proxyIP%3Dnull&host=icecream.955850.xyz#South+Africa
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@67.220.95.29:6697#United+States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.22:8080#Lithuania
-trojan://dQUWbcwECl@74.176.59.185:443?sni=automq3-proxy.automq-sg.com#United+States
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.121.43.97:7306#United+States
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.110.1.88:2376#United+States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCejVDMUVyMjE5Ym1meTVvMG5EcDJz@78.129.140.11:443#United+Kingdom
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowenlEUloxWG1OWGFhQ0FON0tFQThh@45.151.62.54:28825#Germany
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.194:443#United+Kingdom
+trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@185.133.35.38:443?sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz&allowInsecure=1#Brazil
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxWHZPN3pZVTdLZWFCME1kN0RRTG93@51.195.119.47:1080#France
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@67.220.95.133:7001#United+States
+vmess://eyJhZGQiOiAiN2ZhNTQzNDMtN2MwYS00NWM5LjIwMzEucHAudWEiLCAidiI6ICIyIiwgInBzIjogIlVuaXRlZCBTdGF0ZXMiLCAicG9ydCI6IDQ0MywgImlkIjogIjE1YjI0YjU2LWQ2NjctNGZhOC1iNTQ4LWYzZGM5NDJmYjQ2MSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICI3ZmE1NDM0My03YzBhLTQ1YzkuMjAzMS5wcC51YSIsICJwYXRoIjogIi91c1lobTYwVXhROFlKRkp4eiIsICJ0bHMiOiAidGxzIn0=
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@69.50.93.47:7002#United+States
+vmess://eyJhZGQiOiAiNDUuMTM3LjE1NS40NSIsICJ2IjogIjIiLCAicHMiOiAiVWtyYWluZSIsICJwb3J0IjogMTc2NDYsICJpZCI6ICI4MjczNDcyNC04YzA2LTRjMmUtOWNmZi1iMzQ3NzZmZTE3NTciLCAiYWlkIjogIjAiLCAibmV0IjogInRjcCIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAiIn0=
+ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@38.143.66.87:6379#United+States
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@67.220.95.102:5000#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@145.14.131.37:990#Costa+Rica
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2SVZPdXpNZkg1Uk9wZ3d0UlRjTkpLWUp2WWU5RkRWYVU3d0FZWWg4UFJMeHhaczY=@188.191.147.127:31348#Israel
 ```
 <h5>Địa chỉ đăng ký vĩnh viễn của nút trên (một phần): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_vi</h5>
  <p>Mã QR cho địa chỉ đăng ký ở trên</p>

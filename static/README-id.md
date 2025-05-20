@@ -35,18 +35,18 @@
  <h4>Daftar node: (Hanya beberapa node yang ditampilkan di sini, silakan unduh aplikasi untuk melihat semua node)</h4>
     
 ```
-trojan://yaml777@104.21.61.73:443?security=tls&sni=yaml7.ggff.net&type=ws&host=yaml7.ggff.net&path=/#United+States
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.121.43.71:2376#United+States
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.121.43.71:5004#United+States
-trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@45.154.98.100:4002?sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz&allowInsecure=1#The+Netherlands
-vmess://eyJhZGQiOiAiMi41Ni4xMjUuMTAxIiwgInYiOiAiMiIsICJwcyI6ICJJdGFseSIsICJwb3J0IjogMzgwODgsICJpZCI6ICIxMjc1ZWExOC1iYzljLTRiY2ItYjNmZC1mZWU3MDI3MmUxNDMiLCAiYWlkIjogIjAiLCAibmV0IjogInRjcCIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAiIn0=
-trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@104.26.7.37:443?security=tls&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz&path=%2Fproxyip%3D45.67.215.153%3A443%26proxyIP%3Dnull&fp=randomized&alpn=h3#United+States
-vmess://eyJ2IjogIjIiLCAiYWRkIjogIjQ3LjIzNy44NC43OSIsICJwb3J0IjogMzAzMCwgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogImRlNDkxMzhjLWRmMTEtNGI2Yy1lZDk0LTA5ZTM2YjhmYjg5MCIsICJwcyI6ICJTaW5nYXBvcmUifQ==
-trojan://telegram-id-privatevpns@3.126.195.11:22222?security=tls&sni=trojan.burgerip.co.uk#Germany
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.204:443#United+States
-trojan://b32dc323-4d33-471c-870b-b6c0d0bd8034@104.21.52.157:443?security=tls&sni=ZxsW34.FrEEvPN2026.DPdnS.ORg&type=ws&host=zxsw34.freevpn2026.dpdns.org&path=%2F8WDTEY2cOCqJ1IJp7eBtFJ&fp=chrome&alpn=http%2F1.1#United+States
-trojan://4a3ee276-f50f-46f6-ba4d-13571732ab70@172.67.204.120:443?security=tls&sni=ddcDe.890603.XYz&type=ws&host=ddcde.890603.xyz&path=%2FCOp52Dbu3dvwvDWUxOqxq&fp=chrome&alpn=http%2F1.1#United+States
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@69.50.93.47:6379#United+States
+vmess://eyJhZGQiOiAid3d3LnJhY2tuZXJkLmNvbSIsICJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJwb3J0IjogNDQzLCAiaWQiOiAiODBjMGUyZTQtNjQyZi00ZWY4LWVhMzgtNDgwZjJjMDEyYjlmIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogIjEwMG0uY2RuLWNoaW5hLmZpbGVnZWFyLXNnLm1lIiwgInBhdGgiOiAiLyIsICJ0bHMiOiAidGxzIn0=
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.114.114.108:8091#United+States
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@67.220.95.133:7306#United+States
+trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@104.26.12.23:443?security=tls&type=ws&sni=icecream.955850.xyz&host=icecream.955850.xyz#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppWkRKczJDRGNrSEtxSjVXN2NwdkNxMnZlcXNxV245NWlxczZLcjZGM1lObnlNc2sydVBkUnJDaFFmU2h2SDF2NTZCcjFxV0VXNDRxSm5hNVFjTWNaRjdSQ0ptZHZ3dXE=@185.5.38.111:55988#United+Kingdom
+vmess://eyJhZGQiOiAiNjYuOTQuMTE0LjEyMiIsICJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJwb3J0IjogNTM1MDMsICJpZCI6ICJjOWI5ZGVhMy01ODY4LTQ3N2YtZTU0ZC0yYzhmMTI0ZjY0N2QiLCAiYWlkIjogIjAiLCAibmV0IjogInRjcCIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAiIn0=
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@uk-dc1.yangon.club:443#United+Kingdom
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@67.220.95.102:8000#United+States
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@38.121.43.71:9102#United+States
+vmess://eyJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJhZGQiOiAiMTk4LjI1MS44My4yMDgiLCAicG9ydCI6IDQ1MjYzLCAiaWQiOiAiNDY5ZTBiMzEtMzBjMy00ZGFiLTgwMGQtNzExMjMyNjM0Y2UxIiwgInR5cGUiOiAiIiwgImFpZCI6IDAsICJuZXQiOiAidGNwIiwgInRscyI6ICIifQ==
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.69:8080#Lithuania
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.199:8080#Lithuania
 ```
 <h5>Alamat langganan permanen node atas (bagian): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_id</h5>
  <p>Kode QR untuk alamat berlangganan di atas</p>

@@ -35,18 +35,18 @@
  <h4>Lista de nodos: (aquí solo se muestran algunos nodos; descargue la aplicación para ver todos los nodos)</h4>
     
 ```
-trojan://tg-fq521free@216.24.57.30:443?security=tls&sni=torjan.xn--xhq44j.eu.org&type=ws&host=torjan.xn--xhq44j.eu.org&path=/#Estados+Unidos
-vmess://eyJhZGQiOiAiMTcyLjY3LjEzNi4yMzMiLCAidiI6ICIyIiwgInBzIjogIkVzdGFkb3MgVW5pZG9zIiwgInBvcnQiOiA0NDMsICJpZCI6ICIzZjYzOGYzNC04ZGJhLTQxODYtYmM0My0yNzE2YTdkZGQ0YmUiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiYXowNS5iZXlvbmR5LmNmZCIsICJwYXRoIjogIi9saW5rIiwgInRscyI6ICJ0bHMifQ==
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLdmk0WjlYNEpzeHdTMHp4T05pUzFDTk91RmV6WXlhag==@79.137.205.30:29884#Holanda
-vmess://eyJhZGQiOiAiMTg2LjE5MC4yMTUuMTkzIiwgInYiOiAiMiIsICJwcyI6ICJFc3RhZG9zIFVuaWRvcyIsICJwb3J0IjogMjIzMjQsICJpZCI6ICIwNDYyMWJhZS1hYjM2LTExZWMtYjkwOS0wMjQyYWMxMjAwMDIiLCAiYWlkIjogIjAiLCAibmV0IjogInRjcCIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIi8iLCAidGxzIjogIiJ9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpncVBseTZzMUJOYU1sRm5oOVV4Y2F1@193.42.36.207:1125#Polonia
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.121.43.71:7307#Estados+Unidos
-trojan://1549e70f-dc57-45e3-ac7c-515f0161db72@172.67.155.140:443?security=tls&sni=6667.HUAnGSHanG.dpdNs.orG&type=ws&host=6667.huangshang.dpdns.org&path=%2FTomYJoQX0RSt1mktNrT&fp=chrome&alpn=http%2F1.1#Estados+Unidos
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@67.220.95.29:2376#Estados+Unidos
-trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@104.16.142.237:443?security=tls&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz&path=%2Fproxyip%3D45.67.215.153%3A443%26proxyIP%3Dnull&fp=randomized&alpn=h3#Estados+Unidos
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.47.129:443#Estados+Unidos
-vmess://eyJ2IjogIjIiLCAicHMiOiAiRXN0YWRvcyBVbmlkb3MiLCAiYWRkIjogIjM4LjI1NS4zNC4xMTAiLCAicG9ydCI6ICI0Njg5MyIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogImM2OGIxNmRiLTU2YjItNDBlZi1hNmY0LTE0MmE4ZWUyYTNmMSIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZX0=
-trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@172.67.5.78:443?security=tls&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz&path=%2Fproxyip%3D45.67.215.153%3A443%26proxyIP%3Dnull&fp=randomized&alpn=h3#Estados+Unidos
+trojan://b32dc323-4d33-471c-870b-b6c0d0bd8034@104.21.52.157:443?security=tls&sni=ZxsW34.FrEEvPN2026.DPdnS.ORg&type=ws&host=zxsw34.freevpn2026.dpdns.org&path=%2F8WDTEY2cOCqJ1IJp7eBtFJ&fp=chrome&alpn=http%2F1.1#Estados+Unidos
+ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@38.110.1.88:5499#Estados+Unidos
+vmess://eyJhZGQiOiAiNDUuOC4xNDUuMTQ1IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICIzMDM4MDI0Zi0zYTM0LTQyMjgtYjYxYy1kNzQxYjJmYmVjOGYiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogIjMwNTIwIiwgInBzIjogIkhvbGFuZGEiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIifQ==
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.196:443#Reino+Unido
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.158.171.66:8080#Estados+Unidos
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.65:8080#Lituania
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.154.136.132:5000#Estados+Unidos
+trojan://dQUWbcwECl@20.191.138.47:443?sni=automq4-proxy.automq-sg.com#Singapur
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@67.220.95.29:7002#Estados+Unidos
+trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@104.16.21.118:443?security=tls&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz&path=%2Fproxyip%3D45.67.215.153%3A443%26proxyIP%3Dnull&fp=randomized&alpn=h3#Estados+Unidos
+trojan://44ed7a37-af89-4cd1-8680-83a7207810d9@172.67.135.37:443?security=tls&sni=cCtv4.459.pp.uA&type=ws&host=cctv4.459.pp.ua&path=%2FHpYP4foAlpTKtfYnjLYhU30U&fp=chrome&alpn=http%2F1.1#Estados+Unidos
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3NEo1Z1M4aTZGaUd1cHFyYWhGdk05@77.110.102.235:31080#L%C3%ADbano
 ```
 <h5>La dirección de suscripción permanente del nodo superior (parte): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_es</h5>
  <p>Código QR para la dirección de suscripción anterior</p>
