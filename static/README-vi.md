@@ -35,18 +35,18 @@
  <h4>Danh sách nút: (Chỉ hiển thị một số nút ở đây, vui lòng tải xuống ứng dụng để xem tất cả các nút)</h4>
     
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.123.101.241:990#T%C3%BCrkiye
-trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@172.65.90.52:443?security=tls&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz&path=%2Fproxyip%3D45.67.215.153%3A443%26proxyIP%3Dnull&fp=randomized&alpn=h3#United+States
-vmess://eyJ2IjogIjIiLCAicHMiOiAiSG9uZyBLb25nIiwgImFkZCI6ICIxMDMuMzAuNzYuNjYiLCAicG9ydCI6ICIxMzY1MSIsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJpZCI6ICI2ODMxYzljZS00Y2E4LTQyYzAtODE4MS1mYjEwNTU3MTBjY2MiLCAic25pIjogIiIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZX0=
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@203.23.128.33:990#Hong+Kong
-trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@172.67.30.171:443?security=tls&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz&path=%2Fproxyip%3D45.67.215.153%3A443&alpn=h3#United+States
-trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@172.67.180.227:443?security=tls&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz&path=%2Fproxyip%3D45.67.215.153%3A443%26proxyIP%3Dnull&fp=randomized&alpn=h3#United+States
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.121.43.71:443#United+States
-trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@130.61.51.100:8443?sni=icecream.955850.xyz&allowInsecure=1&type=ws&path=%2Fproxyip%3D130.61.51.100%3A8443%26proxyIP%3Dnull&host=icecream.955850.xyz#Germany
-trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@104.16.223.254:443?security=tls&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz&path=%2Fproxyip%3D45.67.215.153%3A443%26proxyIP%3Dnull&fp=randomized&alpn=h3#United+States
-trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@217.163.76.221:443?allowInsecure=1&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz&path=/proxyip=217.163.76.221:443&proxyIP=null#United+Kingdom
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.65:8080#Lithuania
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.121.43.71:8091#United+States
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@67.220.95.29:6697#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMTVNOaDIxVHJYalIyb2syNVEybkU4RU5UMnpvQm1QdmthM1JDQ1VBSFpFTENuV29la1ZqdmFmODlxd2NSa2RieEVmZXAyYmMyYVV0bW54cXZGMWF5UVJlejFKSGpVTGo=@exchange.gameaurela.click:52952#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVUzR0c2tKYVlTdEJQVUt2Y05Wa2YwUFZoWGJzQUdDTnZyaGJmWnlidE94OXUyY0Y=@103.174.86.114:51348#India
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWZmFFYXRHajdpWG5jVnBpaktGQzFl@62.60.231.81:59945#Hong+Kong
+vmess://eyJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJhZGQiOiAiNDcuNzkuODguMTEzIiwgInBvcnQiOiAiNTM3MTAiLCAidHlwZSI6ICJub25lIiwgImlkIjogIjFkYjgzOGQwLWVjZDItNGI3My1hN2Y4LTVhZjZiNDAxZDgzMyIsICJhaWQiOiAiMCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiLyIsICJob3N0IjogIiIsICJ0bHMiOiAiIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlfQ==
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@67.220.95.133:2375#United+States
+trojan://84831b86-5c76-4173-bdf1-02fa3ed78a32@104.21.96.1:443?security=tls&sni=eeERrrR.999815.xYZ&type=ws&host=eeerrrr.999815.xyz&path=%2FeS3prPmcpzbScA5VUAi1psm38Tz&fp=chrome&alpn=http%2F1.1#United+States
+trojan://aTArbZ2F0E@172.66.168.218:443?sni=uSa-vp-27.bLAzECLOUD.SITE&type=ws&host=uSa-vp-27.bLAzECLOUD.SITE&path=/linkvkws#United+States
+trojan://a5fd0c47-f3f6-48c8-becb-cc766edf3e1a@172.67.201.201:443?security=tls&sni=m5rtyu.999658.xyz&type=ws&host=m5rtyu.999658.xyz&path=%2FGawgMugyRDAQXp6e0CScyGqcQZW&fp=chrome&alpn=http%2F1.1#United+States
+trojan://bpb-trojan@43.206.192.211:443?sni=skwygx.top&type=ws&host=skwygx.top&path=/tr&allowInsecure=0#Japan
+vmess://eyJhZGQiOiAidXMwMS5zaC1jbG91ZGZsYXJlLnNicyIsICJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJwb3J0IjogODQ0MywgImlkIjogIjJiZDBjOWQ3LWYyMzktNDM3ZS1hMWUxLTZjZjgzMGFmMmExYSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJ1czAxLnNoLWNsb3VkZmxhcmUuc2JzIiwgInBhdGgiOiAiLyIsICJ0bHMiOiAidGxzIn0=
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@67.220.95.133:7307#United+States
 ```
 <h5>Địa chỉ đăng ký vĩnh viễn của nút trên (một phần): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_vi</h5>
  <p>Mã QR cho địa chỉ đăng ký ở trên</p>

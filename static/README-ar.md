@@ -35,18 +35,18 @@
  <h4>قائمة العقد: (يتم عرض بعض العقد فقط هنا، يرجى تنزيل التطبيق لعرض جميع العقد)</h4>
     
 ```
-ss://YWVzLTI1Ni1nY206VlhOYmFKN3JDZDY1aVBkYw==@51.161.164.74:8388#Australia
-vmess://eyJhZGQiOiAiOTEuMTk0LjExLjExOCIsICJ2IjogIjIiLCAicHMiOiAiQ2FuYWRhIiwgInBvcnQiOiAyNzY5OSwgImlkIjogImMyM2IxMjdiLWFmODctNDNiYi1hYTFlLWNlNDIzNzRhMmI1MyIsICJhaWQiOiAiMCIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiIiwgInRscyI6ICIifQ==
-ss://YWVzLTI1Ni1nY206N0JjTGRzTzFXd2VvR0QwWA==@193.243.147.128:40368#France
-ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@67.220.95.102:5498#United+States
-vmess://eyJhZGQiOiAiMGU2MGJiNzAtc3YweHMwLXN3dWRidi1kZjFiLmhrMy5wNXB2LmNvbSIsICJ2IjogIjIiLCAicHMiOiAiSG9uZyBLb25nIiwgInBvcnQiOiA4MCwgImlkIjogIjliOTRhMTgyLTVhMWItMTFlZS1iODY2LWYyM2M5MTY0Y2E1ZCIsICJhaWQiOiAiMiIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJicm9hZGNhc3Rsdi5jaGF0LmJpbGliaWxpLmNvbSIsICJwYXRoIjogIi8iLCAidGxzIjogIiJ9
-trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@192.0.54.184:443?allowInsecure=1&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz&path=/proxyip=192.0.54.184:443&proxyIP=null#United+States
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@38.121.43.71:6679#United+States
-vmess://eyJhZGQiOiAiMTYzLjUuMTU5LjIzMSIsICJ2IjogIjIiLCAicHMiOiAiRnJhbmNlIiwgInBvcnQiOiA0NDMsICJpZCI6ICJlNTM3ZjJmNS0yYTBjLTRmNTktOTJjOS04MzJjYTY0MzNiZjMiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiaXJ2aWRlby5jZmQiLCAicGF0aCI6ICIvbGlua3dzIiwgInRscyI6ICJ0bHMifQ==
-trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@104.18.160.63:443?security=tls&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz&path=%2Fproxyip%3D45.67.215.153%3A443%26proxyIP%3Dnull&fp=randomized&alpn=h3#United+States
+vmess://eyJhZGQiOiAiMTMyLjE0NS4yMzIuMTcxIiwgInYiOiAiMiIsICJwcyI6ICJHZXJtYW55IiwgInBvcnQiOiA0NDMsICJpZCI6ICI5YjQ1NmMyYS1mMmMxLTQ1ZTEtODdhOS1iNzYyOGIwNGJiMjQiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiYmV5b25kZHN6LmNmZCIsICJwYXRoIjogIi9saW5rd3MiLCAidGxzIjogInRscyJ9
+trojan://auto@104.21.35.43:443?security=tls&sni=esetsecuritylicense3.wawafec355.workers.dev&type=ws&host=esetsecuritylicense3.wawafec355.workers.dev&path=/#United+States
+vmess://eyJhZGQiOiAiaXJ2aWRlby5jZmQiLCAiYWlkIjogMCwgImhvc3QiOiAiaXJ2aWRlby5jZmQiLCAiaWQiOiAiZTUzN2YyZjUtMmEwYy00ZjU5LTkyYzktODMyY2E2NDMzYmYzIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9saW5rd3MiLCAicG9ydCI6IDQ0MywgInBzIjogIkZyYW5jZSIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiBmYWxzZSwgInNuaSI6ICJpcnZpZGVvLmNmZCJ9
+trojan://pqlnPNu423@57.129.89.172:1935?security=tls&sni=x1-germany-ovh-v2.devefun.net&type=tcp#France
+ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@69.50.93.47:6379#United+States
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@139.59.119.143:443?security=tls&type=tcp&sni=connectwithemployers.online#Singapore
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.162:8080#The+Netherlands
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@67.220.95.29:443#United+States
-vmess://eyJhZGQiOiAiMTcyLjY3LjE3MC41MSIsICJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJwb3J0IjogODAsICJpZCI6ICJjZWQzMDdhMi1hZjJjLTQxMTMtYmViYy1mYjg4OGM3MDJiN2QiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAibTRmcnQuOTk5MTgyLnh5eiIsICJwYXRoIjogIi9QRVE3Q29BMVZyQndzYm5FY21KTHhDIiwgInRscyI6ICIifQ==
-trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@185.133.35.254:443?type=ws&sni=icecream.955850.xyz&host=icecream.955850.xyz#Brazil
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.121.43.71:7307#United+States
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.196:443#United+Kingdom
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.65:8080#Lithuania
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.243:443#United+States
 ```
 <h5>عنوان الاشتراك الدائم للعقدة العليا (جزء): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ar</h5>
  <p>رمز الاستجابة السريعة لعنوان الاشتراك أعلاه</p>

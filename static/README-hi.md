@@ -35,18 +35,18 @@
  <h4>नोड सूची: (यहां केवल कुछ नोड्स प्रदर्शित हैं, कृपया सभी नोड्स देखने के लिए ऐप डाउनलोड करें)</h4>
     
 ```
-ss://YWVzLTI1Ni1nY206dFZQVmxVZ1FoajlpN3ZIT0hpajNkYUNKRVVaeGN0RVE5eG9qMFdUNUE4dz0=@139.162.106.142:11359#Japan
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.47.129:443#United+States
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@23.150.248.50:8090#United+States
-trojan://b32dc323-4d33-471c-870b-b6c0d0bd8034@172.67.201.36:443?security=tls&sni=ZxsW34.FrEEvPN2026.DPdnS.ORg&type=ws&host=zxsw34.freevpn2026.dpdns.org&path=/8WDTEY2cOCqJ1IJp7eBtFJ#United+States
-vmess://eyJhZGQiOiAiYS56aXFpdTEwNjAuZ2dmZi5uZXQiLCAiYWlkIjogMCwgImhvc3QiOiAiYS56aXFpdTEwNjAuZ2dmZi5uZXQiLCAiaWQiOiAiMjhjYTA1NjctNzU0ZS00NmZjLWU3NzQtYjE5Yzc4Nzk3NWY3IiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9kc2ZzZGYiLCAicG9ydCI6IDQzMDUwLCAicHMiOiAiU2luZ2Fwb3JlIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIn0=
-vmess://eyJhZGQiOiAidXMwMS5zaC1jbG91ZGZsYXJlLnNicyIsICJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJwb3J0IjogODQ0MywgImlkIjogIjJiZDBjOWQ3LWYyMzktNDM3ZS1hMWUxLTZjZjgzMGFmMmExYSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJ1czAxLnNoLWNsb3VkZmxhcmUuc2JzIiwgInBhdGgiOiAiLyIsICJ0bHMiOiAidGxzIn0=
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.121.43.71:2375#United+States
-vmess://eyJhZGQiOiAiMTQ0LjI0LjIwMC4xNjQiLCAidiI6ICIyIiwgInBzIjogIkZyYW5jZSIsICJwb3J0IjogNDQzLCAiaWQiOiAiOWI0NTZjMmEtZjJjMS00NWUxLTg3YTktYjc2MjhiMDRiYjI0IiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogImJleW9uZGRzei5jZmQiLCAicGF0aCI6ICIvbGlua3dzIiwgInRscyI6ICJ0bHMifQ==
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.168:443#United+States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.158.171.110:8080#United+States
-trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@192.0.54.194:443?sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz&allowInsecure=1#United+States
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.243:443#United+States
+trojan://5453ae26-250d-4e79-b4ec-016baf806865@172.67.205.22:443?sni=1SSdDdFfffHhHJJJJ.20220420.Pp.uA&allowInsecure=1&type=ws&path=%2FOYzPAeaZdXUq2d6J3gc4aj&host=1ssdddffffhhhjjjj.20220420.pp.ua&fp=chrome#United+States
+vmess://eyJhZGQiOiAiMzguOTkuODIuMTkzIiwgInYiOiAiMiIsICJwcyI6ICJVbml0ZWQgU3RhdGVzIiwgInBvcnQiOiA0NDMsICJpZCI6ICIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAidGlsZWJhbmkuY29tIiwgInBhdGgiOiAiL2xpbmt2d3MiLCAidGxzIjogInRscyJ9
+trojan://123@104.24.92.207:2053?sni=epeius001-ea1.pages.dev&type=ws&host=epeius001-ea1.pages.dev#United+States
+vmess://eyJhZGQiOiAiNTcuMTI5LjY0LjIzOCIsICJ2IjogIjIiLCAicHMiOiAiRnJhbmNlIiwgInBvcnQiOiA0NDMsICJpZCI6ICIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAia2FwZWxsZW5nLmNvbSIsICJwYXRoIjogIi9saW5rdndzIiwgInRscyI6ICJ0bHMifQ==
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@67.220.95.96:8091#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.10:8080#Lithuania
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@67.220.95.102:2375#United+States
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.34.244.68:443#The+Netherlands
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.121.43.71:3306#United+States
+vmess://eyJhZGQiOiAiNDUuOC4xNDUuMTQ1IiwgInYiOiAiMiIsICJwcyI6ICJUaGUgTmV0aGVybGFuZHMiLCAicG9ydCI6IDMwNTIwLCAiaWQiOiAiMzAzODAyNGYtM2EzNC00MjI4LWI2MWMtZDc0MWIyZmJlYzhmIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIiLCAidGxzIjogIiJ9
+vmess://eyJhZGQiOiAiMTMyLjE0NS4yMzIuMTcxIiwgInYiOiAiMiIsICJwcyI6ICJHZXJtYW55IiwgInBvcnQiOiA0NDMsICJpZCI6ICI5YjQ1NmMyYS1mMmMxLTQ1ZTEtODdhOS1iNzYyOGIwNGJiMjQiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiYmV5b25kZHN6LmNmZCIsICJwYXRoIjogIi9saW5rd3MiLCAidGxzIjogInRscyJ9
+trojan://zsu4Mq3A9J@51.195.254.75:8443?sni=uk-02.allhubb.info#France
 ```
 <h5>ऊपरी नोड (भाग) का स्थायी सदस्यता पता: https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_hi</h5>
  <p>उपरोक्त सदस्यता पते के लिए QR कोड</p>

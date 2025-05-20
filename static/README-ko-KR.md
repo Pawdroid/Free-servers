@@ -35,18 +35,18 @@
  <h4>노드 목록: (여기에는 일부 노드만 표시됩니다. 모든 노드를 보려면 앱을 다운로드하세요.)</h4>
     
 ```
-vmess://eyJhZGQiOiAiOTQuMTM2LjE4NS4yMzAiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogImIwMWM3ZWY5LTMzZWMtNDFmNi1iZmJmLTc3ZGRjNGQyMTY0OSIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiMTA1MzQiLCAicHMiOiAiR2VybWFueSIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZX0=
-vmess://eyJhZGQiOiAiNDUuOC4xNDUuMTQ1IiwgInYiOiAiMiIsICJwcyI6ICJUaGUgTmV0aGVybGFuZHMiLCAicG9ydCI6IDMwNTIwLCAiaWQiOiAiMzAzODAyNGYtM2EzNC00MjI4LWI2MWMtZDc0MWIyZmJlYzhmIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIiLCAidGxzIjogIiJ9
-vmess://eyJhZGQiOiAiYmV5b25kZHN6LmNmZCIsICJhaWQiOiAwLCAiaG9zdCI6ICJiZXlvbmRkc3ouY2ZkIiwgImlkIjogIjliNDU2YzJhLWYyYzEtNDVlMS04N2E5LWI3NjI4YjA0YmIyNCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvbGlua3dzIiwgInBvcnQiOiA0NDMsICJwcyI6ICJGcmFuY2UiLCAidGxzIjogInRscyIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIifQ==
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.154.136.132:5000#United+States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMzgzNzIyNGVkNDY1ZjAw@45.144.48.63:57456#Poland
-trojan://15b24b56-d667-4fa8-b548-f3dc942fb461@104.21.34.159:443?security=tls&sni=2qwert.2031.pp.ua&type=ws&host=2qwert.2031.pp.ua&path=/4p35eUnmGxQ8YJFJxz#United+States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMcWxQSTE5b3FudW5HTlNMTXZkWHlC@147.45.60.33:16356#Russia
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.198:443#United+Kingdom
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpydFI0WVg3NHZ3cVJKdTlNR0gzZTFOM0NRZEdNV0NVRmt5TGlzaWppRnV2aGtVOU1jVjVUcHlnZmtlcm5KNFVRZTYzSnRjRFFrclE5SGZjaHpxUXoxa0xDblRSb3I4amc=@166.1.157.228:55330#United+States
-vmess://eyJhZGQiOiAiMTAzLjEyNC4xMDcuMTQ0IiwgInYiOiAiMiIsICJwcyI6ICJVbml0ZWQgU3RhdGVzIiwgInBvcnQiOiAyOTgwMCwgImlkIjogImNjMzFkZGZjLWQ5MmUtNGRhYi1jZDA2LTAwZGZiODRhZjhhYyIsICJhaWQiOiAiMCIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiLyIsICJ0bHMiOiAiIn0=
-trojan://44ed7a37-af89-4cd1-8680-83a7207810d9@172.67.135.37:443?security=tls&sni=cCtv4.459.pp.uA&type=ws&host=cctv4.459.pp.ua&path=%2FHpYP4foAlpTKtfYnjLYhU30U&fp=chrome&alpn=http%2F1.1#United+States
-vmess://eyJhZGQiOiAidGVzdDEueGlhb3NoaWhvdWtlcGFuZ2xlLnNicyIsICJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJwb3J0IjogMTA4MiwgImlkIjogImYxNzQ3ZDMxLTA3ZjItNDU2ZC05MWI2LTM4MjhjYTQzNDc4MCIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJ3d3cuYmluZy5jb20iLCAicGF0aCI6ICIveGlhb3NoaWhvdWtlcGFuZ2xlVm1lc3MiLCAidGxzIjogInRscyJ9
+trojan://0bf83a1d-f785-487a-a479-3c3de2566ba6@104.21.77.44:443?sni=x4444.890603.xyz&allowInsecure=1&type=ws&path=%2FxJXdWGMbbZovkcaL2SsGTGxE&host=x4444.890603.xyz#United+States
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.241:443#United+States
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@23.154.136.51:8118#United+States
+vmess://eyJhZGQiOiAiNDUuMTIuMTQ1LjExMSIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiMWI0MTE1M2UtYzRkNC00MzFiLTgzZWItMTA0NzJmODY5ZjkzIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIiLCAicG9ydCI6ICI0NjI5MCIsICJwcyI6ICJTcGFpbiIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICIiLCAidiI6ICIyIn0=
+vmess://eyJhZGQiOiAid3d3LnZpc2EuY29tLnR3IiwgInYiOiAiMiIsICJwcyI6ICJVbml0ZWQgU3RhdGVzIiwgInBvcnQiOiA0NDMsICJpZCI6ICI5ODIwODdlZi04ODUxLTQ0ZGYtZWI4ZS04MzZmMzM2MmYzZjEiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAib3JhY2xlLXNqYy5lY3AuZHBkbnMub3JnIiwgInBhdGgiOiAiL2J5LXplZHdhcmUtbmV0d29yay8/ZWQ9MjU2MCIsICJ0bHMiOiAidGxzIn0=
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@38.143.66.87:9102#United+States
+trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@185.133.35.38:443?sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz&allowInsecure=1#Brazil
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.121.43.71:8888#United+States
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.121.43.71:8119#United+States
+trojan://4a3ee276-f50f-46f6-ba4d-13571732ab70@172.67.204.120:443?security=tls&sni=ddcDe.890603.XYz&type=ws&host=ddcde.890603.xyz&path=%2FCOp52Dbu3dvwvDWUxOqxq&fp=chrome&alpn=http%2F1.1#United+States
+trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@172.65.90.52:443?security=tls&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz&path=%2Fproxyip%3D45.67.215.153%3A443%26proxyIP%3Dnull&fp=randomized&alpn=h3#United+States
+trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@217.163.76.227:443?sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz&allowInsecure=0#United+Kingdom
 ```
 <h5>상위 노드(일부)의 영구 구독 주소: https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ko-KR</h5>
  <p>위 구독 주소의 QR 코드</p>

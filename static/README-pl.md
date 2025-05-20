@@ -35,18 +35,18 @@
  <h4>Lista węzłów: (wyświetlane są tutaj tylko niektóre węzły. Pobierz aplikację, aby wyświetlić wszystkie węzły)</h4>
     
 ```
-vmess://eyJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJhZGQiOiAiNS4yNTMuNDEuMTQ3IiwgInBvcnQiOiAiMjc3NTAiLCAiaWQiOiAiNGIxOTkyY2MtOGU3Yy00MDAzLWE0NWYtYTI4YzNlNmY2ZmE4IiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiLyIsICJ0bHMiOiAiIiwgInNuaSI6ICIiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIn0=
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.107.226.14:8091#United+States
-trojan://yaml777@104.21.61.73:443?security=tls&sni=yaml7.ggff.net&type=ws&host=yaml7.ggff.net&path=/#United+States
-trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@172.64.145.158:443?security=tls&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz&path=%2Fproxyip%3D45.67.215.153%3A443%26proxyIP%3Dnull&fp=randomized&alpn=h3#United+States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.178:8080#Lithuania
-trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@130.61.51.100:8443?sni=icecream.955850.xyz&allowInsecure=1&type=ws&path=%2Fproxyip%3D130.61.51.100%3A8443%26proxyIP%3Dnull&host=icecream.955850.xyz#Germany
-trojan://fefba36d-5142-42f1-b14d-db5249511d93@172.67.152.170:443?security=tls&sni=5ttt.191288.xyz&type=ws&host=5ttt.191288.xyz&path=/BFBuPh4SuxTxCwkqKrjE#United+States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@64.74.163.130:990#United+States
-vmess://eyJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJhZGQiOiAiNDcuNzkuODguMTEzIiwgInBvcnQiOiAiNTM3MTAiLCAidHlwZSI6ICJub25lIiwgImlkIjogIjFkYjgzOGQwLWVjZDItNGI3My1hN2Y4LTVhZjZiNDAxZDgzMyIsICJhaWQiOiAiMCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiLyIsICJob3N0IjogIiIsICJ0bHMiOiAiIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlfQ==
-trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@104.18.42.17:443?security=tls&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz&path=%2Fproxyip%3D45.67.215.153%3A443%26proxyIP%3Dnull&fp=randomized&alpn=h3#United+States
-trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@212.183.88.194:443?sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz&allowInsecure=0#Austria
-ss://YWVzLTI1Ni1nY206N0JjTGRzTzFXd2VvR0QwWA==@193.243.147.128:40368#France
+trojan://a926af96-2cfe-4169-8107-6c5f0d74a938@172.67.207.27:443?security=tls&sni=yu765.taipei108.dpdns.org&type=ws&host=yu765.taipei108.dpdns.org&path=/5NB3RVAWa3Uo1P5zFPkui#United+States
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@69.50.93.113:5004#United+States
+vmess://eyJhZGQiOiAiMTU4LjE4MC4yMjguMjI2IiwgInYiOiAiMiIsICJwcyI6ICJJdGFseSIsICJwb3J0IjogNDQzLCAiaWQiOiAiOWI0NTZjMmEtZjJjMS00NWUxLTg3YTktYjc2MjhiMDRiYjI0IiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogImJleW9uZGRzei5jZmQiLCAicGF0aCI6ICIvbGlua3dzIiwgInRscyI6ICJ0bHMifQ==
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.114.114.143:4444#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.158.171.151:8080#United+States
+vmess://eyJhZGQiOiAiMTU0LjI2LjE1My4xNjEiLCAidiI6ICIyIiwgInBzIjogIkF1c3RyYWxpYSIsICJwb3J0IjogMjE3NTksICJpZCI6ICJlNWYxNmZhZC1mOWMzLTQ1MmItOGU3MS1iYzk1MDRlMjlmYzkiLCAiYWlkIjogIjAiLCAibmV0IjogInRjcCIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAiIn0=
+vmess://eyJhZGQiOiAibTExc0VSRkdILjQ1OS5wUC51QSIsICJhaWQiOiAwLCAiaG9zdCI6ICJtMTFzZXJmZ2guNDU5LnBwLnVhIiwgImlkIjogIjBhMjhiNDIwLTRmN2MtNDNhZC1hMjllLTgwMDY4Y2UwODI2MyIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvbGhVOFNoc29QWmx1bG5uWVBiODZjc3AiLCAicG9ydCI6IDQ0MywgInBzIjogIlVuaXRlZCBTdGF0ZXMiLCAidGxzIjogInRscyIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIifQ==
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.80:443#United+Kingdom
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcEtBQmNPcE5OQTBsNUcyQVZPbXc4@213.109.147.242:62685#United+Kingdom
+vmess://eyJhZGQiOiAiNTEuNzkuMTAzLjc2IiwgInYiOiAiMiIsICJwcyI6ICJDYW5hZGEiLCAicG9ydCI6IDgwLCAiaWQiOiAiNThmZTE1NDItNTI5MC00MGFkLTgxNWEtNzc3MDdhODFhZmU1IiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogIndybWVsbXd4bGYuZ2t0ZXZscnF6bndxcW96eS5mYWJwZnM2Nmdpem1ub2poY3ZxeHdsLmt5dHJjZnpxbGE4N2d2Z3ZzNmM3a2pucnVidWguY2MiLCAicGF0aCI6ICIvSU9lYmhMTWhsMUNUYkZIYkw5NW15ZlJYMiIsICJ0bHMiOiAiIn0=
+trojan://telegram-id-directvpn@63.178.35.184:22223?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#Germany
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.169:443#United+States
 ```
 <h5>Stały adres subskrypcji górnego węzła (część): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_pl</h5>
  <p>Kod QR dla adresu subskrypcji powyżej</p>

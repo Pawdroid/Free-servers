@@ -35,18 +35,18 @@
  <h4>নোড তালিকা: (শুধুমাত্র কিছু নোড এখানে প্রদর্শিত হয়, সমস্ত নোড দেখতে অ্যাপটি ডাউনলোড করুন)</h4>
     
 ```
-vmess://eyJhZGQiOiAid3d3LnduMDMuY2MiLCAiYWlkIjogMCwgImhvc3QiOiAidXMuZnJlZXl5ZHMuZHBkbnMub3JnIiwgImlkIjogIjJmMzhmODQ4LWE4OTktNGM4Ny05ODA3LTIwN2E0MTYxNWUzYyIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvcm9uZ3NldmVuP2VkPTIwNDgiLCAicG9ydCI6IDgwLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJ0bHMiOiAiIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiJ9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.126.239.250:990#Russia
-trojan://vpn@150.241.78.252:2025?security=none&type=ws&host=vkvd127.mycdn.me&path=/#Spain
-trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@103.116.7.20:443?security=tls&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz&path=%2Fproxyip%3D45.67.215.153%3A443%26proxyIP%3Dnull&fp=randomized&alpn=h3#Japan
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@67.220.95.133:7001#United+States
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@67.220.95.29:8118#United+States
-trojan://ypDt8RkT7J@89.187.181.179:43118?security=tls&sni=89.187.181.179&type=tcp#United+States
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.121.43.71:8091#United+States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@beesyar.org:8080#Lithuania
-trojan://dQUWbcwECl@20.191.138.47:443?sni=automq4-proxy.automq-sg.com#Singapore
-vmess://eyJhZGQiOiAiNS4xMC4yNDcuMTU5IiwgInYiOiAiMiIsICJwcyI6ICJVbml0ZWQgS2luZ2RvbSIsICJwb3J0IjogNDQzLCAiaWQiOiAiMTY0YTZhZDAtNDc2YS00YmFlLWI3OGYtYTNkMzdjZjBmNDE0IiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogInRoLmx6ajUyMGh4dy5kcGRucy5vcmciLCAicGF0aCI6ICIvbHpqamoiLCAidGxzIjogInRscyJ9
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.80:443#United+Kingdom
+ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@69.50.93.80:5498#United+States
+ss://YWVzLTI1Ni1nY206VlhOYmFKN3JDZDY1aVBkYw==@51.161.164.74:8388#Australia
+trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@45.67.215.153:443?sni=icecream.955850.xyz&allowInsecure=1&type=ws&path=%2Fproxyip%3D45.67.215.153%3A443%26proxyIP%3Dnull&host=icecream.955850.xyz#Russia
+vmess://eyJhZGQiOiAidjE4Lm5tY2YubWUiLCAidiI6ICIyIiwgInBzIjogIkphcGFuIiwgInBvcnQiOiA4MDAwLCAiaWQiOiAiZjlhZDdkN2UtYzY5YS00YTlkLTljOTQtYmU3ZWJjOTk4NDlkIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogInd3dy5iaW5nLmNvbSIsICJwYXRoIjogIi9ubWtqIiwgInRscyI6ICIifQ==
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.164:8080#Lithuania
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@38.121.43.71:6679#United+States
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@23.154.136.148:6679#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@103.104.247.47:8080#The+Netherlands
+trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@172.64.153.54:443?security=tls&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz&path=%2Fproxyip%3D45.67.215.153%3A443%26proxyIP%3Dnull&fp=randomized&alpn=h3#United+States
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.121.43.71:3306#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.202:8080#The+Netherlands
+trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@194.76.18.129:443?sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz&allowInsecure=1#Kazakhstan
 ```
 <h5>উপরের নোডের স্থায়ী সদস্যতা ঠিকানা (অংশ): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_bn</h5>
  <p>উপরের সদস্যতা ঠিকানার জন্য QR কোড</p>
