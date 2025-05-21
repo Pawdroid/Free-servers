@@ -35,19 +35,19 @@
  <h4>Lista węzłów: (wyświetlane są tutaj tylko niektóre węzły. Pobierz aplikację, aby wyświetlić wszystkie węzły)</h4>
     
 ```
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.81:443#United+Kingdom
-vmess://eyJhZGQiOiAidXMwMS5zaC1jbG91ZGZsYXJlLnNicyIsICJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJwb3J0IjogODQ0MywgImlkIjogIjJiZDBjOWQ3LWYyMzktNDM3ZS1hMWUxLTZjZjgzMGFmMmExYSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJ1czAxLnNoLWNsb3VkZmxhcmUuc2JzIiwgInBhdGgiOiAiLyIsICJ0bHMiOiAidGxzIn0=
-trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@104.26.12.23:443?security=tls&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz&path=%2Fproxyip%3D45.67.215.153%3A443&alpn=h3#United+States
-ss://YWVzLTI1Ni1nY206dFZQVmxVZ1FoajlpN3ZIT0hpajNkYUNKRVVaeGN0RVE5eG9qMFdUNUE4dz0=@139.162.106.142:11359#Japan
-vmess://eyJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJhZGQiOiAiMTI5LjgwLjE5OS4yMzkiLCAicG9ydCI6ICIxNzA5OSIsICJ0eXBlIjogIm5vbmUiLCAiaWQiOiAiZTA2MmIyMTctNWIxZC00YmZlLWIxZmUtYzFiZDhmZDQ0ODYxIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIvIiwgImhvc3QiOiAiIiwgInRscyI6ICIiLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWV9
-vmess://eyJhZGQiOiAibmwudm1lc3MuY29tbnBtanMuY29tIiwgInYiOiAiMiIsICJwcyI6ICJUaGUgTmV0aGVybGFuZHMiLCAicG9ydCI6IDQ0MywgImlkIjogIjdlMTNlZDMzLThiMzctNTZiMS1hYTc1LWQxNGViZDIxZGQwOCIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJubC52bWVzcy5jb21ucG1qcy5jb20iLCAicGF0aCI6ICIvdm1lc3MjRE9OVC1GT1JHRVQtVE8tU1VQUE9SVC1TU0hNQVguQ09NLVRPLUtFRVAtVEhJUy1TRVJWRVItQUxJVkUiLCAidGxzIjogInRscyJ9
-vmess://eyJhZGQiOiAiNTEuNzkuMTAyLjI1MyIsICJhaWQiOiAwLCAiaG9zdCI6ICI1MS43OS4xMDIuMjUzIiwgImlkIjogIjU4ZmUxNTQyLTUyOTAtNDBhZC04MTVhLTc3NzA3YTgxYWZlNSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvSU9lYmhMTWhsMUNUYkZIYkw5NW15ZlJYMiIsICJwb3J0IjogODAsICJwcyI6ICJDYW5hZGEiLCAidGxzIjogIiIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIifQ==
-ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@38.121.43.71:9101#United+States
-trojan://dQUWbcwECl@20.191.138.47:443?sni=automq4-proxy.automq-sg.com#Singapore
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpydFI0WVg3NHZ3cVJKdTlNR0gzZTFOM0NRZEdNV0NVRmt5TGlzaWppRnV2aGtVOU1jVjVUcHlnZmtlcm5KNFVRZTYzSnRjRFFrclE5SGZjaHpxUXoxa0xDblRSb3I4amc=@166.1.157.228:55330#United+States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@beesyar.org:8080#United+States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPSEpIYTFjeVowUm5ObEZ4V0haUWRHZHJVR2RxTlhWbw==@45.196.235.33:48019#Hong+Kong
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@181.119.30.20:990#Colombia
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@23.154.136.103:8090#United+States
+trojan://895552fa-6284-4c1d-ba00-3944e0c7c626@104.21.71.112:443?security=tls&sni=CFR56ty7890.288288.sHOP&type=ws&host=cfr56ty7890.288288.shop&path=%2FBy7cEmOrNRS58yeduy9AOG&fp=chrome&alpn=http%2F1.1#United+States
+vmess://eyJhZGQiOiAiYjFkMGI4YzMtc3draHMwLXN5ZndieC0xazB5Zi5oay5wNXB2LmNvbSIsICJ2IjogIjIiLCAicHMiOiAiSG9uZyBLb25nIiwgInBvcnQiOiA4MCwgImlkIjogIjljYzNjMDNlLTIxZmQtMTFlZS1hNjQyLWYyM2M5MTM2OWYyZCIsICJhaWQiOiAiMiIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIvIiwgInRscyI6ICIifQ==
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkM1RwaFBQZk1rSXhGbVBKcEEwajdSa1BKSGplSHFhSmsyRDdDbzdWc0Z1VVUydjE=@45.128.151.67:31348#Latvia
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.154:8080#Lithuania
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@69.50.93.47:8119#United+States
+vmess://eyJhZGQiOiAiYXBpLmpxdWVyeS5jb20iLCAidiI6ICIyIiwgInBzIjogIlVuaXRlZCBTdGF0ZXMiLCAicG9ydCI6IDQ0MywgImlkIjogIjU2NTI5YWQ4LTYxZDItNGJmYS1hYTBiLWE4MDA3MTljYjVmZSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJhZG1pbi5rYXNyYXguaXIiLCAicGF0aCI6ICIvdHcubmlza2Frb3dza2kuZ2dmZi5uZXQvYWEiLCAidGxzIjogInRscyJ9
+trojan://Aimer@92.243.74.180:8443?security=tls&sni=tyep.esslh.filegear-sg.me&type=ws&host=tyep.esslh.filegear-sg.me&path=%2F%3Fed%3D2560#Russia
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjOTc2NzIxYS1lMzkwLTRkYmYtYjRmOS03MmMzZmViOTU5NGM=@45.76.180.205:31298#Singapore
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.121.43.97:8091#United+States
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.121.43.97:5500#United+States
+trojan://061ec9d5-ba40-428a-8be0-1947b10b5cfc@172.67.207.27:443?path=%2FDmby2AKiZKvMo1YauoQwY5&security=tls&alpn=http%2F1.1&host=t.taipei108.dpdns.org&fp=chrome&type=ws&sni=T.taipEi108.Dpdns.Org#United+States
+ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@67.220.95.102:5498#United+States
 ```
 <h5>Stały adres subskrypcji górnego węzła (część): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_pl</h5>
  <p>Kod QR dla adresu subskrypcji powyżej</p>

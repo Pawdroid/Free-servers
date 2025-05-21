@@ -35,19 +35,19 @@
  <h4>নোড তালিকা: (শুধুমাত্র কিছু নোড এখানে প্রদর্শিত হয়, সমস্ত নোড দেখতে অ্যাপটি ডাউনলোড করুন)</h4>
     
 ```
-trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@172.67.71.122:443?security=tls&sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz&path=%2Fproxyip%3D45.67.215.153%3A443&alpn=h3#United+States
-vmess://eyJhZGQiOiAiNDUuMjQ5LjI0Ni4yMDIiLCAidiI6ICIyIiwgInBzIjogIkhvbmcgS29uZyIsICJwb3J0IjogNDI2MTUsICJpZCI6ICIxMTIzYjZjMi1mZDJkLTQ3YTEtOWUyMi1hZDI5OTM2MmVmNGQiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiLzExMjNiNmMyIiwgInRscyI6ICIiLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWV9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@203.23.128.33:990#Hong+Kong
+vmess://eyJhZGQiOiAiMTA0LjIxLjIzLjIzMSIsICJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJwb3J0IjogMjA4MiwgImlkIjogIjJmODIxMTUyLWMzZTktNDA3NC05MTg1LTI3OTBlNzQyNWY0MiIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJjcy5mbGhhLnJ1IiwgInBhdGgiOiAiLyIsICJ0bHMiOiAiIn0=
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@23.154.136.132:8118#United+States
+trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@149.129.8.215:443?sni=icecream.955850.xyz&type=ws&host=icecream.955850.xyz&allowInsecure=1#South+Korea
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.75.136.28:7001#United+States
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.121.43.71:5004#United+States
+trojan://yaml777@104.21.61.73:443?security=tls&sni=yaml7.ggff.net&type=ws&host=yaml7.ggff.net&path=/#United+States
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.114.114.108:8881#United+States
 vmess://eyJ2IjogIjIiLCAicHMiOiAiQXVzdHJhbGlhIiwgImFkZCI6ICIxNTQuMjYuMTUzLjE3MyIsICJwb3J0IjogMjg2ODYsICJpZCI6ICI2ZGY3ZDU2Zi00OTUzLTRhMTAtYmUyZS1hODhjYzlmOTRlNDgiLCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIm5vbmUifQ==
-vmess://eyJhZGQiOiAiZnIudm1lc3MuY29tbnBtanMuY29tIiwgInYiOiAiMiIsICJwcyI6ICJTZXJiaWEiLCAicG9ydCI6IDIwOTYsICJpZCI6ICI3MDgzNThhNS04YzlhLTU1YjgtYTUyMS03M2I4ZDdiNjNkM2IiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiZnIudm1lc3MuY29tbnBtanMuY29tIiwgInBhdGgiOiAiL3ZtZXNzIiwgInRscyI6ICJ0bHMifQ==
-vmess://eyJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJhZGQiOiAid3d3LmhkbW9saS5jb20iLCAicG9ydCI6IDgwLCAiaWQiOiAiMmYzOGY4NDgtYTg5OS00Yzg3LTk4MDctMjA3YTQxNjE1ZTNjIiwgInR5cGUiOiAiIiwgImFpZCI6IDAsICJuZXQiOiAid3MiLCAidGxzIjogIiIsICJwYXRoIjogIi9yb25nc2V2ZW4/ZWQ9MjA0OCIsICJob3N0IjogImZyLmZyZWV5eWRzLmRwZG5zLm9yZyJ9
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.243:443#United+States
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.170:443#United+States
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@67.220.95.29:7002#United+States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.92:8080#Lithuania
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.121.43.71:8118#United+States
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.198:443#United+Kingdom
-vmess://eyJhZGQiOiAiMTU0LjIxOS4xMjAuNTciLCAidiI6ICIyIiwgInBzIjogIkhvbmcgS29uZyIsICJwb3J0IjogNDIzODMsICJpZCI6ICJjMTA5MGM4NC03OTEwLTQzZTAtZjZjOC0wYjM4OTE4ODEwODkiLCAiYWlkIjogIjAiLCAibmV0IjogInRjcCIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAiIn0=
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.157:8080#Lithuania
+trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@162.159.152.205:443?sni=icecream.955850.xyz&allowInsecure=1&type=ws&path=%2Fproxyip%3D162.159.152.205%3A443%26proxyIP%3Dnull&host=icecream.955850.xyz#United+States
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.107.226.14:8091#United+States
+vmess://eyJhZGQiOiAiYjFkMGI4YzMtc3draHMwLXN5ZndieC0xazB5Zi5oay5wNXB2LmNvbSIsICJ2IjogIjIiLCAicHMiOiAiSG9uZyBLb25nIiwgInBvcnQiOiA4MCwgImlkIjogIjljYzNjMDNlLTIxZmQtMTFlZS1hNjQyLWYyM2M5MTM2OWYyZCIsICJhaWQiOiAiMiIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIvIiwgInRscyI6ICIifQ==
+trojan://b32dc323-4d33-471c-870b-b6c0d0bd8034@172.67.201.36:443?security=tls&sni=ZxsW34.FrEEvPN2026.DPdnS.ORg&type=ws&host=zxsw34.freevpn2026.dpdns.org&path=%2F8WDTEY2cOCqJ1IJp7eBtFJ&fp=chrome&alpn=http%2F1.1#United+States
 ```
 <h5>উপরের নোডের স্থায়ী সদস্যতা ঠিকানা (অংশ): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_bn</h5>
  <p>উপরের সদস্যতা ঠিকানার জন্য QR কোড</p>
