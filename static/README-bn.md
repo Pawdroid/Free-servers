@@ -35,13 +35,13 @@
  <h4>নোড তালিকা: (শুধুমাত্র কিছু নোড এখানে প্রদর্শিত হয়, সমস্ত নোড দেখতে অ্যাপটি ডাউনলোড করুন)</h4>
     
 ```
-ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@38.121.43.71:9102#United+States
-vmess://eyJhZGQiOiAiMTA0LjIxLjE2LjEiLCAidiI6ICIyIiwgInBzIjogIlVuaXRlZCBTdGF0ZXMiLCAicG9ydCI6IDIwODMsICJpZCI6ICI4Zjc4ZTcwOS0yYzVmLTRjMTktOWY0NC1iNWI1ZjgwYWI3NGMiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiY2MyZDMuOTg4OTg4LnNob3AiLCAicGF0aCI6ICIvIiwgInRscyI6ICJ0bHMifQ==
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@203.23.128.33:990#Hong+Kong
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.121.43.71:5601#United+States
-trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@138.2.107.107:443?sni=icecream.955850.xyz&allowInsecure=1&type=ws&path=%2Fproxyip%3D138.2.107.107%3A443%26proxyIP%3Dnull&host=icecream.955850.xyz#Singapore
-trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@217.163.76.89:443?sni=icecream.955850.xyz&allowInsecure=1&type=ws&path=%2Fproxyip%3D217.163.76.89%3A443%26proxyIP%3Dnull&host=icecream.955850.xyz#United+Kingdom
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.68.135.18:8119#United+States
+trojan://dQUWbcwECl@74.176.59.185:443?sni=automq3-proxy.automq-sg.com#United+States
+trojan://15b24b56-d667-4fa8-b548-f3dc942fb461@2qwert.2031.pp.ua:443?sni=2qwert.2031.pp.ua&allowInsecure=1&type=ws&path=%2F4p35eUnmGxQ8YJFJxz&alpn=http%2F1.1&fp=chrome#United+States
+vmess://eyJhZGQiOiAiMTA0LjIxLjk2LjEiLCAidiI6ICIyIiwgInBzIjogIlVuaXRlZCBTdGF0ZXMiLCAicG9ydCI6IDIwODcsICJpZCI6ICIxYzM2OTA2ZS0xYTIxLTQzMzAtYjA0Zi04NWJhZjFhNmZmMjYiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAicmFrMWQzLjc3NzI2OS54eXoiLCAicGF0aCI6ICIvIiwgInRscyI6ICJ0bHMifQ==
+trojan://dQUWbcwECl@20.191.138.47:443?sni=automq4-proxy.automq-sg.com#Singapore
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMzgzNzIyNGVkNDY1ZjAw@war.ssvpnapp.win:57456#Poland
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.121.43.71:5004#United+States
+ss://YWVzLTI1Ni1nY206STFoVG1hMEJvTA==@92.119.199.33:443#United+States
 ```
 <h5>উপরের নোডের স্থায়ী সদস্যতা ঠিকানা (অংশ): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_bn</h5>
  <p>উপরের সদস্যতা ঠিকানার জন্য QR কোড</p>

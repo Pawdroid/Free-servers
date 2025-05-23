@@ -35,13 +35,13 @@
  <h4>नोड सूची: (यहां केवल कुछ नोड्स प्रदर्शित हैं, कृपया सभी नोड्स देखने के लिए ऐप डाउनलोड करें)</h4>
     
 ```
-vmess://eyJhZGQiOiAiOTEuMTk0LjExLjE2MiIsICJ2IjogIjIiLCAicHMiOiAiQ2FuYWRhIiwgInBvcnQiOiA1ODg5MSwgImlkIjogIjQ0MzljZjNlLWQwNzItNGE1Yi04OGIyLTJhMmVjNmQ3MTM0MCIsICJhaWQiOiAiMCIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiIiwgInRscyI6ICIifQ==
-trojan://3lSlAcxDSNpeKOyZ3pIlyYRC7328C3X93Aa8SFOgDX4D7An0zYSRDRuaRE8lCpCASE6Bu@154.17.25.96:443?sni=theory.wireshop.net#United+States
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.143.66.87:5000#United+States
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@38.121.43.6:8008#United+States
-vmess://eyJ2IjogIjIiLCAicHMiOiAiU2luZ2Fwb3JlIiwgImFkZCI6ICJ5YWwuZnhsY24uY29tIiwgInBvcnQiOiA0NTI2MywgImlkIjogIjQ2OWUwYjMxLTMwYzMtNGRhYi04MDBkLTcxMTIzMjYzNGNlMSIsICJ0eXBlIjogIiIsICJhaWQiOiAwLCAibmV0IjogInRjcCIsICJ0bHMiOiAiIn0=
-trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@38.180.100.80:443?sni=icecream.955850.xyz&allowInsecure=1&type=ws&path=%2Fproxyip%3D38.180.100.80%3A443%26proxyIP%3Dnull&host=icecream.955850.xyz#Serbia
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@216.39.248.133:7001#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.158.171.146:8080#United+States
+ss://YWVzLTI1Ni1nY206YjU1YzdlODRhZmRkNTJjYg==@185.22.153.67:2029#Russia
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKYzN3VFRNRXlCVktmek5hY0d0aVoz@62.210.88.22:443#France
+trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@202.37.33.80:443?sni=icecream.955850.xyz&allowInsecure=1&type=ws&path=%2Fproxyip%3D202.37.33.80%3A443%26proxyIP%3Dnull&host=icecream.955850.xyz#New+Zealand
 trojan://OLq0FfOlp7@141.227.160.88:1935?sni=x1-sweden-ovh-v2.devefun.net#France
+vmess://eyJhZGQiOiAiMi41Ni4xMjYuMTAzIiwgInYiOiAiMiIsICJwcyI6ICJOb3J3YXkiLCAicG9ydCI6IDMzNTc5LCAiaWQiOiAiMmViM2VlMmEtN2JmOC00YjUwLTliOTMtMmQ0ODlkMmYzNDU2IiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIiLCAidGxzIjogIiJ9
 ```
 <h5>ऊपरी नोड (भाग) का स्थायी सदस्यता पता: https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_hi</h5>
  <p>उपरोक्त सदस्यता पते के लिए QR कोड</p>
