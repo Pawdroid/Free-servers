@@ -35,13 +35,13 @@
  <h4>Lista de nós: (Apenas alguns nós são exibidos aqui, baixe o aplicativo para visualizar todos os nós)</h4>
     
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@45.154.206.192:990#Reino+Unido
-trojan://telegram-id-privatevpns@51.44.232.118:22222?sni=trojan.burgerip.co.uk#Fran%C3%A7a
-trojan://xxoo@us.blazeppn.info:443?allowInsecure=0&sni=us.blazeppn.info#EUA
-vmess://eyJhZGQiOiAiZTVjMDk4MzEtc3VjdjQwLXN1cnV1OC04YmVtLmhrLnA1cHYuY29tIiwgInYiOiAiMiIsICJwcyI6ICJIb25nIEtvbmciLCAicG9ydCI6IDgwLCAiaWQiOiAiY2E1MDZlMDgtY2UzZC01ZTVhLWMxMjgtNjM1OGNhY2ExNWU1IiwgImFpZCI6ICIyIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogImJyb2FkY2FzdGx2LmNoYXQuYmlsaWJpbGkuY29tIiwgInBhdGgiOiAiLyIsICJ0bHMiOiAiIn0=
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.121.43.71:8091#EUA
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.68.135.18:8888#EUA
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.154.136.132:5000#EUA
+vmess://eyJhZGQiOiAiMDk4NmZjY2Etc3dxMXMwLXN3c21raC0xczBhNy5oZ2MxLnRjcGJici5uZXQiLCAidiI6ICIyIiwgInBzIjogIkhvbmcgS29uZyIsICJwb3J0IjogODA4MCwgImlkIjogIjFiOWM0NjBlLWYwMjYtMTFlZi1iNzM3LWYyM2M5MWNmYmJjOSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJicm9hZGNhc3Rsdi5jaGF0LmJpbGliaWxpLmNvbSIsICJwYXRoIjogIi8iLCAidGxzIjogIiJ9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowUnNyY0ZKMXZPc1dFcWczUDU1aHZhYWNLZnVTaFQwY2MxaDB0OEFEME5BOHUxdVI=@92.38.171.215:31348#Espanha
+vmess://eyJhZGQiOiAibTExc0VSRkdILjQ1OS5wUC51QSIsICJ2IjogIjIiLCAicHMiOiAiRVVBIiwgInBvcnQiOiA0NDMsICJpZCI6ICIwYTI4YjQyMC00ZjdjLTQzYWQtYTI5ZS04MDA2OGNlMDgyNjMiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAibTExc2VyZmdoLjQ1OS5wcC51YSIsICJwYXRoIjogIi9saFU4U2hzb1BabHVsbm5ZUGI4NmNzcCIsICJ0bHMiOiAidGxzIn0=
+trojan://OLq0FfOlp7@141.227.160.88:1935?sni=x1-sweden-ovh-v2.devefun.net#Fran%C3%A7a
+trojan://installshield@38.180.249.177:8443?sni=38.180.249.177#Holanda
+trojan://3lSlAcxDSNpeKOyZ3pIlyYRC7328C3X93Aa8SFOgDX4D7An0zYSRDRuaRE8lCpCASE6Bu@154.17.25.96:443?sni=theory.wireshop.net&allowInsecure=1&fp=chrome#EUA
+vmess://eyJhZGQiOiAiOGJiOTgxYzEtc3dxMXMwLXN4OWI0dS0xc2Q4ei5oZ2MxLnRjcGJici5uZXQiLCAidiI6ICIyIiwgInBzIjogIkhvbmcgS29uZyIsICJwb3J0IjogODA4MCwgImlkIjogIjg2MWI1Njg0LTA2MmMtMTFmMC04ZWIwLWYyM2M5MTY0Y2E1ZCIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIvIiwgInRscyI6ICIifQ==
 ```
 <h5>O endereço de assinatura permanente do nó superior (parte): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_pt-BR</h5>
  <p>Código QR do endereço de assinatura acima</p>
