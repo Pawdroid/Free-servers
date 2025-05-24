@@ -35,13 +35,12 @@
 <h4>Node list: (Only some nodes are shown here, please download the app to view all nodes)</h4>
     
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMY2MxbHc4SVAyS0k=@77.91.103.73:443#Finland
-trojan://508a5202-d450-42d2-a74c-9326dcda8b63@172.67.137.6:443?sni=SsSxderT.fREevPnatM.Dpdns.ORG&allowInsecure=1&type=ws&path=%2FdDWfJuXDH50Q7a7NsRZbl4sVHqtMKS&host=SsSxderT.fREevPnatM.Dpdns.ORG&fp=chrome#United+States
-vmess://eyJhZGQiOiAiNDYuMjUwLjI0My41NiIsICJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIEtpbmdkb20iLCAicG9ydCI6IDUwMzk0LCAiaWQiOiAiYTc1ZjNmOTUtYWQ0ZS00NDk4LWZjNzItZGQ3NDBkZDAyYmZjIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJ3d3cuc3BlZWR0ZXN0Lm5ldCIsICJwYXRoIjogIiIsICJ0bHMiOiAiIn0=
-trojan://klZqKyxq0H@57.128.165.173:1935?sni=x1-england-ovh-v2.devefun.net#France
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwVjVCQXpxTFpvc09mdUlya3lvYWRU@5.181.21.194:18660#Austria
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.143.66.87:5000#United+States
-vmess://eyJhZGQiOiAiNTcuMTI5LjI4LjY5IiwgInYiOiAiMiIsICJwcyI6ICJGcmFuY2UiLCAicG9ydCI6IDQ0MywgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJiYXJhZGloYS5jb20iLCAicGF0aCI6ICIvbGlua3Z3cyIsICJ0bHMiOiAidGxzIn0=
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.158.171.146:8080#United+States
+ss://YWVzLTI1Ni1nY206N0JjTGRzTzFXd2VvR0QwWA==@193.243.147.128:40368#France
+trojan://53249200-30ff-436f-a032-0bb00605f8f9@104.21.24.172:443?sni=3derty.852224.dpdns.org&allowInsecure=1&type=ws&path=%2FYPTDHLX8qjvTU5JqXZxjQ5ILc&host=3derty.852224.dpdns.org&fp=chrome#United+States
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.195:443#United+Kingdom
+vmess://eyJ2IjogIjIiLCAicHMiOiAiSG9uZyBLb25nIiwgImFkZCI6ICI3YjVkNjcwYy1zdzF6NDAtc3dqYmhlLThiZW0uaGdjMS50Y3BiYnIubmV0IiwgInBvcnQiOiAiODA4MCIsICJ0eXBlIjogIm5vbmUiLCAiaWQiOiAiY2E1MDZlMDgtY2UzZC01ZTVhLWMxMjgtNjM1OGNhY2ExNWU1IiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi8iLCAiaG9zdCI6ICJicm9hZGNhc3Rsdi5jaGF0LmJpbGliaWxpLmNvbSIsICJ0bHMiOiAiIn0=
+vmess://eyJhZGQiOiAiMTAxLjk5LjkxLjIzNCIsICJ2IjogIjIiLCAicHMiOiAiTWFsYXlzaWEiLCAicG9ydCI6IDM2NzAwLCAiaWQiOiAiMTI3ZmY0M2MtMTg1MS00YjJkLWJhOGMtNmFmYmEyMWVjMDRkIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIiLCAidGxzIjogIiJ9
 ```
 <h5>Permanent subscription address of the node above (part): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_en</h5>
 <p>QR code of the subscription address above</p>

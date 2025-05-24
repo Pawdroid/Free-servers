@@ -35,13 +35,12 @@
  <h4>Danh sách nút: (Chỉ hiển thị một số nút ở đây, vui lòng tải xuống ứng dụng để xem tất cả các nút)</h4>
     
 ```
-vmess://eyJhZGQiOiAiMi41Ni4xMjYuMTAzIiwgInYiOiAiMiIsICJwcyI6ICJOb3J3YXkiLCAicG9ydCI6IDMzNTc5LCAiaWQiOiAiMmViM2VlMmEtN2JmOC00YjUwLTliOTMtMmQ0ODlkMmYzNDU2IiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIiLCAidGxzIjogIiJ9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMzgzNzIyNGVkNDY1ZjAw@45.144.48.63:57456#Poland
-trojan://e6a2e741-0fce-440b-910c-b81325e2263a@bats-paper-chump.stark-industries.solutions:443?sni=bats-paper-chump.stark-industries.solutions#United+States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.126.239.250:990#Russia
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.121.43.71:5004#United+States
-vmess://eyJhZGQiOiAiMTAxLjk5LjkxLjIzNCIsICJ2IjogIjIiLCAicHMiOiAiTWFsYXlzaWEiLCAicG9ydCI6IDM2NzAwLCAiaWQiOiAiMTI3ZmY0M2MtMTg1MS00YjJkLWJhOGMtNmFmYmEyMWVjMDRkIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIiLCAidGxzIjogIiJ9
-trojan://telegram-id-directvpn@52.47.166.120:22223?sni=trojan.burgerip.co.uk#France
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.68.135.18:8000#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpydFI0WVg3NHZ3cVJKdTlNR0gzZTFOM0NRZEdNV0NVRmt5TGlzaWppRnV2aGtVOU1jVjVUcHlnZmtlcm5KNFVRZTYzSnRjRFFrclE5SGZjaHpxUXoxa0xDblRSb3I4amc=@166.1.157.228:55330#United+States
+trojan://e6a2e741-0fce-440b-910c-b81325e2263a@94.131.20.3:443?sni=cache-giver-wife.stark-industries.solutions#United+States
+trojan://pqlnPNu423@57.129.89.172:1935?sni=x1-germany-ovh-v2.devefun.net#France
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.138:8080#The+Netherlands
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@ca225.vpnbook.com:80#Canada
 ```
 <h5>Địa chỉ đăng ký vĩnh viễn của nút trên (một phần): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_vi</h5>
  <p>Mã QR cho địa chỉ đăng ký ở trên</p>
