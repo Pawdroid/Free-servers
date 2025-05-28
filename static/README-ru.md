@@ -35,12 +35,12 @@
  <h4>Список узлов: (здесь показаны только некоторые узлы. Загрузите приложение, чтобы просмотреть все узлы)</h4>
     
 ```
-vmess://eyJhZGQiOiAid3d3LnZpc2EuY29tLnR3IiwgInYiOiAiMiIsICJwcyI6ICJcdTA0MjFcdTA0MjhcdTA0MTAiLCAicG9ydCI6IDQ0MywgImlkIjogImQwZWIwZjZmLTY4YTgtNGVjZS1jMzNmLTczYzVkNzFhYzNhMyIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJrdC1pY24tMi5lY3AuZHBkbnMub3JnIiwgInBhdGgiOiAiL3plZHdhcmUtbmV0d29yay9rb3JlYS10ZWxlY29tLz9lZD0yNTYwIiwgInRscyI6ICJ0bHMifQ==
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@uk-dc1.yangon.club:443#%D0%91%D1%80%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D1%8F
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.170:443#%D0%A1%D0%A8%D0%90
-ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@38.110.1.88:5499#%D0%A1%D0%A8%D0%90
-trojan://e6a2e741-0fce-440b-910c-b81325e2263a@bats-paper-chump.stark-industries.solutions:443?sni=bats-paper-chump.stark-industries.solutions#%D0%A1%D0%A8%D0%90
-vmess://eyJhZGQiOiAiNTcuMTI5LjI1LjIwIiwgInYiOiAiMiIsICJwcyI6ICJcdTA0MjRcdTA0NDBcdTA0MzBcdTA0M2RcdTA0NDZcdTA0MzhcdTA0NGYiLCAicG9ydCI6IDQ0MywgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsICJhaWQiOiAiMSIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICI1Ny4xMjkuMjUuMjAiLCAicGF0aCI6ICJsaW5rdndzIiwgInRscyI6ICJ0bHMifQ==
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.121.43.71:8882#%D0%A1%D0%A8%D0%90
+vmess://eyJhZGQiOiAiODQuMjQ3LjE0OS43NyIsICJ2IjogIjIiLCAicHMiOiAiXHUwNDI0XHUwNDIwXHUwNDEzIiwgInBvcnQiOiA0NzIxMSwgImlkIjogImZiNjc0MjYwLTFjMjEtNGY5OS04YmQwLTNkMWQzNDFjNjc3MSIsICJhaWQiOiAiMCIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiIiwgInRscyI6ICIifQ==
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.121.43.71:443#%D0%A1%D0%A8%D0%90
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.121.43.71:5004#%D0%A1%D0%A8%D0%90
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.181:8080#%D0%9B%D0%B8%D1%82%D0%B2%D0%B0
+vmess://eyJhZGQiOiAidGxzLjIwLm5vZGUtZm9yLWJpZ2FpcnBvcnQud2luIiwgInYiOiAiMiIsICJwcyI6ICJcdTA0MTNcdTA0M2VcdTA0M2RcdTA0M2FcdTA0M2VcdTA0M2RcdTA0MzMiLCAicG9ydCI6IDQ0NDQzLCAiaWQiOiAiNWFjODIyNGYtNjEyNi00ZmZiLTlmYWQtOTdlMzIwN2Y4YzMzIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJ0bHMuMjAubm9kZS1mb3ItYmlnYWlycG9ydC53aW4iLCAicGF0aCI6ICIiLCAidGxzIjogIiJ9
 ```
 <h5>Адрес постоянной подписки верхнего узла (части): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ru</h5>
  <p>QR-код для адреса подписки выше</p>
