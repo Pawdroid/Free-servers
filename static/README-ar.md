@@ -35,11 +35,11 @@
  <h4>قائمة العقد: (يتم عرض بعض العقد فقط هنا، يرجى تنزيل التطبيق لعرض جميع العقد)</h4>
     
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpucTk2S2Z0clpBajNMdUZRRVNxbW40NE1vNW9DdW8yY2lwb0VzYWUyNW1ybUhHMm9KNFZUMzdzY0JmVkJwTjVEV3RVRUxadXRWaGhYczhMZTVCOGZaOWhMbjl5dHd2YmY=@208.67.105.87:42501#The+Netherlands
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@uk-dc1.yangon.club:443#United+Kingdom
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.62.163:443#Switzerland
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxWHZPN3pZVTdLZWFCME1kN0RRTG93@51.195.119.47:1080#France
-vmess://eyJhZGQiOiAidGxzLjIwLm5vZGUtZm9yLWJpZ2FpcnBvcnQud2luIiwgInYiOiAiMiIsICJwcyI6ICJKYXBhbiIsICJwb3J0IjogNTQ0NDMsICJpZCI6ICI1YWM4MjI0Zi02MTI2LTRmZmItOWZhZC05N2UzMjA3ZjhjMzMiLCAiYWlkIjogIjAiLCAibmV0IjogInRjcCIsICJ0eXBlIjogIiIsICJob3N0IjogInRscy4yMC5ub2RlLWZvci1iaWdhaXJwb3J0LndpbiIsICJwYXRoIjogIiIsICJ0bHMiOiAiIn0=
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.202:8080#The+Netherlands
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@103.104.247.47:8080#The+Netherlands
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.195:443#United+Kingdom
+vmess://eyJhZGQiOiAiQzFzd0V3Ljc3NzE1OS5YWVoiLCAidiI6ICIyIiwgInBzIjogIlVuaXRlZCBTdGF0ZXMiLCAicG9ydCI6IDgwLCAiaWQiOiAiY2FkNWE0OWYtMTRlNS00YTA1LWFhZTktYzVkZjhmYWQzOTRmIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIi9UalV6V3lSbVI0UDJmR3FYRU53NFo0IiwgInRscyI6ICIifQ==
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.62.164:443#Switzerland
 ```
 <h5>عنوان الاشتراك الدائم للعقدة العليا (جزء): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ar</h5>
  <p>رمز الاستجابة السريعة لعنوان الاشتراك أعلاه</p>

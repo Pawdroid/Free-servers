@@ -35,11 +35,11 @@
  <h4>Список узлов: (здесь показаны только некоторые узлы. Загрузите приложение, чтобы просмотреть все узлы)</h4>
     
 ```
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.143.66.87:5000#%D0%A1%D0%A8%D0%90
-trojan://OLq0FfOlp7@141.227.160.88:1935?sni=x1-sweden-ovh-v2.devefun.net#%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D1%8F
-vmess://eyJhZGQiOiAiNDU3YTE0OTItc3Y0bjQwLXQ2a3picC0xaDV1Ny5oazMucDVwdi5jb20iLCAidiI6ICIyIiwgInBzIjogIlx1MDQxM1x1MDQzZVx1MDQzZFx1MDQzYVx1MDQzZVx1MDQzZFx1MDQzMyIsICJwb3J0IjogODAsICJpZCI6ICJlM2ZkYmQyMi04YzE3LTExZWUtYWNlNC1mMjNjOTEzYzhkMmIiLCAiYWlkIjogIjIiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiYnJvYWRjYXN0bHYuY2hhdC5iaWxpYmlsaS5jb20iLCAicGF0aCI6ICIvIiwgInRscyI6ICIifQ==
-vmess://eyJhZGQiOiAiMDU1NDEzZTktc3VjdjQwLXRleHN1ZC0xbDZ5bS5oay5wNXB2LmNvbSIsICJ2IjogIjIiLCAicHMiOiAiXHUwNDEzXHUwNDNlXHUwNDNkXHUwNDNhXHUwNDNlXHUwNDNkXHUwNDMzIiwgInBvcnQiOiA4MCwgImlkIjogImI3MjAwOWFhLWVkODgtMTFlZC05MmE0LWYyM2M5MWNmYmJjOSIsICJhaWQiOiAiMiIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJicm9hZGNhc3Rsdi5jaGF0LmJpbGliaWxpLmNvbSIsICJwYXRoIjogIi8iLCAidGxzIjogIiJ9
-trojan://zsu4Mq3A9J@51.195.254.75:8443?sni=uk-02.allhubb.info#%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D1%8F
+vmess://eyJhZGQiOiAiZ292LnVrIiwgInYiOiAiMiIsICJwcyI6ICJcdTA0MjFcdTA0MjhcdTA0MTAiLCAicG9ydCI6IDQ0MywgImlkIjogIjc3ODQ4ODI0LTkzYjctNGI4OS1mZmQwLWU5MWFmZmY0MDZjZSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJ6aGVzaGlzY3AuY29tIiwgInBhdGgiOiAiLzc3ODQ4ODI0IiwgInRscyI6ICJ0bHMifQ==
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMzgzNzIyNGVkNDY1ZjAw@war.ssvpnapp.win:57456#%D0%9F%D0%BE%D0%BB%D1%8C%D1%88%D0%B0
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvamNQMzZuMVNvdURjbkJnOUVPWlA4@9.163.232.180:1490#%D0%A1%D0%A8%D0%90
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.121.43.71:5601#%D0%A1%D0%A8%D0%90
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.154.136.132:5601#%D0%A1%D0%A8%D0%90
 ```
 <h5>Адрес постоянной подписки верхнего узла (части): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ru</h5>
  <p>QR-код для адреса подписки выше</p>

@@ -35,11 +35,11 @@
  <h4>نوڈ کی فہرست: (یہاں صرف کچھ نوڈس دکھائے گئے ہیں، براہ کرم تمام نوڈس دیکھنے کے لیے ایپ ڈاؤن لوڈ کریں)</h4>
     
 ```
-ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@38.143.66.87:9102#United+States
-vmess://eyJhZGQiOiAiNDYuMjUwLjIzNy4xOTYiLCAidiI6ICIyIiwgInBzIjogIlVuaXRlZCBLaW5nZG9tIiwgInBvcnQiOiAyOTk5OSwgImlkIjogImIzMWZjMTM0LTk3OGUtNDE3Ni04NTc5LTgxMDdkNmEwY2VkZSIsICJhaWQiOiAiMCIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiIiwgInRscyI6ICIifQ==
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.121.43.71:3389#United+States
-vmess://eyJhZGQiOiAieHNjZGRkZnI1Ljk5OTgyMC54eXoiLCAidiI6ICIyIiwgInBzIjogIlVuaXRlZCBTdGF0ZXMiLCAicG9ydCI6IDgwLCAiaWQiOiAiOTBmMzU3ZGQtNzlhYy00N2M2LWIwYjgtOTU4ZTJkMTlkZTA3IiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIi8xMFc2U0phSzBGMG9WWGVOVTZTMlJWUlAiLCAidGxzIjogIiJ9
-vmess://eyJhZGQiOiAiNTEuNzkuODYuMTgyIiwgInYiOiAiMiIsICJwcyI6ICJDYW5hZGEiLCAicG9ydCI6IDQyNjEwLCAiaWQiOiAiZTA5NTdjYTYtZjYxMy00MDE3LWZmM2MtZWZmZDFkYTg4NzFhIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIiLCAidGxzIjogIiJ9
+trojan://FiSo7J6vfS@51.68.13.106:1935?sni=x1fr-ovh.devefun.net#France
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1UVM1bnRWcUMwMHNTS2tlTnpVaUQz@89.23.103.125:42090#The+Netherlands
+vmess://eyJhZGQiOiAiMjMuMTU4LjU2LjI0MSIsICJ2IjogIjIiLCAicHMiOiAiR2VybWFueSIsICJwb3J0IjogNDQzLCAiaWQiOiAiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogIndybWVsbXd4bGYuZ2t0ZXZscnF6bndxcW96eS5mYWJwZnM2Nmdpem1ub2poY3ZxeHdsLmt5dHJjZnpxbGE4N2d2Z3ZzNmM3a2pucnVidWguY2MiLCAicGF0aCI6ICIvbGlua3Z3cyIsICJ0bHMiOiAidGxzIn0=
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@181.119.30.20:990#Colombia
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@23.154.136.51:8118#United+States
 ```
 <h5>اوپری نوڈ کا مستقل رکنیت کا پتہ (حصہ): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ur-PK</h5>
  <p>اوپر سبسکرپشن ایڈریس کے لیے QR کوڈ</p>
