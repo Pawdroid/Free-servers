@@ -35,11 +35,11 @@
  <h4>Список узлов: (здесь показаны только некоторые узлы. Загрузите приложение, чтобы просмотреть все узлы)</h4>
     
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.158.171.132:8080#%D0%A1%D0%A8%D0%90
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.68.135.18:8118#%D0%A1%D0%A8%D0%90
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.197:443#%D0%91%D1%80%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D1%8F
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.121.43.97:5500#%D0%A1%D0%A8%D0%90
-trojan://telegram-id-privatevpns@52.47.93.214:22222?security=tls&sni=trojan.burgerip.co.uk#%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D1%8F
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSaVB1S0pKbDE4Wmd2THBUald4QndTZktpUGt0OWd6Rkt5eEdDWThlSHRPY0RiMlg=@5.189.201.250:31348#%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F
+ss://YWVzLTEyOC1nY206Nzk3Mzk4MzItYjg4OC00MTVhLWE0NTQtOGI1MzkxMWM5NDRh@vps.200566.xyz:30332#%D0%A2%D0%B0%D0%B9%D0%B2%D0%B0%D0%BD%D1%8C
+vmess://eyJhZGQiOiAiMTcyLjY3LjE5My41MCIsICJ2IjogIjIiLCAicHMiOiAiXHUwNDIxXHUwNDI4XHUwNDEwIiwgInBvcnQiOiA4NDQzLCAiaWQiOiAiNTdlNTk1ZTYtZWY1NC00ZTBkLWI4ZGYtZTk2ZGI5NjEyYjk5IiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogIm9ydnBzMi5ob3JzZW5tYS5uZXQiLCAicGF0aCI6ICIvaG9yc2VuIiwgInRscyI6ICJ0bHMifQ==
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@92.118.205.228:990#%D0%9F%D0%BE%D0%BB%D1%8C%D1%88%D0%B0
+vmess://eyJhZGQiOiAiZjcyNzM4ZDItc3YweHMwLXRjMnNvZC0xdGl6by5oazMucDVwdi5jb20iLCAidiI6ICIyIiwgInBzIjogIlx1MDQxM1x1MDQzZVx1MDQzZFx1MDQzYVx1MDQzZVx1MDQzZFx1MDQzMyIsICJwb3J0IjogODAsICJpZCI6ICJiZjM2MjI3Yy0wMTkxLTExZjAtYWVlMS1mMjNjOTFjZmJiYzkiLCAiYWlkIjogIjIiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiYnJvYWRjYXN0bHYuY2hhdC5iaWxpYmlsaS5jb20iLCAicGF0aCI6ICIvIiwgInRscyI6ICIifQ==
 ```
 <h5>Адрес постоянной подписки верхнего узла (части): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ru</h5>
  <p>QR-код для адреса подписки выше</p>

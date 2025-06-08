@@ -35,11 +35,11 @@
 <h4>Node list: (Only some nodes are shown here, please download the app to view all nodes)</h4>
     
 ```
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.68.135.18:3389#United+States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpydFI0WVg3NHZ3cVJKdTlNR0gzZTFOM0NRZEdNV0NVRmt5TGlzaWppRnV2aGtVOU1jVjVUcHlnZmtlcm5KNFVRZTYzSnRjRFFrclE5SGZjaHpxUXoxa0xDblRSb3I4amc=@166.1.157.228:55330#United+States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.178:8080#Lithuania
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.81:443#United+Kingdom
-vmess://eyJhZGQiOiAiMi41Ni4xMjUuMTAxIiwgInYiOiAiMiIsICJwcyI6ICJJdGFseSIsICJwb3J0IjogMzgwODgsICJpZCI6ICIxMjc1ZWExOC1iYzljLTRiY2ItYjNmZC1mZWU3MDI3MmUxNDMiLCAiYWlkIjogIjAiLCAibmV0IjogInRjcCIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAiIn0=
+vmess://eyJhZGQiOiAiMzlmNGRlYjAtc3YweHMwLXQ0NnNoZS01aWZyLmhrMy5wNXB2LmNvbSIsICJ2IjogIjIiLCAicHMiOiAiSG9uZyBLb25nIiwgInBvcnQiOiA4MCwgImlkIjogImVjZmFiNmM4LWRmNWItMTFlZC05OGE3LWYyM2M5MTNjOGQyYiIsICJhaWQiOiAiMiIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJicm9hZGNhc3Rsdi5jaGF0LmJpbGliaWxpLmNvbSIsICJwYXRoIjogIi8iLCAidGxzIjogIiJ9
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.68.135.18:5500#United+States
+vmess://eyJ2IjogIjIiLCAicHMiOiAiSG9uZyBLb25nIiwgImFkZCI6ICIxNTQuMjA5LjQuMjMzIiwgInBvcnQiOiAzNTk5MSwgImlkIjogImEwMjZjZDgxLTFlZTUtNDkwOC04YjJiLTAxMDcxN2E2MGQzZSIsICJ0eXBlIjogIiIsICJhaWQiOiAwLCAibmV0IjogInRjcCIsICJ0bHMiOiAiIn0=
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@139.59.119.143:443?sni=connectwithemployers.online#Singapore
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@beesyar.org:8080#Lithuania
 ```
 <h5>Permanent subscription address of the node above (part): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_en</h5>
 <p>QR code of the subscription address above</p>

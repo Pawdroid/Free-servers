@@ -35,11 +35,11 @@
  <h4>Knotenliste: (Hier werden nur einige Knoten angezeigt. Bitte laden Sie die App herunter, um alle Knoten anzuzeigen.)</h4>
     
 ```
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.154.136.132:5000#USA
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.121.43.71:8882#USA
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWEdwMStpaGxmS2c4MjZI@172.233.128.126:1866#USA
-vmess://eyJhZGQiOiAiNDUuMTIuMTM4LjQ3IiwgInYiOiAiMiIsICJwcyI6ICJTY2h3ZWRlbiIsICJwb3J0IjogMjI4MzksICJpZCI6ICIyODU4YTQwNC1kMGNhLTRkNjctODBhNi1jZThlOTVlMzgzZmYiLCAiYWlkIjogIjAiLCAibmV0IjogInRjcCIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAiIn0=
-trojan://15b24b56-d667-4fa8-b548-f3dc942fb461@104.21.15.232:443?sni=ab2c7f0b-bf1b-4eb3-9884-256f4de3d.2030.pp.ua&type=ws&path=%2F4p35eUnmGxQ8YJFJxz&host=ab2c7f0b-bf1b-4eb3-9884-256f4de3d.2030.pp.ua#USA
+vmess://eyJhZGQiOiAiYTU4YjRjMjktc3Y0bjQwLXN5Zmo5MC0xcjlkdC5oazMucDVwdi5jb20iLCAidiI6ICIyIiwgInBzIjogIkhvbmdrb25nIiwgInBvcnQiOiA4MCwgImlkIjogImRlMDAzYzcyLTAxNTctMTFlZi04NmRhLWYyM2M5MWNmYmJjOSIsICJhaWQiOiAiMiIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJicm9hZGNhc3Rsdi5jaGF0LmJpbGliaWxpLmNvbSIsICJwYXRoIjogIi8iLCAidGxzIjogIiJ9
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.198:443#UK
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.154.136.132:5601#USA
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2SVZPdXpNZkg1Uk9wZ3d0UlRjTkpLWUp2WWU5RkRWYVU3d0FZWWg4UFJMeHhaczY=@188.191.147.127:31348#Israel
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.121.43.97:8119#USA
 ```
 <h5>Die permanente Abonnementadresse des oberen Knotens (Teil): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_de</h5>
  <p>QR-Code für die Abonnementadresse oben</p>
