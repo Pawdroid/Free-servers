@@ -35,12 +35,12 @@
  <h4>Список узлов: (здесь показаны только некоторые узлы. Загрузите приложение, чтобы просмотреть все узлы)</h4>
     
 ```
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.68.135.18:5500#%D0%A1%D0%A8%D0%90
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.68.135.18:5003#%D0%A1%D0%A8%D0%90
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHUwNDEzXHUwNDNlXHUwNDNkXHUwNDNhXHUwNDNlXHUwNDNkXHUwNDMzIiwgImFkZCI6ICI4ZjY3MjQ0Yy1zeGxqNDAtdDdyNnc1LTFwcHZmLmhnYzEudGNwYmJyLm5ldCIsICJwb3J0IjogODA4MCwgImlkIjogIjhkYTU2MTZjLTg1NjYtMTFlZS05YTIxLWYyM2M5MTY0Y2E1ZCIsICJ0eXBlIjogIiIsICJhaWQiOiAwLCAibmV0IjogIndzIiwgInRscyI6ICIiLCAicGF0aCI6ICIvIiwgImhvc3QiOiAiYnJvYWRjYXN0bHYuY2hhdC5iaWxpYmlsaS5jb20ifQ==
-trojan://Ng35283528@gozargah5.cloudflare3-80.hosting-ip.com:443?allowInsecure=1&sni=c2.validbv3528.eu.org&type=ws&host=c2.validbv3528.eu.org&path=/?ed=2560#%D0%A1%D0%A8%D0%90
-trojan://3482c71a-d01c-4ae5-b454-fa8cb3785f66@146.19.106.154:443?sni=both-cramp-banjo.stark-industries.solutions#%D0%9A%D0%B0%D0%BD%D0%B0%D0%B4%D0%B0
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.154.136.51:8888#%D0%A1%D0%A8%D0%90
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.121.43.71:7001#%D0%A1%D0%A8%D0%90
+vmess://eyJhZGQiOiAiMzAzM2JlNDUtc3dxMXMwLXN4a2hheS0xamRoYS5oZ2MxLnRjcGJici5uZXQiLCAidiI6ICIyIiwgInBzIjogIlx1MDQxM1x1MDQzZVx1MDQzZFx1MDQzYVx1MDQzZVx1MDQzZFx1MDQzMyIsICJwb3J0IjogODA4MCwgImlkIjogImRlNjI5ZDUwLTE3MTEtMTFlZC1iZDdjLWYyM2M5MTNjOGQyYiIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJicm9hZGNhc3Rsdi5jaGF0LmJpbGliaWxpLmNvbSIsICJwYXRoIjogIi8iLCAidGxzIjogIiJ9
+vmess://eyJhZGQiOiAieGNkdmZycjU0Ljk5OTgyMC54eXoiLCAidiI6ICIyIiwgInBzIjogIlx1MDQyMVx1MDQyOFx1MDQxMCIsICJwb3J0IjogODAsICJpZCI6ICI5MGYzNTdkZC03OWFjLTQ3YzYtYjBiOC05NThlMmQxOWRlMDciLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiLzEwVzZTSmFLMEYwb1ZYZU5VNlMyUlZSUCIsICJ0bHMiOiAiIn0=
+vmess://eyJhZGQiOiAiMTA0LjIxLjIzLjIzMSIsICJ2IjogIjIiLCAicHMiOiAiXHUwNDIxXHUwNDI4XHUwNDEwIiwgInBvcnQiOiAyMDgyLCAiaWQiOiAiMmY4MjExNTItYzNlOS00MDc0LTkxODUtMjc5MGU3NDI1ZjQyIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogImNzLmZsaGEucnUiLCAicGF0aCI6ICIvIiwgInRscyI6ICIifQ==
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvMzh5dXZ6U2UzbTVhRE5wSHRVUEgxekd3YkdFWFhNRHNHd1ZhdWIyU1lFbUhVYTJXR1pVamllelgzVnZ2YTlDQ3pwanhZdHVKTGdLc1Nuc3lLQmY5Y2lQVmJhM3k0bzM=@beta.mattenadene.org:54075#%D0%A1%D0%A8%D0%90
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@38.121.43.71:8008#%D0%A1%D0%A8%D0%90
 ```
 <h5>Адрес постоянной подписки верхнего узла (части): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ru</h5>
  <p>QR-код для адреса подписки выше</p>
