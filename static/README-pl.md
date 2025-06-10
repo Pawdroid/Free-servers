@@ -35,12 +35,12 @@
  <h4>Lista węzłów: (wyświetlane są tutaj tylko niektóre węzły. Pobierz aplikację, aby wyświetlić wszystkie węzły)</h4>
     
 ```
-ss://YWVzLTI1Ni1nY206VEc6QEVua2VsdGVfbm90aWYmJlRHOkBOb3RpZl9DaGF0@116.206.124.41:34045#Thailand
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@38.143.66.87:6379#United+States
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.197:443#United+Kingdom
 ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.68.135.18:7306#United+States
-vmess://eyJhZGQiOiAiMTUuMjA0LjExLjE5MCIsICJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJwb3J0IjogMTUzNjEsICJpZCI6ICI1ZDdiZjllMy00MTVjLTQwZjMtYzY2ZC1hNTRlYTBmZDg2MGUiLCAiYWlkIjogIjAiLCAibmV0IjogInRjcCIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAiIn0=
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1UVM1bnRWcUMwMHNTS2tlTnpVaUQz@89.23.103.125:42090#The+Netherlands
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@ca225.vpnbook.com:80#Canada
+ss://YWVzLTI1Ni1nY206VEc6QEVua2VsdGVfbm90aWYmJlRHOkBOb3RpZl9DaGF0@116.206.124.41:34045#Thailand
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.121.43.71:2376#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.126.239.250:990#Russia
+vmess://eyJhZGQiOiAieGItdm0tdXMuNzE4MTgxLnh5eiIsICJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJwb3J0IjogMTM3NTYsICJpZCI6ICIyYTViNmVlYi1iZDkyLTRmNDctOGQ4Mi03NDkwMWFhN2NjMjAiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAibWluaXBrZy5kaW5ndGFsay5jb20iLCAicGF0aCI6ICIvIiwgInRscyI6ICIifQ==
 ```
 <h5>Stały adres subskrypcji górnego węzła (część): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_pl</h5>
  <p>Kod QR dla adresu subskrypcji powyżej</p>
