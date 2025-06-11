@@ -35,12 +35,12 @@
  <h4>Danh sách nút: (Chỉ hiển thị một số nút ở đây, vui lòng tải xuống ứng dụng để xem tất cả các nút)</h4>
     
 ```
-vmess://eyJhZGQiOiAiNGRiMGM0NjQtc3VlcHMwLXN4cnRtZi0xa3d3NS5oay5wNXB2LmNvbSIsICJ2IjogIjIiLCAicHMiOiAiSG9uZyBLb25nIiwgInBvcnQiOiA4MCwgImlkIjogIjU2YjcxODBjLTI1NDUtMTFlZS1iOTczLWYyM2M5MTNjOGQyYiIsICJhaWQiOiAiMiIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICI0ZGIwYzQ2NC1zdWVwczAtc3hydG1mLTFrd3c1LmhrLnA1cHYuY29tIiwgInBhdGgiOiAiLyIsICJ0bHMiOiAiIn0=
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.181:8080#Lithuania
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.121.43.71:5000#United+States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.65:8080#Lithuania
-vmess://eyJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJhZGQiOiAidXMwMS5zaC1jbG91ZGZsYXJlLnNicyIsICJwb3J0IjogODQ0MywgImlkIjogImRkYTAzN2QzLTE4OWYtNDY5Zi1hNjU3LTc2MThiZTM0YmVlOCIsICJ0eXBlIjogIiIsICJhaWQiOiAwLCAibmV0IjogIndzIiwgInRscyI6ICJ0bHMiLCAic25pIjogInVzMDEuc2gtY2xvdWRmbGFyZS5zYnMiLCAicGF0aCI6ICIvIiwgImhvc3QiOiAidXMwMS5zaC1jbG91ZGZsYXJlLnNicyJ9
-vmess://eyJhZGQiOiAidGNpMi50aWFtb2NpLnVzLmtnIiwgInYiOiAiMiIsICJwcyI6ICJVbml0ZWQgU3RhdGVzIiwgInBvcnQiOiA4MDgwLCAiaWQiOiAiNWNiYjljOWYtYTdhYS00OTI2LTg0NGMtMjFlNDM0OWZjNjkzIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogInRjaTIudGlhbW9jaS51cy5rZyIsICJwYXRoIjogIi8iLCAidGxzIjogIiJ9
+trojan://19a78eeb-d83a-4364-b095-b7dd93436320@104.21.32.1:443?sni=xxXCDdDfR4.222569.Xyz&type=ws&path=%2FHq0I4JMuzO0WLijID&host=xxXCDdDfR4.222569.Xyz&alpn=http%2F1.1&fp=chrome#United+States
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@38.121.43.71:8009#United+States
+vmess://eyJhZGQiOiAiOGFmYjAyNDAtc3YweHMwLXN4aTRuZC0xbzZmbS5oazMucDVwdi5jb20iLCAidiI6ICIyIiwgInBzIjogIkhvbmcgS29uZyIsICJwb3J0IjogODAsICJpZCI6ICJlMDNkZjZmYy05N2U4LTExZWUtYmU3Zi1mMjNjOTE2NGNhNWQiLCAiYWlkIjogIjIiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiYnJvYWRjYXN0bHYuY2hhdC5iaWxpYmlsaS5jb20iLCAicGF0aCI6ICIvIiwgInRscyI6ICIifQ==
+trojan://d6b8011a-c725-435a-9fec-bf6d3530392c@154.83.2.54:2096?sni=vle.amclubsvip.dpdns.org&allowInsecure=1&type=ws&path=%2F%3Fed%3D2560%26PROT_TYPE%3Dtrojan&host=vle.amclubsvip.dpdns.org&fp=chrome#Seychelles
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@beesyar.org:8080#United+States
+trojan://installshield@38.180.249.177:8443?sni=38.180.249.177#The+Netherlands
 ```
 <h5>Địa chỉ đăng ký vĩnh viễn của nút trên (một phần): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_vi</h5>
  <p>Mã QR cho địa chỉ đăng ký ở trên</p>
