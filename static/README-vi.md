@@ -35,12 +35,12 @@
  <h4>Danh sách nút: (Chỉ hiển thị một số nút ở đây, vui lòng tải xuống ứng dụng để xem tất cả các nút)</h4>
     
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOWQ3M2M4NGUzMmExMGYz@57.128.190.171:11259#France
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.198:443#United+Kingdom
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.58:8080#Lithuania
-vmess://eyJhZGQiOiAiQzFzd0V3Ljc3NzE1OS5YWVoiLCAidiI6ICIyIiwgInBzIjogIlVuaXRlZCBTdGF0ZXMiLCAicG9ydCI6IDgwLCAiaWQiOiAiY2FkNWE0OWYtMTRlNS00YTA1LWFhZTktYzVkZjhmYWQzOTRmIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIi9UalV6V3lSbVI0UDJmR3FYRU53NFo0IiwgInRscyI6ICIifQ==
-vmess://eyJhZGQiOiAieGItdm0tdXMuNzE4MTgxLnh5eiIsICJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJwb3J0IjogMTM3NTYsICJpZCI6ICIyYTViNmVlYi1iZDkyLTRmNDctOGQ4Mi03NDkwMWFhN2NjMjAiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAibWluaXBrZy5kaW5ndGFsay5jb20iLCAicGF0aCI6ICIvIiwgInRscyI6ICIifQ==
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpES3lSZG9xUUllYmRLWlZZczVHelc4@45.150.32.13:14628#United+Kingdom
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.121.43.27:443#United+States
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.68.135.18:8090#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvSE9QMWJXRk1rUVZ4M1BkYmhSbE9r@77.239.116.76:8315#United+Kingdom
+ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@23.154.136.51:5499#United+States
+vmess://eyJhZGQiOiAiODQuMjQ3LjE0OC4xOTIiLCAidiI6ICIyIiwgInBzIjogIkdlcm1hbnkiLCAicG9ydCI6IDQ0Mzk2LCAiaWQiOiAiM2NhMzVlMGEtZTQzMC00M2ZlLTljMTItMmUyZWVhNzBmODczIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIiLCAidGxzIjogIiJ9
+vmess://eyJhZGQiOiAiNjIuMTQ2LjIzMy42NiIsICJ2IjogIjIiLCAicHMiOiAiR2VybWFueSIsICJwb3J0IjogMTU4MjgsICJpZCI6ICI4YjljZjNkYy1jMjgyLTQyNGYtYTU5MC1jNDVjOWEzNmQzZjkiLCAiYWlkIjogIjAiLCAibmV0IjogInRjcCIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAiIn0=
 ```
 <h5>Địa chỉ đăng ký vĩnh viễn của nút trên (một phần): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_vi</h5>
  <p>Mã QR cho địa chỉ đăng ký ở trên</p>

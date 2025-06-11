@@ -35,12 +35,12 @@
  <h4>Lista węzłów: (wyświetlane są tutaj tylko niektóre węzły. Pobierz aplikację, aby wyświetlić wszystkie węzły)</h4>
     
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1UVM1bnRWcUMwMHNTS2tlTnpVaUQz@89.23.103.125:42090#The+Netherlands
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.121.43.71:8090#United+States
-ss://YWVzLTI1Ni1nY206VEc6QEVua2VsdGVfbm90aWYmJlRHOkBOb3RpZl9DaGF0@116.206.124.41:34045#Thailand
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.241:443#United+States
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@38.68.135.18:8009#United+States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpydFI0WVg3NHZ3cVJKdTlNR0gzZTFOM0NRZEdNV0NVRmt5TGlzaWppRnV2aGtVOU1jVjVUcHlnZmtlcm5KNFVRZTYzSnRjRFFrclE5SGZjaHpxUXoxa0xDblRSb3I4amc=@166.1.157.228:55330#United+States
+vmess://eyJhZGQiOiAiNDUuMTM3LjE1NS40NSIsICJ2IjogIjIiLCAicHMiOiAiVWtyYWluZSIsICJwb3J0IjogMTc2NDYsICJpZCI6ICI4MjczNDcyNC04YzA2LTRjMmUtOWNmZi1iMzQ3NzZmZTE3NTciLCAiYWlkIjogIjAiLCAibmV0IjogInRjcCIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAiIn0=
+vmess://eyJhZGQiOiAib3J2cHMyLmhvcnNlbm1hLm5ldCIsICJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJwb3J0IjogODQ0MywgImlkIjogIjU3ZTU5NWU2LWVmNTQtNGUwZC1iOGRmLWU5NmRiOTYxMmI5OSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJvcnZwczIuaG9yc2VubWEubmV0IiwgInBhdGgiOiAiL2hvcnNlbiIsICJ0bHMiOiAidGxzIn0=
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@38.68.135.18:9101#United+States
+trojan://zsu4Mq3A9J@51.195.254.75:8443?sni=uk-02.allhubb.info#France
+vmess://eyJhZGQiOiAiMTM1LjEyNS4xODIuNzQiLCAidiI6ICIyIiwgInBzIjogIkZyYW5jZSIsICJwb3J0IjogMjgyMTMsICJpZCI6ICI4MTg1Mjc3MS03NmZiLTRlOTQtZTRmMS00ZTM3YTY5OGE0OWEiLCAiYWlkIjogIjAiLCAibmV0IjogInRjcCIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAiIn0=
+vmess://eyJhZGQiOiAiNjYuOTQuMTE0LjEyMiIsICJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJwb3J0IjogNTM1MDMsICJpZCI6ICJjOWI5ZGVhMy01ODY4LTQ3N2YtZTU0ZC0yYzhmMTI0ZjY0N2QiLCAiYWlkIjogIjAiLCAibmV0IjogInRjcCIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAiIn0=
 ```
 <h5>Stały adres subskrypcji górnego węzła (część): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_pl</h5>
  <p>Kod QR dla adresu subskrypcji powyżej</p>

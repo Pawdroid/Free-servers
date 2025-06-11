@@ -35,12 +35,12 @@
  <h4>Lista de nós: (Apenas alguns nós são exibidos aqui, baixe o aplicativo para visualizar todos os nós)</h4>
     
 ```
-vmess://eyJhZGQiOiAiNS4xODAuMzAuODUiLCAidiI6ICIyIiwgInBzIjogIkVVQSIsICJwb3J0IjogMTg1OTgsICJpZCI6ICJiZjI2ZjJmYi05ZDJhLTQ5YjYtODUyNy04MmU4YWJhM2E5YTkiLCAiYWlkIjogIjAiLCAibmV0IjogInRjcCIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAiIn0=
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.236:443#EUA
-trojan://installshield@38.180.249.177:8443?sni=38.180.249.177#Holanda
-vmess://eyJhZGQiOiAieGN2Zmd0Ni45OTkxNjEueHl6IiwgInYiOiAiMiIsICJwcyI6ICJFVUEiLCAicG9ydCI6IDgwLCAiaWQiOiAiOTBmMzU3ZGQtNzlhYy00N2M2LWIwYjgtOTU4ZTJkMTlkZTA3IiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIi8xMFc2U0phSzBGMG9WWGVOVTZTMlJWUlAiLCAidGxzIjogIiJ9
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.194:443#Reino+Unido
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.170:443#EUA
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.110.1.197:5003#EUA
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@142.4.216.225:80#Canad%C3%A1
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.68.134.202:8091#EUA
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@38.121.43.71:8008#EUA
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@104.167.197.25:57456#EUA
+vmess://eyJhZGQiOiAiNDUuMTM3LjE1NS40NSIsICJ2IjogIjIiLCAicHMiOiAiVWNyXHUwMGUybmlhIiwgInBvcnQiOiAxNzY0NiwgImlkIjogIjgyNzM0NzI0LThjMDYtNGMyZS05Y2ZmLWIzNDc3NmZlMTc1NyIsICJhaWQiOiAiMCIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiIiwgInRscyI6ICIifQ==
 ```
 <h5>O endereço de assinatura permanente do nó superior (parte): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_pt-BR</h5>
  <p>Código QR do endereço de assinatura acima</p>

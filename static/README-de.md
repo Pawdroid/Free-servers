@@ -35,12 +35,12 @@
  <h4>Knotenliste: (Hier werden nur einige Knoten angezeigt. Bitte laden Sie die App herunter, um alle Knoten anzuzeigen.)</h4>
     
 ```
-trojan://4a3ee276-f50f-46f6-ba4d-13571732ab70@172.67.204.120:443?sni=ddcDe.890603.XYz&type=ws&path=%2FCOp52Dbu3dvwvDWUxOqxq&host=ddcde.890603.xyz#USA
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2SVZPdXpNZkg1Uk9wZ3d0UlRjTkpLWUp2WWU5RkRWYVU3d0FZWWg4UFJMeHhaczY=@188.191.147.127:31348#Israel
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@45.154.206.192:990#UK
-vmess://eyJhZGQiOiAiMTA3LjE3Mi45Ni4yMjciLCAidiI6ICIyIiwgInBzIjogIkthbmFkYSIsICJwb3J0IjogMjA5NSwgImlkIjogIjcxOGU0MmM3LTc1OTEtNDE3Ni1lMmVkLTRiM2RkMjM0ZjViMiIsICJhaWQiOiAiMCIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiIiwgInRscyI6ICIifQ==
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpydFI0WVg3NHZ3cVJKdTlNR0gzZTFOM0NRZEdNV0NVRmt5TGlzaWppRnV2aGtVOU1jVjVUcHlnZmtlcm5KNFVRZTYzSnRjRFFrclE5SGZjaHpxUXoxa0xDblRSb3I4amc=@166.1.157.228:55330#USA
-vmess://eyJhZGQiOiAiNTEuODEuMjAzLjU3IiwgInYiOiAiMiIsICJwcyI6ICJVU0EiLCAicG9ydCI6IDI4ODYwLCAiaWQiOiAiMTc4NDQ5N2QtMDNhMS00MGJiLWJiOGItZGU0ZmZhYzdjNTljIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIiLCAidGxzIjogIiJ9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@154.205.159.100:990#Seychellen
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.197:443#UK
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1UVM1bnRWcUMwMHNTS2tlTnpVaUQz@89.23.103.125:42090#Niederlande
+trojan://21e5535e-4783-4a80-a735-24a1162d315c@104.21.28.26:443?sni=xxscdF56.999182.xYZ&allowInsecure=1&type=ws&path=%2FcxZq9RPkYdTWbh4hKwvQX9&host=xxscdF56.999182.xYZ&alpn=http%252F1.1&fp=chrome#USA
+vmess://eyJhZGQiOiAiMzguMTIuODMuMjE3IiwgInYiOiAiMiIsICJwcyI6ICJVU0EiLCAicG9ydCI6IDMwMDAyLCAiaWQiOiAiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwgImFpZCI6ICI2NCIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAiIiwgImhvc3QiOiAibG9vc2VseS5mcmVldHJhZGUubGluayIsICJwYXRoIjogIiIsICJ0bHMiOiAiIn0=
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@195.181.160.6:990#Tschechien
 ```
 <h5>Die permanente Abonnementadresse des oberen Knotens (Teil): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_de</h5>
  <p>QR-Code für die Abonnementadresse oben</p>
