@@ -35,12 +35,12 @@
  <h4>نوڈ کی فہرست: (یہاں صرف کچھ نوڈس دکھائے گئے ہیں، براہ کرم تمام نوڈس دیکھنے کے لیے ایپ ڈاؤن لوڈ کریں)</h4>
     
 ```
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.143.66.87:5000#United+States
-vmess://eyJhZGQiOiAiOTUuMTY0LjM4LjYiLCAidiI6ICIyIiwgInBzIjogIk5vcndheSIsICJwb3J0IjogMjE5MzgsICJpZCI6ICI1ODNiZWJlZi0zZTBiLTRjODUtYmE4MC0zOWUwN2NlMzVhZDkiLCAiYWlkIjogIjAiLCAibmV0IjogInRjcCIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAiIn0=
-vmess://eyJhZGQiOiAiMTU0LjI2LjEzNC4xMDYiLCAidiI6ICIyIiwgInBzIjogIlNpbmdhcG9yZSIsICJwb3J0IjogMTQxMjksICJpZCI6ICJlNzc5OGUwOS0zMDkwLTQzNjYtYWU4MC1mMThhZmRhYWJmNGYiLCAiYWlkIjogIjAiLCAibmV0IjogInRjcCIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAiIn0=
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.121.43.71:3306#United+States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwaXY5N1hTMUN2YWw4NnZmd0hQRDVq@194.87.216.121:443#The+Netherlands
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvSE9QMWJXRk1rUVZ4M1BkYmhSbE9r@77.239.116.76:8315#United+Kingdom
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@134.255.210.49:990#Cyprus
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.157:8080#Lithuania
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@38.68.135.18:9101#United+States
+vmess://eyJhZGQiOiAieGItdm0tdXMuNzE4MTgxLnh5eiIsICJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJwb3J0IjogMTM3NTYsICJpZCI6ICIyYTViNmVlYi1iZDkyLTRmNDctOGQ4Mi03NDkwMWFhN2NjMjAiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAibWluaXBrZy5kaW5ndGFsay5jb20iLCAicGF0aCI6ICIvIiwgInRscyI6ICIifQ==
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.68.135.18:8000#United+States
+vmess://eyJhZGQiOiAiNS4yNTMuNDEuMTQ3IiwgInYiOiAiMiIsICJwcyI6ICJVbml0ZWQgU3RhdGVzIiwgInBvcnQiOiAyNzc1MCwgImlkIjogIjRiMTk5MmNjLThlN2MtNDAwMy1hNDVmLWEyOGMzZTZmNmZhOCIsICJhaWQiOiAiMCIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiIiwgInRscyI6ICIifQ==
 ```
 <h5>اوپری نوڈ کا مستقل رکنیت کا پتہ (حصہ): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ur-PK</h5>
  <p>اوپر سبسکرپشن ایڈریس کے لیے QR کوڈ</p>

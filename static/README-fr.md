@@ -35,12 +35,12 @@
  <h4>Liste des nœuds: (Seuls certains nœuds sont affichés ici, veuillez télécharger l'application pour afficher tous les nœuds)</h4>
     
 ```
-trojan://telegram-id-privatevpns@35.181.28.118:22222?security=tls&sni=trojan.burgerip.co.uk#France
-vmess://eyJhZGQiOiAiNGY4YWNkYzktc3YweHMwLXN3NXdpNy11ZmMwLmhrMy5wNXB2LmNvbSIsICJ2IjogIjIiLCAicHMiOiAiSG9uZyBLb25nIiwgInBvcnQiOiA4MCwgImlkIjogIjIyMzA4OTg4LTg1NDgtMTFlYS1hMjJlLWYyM2M5MWNmYmJjOSIsICJhaWQiOiAiMiIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJicm9hZGNhc3Rsdi5jaGF0LmJpbGliaWxpLmNvbSIsICJwYXRoIjogIi8iLCAidGxzIjogIiJ9
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.121.43.71:5601#%C3%89tats+Unis
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.123.101.241:990#Turquie
-vmess://eyJhZGQiOiAiNjcuMjIwLjY2LjE5NCIsICJ2IjogIjIiLCAicHMiOiAiXHUwMGM5dGF0cyBVbmlzIiwgInBvcnQiOiA0NDMsICJpZCI6ICIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCAiYWlkIjogIjEiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiNjcuMjIwLjY2LjE5NCIsICJwYXRoIjogImxpbmt2d3MiLCAidGxzIjogInRscyJ9
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.121.43.71:7002#%C3%89tats+Unis
+vmess://eyJhZGQiOiAiaGp1eWl0dS4yMjI4NTYueHl6IiwgInYiOiAiMiIsICJwcyI6ICJcdTAwYzl0YXRzIFVuaXMiLCAicG9ydCI6IDQ0MywgImlkIjogImVjYjMxOTQ2LWI4MWQtNGUzNy1iZmQ5LTJlYjdmYTVjNGU1MiIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJoanV5aXR1LjIyMjg1Ni54eXoiLCAicGF0aCI6ICIvQmJja3JLc2J2MjJQSzFxdTJUdk0iLCAidGxzIjogInRscyJ9
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@38.121.43.97:6697#%C3%89tats+Unis
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.121.43.97:8091#%C3%89tats+Unis
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.121.43.71:5001#%C3%89tats+Unis
+vmess://eyJhZGQiOiAiNDUuMTIuMTM4LjgyIiwgInYiOiAiMiIsICJwcyI6ICJTdVx1MDBlOGRlIiwgInBvcnQiOiA1NDc1NywgImlkIjogImNkZTlmMDc0LWM5MzAtNGFhMy1hNTU4LTQ2YmJjOWQwYTVhMSIsICJhaWQiOiAiMCIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiIiwgInRscyI6ICIifQ==
+trojan://21e5535e-4783-4a80-a735-24a1162d315c@104.21.28.26:443?sni=xxscdF56.999182.xYZ&allowInsecure=1&type=ws&path=%2FcxZq9RPkYdTWbh4hKwvQX9&host=xxscdF56.999182.xYZ&alpn=http%252F1.1&fp=chrome#%C3%89tats+Unis
 ```
 <h5>L'adresse d'abonnement permanente du nœud supérieur (partie): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_fr</h5>
  <p>Code QR pour l'adresse d'abonnement ci-dessus</p>
