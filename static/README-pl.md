@@ -35,12 +35,12 @@
  <h4>Lista węzłów: (wyświetlane są tutaj tylko niektóre węzły. Pobierz aplikację, aby wyświetlić wszystkie węzły)</h4>
     
 ```
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.68.135.18:8080#United+States
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.121.43.97:7307#United+States
-vmess://eyJhZGQiOiAiMTUuMjA0Ljg2LjEyMCIsICJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJwb3J0IjogMzU2OTYsICJpZCI6ICJjYWQwNTA0YS1hOWRjLTRkMjktODg0NC1iMTFiNjlmMTRhOGQiLCAiYWlkIjogIjAiLCAibmV0IjogInRjcCIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAiIn0=
-vmess://eyJhZGQiOiAiWGN2Zmd0NS4yMjI1NjAueHl6IiwgInYiOiAiMiIsICJwcyI6ICJVbml0ZWQgU3RhdGVzIiwgInBvcnQiOiA4MCwgImlkIjogIjE5YTc4ZWViLWQ4M2EtNDM2NC1iMDk1LWI3ZGQ5MzQzNjMyMCIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIvN0xCUGV0aGdXeERvVnV6TzBXTGlqSUQiLCAidGxzIjogIiJ9
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.68.135.18:8119#United+States
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.121.43.97:7001#United+States
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.121.43.71:7002#United+States
+vmess://eyJhZGQiOiAiNGRhOTc0MWYtc3dxMXMwLXN4bWxjay0xdGE1OC5oZ2MxLnRjcGJici5uZXQiLCAidiI6ICIyIiwgInBzIjogIkhvbmcgS29uZyIsICJwb3J0IjogODA4MCwgImlkIjogImUyZDhiNTc0LWUwODktMTFlZi05Y2M3LWYyM2M5MTY0Y2E1ZCIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJicm9hZGNhc3Rsdi5jaGF0LmJpbGliaWxpLmNvbSIsICJwYXRoIjogIi8iLCAidGxzIjogIiJ9
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.121.43.71:8090#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@92.118.205.228:990#Poland
+trojan://508a5202-d450-42d2-a74c-9326dcda8b63@172.67.137.6:443?sni=SsSxderT.fREevPnatM.Dpdns.ORG&allowInsecure=1&type=ws&path=%2FdDWfJuXDH50Q7a7NsRZbl4sVHqtMKS&host=SsSxderT.fREevPnatM.Dpdns.ORG&fp=chrome#United+States
+trojan://klZqKyxq0H@57.128.165.173:1935?sni=x1-england-ovh-v2.devefun.net#France
 ```
 <h5>Stały adres subskrypcji górnego węzła (część): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_pl</h5>
  <p>Kod QR dla adresu subskrypcji powyżej</p>

@@ -35,12 +35,12 @@
 <h4>Node list: (Only some nodes are shown here, please download the app to view all nodes)</h4>
     
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvMzh5dXZ6U2UzbTVhRE5wSHRVUEgxekd3YkdFWFhNRHNHd1ZhdWIyU1lFbUhVYTJXR1pVamllelgzVnZ2YTlDQ3pwanhZdHVKTGdLc1Nuc3lLQmY5Y2lQVmJhM3k0bzM=@beta.mattenadene.org:54075#United+States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5TVg5V0dQZ1VFY1JabWxhYTBZSEhD@103.106.1.92:23492#Moldova
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@38.121.43.71:6379#United+States
-trojan://2cba4104747d49d18319e5ade1b93ab5@161.35.34.48:443?sni=yourjobnavigator.online#United+Kingdom
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@134.255.210.49:990#Cyprus
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMaUhRWDljRGJkb29CSGxJZzBlaXFR@45.144.54.33:34803#Slovenia
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.110.1.197:5003#United+States
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.121.43.97:7307#United+States
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.121.43.27:443#United+States
+vmess://eyJhZGQiOiAiMjAyLjc4LjE2Mi41IiwgImFpZCI6IDAsICJob3N0IjogInNhaGFuZC5zZXJ2ZW1pbmVjcmFmdC5uZXQiLCAiaWQiOiAiMTE4Mjg3ZDItZTk2OC00MmUxLTgwZDAtMTJmYTJmNWQzOGQ2IiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9AZm9yd2FyZHYycmF5IiwgInBvcnQiOiA0NDMsICJwcyI6ICJMdXhlbWJvdXJnIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIn0=
+vmess://eyJhZGQiOiAiNDUuOC4xNDUuMTQ1IiwgInYiOiAiMiIsICJwcyI6ICJUaGUgTmV0aGVybGFuZHMiLCAicG9ydCI6IDMwNTIwLCAiaWQiOiAiMzAzODAyNGYtM2EzNC00MjI4LWI2MWMtZDc0MWIyZmJlYzhmIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIiLCAidGxzIjogIiJ9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowenlEUloxWG1OWGFhQ0FON0tFQThh@45.151.62.54:28825#Germany
 ```
 <h5>Permanent subscription address of the node above (part): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_en</h5>
 <p>QR code of the subscription address above</p>

@@ -35,12 +35,12 @@
  <h4>नोड सूची: (यहां केवल कुछ नोड्स प्रदर्शित हैं, कृपया सभी नोड्स देखने के लिए ऐप डाउनलोड करें)</h4>
     
 ```
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.143.66.87:3389#United+States
-ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@38.143.66.87:9102#United+States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.28:8080#Lithuania
-vmess://eyJhZGQiOiAiODQuMjQ3LjE0OC4xOTIiLCAidiI6ICIyIiwgInBzIjogIkdlcm1hbnkiLCAicG9ydCI6IDQ0Mzk2LCAiaWQiOiAiM2NhMzVlMGEtZTQzMC00M2ZlLTljMTItMmUyZWVhNzBmODczIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIiLCAidGxzIjogIiJ9
-vmess://eyJhZGQiOiAiWGN2Zmd0NS4yMjI1NjAueHl6IiwgInYiOiAiMiIsICJwcyI6ICJVbml0ZWQgU3RhdGVzIiwgInBvcnQiOiA4MCwgImlkIjogIjE5YTc4ZWViLWQ4M2EtNDM2NC1iMDk1LWI3ZGQ5MzQzNjMyMCIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIvN0xCUGV0aGdXeERvVnV6TzBXTGlqSUQiLCAidGxzIjogIiJ9
-vmess://eyJhZGQiOiAiNjcuMjIwLjY2LjE5NCIsICJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJwb3J0IjogNDQzLCAiaWQiOiAiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwgImFpZCI6ICIxIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogIjY3LjIyMC42Ni4xOTQiLCAicGF0aCI6ICJsaW5rdndzIiwgInRscyI6ICJ0bHMifQ==
+trojan://OLq0FfOlp7@141.227.160.88:1935?sni=x1-sweden-ovh-v2.devefun.net#France
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvamNQMzZuMVNvdURjbkJnOUVPWlA4@9.163.232.180:1490#United+States
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.121.43.71:5003#United+States
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.68.135.18:7306#United+States
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@38.121.43.71:9102#United+States
+trojan://84831b86-5c76-4173-bdf1-02fa3ed78a32@104.21.112.1:443?sni=eeERrrR.999815.xYZ&allowInsecure=1&type=ws&path=%2FeS3prPmcpzbScA5VUAi1psm38Tz&host=eeERrrR.999815.xYZ&fp=chrome#United+States
 ```
 <h5>ऊपरी नोड (भाग) का स्थायी सदस्यता पता: https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_hi</h5>
  <p>उपरोक्त सदस्यता पते के लिए QR कोड</p>
