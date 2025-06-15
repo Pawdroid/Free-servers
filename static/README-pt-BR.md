@@ -35,12 +35,12 @@
  <h4>Lista de nós: (Apenas alguns nós são exibidos aqui, baixe o aplicativo para visualizar todos os nós)</h4>
     
 ```
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.110.1.197:5003#EUA
-vmess://eyJhZGQiOiAiODQuMjQ3LjE0OC4xOTIiLCAidiI6ICIyIiwgInBzIjogIkFsZW1hbmhhIiwgInBvcnQiOiA0NDM5NiwgImlkIjogIjNjYTM1ZTBhLWU0MzAtNDNmZS05YzEyLTJlMmVlYTcwZjg3MyIsICJhaWQiOiAiMCIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiIiwgInRscyI6ICIifQ==
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@139.59.119.143:443?sni=connectwithemployers.online#Singapura
-vmess://eyJhZGQiOiAieHhjdmZycnQ2Ljk5OTgyMC54eXoiLCAidiI6ICIyIiwgInBzIjogIkVVQSIsICJwb3J0IjogODAsICJpZCI6ICI5MGYzNTdkZC03OWFjLTQ3YzYtYjBiOC05NThlMmQxOWRlMDciLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAieHhjdmZycnQ2Ljk5OTgyMC54eXoiLCAicGF0aCI6ICIvMTBXNlNKYUswRjBvVlhlTlU2UzJSVlJQIiwgInRscyI6ICIifQ==
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPWDc2bmRnVGN5RVNlVW5aZTByNWRP@150.241.69.126:3452#Espanha
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowenlEUloxWG1OWGFhQ0FON0tFQThh@45.151.62.54:28825#Alemanha
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.181:8080#Litu%C3%A2nia
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@23.154.136.51:8118#EUA
+vmess://eyJ2IjogIjIiLCAicHMiOiAiSmFwXHUwMGUzbyIsICJhZGQiOiAiMTQwLjIyNy4yOC45MiIsICJwb3J0IjogIjIwNDUyIiwgInR5cGUiOiAiaHR0cCIsICJpZCI6ICI1MmFiYTNlYi0wYTZmLTRjMmYtMjljNi1kNGIxOGExZDdjM2UiLCAiYWlkIjogIjAiLCAibmV0IjogInRjcCIsICJwYXRoIjogIi8iLCAiaG9zdCI6ICJuZXR3b3JrLm1vYmlsZS5yYWt1dGVuLmNvLmpwIiwgInRscyI6ICIifQ==
+vmess://eyJhZGQiOiAiODQuMjQ3LjE1MC4xNzciLCAidiI6ICIyIiwgInBzIjogIkFsZW1hbmhhIiwgInBvcnQiOiAzNjE0MSwgImlkIjogImQzMWVlNTJmLWI2ZTQtNGRiOC05Yzk1LTk4ODU1ZWM4MjNjYyIsICJhaWQiOiAiMCIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiIiwgInRscyI6ICIifQ==
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvSE9QMWJXRk1rUVZ4M1BkYmhSbE9r@77.239.116.76:8315#Reino+Unido
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.158.171.141:8080#EUA
 ```
 <h5>O endereço de assinatura permanente do nó superior (parte): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_pt-BR</h5>
  <p>Código QR do endereço de assinatura acima</p>
