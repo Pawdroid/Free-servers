@@ -35,12 +35,12 @@
  <h4>Lista de nodos: (aquí solo se muestran algunos nodos; descargue la aplicación para ver todos los nodos)</h4>
     
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.154:8080#Lituania
-vmess://eyJhZGQiOiAiZGUwMS5zaC1jbG91ZGZsYXJlLnNicyIsICJ2IjogIjIiLCAicHMiOiAiRXN0YWRvcyBVbmlkb3MiLCAicG9ydCI6IDIwOTYsICJpZCI6ICJkYzEyN2M1ZS1jNmY0LTQ2NjUtYTRiOS00ZGRlZjlhNTQwM2QiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiZGUwMS5zaC1jbG91ZGZsYXJlLnNicyIsICJwYXRoIjogIi8iLCAidGxzIjogInRscyJ9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNlpDSGVhYlVTZktqZlFFdko0SERW@185.242.86.156:54170#Holanda
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowUnNyY0ZKMXZPc1dFcWczUDU1aHZhYWNLZnVTaFQwY2MxaDB0OEFEME5BOHUxdVI=@92.38.171.215:31348#Espa%C3%B1a
-trojan://2cba4104747d49d18319e5ade1b93ab5@yourjobnavigator.online:443#Reino+Unido
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@38.68.135.18:8009#Estados+Unidos
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMzgzNzIyNGVkNDY1ZjAw@war.ssvpnapp.win:57456#Polonia
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@69.50.93.47:6679#Estados+Unidos
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.197:443#Reino+Unido
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.47.253.227:990#Ecuador
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@38.121.43.71:6679#Estados+Unidos
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@38.165.233.18:990#Paraguay
 ```
 <h5>La dirección de suscripción permanente del nodo superior (parte): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_es</h5>
  <p>Código QR para la dirección de suscripción anterior</p>

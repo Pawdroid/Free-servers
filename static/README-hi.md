@@ -35,12 +35,12 @@
  <h4>नोड सूची: (यहां केवल कुछ नोड्स प्रदर्शित हैं, कृपया सभी नोड्स देखने के लिए ऐप डाउनलोड करें)</h4>
     
 ```
-vmess://eyJhZGQiOiAiNjIuMTQ2LjIzMy42NiIsICJ2IjogIjIiLCAicHMiOiAiR2VybWFueSIsICJwb3J0IjogMTU4MjgsICJpZCI6ICI4YjljZjNkYy1jMjgyLTQyNGYtYTU5MC1jNDVjOWEzNmQzZjkiLCAiYWlkIjogIjAiLCAibmV0IjogInRjcCIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAiIn0=
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwVjVCQXpxTFpvc09mdUlya3lvYWRU@5.181.21.194:18660#Austria
-vmess://eyJhZGQiOiAib3J2cHMyLmhvcnNlbm1hLm5ldCIsICJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJwb3J0IjogODQ0MywgImlkIjogIjU3ZTU5NWU2LWVmNTQtNGUwZC1iOGRmLWU5NmRiOTYxMmI5OSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJvcnZwczIuaG9yc2VubWEubmV0IiwgInBhdGgiOiAiL2hvcnNlbiIsICJ0bHMiOiAidGxzIn0=
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.154.136.132:5000#United+States
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@216.39.248.133:7001#United+States
-vmess://eyJhZGQiOiAiODQuMjQ3LjE0Ni4xODkiLCAidiI6ICIyIiwgInBzIjogIkdlcm1hbnkiLCAicG9ydCI6IDMzNzU0LCAiaWQiOiAiNDVmNGY1NjUtOGM3OC00OTA2LWE1YjktMDhlYTkwNzVjZDMxIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIiLCAidGxzIjogIiJ9
+vmess://eyJhZGQiOiAiNDMuMTUzLjEwNC42MiIsICJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJwb3J0IjogNDUxMTMsICJpZCI6ICI5N2NjMDMyMy1kZTUzLTRhNzUtZDY5ZC1jNmFjZGFjNWZkYzciLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiLzk3Y2MwMzIzIiwgInRscyI6ICIifQ==
+vmess://eyJhZGQiOiAiMnNkZnJlMy45OTk4MjAueHl6IiwgInYiOiAiMiIsICJwcyI6ICJVbml0ZWQgU3RhdGVzIiwgInBvcnQiOiA4MCwgImlkIjogIjkwZjM1N2RkLTc5YWMtNDdjNi1iMGI4LTk1OGUyZDE5ZGUwNyIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIyc2RmcmUzLjk5OTgyMC54eXoiLCAicGF0aCI6ICIvMTBXNlNKYUswRjBvVlhlTlU2UzJSVlJQIiwgInRscyI6ICIifQ==
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@134.209.147.198:990#India
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.62.161:443#Switzerland
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@69.50.93.47:6679#United+States
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.121.43.71:5500#United+States
 ```
 <h5>ऊपरी नोड (भाग) का स्थायी सदस्यता पता: https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_hi</h5>
  <p>उपरोक्त सदस्यता पते के लिए QR कोड</p>
