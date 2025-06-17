@@ -35,13 +35,13 @@
  <h4>नोड सूची: (यहां केवल कुछ नोड्स प्रदर्शित हैं, कृपया सभी नोड्स देखने के लिए ऐप डाउनलोड करें)</h4>
     
 ```
-vmess://eyJhZGQiOiAiMzEuMTI5LjEwNS4yMzkiLCAidiI6ICIyIiwgInBzIjogIlJ1c3NpYSIsICJwb3J0IjogMTYyMzEsICJpZCI6ICI3OTNlMDNjYy0yYjA4LTRkMWItYmIwYi01OTI1NjdkMTkwNDMiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiMzEuMTI5LjEwNS4yMzkiLCAicGF0aCI6ICIvIiwgInRscyI6ICIifQ==
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.68.135.18:8090#United+States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@beesyar.org:8080#Lithuania
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.158.171.110:8080#United+States
-vmess://eyJhZGQiOiAiMTk4LjIuMjE4LjIxNiIsICJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJwb3J0IjogNDQ4ODMsICJpZCI6ICI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCAiYWlkIjogIjY0IiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIiLCAidGxzIjogIiJ9
-trojan://ttfang@211.248.229.186:14074?allowInsecure=1&sni=ttfang.fange.me&type=ws&host=ttfang.fange.me&path=/#South+Korea
-trojan://ttfang@121.172.5.248:34689?allowInsecure=1&sni=ttfang.fange.me&type=ws&host=ttfang.fange.me&path=/#South+Korea
+vmess://eyJhZGQiOiAiMi41Ni4xMjYuMTAzIiwgInYiOiAiMiIsICJwcyI6ICJOb3J3YXkiLCAicG9ydCI6IDMzNTc5LCAiaWQiOiAiMmViM2VlMmEtN2JmOC00YjUwLTliOTMtMmQ0ODlkMmYzNDU2IiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIiLCAidGxzIjogIiJ9
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.241:443#United+States
+vmess://eyJhZGQiOiAiOTQuMTMwLjExMS4xNTIiLCAidiI6ICIyIiwgInBzIjogIkdlcm1hbnkiLCAicG9ydCI6IDI5MzAxLCAiaWQiOiAiZDE4ZWUwOTMtYzM3Zi00NmRiLTk3ZGMtOTUwNDczYWEyMTgxIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIiLCAidGxzIjogIiJ9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppWkRKczJDRGNrSEtxSjVXN2NwdkNxMnZlcXNxV245NWlxczZLcjZGM1lObnlNc2sydVBkUnJDaFFmU2h2SDF2NTZCcjFxV0VXNDRxSm5hNVFjTWNaRjdSQ0ptZHZ3dXE=@185.5.38.111:55988#United+Kingdom
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.110.1.88:2376#United+States
+vmess://eyJhZGQiOiAiODQuMjQ3LjE0OC4xOTIiLCAidiI6ICIyIiwgInBzIjogIkdlcm1hbnkiLCAicG9ydCI6IDQ0Mzk2LCAiaWQiOiAiM2NhMzVlMGEtZTQzMC00M2ZlLTljMTItMmUyZWVhNzBmODczIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIiLCAidGxzIjogIiJ9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.65:8080#Lithuania
 ```
 <h5>ऊपरी नोड (भाग) का स्थायी सदस्यता पता: https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_hi</h5>
  <p>उपरोक्त सदस्यता पते के लिए QR कोड</p>

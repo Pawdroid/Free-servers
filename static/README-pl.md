@@ -35,13 +35,13 @@
  <h4>Lista węzłów: (wyświetlane są tutaj tylko niektóre węzły. Pobierz aplikację, aby wyświetlić wszystkie węzły)</h4>
     
 ```
-trojan://ttfang@220.87.229.22:29340?allowInsecure=1&sni=ttfang.fange.me&type=ws&host=ttfang.fange.me&path=/#South+Korea
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.143.66.87:3306#United+States
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.167:443#United+States
-trojan://13253e6e-a1f7-4090-801f-a8dc2b083bef@172.67.175.148:443?allowInsecure=0&sni=inviNcIble.fafa20.ShOp&type=ws&host=inviNcIble.fafa20.ShOp&path=/tr7PXHQRn4VPwGA2zY/c2hpcmVuLnlhZW1pa28uZ2dmZi5uZXQ=?ed=2560#United+States
-vmess://eyJhZGQiOiAiODQuMjQ3LjE0Ni4xNjEiLCAidiI6ICIyIiwgInBzIjogIkdlcm1hbnkiLCAicG9ydCI6IDM5NTMwLCAiaWQiOiAiN2FhNTZlMzktMjliOC00NWMzLThiNTMtNmQyYTIzYjI0NjFjIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIiLCAidGxzIjogIiJ9
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@38.143.66.87:6379#United+States
-vmess://eyJhZGQiOiAiMTM4LjE5OS4xNDYuMTgxIiwgInYiOiAiMiIsICJwcyI6ICJHZXJtYW55IiwgInBvcnQiOiAxMzQxMSwgImlkIjogImVlM2YzN2IxLWU4MDUtNGJkYy05ZDQ2LTgwZGYxODE4OTlkZiIsICJhaWQiOiAiMCIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiIiwgInRscyI6ICIifQ==
+trojan://ttfang@128.199.237.143:443?allowInsecure=1&sni=ttfang.fange.me&type=ws&host=ttfang.fange.me&path=/#Singapore
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.121.43.97:8119#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpydFI0WVg3NHZ3cVJKdTlNR0gzZTFOM0NRZEdNV0NVRmt5TGlzaWppRnV2aGtVOU1jVjVUcHlnZmtlcm5KNFVRZTYzSnRjRFFrclE5SGZjaHpxUXoxa0xDblRSb3I4amc=@166.1.157.228:55330#United+States
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.121.43.71:4444#United+States
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.121.43.71:8888#United+States
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.68.135.18:8118#United+States
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.121.43.97:5000#United+States
 ```
 <h5>Stały adres subskrypcji górnego węzła (część): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_pl</h5>
  <p>Kod QR dla adresu subskrypcji powyżej</p>

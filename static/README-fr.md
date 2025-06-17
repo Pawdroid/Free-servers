@@ -35,13 +35,13 @@
  <h4>Liste des nœuds: (Seuls certains nœuds sont affichés ici, veuillez télécharger l'application pour afficher tous les nœuds)</h4>
     
 ```
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.241:443#%C3%89tats+Unis
-trojan://ttfang@218.148.212.190:26120?allowInsecure=1&sni=ttfang.fange.me&type=ws&host=ttfang.fange.me&path=/#Cor%C3%A9e+du+Sud
-vmess://eyJhZGQiOiAiMi41Ni4xMjUuMTAxIiwgInYiOiAiMiIsICJwcyI6ICJJdGFsaWUiLCAicG9ydCI6IDM4MDg4LCAiaWQiOiAiMTI3NWVhMTgtYmM5Yy00YmNiLWIzZmQtZmVlNzAyNzJlMTQzIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIiLCAidGxzIjogIiJ9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@145.14.131.37:990#Costa+Rica
-trojan://ttfang@59.5.53.119:14982?allowInsecure=1&sni=ttfang.fange.me&type=ws&host=ttfang.fange.me&path=/#Cor%C3%A9e+du+Sud
-vmess://eyJhZGQiOiAiMTA0LjIxLjExMi4xIiwgInYiOiAiMiIsICJwcyI6ICJcdTAwYzl0YXRzIFVuaXMiLCAicG9ydCI6IDg0NDMsICJpZCI6ICJmMTA1OThlMi1jNjA2LTQ5NDUtYmZkZS1lNTczMDc1NmEyZGQiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAidXMwMS5zaC1jbG91ZGZsYXJlLnNicyIsICJwYXRoIjogIi8iLCAidGxzIjogInRscyJ9
-vmess://eyJhZGQiOiAiMi41Ni4xMjYuMTAzIiwgInYiOiAiMiIsICJwcyI6ICJOb3J2XHUwMGU4Z2UiLCAicG9ydCI6IDMzNTc5LCAiaWQiOiAiMmViM2VlMmEtN2JmOC00YjUwLTliOTMtMmQ0ODlkMmYzNDU2IiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIiLCAidGxzIjogIiJ9
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.95.183:443#%C3%89tats+Unis
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.35:8080#Lituanie
+vmess://eyJhZGQiOiAiMTQ2LjU5LjU1LjUwIiwgInYiOiAiMiIsICJwcyI6ICJQb2xvZ25lIiwgInBvcnQiOiA0NDMsICJpZCI6ICIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiby5tZXR1amkuY29tIiwgInBhdGgiOiAiL2xpbmt2d3MiLCAidGxzIjogInRscyJ9
+ss://YWVzLTEyOC1nY206ckdEYmlGN2d0eDVUV3Q0cjRWam5lUT09@156.225.22.213:552#Hong+Kong
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.244:443#%C3%89tats+Unis
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@38.68.135.18:8009#%C3%89tats+Unis
+vmess://eyJhZGQiOiAiMDFiNDI5MWEtc3YweHMwLXN3MmMzby0xdGh0cy5oazMucDVwdi5jb20iLCAidiI6ICIyIiwgInBzIjogIkhvbmcgS29uZyIsICJwb3J0IjogODAsICJpZCI6ICJjYjk2Yzg0Ni1mZDZkLTExZWYtYTkxMC1mMjNjOTE2NGNhNWQiLCAiYWlkIjogIjIiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiYnJvYWRjYXN0bHYuY2hhdC5iaWxpYmlsaS5jb20iLCAicGF0aCI6ICIvIiwgInRscyI6ICIifQ==
 ```
 <h5>L'adresse d'abonnement permanente du nœud supérieur (partie): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_fr</h5>
  <p>Code QR pour l'adresse d'abonnement ci-dessus</p>

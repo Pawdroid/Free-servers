@@ -35,13 +35,13 @@
 <h4>Node list: (Only some nodes are shown here, please download the app to view all nodes)</h4>
     
 ```
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.121.43.71:8119#United+States
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.121.43.71:8091#United+States
-trojan://ttfang@59.5.53.119:18548?allowInsecure=1&sni=ttfang.fange.me&type=ws&host=ttfang.fange.me&path=/#South+Korea
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@103.104.247.47:8080#The+Netherlands
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.121.43.71:8000#United+States
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@23.154.136.148:6679#United+States
-vmess://eyJhZGQiOiAidjEubm1jZi5tZSIsICJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJwb3J0IjogODAwMSwgImlkIjogImUzYmU5M2E4LTU0YWMtNDhiMi1iMDc5LTZjMGQzZDUyM2U4NyIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJ3d3cuYmluZy5jb20iLCAicGF0aCI6ICIvbm1raiIsICJ0bHMiOiAiIn0=
+ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@23.154.136.51:5499#United+States
+vmess://eyJhZGQiOiAiY2xvdWRnZXRzZXJ2aWNlLm1jbG91ZHNlcnZpY2Uuc2l0ZSIsICJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJwb3J0IjogNDQzLCAiaWQiOiAiYWQyYmNhNGQtYmU5ZS00YWMyLWIyZWQtNGM4MWFiYjQyNDJmIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogIm1BeE5FdFZpcC11U0EtVnA0Lm5FVEtoMy5zSXRFIiwgInBhdGgiOiAiL2xpbmt3cyIsICJ0bHMiOiAidGxzIn0=
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@173.244.56.6:443#United+States
+vmess://eyJhZGQiOiAiMTA0LjIxLjIyNy4xMzQiLCAidiI6ICIyIiwgInBzIjogIlVuaXRlZCBTdGF0ZXMiLCAicG9ydCI6IDIwODIsICJpZCI6ICJjNzgyMDA2NS1mYTA1LTM2ZDYtYWI3Ny01NmU0YjAzYzU4ODEiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiMTAwLTQ3LTIxMy0xMTYuczUuZGItbGluazAxLnRvcCIsICJwYXRoIjogIi9kYWJhaS5pbjEwNC4yMC42NC4yMTciLCAidGxzIjogIiJ9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.93.173.218:990#Bolivia
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.68.135.18:7306#United+States
 ```
 <h5>Permanent subscription address of the node above (part): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_en</h5>
 <p>QR code of the subscription address above</p>
