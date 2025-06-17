@@ -35,13 +35,13 @@
  <h4>Список узлов: (здесь показаны только некоторые узлы. Загрузите приложение, чтобы просмотреть все узлы)</h4>
     
 ```
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.62.163:443#%D0%A8%D0%B2%D0%B5%D0%B9%D1%86%D0%B0%D1%80%D0%B8%D1%8F
-trojan://288124da-0d68-42f4-9f48-70dc4dcc55a6@172.67.175.139:443?allowInsecure=0&sni=cvFbghYU.859886.XYZ&type=ws&host=cvFbghYU.859886.XYZ&path=/raChT39pjLFYRA5HdHEIupMZeK#%D0%A1%D0%A8%D0%90
-trojan://a4291a2a-d62c-4eb9-ac7a-ac7355d1eda2@172.67.172.71:443?allowInsecure=0&sni=666666Y.999165.XYZ&type=ws&host=666666Y.999165.XYZ&path=/mFvK3LJyIAe8ydvnmRKWDa8#%D0%A1%D0%A8%D0%90
-trojan://bpb-trojan@104.21.75.193:443?allowInsecure=0&sni=mashdt.pages.dev&type=ws&host=mashdt.pages.dev&path=/tr?ed=2560#%D0%A1%D0%A8%D0%90
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.160:443#%D0%A1%D0%A8%D0%90
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.193:443#%D0%91%D1%80%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D1%8F
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.68.135.18:8118#%D0%A1%D0%A8%D0%90
+vmess://eyJhZGQiOiAiMTA0LjIxLjE2LjEiLCAidiI6ICIyIiwgInBzIjogIlx1MDQyMVx1MDQyOFx1MDQxMCIsICJwb3J0IjogODQ0MywgImlkIjogImYxMDU5OGUyLWM2MDYtNDk0NS1iZmRlLWU1NzMwNzU2YTJkZCIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJ1czAxLnNoLWNsb3VkZmxhcmUuc2JzIiwgInBhdGgiOiAiLyIsICJ0bHMiOiAidGxzIn0=
+vmess://eyJhZGQiOiAiMTcyLjY3LjE1Ni4yMTAiLCAidiI6ICIyIiwgInBzIjogIlx1MDQyMVx1MDQyOFx1MDQxMCIsICJwb3J0IjogNDQzLCAiaWQiOiAiNzYyMjFiZmItZTkyZi00ZTgwLTgxYzUtNmZlNDhmNTBhYzBiIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogImdsd2VpZGYuc2JzIiwgInBhdGgiOiAiL2xpbmt3cyIsICJ0bHMiOiAidGxzIn0=
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.68.135.18:5601#%D0%A1%D0%A8%D0%90
+vmess://eyJhZGQiOiAiNS4xODAuMzAuMTEwIiwgInYiOiAiMiIsICJwcyI6ICJcdTA0MjFcdTA0MjhcdTA0MTAiLCAicG9ydCI6IDUxMzUyLCAiaWQiOiAiYmNmODY0NzktYWFiNC00N2NmLTlkNmUtMzRkMzUzYmFhMWEyIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIiLCAidGxzIjogIiJ9
+trojan://Bm92516VO0@51.15.68.121:1935?sni=x11-amsterdam-scaleway-v2-c88f0.devefun.org#%D0%A2%D1%83%D1%80%D1%86%D0%B8%D1%8F
+trojan://13e26f64-2e0c-4461-92cd-d83294cc18f0@104.21.76.21:443?allowInsecure=0&sni=WwwDe.00890604.XyZ&type=ws&host=WwwDe.00890604.XyZ&path=/TDUxZUop9k44oPiit2OdWk0KwirdY#%D0%A1%D0%A8%D0%90
+ss://YWVzLTI1Ni1nY206VEc6QEVua2VsdGVfbm90aWYmJlRHOkBOb3RpZl9DaGF0@116.206.124.41:34045#%D0%A2%D0%B0%D0%B8%D0%BB%D0%B0%D0%BD%D0%B4
 ```
 <h5>Адрес постоянной подписки верхнего узла (части): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ru</h5>
  <p>QR-код для адреса подписки выше</p>
