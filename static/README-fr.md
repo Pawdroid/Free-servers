@@ -35,12 +35,13 @@
  <h4>Liste des nœuds: (Seuls certains nœuds sont affichés ici, veuillez télécharger l'application pour afficher tous les nœuds)</h4>
     
 ```
-vmess://eyJhZGQiOiAiNTEuODEuMjAzLjU3IiwgInYiOiAiMiIsICJwcyI6ICJcdTAwYzl0YXRzIFVuaXMiLCAicG9ydCI6IDI4ODYwLCAiaWQiOiAiMTc4NDQ5N2QtMDNhMS00MGJiLWJiOGItZGU0ZmZhYzdjNTljIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIiLCAidGxzIjogIiJ9
-vmess://eyJhZGQiOiAiMDFiNDI5MWEtc3YweHMwLXN3MmMzby0xdGh0cy5oazMucDVwdi5jb20iLCAidiI6ICIyIiwgInBzIjogIkhvbmcgS29uZyIsICJwb3J0IjogODAsICJpZCI6ICJjYjk2Yzg0Ni1mZDZkLTExZWYtYTkxMC1mMjNjOTE2NGNhNWQiLCAiYWlkIjogIjIiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiYnJvYWRjYXN0bHYuY2hhdC5iaWxpYmlsaS5jb20iLCAicGF0aCI6ICIvIiwgInRscyI6ICIifQ==
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.68.135.18:8119#%C3%89tats+Unis
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@38.165.233.18:990#Paraguay
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@23.154.136.51:8118#%C3%89tats+Unis
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.62.163:443#Suisse
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.121.43.71:8888#%C3%89tats+Unis
+trojan://ttfang@138.2.95.61:1111?allowInsecure=1&sni=ttfang.fange.me&type=ws&host=ttfang.fange.me&path=/#Singapour
+vmess://eyJhZGQiOiAiMTA0LjE4LjE0OS43NiIsICJ2IjogIjIiLCAicHMiOiAiXHUwMGM5dGF0cyBVbmlzIiwgInBvcnQiOiA0NDMsICJpZCI6ICJkZTk0Y2MwYS0wNTkyLTQ5NjktYjFmYy05N2VhOGYwZWEwYjMiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAidXMua2twLm1lLmV1Lm9yZyIsICJwYXRoIjogIi9hYSIsICJ0bHMiOiAidGxzIn0=
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpES3lSZG9xUUllYmRLWlZZczVHelc4@45.150.32.13:14628#Royaume-Uni
+vmess://eyJhZGQiOiAiMzguOTkuODIuMTkzIiwgInYiOiAiMiIsICJwcyI6ICJcdTAwYzl0YXRzIFVuaXMiLCAicG9ydCI6IDQ0MywgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJ0aWxlYmFuaS5jb20iLCAicGF0aCI6ICIvbGlua3Z3cyIsICJ0bHMiOiAidGxzIn0=
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.68.135.18:5003#%C3%89tats+Unis
+vmess://eyJhZGQiOiAiNDUuNzkuMTIxLjI0MyIsICJ2IjogIjIiLCAicHMiOiAiSW5kZSIsICJwb3J0IjogMTAwMDIsICJpZCI6ICIzNjk5ZmE3My1hYzVjLTQxY2EtOGQ2ZS1mZTRjYjcwYzdlMDIiLCAiYWlkIjogIjAiLCAibmV0IjogInRjcCIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAiIn0=
 ```
 <h5>L'adresse d'abonnement permanente du nœud supérieur (partie): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_fr</h5>
  <p>Code QR pour l'adresse d'abonnement ci-dessus</p>

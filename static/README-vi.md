@@ -35,12 +35,13 @@
  <h4>Danh sách nút: (Chỉ hiển thị một số nút ở đây, vui lòng tải xuống ứng dụng để xem tất cả các nút)</h4>
     
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.157:8080#Lithuania
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.68.135.18:3389#United+States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.166:8080#Lithuania
+vmess://eyJhZGQiOiAiMTMuMTE1LjY0LjIzIiwgInYiOiAiMiIsICJwcyI6ICJKYXBhbiIsICJwb3J0IjogNDg1MjMsICJpZCI6ICJiMzI0Y2M2MC03OGZjLTQyOWYtYTdiYS04ODViZDkwMWIzNjAiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiZGVmYXVsdC5qcC5hd3MuZGRucy5hZC45ODk1NjcueHl6IiwgInBhdGgiOiAiL2xvZ2luIiwgInRscyI6ICJ0bHMifQ==
+vmess://eyJhZGQiOiAidjYubm1jZi5tZSIsICJ2IjogIjIiLCAicHMiOiAiSG9uZyBLb25nIiwgInBvcnQiOiA0ODQyMiwgImlkIjogImUzYmU5M2E4LTU0YWMtNDhiMi1iMDc5LTZjMGQzZDUyM2U4NyIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJ3d3cuYmluZy5jb20iLCAicGF0aCI6ICIvbm1raiIsICJ0bHMiOiAiIn0=
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.121.43.71:3306#United+States
+trojan://ttfang@220.87.229.22:29340?allowInsecure=1&sni=ttfang.fange.me&type=ws&host=ttfang.fange.me&path=/#South+Korea
+vmess://eyJhZGQiOiAiMTA0LjIxLjY0LjEiLCAidiI6ICIyIiwgInBzIjogIlVuaXRlZCBTdGF0ZXMiLCAicG9ydCI6IDg0NDMsICJpZCI6ICJmMTA1OThlMi1jNjA2LTQ5NDUtYmZkZS1lNTczMDc1NmEyZGQiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAidXMwMS5zaC1jbG91ZGZsYXJlLnNicyIsICJwYXRoIjogIi8iLCAidGxzIjogInRscyJ9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpucTk2S2Z0clpBajNMdUZRRVNxbW40NE1vNW9DdW8yY2lwb0VzYWUyNW1ybUhHMm9KNFZUMzdzY0JmVkJwTjVEV3RVRUxadXRWaGhYczhMZTVCOGZaOWhMbjl5dHd2YmY=@208.67.105.87:42501#The+Netherlands
 ss://YWVzLTI1Ni1nY206VEc6QEVua2VsdGVfbm90aWYmJlRHOkBOb3RpZl9DaGF0@116.206.124.41:34045#Thailand
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.143.66.87:3389#United+States
-vmess://eyJhZGQiOiAiMTA3LjE3Mi45Ni4yMjciLCAidiI6ICIyIiwgInBzIjogIkNhbmFkYSIsICJwb3J0IjogNTAwMTIsICJpZCI6ICIwMzg0ODA0MC1lODc5LTRiMmItZjYzMC00ZDkwOTQ0ZWQ0MTEiLCAiYWlkIjogIjAiLCAibmV0IjogInRjcCIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAiIn0=
 ```
 <h5>Địa chỉ đăng ký vĩnh viễn của nút trên (một phần): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_vi</h5>
  <p>Mã QR cho địa chỉ đăng ký ở trên</p>

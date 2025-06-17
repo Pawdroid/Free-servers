@@ -35,12 +35,13 @@
  <h4>Список узлов: (здесь показаны только некоторые узлы. Загрузите приложение, чтобы просмотреть все узлы)</h4>
     
 ```
-ss://YWVzLTI1Ni1nY206ODk2ODJlNTgtMzdiNi00MjlhLWFlNjQtM2E4ZTQ1Mjg3MjZl@165.232.173.137:8443#%D0%A1%D0%B8%D0%BD%D0%B3%D0%B0%D0%BF%D1%83%D1%80
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@193.29.139.179:8080#%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B
-vmess://eyJhZGQiOiAidHdqeGxubm9sanhjLmpraGtnai54eXoiLCAidiI6ICIyIiwgInBzIjogIlx1MDQyMlx1MDQzMFx1MDQzOVx1MDQzMlx1MDQzMFx1MDQzZFx1MDQ0YyIsICJwb3J0IjogODAsICJpZCI6ICJiMGFmNGQxNC1kYjlkLTQyMTctYjAxMC01ZmQyYTRiODA1OTAiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiZmlsZS5kaW5ndGFsay5jb20iLCAicGF0aCI6ICIvbWFya2V0L3R3P2VkPTUxMiIsICJ0bHMiOiAiIn0=
-vmess://eyJhZGQiOiAiWGN2Zmd0NS4yMjI1NjAueHl6IiwgInYiOiAiMiIsICJwcyI6ICJcdTA0MjFcdTA0MjhcdTA0MTAiLCAicG9ydCI6IDgwLCAiaWQiOiAiMTlhNzhlZWItZDgzYS00MzY0LWIwOTUtYjdkZDkzNDM2MzIwIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogInhjdmZndDUuMjIyNTYwLnh5eiIsICJwYXRoIjogIi83TEJQZXRoZ1d4RG9WdXpPMFdMaWpJRCIsICJ0bHMiOiAiIn0=
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.170:443#%D0%A1%D0%A8%D0%90
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@92.118.205.228:990#%D0%9F%D0%BE%D0%BB%D1%8C%D1%88%D0%B0
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.62.163:443#%D0%A8%D0%B2%D0%B5%D0%B9%D1%86%D0%B0%D1%80%D0%B8%D1%8F
+trojan://288124da-0d68-42f4-9f48-70dc4dcc55a6@172.67.175.139:443?allowInsecure=0&sni=cvFbghYU.859886.XYZ&type=ws&host=cvFbghYU.859886.XYZ&path=/raChT39pjLFYRA5HdHEIupMZeK#%D0%A1%D0%A8%D0%90
+trojan://a4291a2a-d62c-4eb9-ac7a-ac7355d1eda2@172.67.172.71:443?allowInsecure=0&sni=666666Y.999165.XYZ&type=ws&host=666666Y.999165.XYZ&path=/mFvK3LJyIAe8ydvnmRKWDa8#%D0%A1%D0%A8%D0%90
+trojan://bpb-trojan@104.21.75.193:443?allowInsecure=0&sni=mashdt.pages.dev&type=ws&host=mashdt.pages.dev&path=/tr?ed=2560#%D0%A1%D0%A8%D0%90
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.160:443#%D0%A1%D0%A8%D0%90
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.193:443#%D0%91%D1%80%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D1%8F
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.68.135.18:8118#%D0%A1%D0%A8%D0%90
 ```
 <h5>Адрес постоянной подписки верхнего узла (части): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ru</h5>
  <p>QR-код для адреса подписки выше</p>

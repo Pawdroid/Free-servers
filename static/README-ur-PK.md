@@ -35,12 +35,13 @@
  <h4>نوڈ کی فہرست: (یہاں صرف کچھ نوڈس دکھائے گئے ہیں، براہ کرم تمام نوڈس دیکھنے کے لیے ایپ ڈاؤن لوڈ کریں)</h4>
     
 ```
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.68.135.18:3389#United+States
-vmess://eyJhZGQiOiAidjcubm1jZi5tZSIsICJ2IjogIjIiLCAicHMiOiAiU2luZ2Fwb3JlIiwgInBvcnQiOiA4MDAwLCAiaWQiOiAiZTNiZTkzYTgtNTRhYy00OGIyLWIwNzktNmMwZDNkNTIzZTg3IiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogInd3dy5iaW5nLmNvbSIsICJwYXRoIjogIi9ubWtqIiwgInRscyI6ICIifQ==
-vmess://eyJhZGQiOiAiNTcuMTI5LjI0LjEyNSIsICJ2IjogIjIiLCAicHMiOiAiR2VybWFueSIsICJwb3J0IjogNDQzLCAiaWQiOiAiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogImF2ZWlyb3IuY29tIiwgInBhdGgiOiAiL2xpbmt2d3MiLCAidGxzIjogInRscyJ9
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.170:443#United+States
-trojan://telegram-id-privatevpns@13.38.226.121:22222?sni=trojan.burgerip.co.uk#France
-trojan://d6b8011a-c725-435a-9fec-bf6d3530392c@104.25.254.4:2087?sni=vle.amclubdns.dpdns.org&allowInsecure=1&type=ws&path=%2F%3Fed%3D2560%26PROT_TYPE%3Dtrojan&host=vle.amclubdns.dpdns.org#United+States
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.243:443#United+States
+trojan://13e26f64-2e0c-4461-92cd-d83294cc18f0@104.21.76.21:443?allowInsecure=0&sni=WwwDe.00890604.XyZ&type=ws&host=WwwDe.00890604.XyZ&path=/TDUxZUop9k44oPiit2OdWk0KwirdY#United+States
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.62.161:443#Switzerland
+ss://YWVzLTEyOC1nY206MTYyNjI5ZDctY2IxNy00M2IxLTgyYzktZjljN2FlNmNiYTcw@82.180.146.173:30607#Belgium
+vmess://eyJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJhZGQiOiAiczUuZGItbGluazAxLnRvcCIsICJwb3J0IjogMjA4MiwgImlkIjogImM3ODIwMDY1LWZhMDUtMzZkNi1hYjc3LTU2ZTRiMDNjNTg4MSIsICJ0eXBlIjogIiIsICJhaWQiOiAwLCAibmV0IjogIndzIiwgInRscyI6ICIiLCAicGF0aCI6ICIvZGFiYWkuaW4xMDQuMjAuNjQuMjE3IiwgImhvc3QiOiAiMTAwLTQ3LTIxMy0xMTYuczUuZGItbGluazAxLnRvcCJ9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.251:8080#The+Netherlands
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1UVM1bnRWcUMwMHNTS2tlTnpVaUQz@89.23.103.125:42090#The+Netherlands
 ```
 <h5>اوپری نوڈ کا مستقل رکنیت کا پتہ (حصہ): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ur-PK</h5>
  <p>اوپر سبسکرپشن ایڈریس کے لیے QR کوڈ</p>
