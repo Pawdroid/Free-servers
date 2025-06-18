@@ -35,13 +35,13 @@
  <h4>Knotenliste: (Hier werden nur einige Knoten angezeigt. Bitte laden Sie die App herunter, um alle Knoten anzuzeigen.)</h4>
     
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@103.104.247.49:8080#Niederlande
-trojan://13e26f64-2e0c-4461-92cd-d83294cc18f0@104.21.76.21:443?allowInsecure=0&sni=WwwDe.00890604.XyZ&type=ws&host=WwwDe.00890604.XyZ&path=/TDUxZUop9k44oPiit2OdWk0KwirdY#USA
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.204:443#USA
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.197:443#UK
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.121.43.97:8091#USA
-trojan://13e26f64-2e0c-4461-92cd-d83294cc18f0@172.67.185.107:443?allowInsecure=0&sni=WwwDe.00890604.XyZ&type=ws&host=WwwDe.00890604.XyZ&path=/TDUxZUop9k44oPiit2OdWk0KwirdY#USA
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpydFI0WVg3NHZ3cVJKdTlNR0gzZTFOM0NRZEdNV0NVRmt5TGlzaWppRnV2aGtVOU1jVjVUcHlnZmtlcm5KNFVRZTYzSnRjRFFrclE5SGZjaHpxUXoxa0xDblRSb3I4amc=@166.1.157.228:55330#USA
+vmess://eyJhZGQiOiAiNDYuMjUwLjIzNy4xOTYiLCAidiI6ICIyIiwgInBzIjogIlVLIiwgInBvcnQiOiAyOTk5OSwgImlkIjogImIzMWZjMTM0LTk3OGUtNDE3Ni04NTc5LTgxMDdkNmEwY2VkZSIsICJhaWQiOiAiMCIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiIiwgInRscyI6ICIifQ==
+vmess://eyJ2IjogIjIiLCAicHMiOiAiQ2hpbmEiLCAiYWRkIjogIm9uZWNhdC11cy4wM2V6aGcwcXNhLmRvd25sb2FkIiwgInBvcnQiOiAiMjUwMjQiLCAidHlwZSI6ICJub25lIiwgImlkIjogIjE0ODliMDcwLWI0NGMtM2QyNy04MjgyLTNlZTJmNzc4Yzk2NSIsICJhaWQiOiAiMCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiLyIsICJob3N0IjogIm9uZWNhdC11cy4wM2V6aGcwcXNhLmRvd25sb2FkIiwgInRscyI6ICIifQ==
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.68.135.18:8119#USA
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@92.118.205.228:990#Polen
+trojan://d6b8011a-c725-435a-9fec-bf6d3530392c@198.62.62.4:443?sni=vle.amclubsvip.dpdns.org&allowInsecure=1&type=ws&path=%2F%3Fed%3D2560%26PROT_TYPE%3Dtrojan&host=vle.amclubsvip.dpdns.org#USA
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvMzh5dXZ6U2UzbTVhRE5wSHRVUEgxekd3YkdFWFhNRHNHd1ZhdWIyU1lFbUhVYTJXR1pVamllelgzVnZ2YTlDQ3pwanhZdHVKTGdLc1Nuc3lLQmY5Y2lQVmJhM3k0bzM=@beta.mattenadene.org:54075#USA
+vmess://eyJ2IjogIjIiLCAicHMiOiAiVVNBIiwgImFkZCI6ICJMbGxMTExsbGxsTEtKaC4yMjI1NjAueHlaIiwgInBvcnQiOiAiODAiLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJpZCI6ICJjZTkyMTM4NS0yYjMxLTQ1ZmUtODRjNS0xODQzZThhZTg0NWIiLCAic25pIjogIiIsICJob3N0IjogImxsbGxsbGxsbGxsa2poLjIyMjU2MC54eXoiLCAicGF0aCI6ICIvVmFhU0VmTkxIZFczSTk4ZHhMa2V6In0=
 ```
 <h5>Die permanente Abonnementadresse des oberen Knotens (Teil): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_de</h5>
  <p>QR-Code für die Abonnementadresse oben</p>
