@@ -35,13 +35,13 @@
  <h4>نوڈ کی فہرست: (یہاں صرف کچھ نوڈس دکھائے گئے ہیں، براہ کرم تمام نوڈس دیکھنے کے لیے ایپ ڈاؤن لوڈ کریں)</h4>
     
 ```
-ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@38.143.66.87:9102#United+States
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.121.43.71:8888#United+States
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.62.161:443#Switzerland
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.121.43.71:5601#United+States
-trojan://ypDt8RkT7J@89.187.181.172:43118#United+States
-vmess://eyJhZGQiOiAiMTU0LjI2LjEzNC4yMjEiLCAidiI6ICIyIiwgInBzIjogIlNpbmdhcG9yZSIsICJwb3J0IjogNTQ4MTMsICJpZCI6ICJkZjljNmU5ZS05ZTdhLTRkMDYtODhiYi05YjI5MzM3Yjk3M2YiLCAiYWlkIjogIjAiLCAibmV0IjogInRjcCIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAiIn0=
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.35:8080#Lithuania
+vmess://eyJhZGQiOiAiMTUwMDIudnBkbnNzLnRvcCIsICJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJwb3J0IjogMTUwMDIsICJpZCI6ICI5ZjUxMzE2MS01NzZiLTNhYmMtOWM5OC0wNmU1MmMzYTI0YzYiLCAiYWlkIjogIjAiLCAibmV0IjogInRjcCIsICJ0eXBlIjogIiIsICJob3N0IjogIjE1MDAyLnZwZG5zcy50b3AiLCAicGF0aCI6ICIvIiwgInRscyI6ICIifQ==
+vmess://eyJhZGQiOiAiT09vT09Pb29PcC4yMjI3NjkuWFlaIiwgInYiOiAiMiIsICJwcyI6ICJVbml0ZWQgU3RhdGVzIiwgInBvcnQiOiA4MCwgImlkIjogImNlOTIxMzg1LTJiMzEtNDVmZS04NGM1LTE4NDNlOGFlODQ1YiIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIvVmFhU0VmTkxIZFczSTk4ZHhMa2V6IiwgInRscyI6ICIifQ==
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.121.43.71:2376#United+States
+vmess://eyJhZGQiOiAiaGsyLmxyemR4LnVrIiwgInYiOiAiMiIsICJwcyI6ICJVbml0ZWQgU3RhdGVzIiwgInBvcnQiOiA0NDMsICJpZCI6ICJkYjY5ZDViYy1kMzZjLTQ5MDMtZjQ3MS03NGI5OGM1Y2VmZTUiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiL3JlZ2lzdGVyIiwgInRscyI6ICJ0bHMifQ==
+vmess://eyJhZGQiOiAiODQuMjQ3LjE0OS43NyIsICJ2IjogIjIiLCAicHMiOiAiR2VybWFueSIsICJwb3J0IjogNDcyMTEsICJpZCI6ICJmYjY3NDI2MC0xYzIxLTRmOTktOGJkMC0zZDFkMzQxYzY3NzEiLCAiYWlkIjogIjAiLCAibmV0IjogInRjcCIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAiIn0=
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.47.130:443#United+States
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.121.43.97:8080#United+States
 ```
 <h5>اوپری نوڈ کا مستقل رکنیت کا پتہ (حصہ): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ur-PK</h5>
  <p>اوپر سبسکرپشن ایڈریس کے لیے QR کوڈ</p>

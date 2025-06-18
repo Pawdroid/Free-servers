@@ -35,13 +35,13 @@
  <h4>नोड सूची: (यहां केवल कुछ नोड्स प्रदर्शित हैं, कृपया सभी नोड्स देखने के लिए ऐप डाउनलोड करें)</h4>
     
 ```
-trojan://telegram-id-directvpn@18.195.228.194:22223?sni=trojan.burgerip.co.uk#Germany
-vmess://eyJhZGQiOiAiNS4xODIuMzcuMjMxIiwgInYiOiAiMiIsICJwcyI6ICJSb21hbmlhIiwgInBvcnQiOiA0OTY2NCwgImlkIjogIjkzOTU0NzRjLWUyYTEtNDU2NS1iYTU2LWMxNmU3MzczYzRjNCIsICJhaWQiOiAiMCIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiIiwgInRscyI6ICIifQ==
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.154.136.51:8888#United+States
-trojan://30602b6d-5d5c-4f56-9b65-9ae2fd9348cb@172.67.209.79:443?allowInsecure=0&sni=sssxcvfgty.999834.xyz&type=ws&host=sssxcvfgty.999834.xyz&path=/MwXI8nfdPkSDsYEGVHqPd73hl#United+States
-vmess://eyJhZGQiOiAidjYubm1jZi5tZSIsICJ2IjogIjIiLCAicHMiOiAiSG9uZyBLb25nIiwgInBvcnQiOiA0ODQyMiwgImlkIjogImUzYmU5M2E4LTU0YWMtNDhiMi1iMDc5LTZjMGQzZDUyM2U4NyIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJ3d3cuYmluZy5jb20iLCAicGF0aCI6ICIvbm1raiIsICJ0bHMiOiAiIn0=
-vmess://eyJhZGQiOiAiODQuMjQ3LjE0Ni4xNjEiLCAidiI6ICIyIiwgInBzIjogIkdlcm1hbnkiLCAicG9ydCI6IDM5NTMwLCAiaWQiOiAiN2FhNTZlMzktMjliOC00NWMzLThiNTMtNmQyYTIzYjI0NjFjIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIiLCAidGxzIjogIiJ9
-ss://YWVzLTEyOC1nY206ckdEYmlGN2d0eDVUV3Q0cjRWam5lUT09@156.225.22.213:552#Hong+Kong
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.68.135.18:3389#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMzgzNzIyNGVkNDY1ZjAw@45.144.48.63:57456#Poland
+vmess://eyJhZGQiOiAieXNsLmZ4bGNuLmNvbSIsICJ2IjogIjIiLCAicHMiOiAiU2luZ2Fwb3JlIiwgInBvcnQiOiA0NTQxOSwgImlkIjogIjQ2OWUwYjMxLTMwYzMtNGRhYi04MDBkLTcxMTIzMjYzNGNlMSIsICJhaWQiOiAiMCIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiIiwgInRscyI6ICIifQ==
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.68.135.18:5003#United+States
+vmess://eyJhZGQiOiAiNDUuMTIuMTM4LjQ3IiwgInYiOiAiMiIsICJwcyI6ICJTd2VkZW4iLCAicG9ydCI6IDIyODM5LCAiaWQiOiAiMjg1OGE0MDQtZDBjYS00ZDY3LTgwYTYtY2U4ZTk1ZTM4M2ZmIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIiLCAidGxzIjogIiJ9
+trojan://ypDt8RkT7J@89.187.181.179:43118#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNlpDSGVhYlVTZktqZlFFdko0SERW@185.242.86.156:54170#The+Netherlands
 ```
 <h5>ऊपरी नोड (भाग) का स्थायी सदस्यता पता: https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_hi</h5>
  <p>उपरोक्त सदस्यता पते के लिए QR कोड</p>

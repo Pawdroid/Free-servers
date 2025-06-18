@@ -35,13 +35,13 @@
 <h4>Node list: (Only some nodes are shown here, please download the app to view all nodes)</h4>
     
 ```
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.160:443#United+States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@92.118.205.228:990#Poland
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@38.68.135.18:9102#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvMzh5dXZ6U2UzbTVhRE5wSHRVUEgxekd3YkdFWFhNRHNHd1ZhdWIyU1lFbUhVYTJXR1pVamllelgzVnZ2YTlDQ3pwanhZdHVKTGdLc1Nuc3lLQmY5Y2lQVmJhM3k0bzM=@beta.mattenadene.org:54075#United+States
 ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@38.143.66.87:6697#United+States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPWDc2bmRnVGN5RVNlVW5aZTByNWRP@150.241.69.126:3452#Spain
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWEdwMStpaGxmS2c4MjZI@185.177.229.245:1866#Germany
-vmess://eyJhZGQiOiAiMTA0LjIxLjgwLjEiLCAidiI6ICIyIiwgInBzIjogIlVuaXRlZCBTdGF0ZXMiLCAicG9ydCI6IDg0NDMsICJpZCI6ICJmMTA1OThlMi1jNjA2LTQ5NDUtYmZkZS1lNTczMDc1NmEyZGQiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAidXMwMS5zaC1jbG91ZGZsYXJlLnNicyIsICJwYXRoIjogIi8iLCAidGxzIjogInRscyJ9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@134.255.210.49:990#Cyprus
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.121.43.97:8091#United+States
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.47.131:443#United+States
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@38.121.43.71:9101#United+States
+ss://YWVzLTEyOC1nY206Nzk3Mzk4MzItYjg4OC00MTVhLWE0NTQtOGI1MzkxMWM5NDRh@vps.200566.xyz:30332#Taiwan
 ```
 <h5>Permanent subscription address of the node above (part): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_en</h5>
 <p>QR code of the subscription address above</p>

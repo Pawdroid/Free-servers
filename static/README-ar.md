@@ -35,13 +35,13 @@
  <h4>قائمة العقد: (يتم عرض بعض العقد فقط هنا، يرجى تنزيل التطبيق لعرض جميع العقد)</h4>
     
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@134.255.210.49:990#Cyprus
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.28:8080#Lithuania
-vmess://eyJhZGQiOiAiNDMuMTUzLjEwNC42MiIsICJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJwb3J0IjogNDUxMTMsICJpZCI6ICI5N2NjMDMyMy1kZTUzLTRhNzUtZDY5ZC1jNmFjZGFjNWZkYzciLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiLzk3Y2MwMzIzIiwgInRscyI6ICIifQ==
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.121.43.97:8091#United+States
-trojan://13253e6e-a1f7-4090-801f-a8dc2b083bef@104.21.75.120:443?allowInsecure=0&sni=inviNcIble.fafa20.ShOp&type=ws&host=inviNcIble.fafa20.ShOp&path=/tr7PXHQRn4VPwGA2zY/c2hpcmVuLnlhZW1pa28uZ2dmZi5uZXQ=?ed=2560#United+States
-trojan://ttfang@8.219.77.72:5027?allowInsecure=1&sni=ttfang.fange.me&type=ws&host=ttfang.fange.me&path=/#Singapore
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@23.154.136.51:6697#United+States
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@38.121.43.71:8009#United+States
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.121.43.71:5600#United+States
+vmess://eyJhZGQiOiAiNTcuMTI5LjI1LjI1IiwgInYiOiAiMiIsICJwcyI6ICJGcmFuY2UiLCAicG9ydCI6IDQ0MywgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJmLmtoaWxlaS5jb20iLCAicGF0aCI6ICIvbGlua3Z3cyIsICJ0bHMiOiAidGxzIn0=
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@38.121.43.71:8008#United+States
+vmess://eyJhZGQiOiAiNDUuOC4xNDUuMTQ1IiwgInYiOiAiMiIsICJwcyI6ICJUaGUgTmV0aGVybGFuZHMiLCAicG9ydCI6IDMwNTIwLCAiaWQiOiAiMzAzODAyNGYtM2EzNC00MjI4LWI2MWMtZDc0MWIyZmJlYzhmIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIiLCAidGxzIjogIiJ9
+trojan://288124da-0d68-42f4-9f48-70dc4dcc55a6@172.67.200.11:443?allowInsecure=0&sni=rRfGty6.890606.XYz&type=ws&host=rRfGty6.890606.XYz&path=/raChT39pjLFYRA5HdHEIupMZeK#United+States
+trojan://ypDt8RkT7J@89.187.181.172:43118#United+States
 ```
 <h5>عنوان الاشتراك الدائم للعقدة العليا (جزء): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ar</h5>
  <p>رمز الاستجابة السريعة لعنوان الاشتراك أعلاه</p>

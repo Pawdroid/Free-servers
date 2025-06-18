@@ -35,13 +35,13 @@
  <h4>Lista węzłów: (wyświetlane są tutaj tylko niektóre węzły. Pobierz aplikację, aby wyświetlić wszystkie węzły)</h4>
     
 ```
-vmess://eyJhZGQiOiAiNS4xODIuMzcuMjMxIiwgInYiOiAiMiIsICJwcyI6ICJSb21hbmlhIiwgInBvcnQiOiA0OTY2NCwgImlkIjogIjkzOTU0NzRjLWUyYTEtNDU2NS1iYTU2LWMxNmU3MzczYzRjNCIsICJhaWQiOiAiMCIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiIiwgInRscyI6ICIifQ==
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphTEFLTWRTT1JOTDd1aWkxbmNTSlM2@62.210.88.22:443#France
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMzgzNzIyNGVkNDY1ZjAw@45.144.48.63:57456#Poland
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvMzh5dXZ6U2UzbTVhRE5wSHRVUEgxekd3YkdFWFhNRHNHd1ZhdWIyU1lFbUhVYTJXR1pVamllelgzVnZ2YTlDQ3pwanhZdHVKTGdLc1Nuc3lLQmY5Y2lQVmJhM3k0bzM=@94.131.21.174:54075#United+States
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.78:443#United+Kingdom
-vmess://eyJhZGQiOiAiNjYuOTQuMTE0LjEyMiIsICJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJwb3J0IjogNTM1MDMsICJpZCI6ICJjOWI5ZGVhMy01ODY4LTQ3N2YtZTU0ZC0yYzhmMTI0ZjY0N2QiLCAiYWlkIjogIjAiLCAibmV0IjogInRjcCIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAiIn0=
-vmess://eyJhZGQiOiAiMTA0LjIxLjExMi4xIiwgInYiOiAiMiIsICJwcyI6ICJVbml0ZWQgU3RhdGVzIiwgInBvcnQiOiAyMDk2LCAiaWQiOiAiYjM5MjhmOGQtZWE4MS00ZDc1LWJjZWMtNDAxNmEwNzJhZGZmIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogImRlMDEuc2gtY2xvdWRmbGFyZS5zYnMiLCAicGF0aCI6ICIvIiwgInRscyI6ICJ0bHMifQ==
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.68.135.18:8118#United+States
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.110.1.88:5600#United+States
+vmess://eyJhZGQiOiAiNjIuMTQ2LjIzMy42NiIsICJ2IjogIjIiLCAicHMiOiAiR2VybWFueSIsICJwb3J0IjogMTU4MjgsICJpZCI6ICI4YjljZjNkYy1jMjgyLTQyNGYtYTU5MC1jNDVjOWEzNmQzZjkiLCAiYWlkIjogIjAiLCAibmV0IjogInRjcCIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAiIn0=
+trojan://2cba4104747d49d18319e5ade1b93ab5@161.35.34.48:443?sni=yourjobnavigator.online#United+Kingdom
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.68.135.18:8000#United+States
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.121.43.27:443#United+States
+trojan://ttfang@138.2.95.61:1111?allowInsecure=1&sni=ttfang.fange.me&type=ws&host=ttfang.fange.me&path=/#Singapore
 ```
 <h5>Stały adres subskrypcji górnego węzła (część): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_pl</h5>
  <p>Kod QR dla adresu subskrypcji powyżej</p>
