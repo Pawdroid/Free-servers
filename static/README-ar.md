@@ -35,13 +35,13 @@
  <h4>قائمة العقد: (يتم عرض بعض العقد فقط هنا، يرجى تنزيل التطبيق لعرض جميع العقد)</h4>
     
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTamRHQ0h3YWZqa3R0MXJ6cEd4VEtZVHZWQldiOFhhNkU1RFRyNk16YmRIUVN3dnBMaURjemozbjZNQmp5MnV5RlN6Z3FndkNXc0RRbXBNNFZRemZQenlHWUY1OHdkeUQ=@208.67.105.196:42029#The+Netherlands
-vmess://eyJhZGQiOiAiMmY0MTg4ODctc3Y0bjQwLXN5bGZpbC0xZ2NxMi5oazMucDVwdi5jb20iLCAidiI6ICIyIiwgInBzIjogIkhvbmcgS29uZyIsICJwb3J0IjogODAsICJpZCI6ICI3NTliZjAwNC02MTM3LTExZWMtYmQ3Yy1mMjNjOTEzYzhkMmIiLCAiYWlkIjogIjIiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiLyIsICJ0bHMiOiAiIn0=
-trojan://f75b2c90-34da-4b87-90ce-5c7874573f12@iepl.tube-cat.com:20034?sni=IN.catxstar.com#Japan
-ss://YWVzLTEyOC1nY206Nzk3Mzk4MzItYjg4OC00MTVhLWE0NTQtOGI1MzkxMWM5NDRh@vps.200566.xyz:30332#Taiwan
-vmess://eyJhZGQiOiAiNTcuMTI5LjI0LjEyNSIsICJ2IjogIjIiLCAicHMiOiAiR2VybWFueSIsICJwb3J0IjogNDQzLCAiaWQiOiAiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogImF2ZWlyb3IuY29tIiwgInBhdGgiOiAiL2xpbmt2d3MiLCAidGxzIjogInRscyJ9
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.121.43.97:5000#United+States
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.121.43.71:8090#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.123.101.241:990#T%C3%BCrkiye
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.170:443#United+States
+vmess://eyJhZGQiOiAiOTUuMTY0LjM4LjYiLCAidiI6ICIyIiwgInBzIjogIk5vcndheSIsICJwb3J0IjogMjE5MzgsICJpZCI6ICI1ODNiZWJlZi0zZTBiLTRjODUtYmE4MC0zOWUwN2NlMzVhZDkiLCAiYWlkIjogIjAiLCAibmV0IjogInRjcCIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAiIn0=
+vmess://eyJhZGQiOiAiZ292LnVrIiwgInYiOiAiMiIsICJwcyI6ICJVbml0ZWQgU3RhdGVzIiwgInBvcnQiOiA0NDMsICJpZCI6ICI3Nzg0ODgyNC05M2I3LTRiODktZmZkMC1lOTFhZmZmNDA2Y2UiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiemhlc2hpc2NwLmNvbSIsICJwYXRoIjogIi83Nzg0ODgyNCIsICJ0bHMiOiAidGxzIn0=
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplMzM0N2VmZDVlZGNmYjA2@51.222.204.64:10597#Canada
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@64.74.163.130:990#United+States
+trojan://telegram-id-privatevpns@3.123.63.21:22222?security=tls&sni=trojan.burgerip.co.uk#Germany
 ```
 <h5>عنوان الاشتراك الدائم للعقدة العليا (جزء): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ar</h5>
  <p>رمز الاستجابة السريعة لعنوان الاشتراك أعلاه</p>

@@ -35,13 +35,13 @@
  <h4>Danh sách nút: (Chỉ hiển thị một số nút ở đây, vui lòng tải xuống ứng dụng để xem tất cả các nút)</h4>
     
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.158.171.146:8080#United+States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.202:8080#The+Netherlands
-vmess://eyJhZGQiOiAiMTA0LjIxLjE2LjEiLCAidiI6ICIyIiwgInBzIjogIlVuaXRlZCBTdGF0ZXMiLCAicG9ydCI6IDg0NDMsICJpZCI6ICJmMTA1OThlMi1jNjA2LTQ5NDUtYmZkZS1lNTczMDc1NmEyZGQiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAidXMwMS5zaC1jbG91ZGZsYXJlLnNicyIsICJwYXRoIjogIi8iLCAidGxzIjogInRscyJ9
-vmess://eyJhZGQiOiAiMTU4LjE4MC4yMjguMjI2IiwgInYiOiAiMiIsICJwcyI6ICJJdGFseSIsICJwb3J0IjogNDQzLCAiaWQiOiAiOWI0NTZjMmEtZjJjMS00NWUxLTg3YTktYjc2MjhiMDRiYjI0IiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogImJleW9uZGRzei5jZmQiLCAicGF0aCI6ICIvbGlua3dzIiwgInRscyI6ICJ0bHMifQ==
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.121.43.97:8881#United+States
-trojan://telegram-id-privatevpns@15.236.162.49:22222?security=tls&sni=trojan.burgerip.co.uk#France
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.68.135.18:8118#United+States
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.154.136.51:8888#United+States
+vmess://eyJhZGQiOiAib3J2cHMyLmhvcnNlbm1hLm5ldCIsICJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJwb3J0IjogODQ0MywgImlkIjogIjU3ZTU5NWU2LWVmNTQtNGUwZC1iOGRmLWU5NmRiOTYxMmI5OSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJvcnZwczIuaG9yc2VubWEubmV0IiwgInBhdGgiOiAiL2hvcnNlbiIsICJ0bHMiOiAidGxzIn0=
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWEdwMStpaGxmS2c4MjZI@185.177.229.245:1866#Germany
+vmess://eyJhZGQiOiAiMTA0LjE3LjE3Ni4xNzEiLCAidiI6ICIyIiwgInBzIjogIlVuaXRlZCBTdGF0ZXMiLCAicG9ydCI6IDgwODAsICJpZCI6ICI2Y2JjOWM3OC0xY2IxLTU3ZDQtYTk5OS1lMmY0ZTM0YzFlMDMiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAia2U3aHozNmV3ei00NTE1MDE3NDczLm1hc2hhbGxhaGJldC5jb20iLCAicGF0aCI6ICIvbmFzbmV0L2NkbiIsICJ0bHMiOiAiIn0=
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@64.74.163.130:990#United+States
+ss://YWVzLTI1Ni1nY206VEc6QEVua2VsdGVfbm90aWYmJlRHOkBOb3RpZl9DaGF0@116.206.124.41:34045#Thailand
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@ca225.vpnbook.com:80#Canada
 ```
 <h5>Địa chỉ đăng ký vĩnh viễn của nút trên (một phần): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_vi</h5>
  <p>Mã QR cho địa chỉ đăng ký ở trên</p>

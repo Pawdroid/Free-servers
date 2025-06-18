@@ -35,13 +35,13 @@
  <h4>Knotenliste: (Hier werden nur einige Knoten angezeigt. Bitte laden Sie die App herunter, um alle Knoten anzuzeigen.)</h4>
     
 ```
-trojan://ypDt8RkT7J@89.187.181.179:43118#USA
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.157:8080#Litauen
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@beesyar.org:8080#Litauen
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.121.43.71:8888#USA
-trojan://172b2279-f7f5-4542-ab6c-9e96ad7dd5be@34.219.248.218:443?sni=ni.mjt000.com#USA
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.121.43.71:7001#USA
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@193.29.139.179:8080#Niederlande
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSaVB1S0pKbDE4Wmd2THBUald4QndTZktpUGt0OWd6Rkt5eEdDWThlSHRPY0RiMlg=@5.189.201.250:31348#Russland
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.196:443#UK
+vmess://eyJhZGQiOiAiMTUuMjA0LjI0OC45MiIsICJ2IjogIjIiLCAicHMiOiAiVVNBIiwgInBvcnQiOiAzMDU2MiwgImlkIjogIjgyNDY2NzE1LTZhNTgtNDA0Ni1hMzYzLWEwZDE4ZTViMmFiNCIsICJhaWQiOiAiMCIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiIiwgInRscyI6ICIifQ==
+vmess://eyJhZGQiOiAiOTQuMTM2LjE4NS4yMzAiLCAidiI6ICIyIiwgInBzIjogIkRldXRzY2hsYW5kIiwgInBvcnQiOiAxMDUzNCwgImlkIjogImIwMWM3ZWY5LTMzZWMtNDFmNi1iZmJmLTc3ZGRjNGQyMTY0OSIsICJhaWQiOiAiMCIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiIiwgInRscyI6ICIifQ==
+vmess://eyJhZGQiOiAiMjMuMTU4LjU2LjI0MSIsICJ2IjogIjIiLCAicHMiOiAiRGV1dHNjaGxhbmQiLCAicG9ydCI6IDQ0MywgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJ3cm1lbG13eGxmLmdrdGV2bHJxem53cXFvenkuZmFicGZzNjZnaXptbm9qaGN2cXh3bC5reXRyY2Z6cWxhODdndmd2czZjN2tqbnJ1YnVoLmNjIiwgInBhdGgiOiAiL2xpbmt2d3MiLCAidGxzIjogInRscyJ9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTamRHQ0h3YWZqa3R0MXJ6cEd4VEtZVHZWQldiOFhhNkU1RFRyNk16YmRIUVN3dnBMaURjemozbjZNQmp5MnV5RlN6Z3FndkNXc0RRbXBNNFZRemZQenlHWUY1OHdkeUQ=@208.67.105.196:42029#Niederlande
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.181:8080#Litauen
 ```
 <h5>Die permanente Abonnementadresse des oberen Knotens (Teil): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_de</h5>
  <p>QR-Code für die Abonnementadresse oben</p>
