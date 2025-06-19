@@ -35,13 +35,12 @@
  <h4>Список узлов: (здесь показаны только некоторые узлы. Загрузите приложение, чтобы просмотреть все узлы)</h4>
     
 ```
-vmess://eyJhZGQiOiAiMWEyZDUxNGItMzdjZi00OTlmLThkMDgtZDAxN2E5MmFiNWJiLmFzb3VsLWF2YS50b3AiLCAidiI6ICIyIiwgInBzIjogIlx1MDQyMVx1MDQyOFx1MDQxMCIsICJwb3J0IjogNDQzLCAiaWQiOiAiNWY3MjZmZTMtZDgyZS00ZGE1LWE3MTEtOGFmMGNiYjJiNjgyIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogIjFhMmQ1MTRiLTM3Y2YtNDk5Zi04ZDA4LWQwMTdhOTJhYjViYi5hc291bC1hdmEudG9wIiwgInBhdGgiOiAiL2F6dW1hc2UucmVuIiwgInRscyI6ICJ0bHMifQ==
-trojan://ttfang@198.41.221.10:443?allowInsecure=0&sni=ttfang.fange.me&type=ws&host=ttfang.fange.me&path=/Telegram🇨🇳+@WangCai2+/?ed=2560#%D0%A1%D0%A8%D0%90
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.62.161:443#%D0%A8%D0%B2%D0%B5%D0%B9%D1%86%D0%B0%D1%80%D0%B8%D1%8F
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.121.43.71:8000#%D0%A1%D0%A8%D0%90
-vmess://eyJhZGQiOiAiNDUuODIuMjQ2LjE3MyIsICJ2IjogIjIiLCAicHMiOiAiXHUwNDFjXHUwNDM1XHUwNDNhXHUwNDQxXHUwNDM4XHUwNDNhXHUwNDMwIiwgInBvcnQiOiAyNjUyMSwgImlkIjogImNmZjcwMDFlLTNhNzQtNDNlOC1iZmQ4LWE3YWY5NjMwYTU4YiIsICJhaWQiOiAiMCIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiIiwgInRscyI6ICIifQ==
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.121.43.71:8090#%D0%A1%D0%A8%D0%90
-vmess://eyJhZGQiOiAiNS4yNTMuNDEuMTQ3IiwgInYiOiAiMiIsICJwcyI6ICJcdTA0MjFcdTA0MjhcdTA0MTAiLCAicG9ydCI6IDI3NzUwLCAiaWQiOiAiNGIxOTkyY2MtOGU3Yy00MDAzLWE0NWYtYTI4YzNlNmY2ZmE4IiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIiLCAidGxzIjogIiJ9
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.121.43.71:4444#%D0%A1%D0%A8%D0%90
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnZlY2ODlMY0oyeU1oM25WMjVlRmFn@62.210.88.22:443#%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D1%8F
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.121.43.71:3389#%D0%A1%D0%A8%D0%90
+vmess://eyJhZGQiOiAiNDUuNzkuMTIxLjI0MyIsICJ2IjogIjIiLCAicHMiOiAiXHUwNDE4XHUwNDNkXHUwNDM0XHUwNDM4XHUwNDRmIiwgInBvcnQiOiAxMDAwMiwgImlkIjogIjM2OTlmYTczLWFjNWMtNDFjYS04ZDZlLWZlNGNiNzBjN2UwMiIsICJhaWQiOiAiMCIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiIiwgInRscyI6ICIifQ==
+vmess://eyJhZGQiOiAiMTA0LjIxLjgwLjEiLCAidiI6ICIyIiwgInBzIjogIlx1MDQyMVx1MDQyOFx1MDQxMCIsICJwb3J0IjogODQ0MywgImlkIjogImYxMDU5OGUyLWM2MDYtNDk0NS1iZmRlLWU1NzMwNzU2YTJkZCIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJ1czAxLnNoLWNsb3VkZmxhcmUuc2JzIiwgInBhdGgiOiAiLyIsICJ0bHMiOiAidGxzIn0=
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.158.171.146:8080#%D0%A1%D0%A8%D0%90
 ```
 <h5>Адрес постоянной подписки верхнего узла (части): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ru</h5>
  <p>QR-код для адреса подписки выше</p>

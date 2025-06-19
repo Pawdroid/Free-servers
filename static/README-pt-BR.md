@@ -35,13 +35,12 @@
  <h4>Lista de nós: (Apenas alguns nós são exibidos aqui, baixe o aplicativo para visualizar todos os nós)</h4>
     
 ```
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.121.43.71:5004#EUA
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.121.43.71:8118#EUA
-trojan://ttfang@198.41.221.16:443?allowInsecure=0&sni=ttfang.fange.me&type=ws&host=ttfang.fange.me&path=/Telegram🇨🇳+@WangCai2+/?ed=2560#EUA
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnZlY2ODlMY0oyeU1oM25WMjVlRmFn@62.210.88.22:443#Fran%C3%A7a
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.121.43.71:8080#EUA
-trojan://telegram-id-directvpn@15.237.9.7:22223?sni=trojan.burgerip.co.uk#Fran%C3%A7a
-ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@38.68.135.18:9101#EUA
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowUnNyY0ZKMXZPc1dFcWczUDU1aHZhYWNLZnVTaFQwY2MxaDB0OEFEME5BOHUxdVI=@92.38.171.215:31348#Espanha
+vmess://eyJhZGQiOiAiNS4xODAuMzAuMTEwIiwgInYiOiAiMiIsICJwcyI6ICJFVUEiLCAicG9ydCI6IDUxMzUyLCAiaWQiOiAiYmNmODY0NzktYWFiNC00N2NmLTlkNmUtMzRkMzUzYmFhMWEyIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIiLCAidGxzIjogIiJ9
+vmess://eyJhZGQiOiAiMjMuMTU4LjU2LjI0MSIsICJ2IjogIjIiLCAicHMiOiAiQWxlbWFuaGEiLCAicG9ydCI6IDQ0MywgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJ3cm1lbG13eGxmLmdrdGV2bHJxem53cXFvenkuZmFicGZzNjZnaXptbm9qaGN2cXh3bC5reXRyY2Z6cWxhODdndmd2czZjN2tqbnJ1YnVoLmNjIiwgInBhdGgiOiAiL2xpbmt2d3MiLCAidGxzIjogInRscyJ9
+vmess://eyJhZGQiOiAiODQuMjQ3LjE0Ni4xNjEiLCAidiI6ICIyIiwgInBzIjogIkFsZW1hbmhhIiwgInBvcnQiOiAzOTUzMCwgImlkIjogIjdhYTU2ZTM5LTI5YjgtNDVjMy04YjUzLTZkMmEyM2IyNDYxYyIsICJhaWQiOiAiMCIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiIiwgInRscyI6ICIifQ==
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.68.135.18:8119#EUA
+vmess://eyJhZGQiOiAiOTQuMTM2LjE4NC4xNTUiLCAidiI6ICIyIiwgInBzIjogIkFsZW1hbmhhIiwgInBvcnQiOiAzOTI1MywgImlkIjogIjY5YjQ5YTM1LWNmNTUtNGQxNC05ZjJiLWQ3Y2UzYTBkYjcyZSIsICJhaWQiOiAiMCIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiIiwgInRscyI6ICIifQ==
 ```
 <h5>O endereço de assinatura permanente do nó superior (parte): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_pt-BR</h5>
  <p>Código QR do endereço de assinatura acima</p>
