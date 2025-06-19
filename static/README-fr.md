@@ -35,13 +35,13 @@
  <h4>Liste des nœuds: (Seuls certains nœuds sont affichés ici, veuillez télécharger l'application pour afficher tous les nœuds)</h4>
     
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.35:8080#Lituanie
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpucTk2S2Z0clpBajNMdUZRRVNxbW40NE1vNW9DdW8yY2lwb0VzYWUyNW1ybUhHMm9KNFZUMzdzY0JmVkJwTjVEV3RVRUxadXRWaGhYczhMZTVCOGZaOWhMbjl5dHd2YmY=@208.67.105.87:42501#Pays-Bas
-vmess://eyJhZGQiOiAiMTkyLjUzLjExMy4xNTYiLCAidiI6ICIyIiwgInBzIjogIlNpbmdhcG91ciIsICJwb3J0IjogMTAwMDIsICJpZCI6ICIwMzZhMjhjMy01YzhkLTRkZjMtYTc5Yi05ZGE2MjI2NDBmMmIiLCAiYWlkIjogIjAiLCAibmV0IjogInRjcCIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAiIn0=
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.92:8080#Lituanie
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@79.127.233.170:990#Royaume-Uni
-trojan://d6b8011a-c725-435a-9fec-bf6d3530392c@104.25.254.4:2087?sni=vle.amclubdns.dpdns.org&allowInsecure=1&type=ws&path=%2F%3Fed%3D2560%26PROT_TYPE%3Dtrojan&host=vle.amclubdns.dpdns.org#%C3%89tats+Unis
-trojan://4732adfa16c6450bbef87264e41332db@165.22.74.230:443?sni=nextstepcareer.online#Allemagne
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.110.1.88:2376#%C3%89tats+Unis
+vmess://eyJhZGQiOiAiMTM4LjE5OS4xNDYuMTgxIiwgInYiOiAiMiIsICJwcyI6ICJBbGxlbWFnbmUiLCAicG9ydCI6IDEzNDExLCAiaWQiOiAiZWUzZjM3YjEtZTgwNS00YmRjLTlkNDYtODBkZjE4MTg5OWRmIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIiLCAidGxzIjogIiJ9
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.68.135.18:8080#%C3%89tats+Unis
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.69:8080#Lituanie
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.158.171.151:8080#%C3%89tats+Unis
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWEdwMStpaGxmS2c4MjZI@172.233.128.126:1866#%C3%89tats+Unis
+trojan://d6b8011a-c725-435a-9fec-bf6d3530392c@198.62.62.4:443?sni=vle.amclubsvip.dpdns.org&allowInsecure=1&type=ws&path=%2F%3Fed%3D2560%26PROT_TYPE%3Dtrojan&host=vle.amclubsvip.dpdns.org#%C3%89tats+Unis
 ```
 <h5>L'adresse d'abonnement permanente du nœud supérieur (partie): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_fr</h5>
  <p>Code QR pour l'adresse d'abonnement ci-dessus</p>
