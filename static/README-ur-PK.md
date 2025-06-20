@@ -35,12 +35,12 @@
  <h4>نوڈ کی فہرست: (یہاں صرف کچھ نوڈس دکھائے گئے ہیں، براہ کرم تمام نوڈس دیکھنے کے لیے ایپ ڈاؤن لوڈ کریں)</h4>
     
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@134.209.147.198:990#India
-vmess://eyJhZGQiOiAiMTM1LjEyNS4xODIuNzQiLCAidiI6ICIyIiwgInBzIjogIkZyYW5jZSIsICJwb3J0IjogMjgyMTMsICJpZCI6ICI4MTg1Mjc3MS03NmZiLTRlOTQtZTRmMS00ZTM3YTY5OGE0OWEiLCAiYWlkIjogIjAiLCAibmV0IjogInRjcCIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAiIn0=
-trojan://ypDt8RkT7J@89.187.181.172:43118#United+States
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@38.143.66.87:6379#United+States
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.154.136.51:8888#United+States
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.143.66.87:3306#United+States
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.68.135.18:8881#United+States
+vmess://eyJhZGQiOiAiT09vT09Pb29PcC4yMjI3NjkuWFlaIiwgInYiOiAiMiIsICJwcyI6ICJVbml0ZWQgU3RhdGVzIiwgInBvcnQiOiA4MCwgImlkIjogImNlOTIxMzg1LTJiMzEtNDVmZS04NGM1LTE4NDNlOGFlODQ1YiIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIvVmFhU0VmTkxIZFczSTk4ZHhMa2V6IiwgInRscyI6ICIifQ==
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.121.43.71:2375#United+States
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.121.43.71:8119#United+States
+vmess://eyJhZGQiOiAiMTA0LjIxLjgwLjEiLCAidiI6ICIyIiwgInBzIjogIlVuaXRlZCBTdGF0ZXMiLCAicG9ydCI6IDIwOTYsICJpZCI6ICJiMzkyOGY4ZC1lYTgxLTRkNzUtYmNlYy00MDE2YTA3MmFkZmYiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiZGUwMS5zaC1jbG91ZGZsYXJlLnNicyIsICJwYXRoIjogIi8iLCAidGxzIjogInRscyJ9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.158.171.132:8080#United+States
 ```
 <h5>اوپری نوڈ کا مستقل رکنیت کا پتہ (حصہ): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ur-PK</h5>
  <p>اوپر سبسکرپشن ایڈریس کے لیے QR کوڈ</p>

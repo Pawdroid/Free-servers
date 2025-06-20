@@ -35,12 +35,12 @@
  <h4>नोड सूची: (यहां केवल कुछ नोड्स प्रदर्शित हैं, कृपया सभी नोड्स देखने के लिए ऐप डाउनलोड करें)</h4>
     
 ```
-trojan://d6b8011a-c725-435a-9fec-bf6d3530392c@194.53.53.249:2083?sni=vle.amclubsvip.dpdns.org&allowInsecure=1&type=ws&path=%2F%3Fed%3D2560%26PROT_TYPE%3Dtrojan&host=vle.amclubsvip.dpdns.org&fp=chrome#Russia
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.79:443#United+Kingdom
-vmess://eyJhZGQiOiAiOTEuOTkuMTUyLjI0NCIsICJ2IjogIjIiLCAicHMiOiAiR2VybWFueSIsICJwb3J0IjogNDQxODUsICJpZCI6ICI2ZTBiZGI5ZC0wNThhLTRjMzYtYWE1OC00NGE3ODJjYWVjNGYiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiLyIsICJ0bHMiOiAiIn0=
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.121.43.71:5600#United+States
-trojan://installshield@38.180.249.177:8443?sni=38.180.249.177#The+Netherlands
-vmess://eyJhZGQiOiAiZGUwMS5zaC1jbG91ZGZsYXJlLnNicyIsICJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJwb3J0IjogMjA5NiwgImlkIjogIjMzN2VkZWRlLTUwZTMtNGEyNi05N2U3LTdhMTAxM2UyZjFkNSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJkZTAxLnNoLWNsb3VkZmxhcmUuc2JzIiwgInBhdGgiOiAiLyIsICJ0bHMiOiAidGxzIn0=
+vmess://eyJhZGQiOiAiMzU5ZDE3ODUtc3Yyc2cwLXN2aW0wby0xc2xvcC5oay5wNXB2LmNvbSIsICJ2IjogIjIiLCAicHMiOiAiSG9uZyBLb25nIiwgInBvcnQiOiA4MCwgImlkIjogIjUyMGI5MTI2LTk4NzAtMTFlZi04MWIwLWYyM2M5MTY0Y2E1ZCIsICJhaWQiOiAiMiIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJicm9hZGNhc3Rsdi5jaGF0LmJpbGliaWxpLmNvbSIsICJwYXRoIjogIi8iLCAidGxzIjogIiJ9
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.95.183:443#United+States
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.121.43.71:8881#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.164:8080#Lithuania
+vmess://eyJhZGQiOiAiMTUuMjA0Ljg2LjEyMCIsICJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJwb3J0IjogMzU2OTYsICJpZCI6ICJjYWQwNTA0YS1hOWRjLTRkMjktODg0NC1iMTFiNjlmMTRhOGQiLCAiYWlkIjogIjAiLCAibmV0IjogInRjcCIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAiIn0=
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.68.135.18:8881#United+States
 ```
 <h5>ऊपरी नोड (भाग) का स्थायी सदस्यता पता: https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_hi</h5>
  <p>उपरोक्त सदस्यता पते के लिए QR कोड</p>

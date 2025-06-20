@@ -35,12 +35,12 @@
  <h4>Lista węzłów: (wyświetlane są tutaj tylko niektóre węzły. Pobierz aplikację, aby wyświetlić wszystkie węzły)</h4>
     
 ```
-trojan://ypDt8RkT7J@89.187.181.179:43118#United+States
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.47.130:443#United+States
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.47.131:443#United+States
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.244:443#United+States
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.121.43.71:5000#United+States
-ss://YWVzLTEyOC1nY206MTYyNjI5ZDctY2IxNy00M2IxLTgyYzktZjljN2FlNmNiYTcw@82.180.146.173:30607#Belgium
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.121.43.71:8000#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2SVZPdXpNZkg1Uk9wZ3d0UlRjTkpLWUp2WWU5RkRWYVU3d0FZWWg4UFJMeHhaczY=@188.191.147.127:31348#Israel
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWEdwMStpaGxmS2c4MjZI@172.233.128.126:1866#United+States
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@173.244.56.9:443#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@103.104.247.49:8080#The+Netherlands
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.80:443#United+Kingdom
 ```
 <h5>Stały adres subskrypcji górnego węzła (część): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_pl</h5>
  <p>Kod QR dla adresu subskrypcji powyżej</p>

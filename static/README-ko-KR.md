@@ -35,12 +35,12 @@
  <h4>노드 목록: (여기에는 일부 노드만 표시됩니다. 모든 노드를 보려면 앱을 다운로드하세요.)</h4>
     
 ```
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.68.135.18:5500#United+States
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.241:443#United+States
-vmess://eyJhZGQiOiAiNDMuMTUzLjEwNC42MiIsICJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJwb3J0IjogNDUxMTMsICJpZCI6ICI5N2NjMDMyMy1kZTUzLTRhNzUtZDY5ZC1jNmFjZGFjNWZkYzciLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiLzk3Y2MwMzIzIiwgInRscyI6ICIifQ==
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.121.43.71:3389#United+States
-vmess://eyJhZGQiOiAiNS4xODAuMzAuMTQ2IiwgInYiOiAiMiIsICJwcyI6ICJVbml0ZWQgU3RhdGVzIiwgInBvcnQiOiAyNzc3MywgImlkIjogImIyMzQ3MjM5LWRkMTUtNDBiMy1iNjgzLTUwY2MyZmYxOWFlNyIsICJhaWQiOiAiMCIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiIiwgInRscyI6ICIifQ==
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.121.43.97:8080#United+States
+vmess://eyJhZGQiOiAiMTUuMjA0LjIzNC4yMDAiLCAidiI6ICIyIiwgInBzIjogIlVuaXRlZCBTdGF0ZXMiLCAicG9ydCI6IDQxMTAwLCAiaWQiOiAiYzdmMTY5YTMtMmU5YS00ODk0LWJhNTMtN2IyZmE2ZmQwOGI0IiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIiLCAidGxzIjogIiJ9
+trojan://84587c21-9938-42fc-a4b0-4f72dd72b7aa@it.mjt000.com:443#Australia
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@23.154.136.51:6697#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.158.171.151:8080#United+States
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.121.43.97:8091#United+States
+trojan://ypDt8RkT7J@89.187.181.172:43118#United+States
 ```
 <h5>상위 노드(일부)의 영구 구독 주소: https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ko-KR</h5>
  <p>위 구독 주소의 QR 코드</p>

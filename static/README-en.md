@@ -35,12 +35,12 @@
 <h4>Node list: (Only some nodes are shown here, please download the app to view all nodes)</h4>
     
 ```
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.121.43.97:7307#United+States
-trojan://xxoo@138.197.5.103:443#United+States
-vmess://eyJhZGQiOiAiNS4yNTMuNDEuMTQ3IiwgInYiOiAiMiIsICJwcyI6ICJVbml0ZWQgU3RhdGVzIiwgInBvcnQiOiAyNzc1MCwgImlkIjogIjRiMTk5MmNjLThlN2MtNDAwMy1hNDVmLWEyOGMzZTZmNmZhOCIsICJhaWQiOiAiMCIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiIiwgInRscyI6ICIifQ==
-vmess://eyJhZGQiOiAidXMwMS5zaC1jbG91ZGZsYXJlLnNicyIsICJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJwb3J0IjogODQ0MywgImlkIjogIjAyODYyZGE1LWU4NTctNDhiMy1hZGM3LTVmNzRjMTkxOGRlZSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJ1czAxLnNoLWNsb3VkZmxhcmUuc2JzIiwgInBhdGgiOiAiLyIsICJ0bHMiOiAidGxzIn0=
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.62.164:443#Switzerland
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.28:8080#Lithuania
+vmess://eyJhZGQiOiAiMjMuMTY2Ljg4LjE4MyIsICJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJwb3J0IjogMjIzMjQsICJpZCI6ICIwNDYyMWJhZS1hYjM2LTExZWMtYjkwOS0wMjQyYWMxMjAwMDIiLCAiYWlkIjogIjAiLCAibmV0IjogInRjcCIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAiIn0=
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxWHZPN3pZVTdLZWFCME1kN0RRTG93@51.195.119.47:1080#France
+vmess://eyJhZGQiOiAiNDUuMTM3LjE1NS40NSIsICJ2IjogIjIiLCAicHMiOiAiVWtyYWluZSIsICJwb3J0IjogMTc2NDYsICJpZCI6ICI4MjczNDcyNC04YzA2LTRjMmUtOWNmZi1iMzQ3NzZmZTE3NTciLCAiYWlkIjogIjAiLCAibmV0IjogInRjcCIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAiIn0=
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.68.135.18:7001#United+States
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.95.183:443#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWEdwMStpaGxmS2c4MjZI@172.233.128.126:1866#United+States
 ```
 <h5>Permanent subscription address of the node above (part): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_en</h5>
 <p>QR code of the subscription address above</p>
