@@ -35,12 +35,12 @@
  <h4>Knotenliste: (Hier werden nur einige Knoten angezeigt. Bitte laden Sie die App herunter, um alle Knoten anzuzeigen.)</h4>
     
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.28:8080#Litauen
-vmess://eyJhZGQiOiAiNS4xODIuMzcuMjMxIiwgInYiOiAiMiIsICJwcyI6ICJSdW1cdTAwZTRuaWVuIiwgInBvcnQiOiA0OTY2NCwgImlkIjogIjkzOTU0NzRjLWUyYTEtNDU2NS1iYTU2LWMxNmU3MzczYzRjNCIsICJhaWQiOiAiMCIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiIiwgInRscyI6ICIifQ==
-vmess://eyJhZGQiOiAiMTA0LjIxLjgwLjEiLCAidiI6ICIyIiwgInBzIjogIlVTQSIsICJwb3J0IjogODQ0MywgImlkIjogImYxMDU5OGUyLWM2MDYtNDk0NS1iZmRlLWU1NzMwNzU2YTJkZCIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJ1czAxLnNoLWNsb3VkZmxhcmUuc2JzIiwgInBhdGgiOiAiLyIsICJ0bHMiOiAidGxzIn0=
-ss://YWVzLTEyOC1nY206MTYyNjI5ZDctY2IxNy00M2IxLTgyYzktZjljN2FlNmNiYTcw@82.180.146.173:30607#Belgien
-vmess://eyJhZGQiOiAiU3Nzc3Nzc1cuMjIyNTYwLlhZeiIsICJ2IjogIjIiLCAicHMiOiAiVVNBIiwgInBvcnQiOiA4MCwgImlkIjogIjM5M2IxMDYxLWQ2MTUtNDU5YS04NjE2LTNmOTQ0N2JkZmY1YSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIvaVhmaTBtTW1QWXA5VUE2WTM0eldVazZKVVEiLCAidGxzIjogIiJ9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.178:8080#Litauen
+trojan://a4291a2a-d62c-4eb9-ac7a-ac7355d1eda2@104.21.88.37:443?sni=XXcdVFghYUIOp.999165.xyZ&type=ws&path=%2FmFvK3LJyIAe8ydvnmRKWDa8&host=XXcdVFghYUIOp.999165.xyZ&fp=chrome#USA
+trojan://xxoo@us.blazeppn.info:443?sni=us.blazeppn.info#USA
+vmess://eyJhZGQiOiAiNTcuMTI4LjE5OC4xNTIiLCAidiI6ICIyIiwgInBzIjogIkZyYW5rcmVpY2giLCAicG9ydCI6IDgwLCAiaWQiOiAiNzg4MWY5MDYtODE3MC00YWNhLWI5NzEtMzAyYmU3ZjY1YjY2IiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIi92bWVzcy8iLCAidGxzIjogIiJ9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNThmYTYyYjQ5NDRkZGJm@147.45.178.200:57456#Russland
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.47.253.227:990#Ecuador
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@45.139.24.24:57456#Russland
 ```
 <h5>Die permanente Abonnementadresse des oberen Knotens (Teil): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_de</h5>
  <p>QR-Code für die Abonnementadresse oben</p>
