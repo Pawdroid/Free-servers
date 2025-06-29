@@ -35,12 +35,12 @@
  <h4>Knotenliste: (Hier werden nur einige Knoten angezeigt. Bitte laden Sie die App herunter, um alle Knoten anzuzeigen.)</h4>
     
 ```
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@173.244.56.6:443#USA
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.93.173.218:990#Bolivien
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.95.183:443#USA
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.196:443#UK
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.123.101.241:990#T%C3%BCrkei
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.68.134.202:5003#USA
+vmess://eyJhZGQiOiAiMTY5LjE1MC4yMDguODMiLCAidiI6ICIyIiwgInBzIjogIlNjaHdlZGVuIiwgInBvcnQiOiAxODAwMCwgImlkIjogImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSIsICJhaWQiOiAiMCIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiIiwgInRscyI6ICIifQ==
+vmess://eyJhZGQiOiAiMi41Ni4xMjYuMTAzIiwgInYiOiAiMiIsICJwcyI6ICJOb3J3ZWdlbiIsICJwb3J0IjogMzM1NzksICJpZCI6ICIyZWIzZWUyYS03YmY4LTRiNTAtOWI5My0yZDQ4OWQyZjM0NTYiLCAiYWlkIjogIjAiLCAibmV0IjogInRjcCIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAiIn0=
+trojan://c7f423b7-ced8-43da-a9ae-e906cb4a222c@172.67.191.140:443?allowInsecure=0&sni=DdDdddDDdF.999824.Xyz&type=ws&host=DdDdddDDdF.999824.Xyz&path=/dwPcFaK3QxWRQTqot0LE#USA
+vmess://eyJhZGQiOiAiNDUuMTIuMTM4LjQ3IiwgInYiOiAiMiIsICJwcyI6ICJTY2h3ZWRlbiIsICJwb3J0IjogMjI4MzksICJpZCI6ICIyODU4YTQwNC1kMGNhLTRkNjctODBhNi1jZThlOTVlMzgzZmYiLCAiYWlkIjogIjAiLCAibmV0IjogInRjcCIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAiIn0=
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.195:443#UK
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@103.104.247.49:8080#Niederlande
 ```
 <h5>Die permanente Abonnementadresse des oberen Knotens (Teil): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_de</h5>
  <p>QR-Code für die Abonnementadresse oben</p>

@@ -35,12 +35,12 @@
  <h4>Danh sách nút: (Chỉ hiển thị một số nút ở đây, vui lòng tải xuống ứng dụng để xem tất cả các nút)</h4>
     
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3NDFkZGNlZC1lNmVlLTQxNzUtOWMxYS1lNTI0MDA5ZjkwNDU=@144.126.146.38:30100#United+States
-trojan://6757b7d6-fa32-4708-b5d1-30e3cf928b51@172.67.201.36:443?sni=ggGGGGgggGGgGggy.FReevPN2026.DpDNS.Org&allowInsecure=1&type=ws&path=%2Fl96MZ8se5Kl2p8BiMhP42l&host=ggGGGGgggGGgGggy.FReevPN2026.DpDNS.Org&alpn=http%252F1.1#United+States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.158.171.141:8080#United+States
-ss://YWVzLTI1Ni1nY206ZjM0NTc5ZDAxNDhiMjU4MQ==@46.17.40.169:1019#Russia
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNDA2NDFjMWY4OWU3YWNi@46.226.163.225:57456#Armenia
-vmess://eyJhZGQiOiAiaUlpaUk4LjIyMjU2MC54WVoiLCAidiI6ICIyIiwgInBzIjogIlVuaXRlZCBTdGF0ZXMiLCAicG9ydCI6IDgwLCAiaWQiOiAiMzkzYjEwNjEtZDYxNS00NTlhLTg2MTYtM2Y5NDQ3YmRmZjVhIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIi9pWGZpMG1NbVBZcDlVQTZZMzR6V1VrNkpVUSIsICJ0bHMiOiAiIn0=
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@104.167.197.25:57456#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.10:8080#Lithuania
+vmess://eyJhZGQiOiAicnJycnJycnJydC4xMTg5MDYwNC54eXoiLCAidiI6ICIyIiwgInBzIjogIlVuaXRlZCBTdGF0ZXMiLCAicG9ydCI6IDQ0MywgImlkIjogImY4OThmZmNiLTY0MTctNDM3My05NjQwLTBiNjYwOTFlODIwNiIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJycnJycnJycnJ0LjExODkwNjA0Lnh5eiIsICJwYXRoIjogIi9HbkozYkJ4VjkxdUZrWXR1elh5SjVYTmVIMVIxIiwgInRscyI6ICJ0bHMifQ==
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5TVg5V0dQZ1VFY1JabWxhYTBZSEhD@103.106.1.92:23492#Moldova
+vmess://eyJhZGQiOiAiU1N4WFpBU3cuOTk5ODI0Llh5eiIsICJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJwb3J0IjogODAsICJpZCI6ICI1MTJkOTY3NC1kYjEyLTQ0Y2EtYTFiNS02NTQyNDQ1NDliNjUiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAic3N4eHphc3cuOTk5ODI0Lnh5eiIsICJwYXRoIjogIi91aUF4dkg2T2tWazBWQ2ZhN2RYM0pJcllrN3ptIiwgInRscyI6ICIifQ==
+vmess://eyJhZGQiOiAiODQuMjQ3LjE0Ni4xNjEiLCAidiI6ICIyIiwgInBzIjogIkdlcm1hbnkiLCAicG9ydCI6IDM5NTMwLCAiaWQiOiAiN2FhNTZlMzktMjliOC00NWMzLThiNTMtNmQyYTIzYjI0NjFjIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIiLCAidGxzIjogIiJ9
 ```
 <h5>Địa chỉ đăng ký vĩnh viễn của nút trên (một phần): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_vi</h5>
  <p>Mã QR cho địa chỉ đăng ký ở trên</p>
