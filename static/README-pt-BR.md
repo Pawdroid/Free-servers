@@ -35,11 +35,11 @@
  <h4>Lista de nós: (Apenas alguns nós são exibidos aqui, baixe o aplicativo para visualizar todos os nós)</h4>
     
 ```
-vmess://eyJhZGQiOiAidGltZS5pcyIsICJ2IjogIjIiLCAicHMiOiAiRVVBIiwgInBvcnQiOiA4MCwgImlkIjogIjY2ZGRkNzkwLTEwZWQtNGExNi1iMzM0LTBiN2UzNTc3YjViNyIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJrci54aWFvcWk2NjYueHl6IiwgInBhdGgiOiAiLyIsICJ0bHMiOiAiIn0=
-vmess://eyJhZGQiOiAiMTA0LjIxLjU3LjIwNiIsICJ2IjogIjIiLCAicHMiOiAiRVVBIiwgInBvcnQiOiA4MCwgImlkIjogIjNkOTc0MWRhLWMwZTQtNDdjYy1hNWUwLWYxYWYzZDMzN2RhZSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJzc3Nzc3Nzc3Nzc2RkZGZndC40NDQ0OTI2Lnh5eiIsICJwYXRoIjogIi9VMlowRm9Ca2d0WnFmd0F3WTJTTm0iLCAidGxzIjogIiJ9
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.34.244.80:443#Holanda
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNDA2NDFjMWY4OWU3YWNi@147.45.178.200:57456#R%C3%BAssia
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwVjVCQXpxTFpvc09mdUlya3lvYWRU@5.181.21.194:18660#%C3%81ustria
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.47.130:443#EUA
+trojan://telegram-id-directvpn@3.121.17.118:22223?sni=trojan.burgerip.co.uk#Alemanha
+vmess://eyJhZGQiOiAiNjIuMTQ2LjIzMy4xMTIiLCAidiI6ICIyIiwgInBzIjogIkFsZW1hbmhhIiwgInBvcnQiOiAzNjcxMiwgImlkIjogIjkyNjZkZjQyLTA4MzAtNDhjMi04NTA5LTRjNTdiMzBmZTI5ZCIsICJhaWQiOiAiMCIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiIiwgInRscyI6ICIifQ==
+vmess://eyJhZGQiOiAiNjIuMTQ2LjIzMy42NiIsICJ2IjogIjIiLCAicHMiOiAiQWxlbWFuaGEiLCAicG9ydCI6IDE1ODI4LCAiaWQiOiAiOGI5Y2YzZGMtYzI4Mi00MjRmLWE1OTAtYzQ1YzlhMzZkM2Y5IiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIiLCAidGxzIjogIiJ9
+trojan://c7f423b7-ced8-43da-a9ae-e906cb4a222c@172.67.191.140:443?allowInsecure=0&sni=DdDdddDDdF.999824.Xyz&type=ws&host=DdDdddDDdF.999824.Xyz&path=/dwPcFaK3QxWRQTqot0LE#EUA
 ```
 <h5>O endereço de assinatura permanente do nó superior (parte): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_pt-BR</h5>
  <p>Código QR do endereço de assinatura acima</p>
