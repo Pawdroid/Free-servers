@@ -35,11 +35,11 @@
  <h4>Danh sách nút: (Chỉ hiển thị một số nút ở đây, vui lòng tải xuống ứng dụng để xem tất cả các nút)</h4>
     
 ```
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.196:443#United+Kingdom
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.62.164:443#Switzerland
-vmess://eyJhZGQiOiAiNS4xODAuMzAuMTEwIiwgInYiOiAiMiIsICJwcyI6ICJVbml0ZWQgU3RhdGVzIiwgInBvcnQiOiA1MTM1MiwgImlkIjogImJjZjg2NDc5LWFhYjQtNDdjZi05ZDZlLTM0ZDM1M2JhYTFhMiIsICJhaWQiOiAiMCIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiIiwgInRscyI6ICIifQ==
-vmess://eyJhZGQiOiAiaUlpaUk4LjIyMjU2MC54WVoiLCAidiI6ICIyIiwgInBzIjogIlVuaXRlZCBTdGF0ZXMiLCAicG9ydCI6IDgwLCAiaWQiOiAiMzkzYjEwNjEtZDYxNS00NTlhLTg2MTYtM2Y5NDQ3YmRmZjVhIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIi9pWGZpMG1NbVBZcDlVQTZZMzR6V1VrNkpVUSIsICJ0bHMiOiAiIn0=
-vmess://eyJhZGQiOiAiMTU0LjI2LjEyOS4yNDciLCAidiI6ICIyIiwgInBzIjogIlNpbmdhcG9yZSIsICJwb3J0IjogNTcxNDMsICJpZCI6ICIyOGVmYmYzNi0wNzlhLTRjOTgtODQ3MC1kMTM0NThkYjZlZTYiLCAiYWlkIjogIjAiLCAibmV0IjogInRjcCIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAiIn0=
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiWjg3YW1QcGRHN0t1V002MmJLdG0xS0hvb3d1VmpuVjhDS3RxNjUzeW1IY2cyZFBZY1BKZm5hUTYxc3R1QWpyMlppTERhcUg1Nlhwa3hFWXV3RHp6UnJNV2llZWJXR3Q=@mx2.drawnrisha.one:55988#United+Kingdom
+vmess://eyJhZGQiOiAiMTM4LjE5OS4xNDYuMTgxIiwgInYiOiAiMiIsICJwcyI6ICJHZXJtYW55IiwgInBvcnQiOiAxMzQxMSwgImlkIjogImVlM2YzN2IxLWU4MDUtNGJkYy05ZDQ2LTgwZGYxODE4OTlkZiIsICJhaWQiOiAiMCIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiIiwgInRscyI6ICIifQ==
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.28:8080#Lithuania
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.197:443#United+Kingdom
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@beesyar.org:8080#Lithuania
 ```
 <h5>Địa chỉ đăng ký vĩnh viễn của nút trên (một phần): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_vi</h5>
  <p>Mã QR cho địa chỉ đăng ký ở trên</p>
