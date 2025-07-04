@@ -36,12 +36,11 @@
 <h4>节点列表：(这里仅展示部分节点，查看全部节点请下载app)</h4>
 
 ```
-trojan://d6b8011a-c725-435a-9fec-bf6d3530392c@104.17.128.1:2096?sni=vle.amclubdns.dpdns.org&allowInsecure=1&type=ws&path=%2F%3Fed%3D2560%26PROT_TYPE%3Dtrojan&host=vle.amclubdns.dpdns.org#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
-vmess://eyJhZGQiOiAiMTIwLjE5OC43MS4yMTUiLCAidiI6ICIyIiwgInBzIjogIlx1NWU3Zlx1NGUxY1x1NzcwMVx1NmU1Ylx1NmM1Zlx1NWUwMiBcdTc5ZmJcdTUyYTgiLCAicG9ydCI6IDU4ODgyLCAiaWQiOiAiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIiLCAidGxzIjogIiJ9
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU1NDA5XHU2Nzk3XHU3NzAxIFx1NzlmYlx1NTJhOChcdTUxNjhcdTc3MDFcdTkwMWFcdTc1MjgpIiwgImFkZCI6ICIxMTEuMjYuMTA5Ljc5IiwgInBvcnQiOiAiMzA4MjgiLCAidHlwZSI6ICJub25lIiwgImlkIjogImNiYjNmODc3LWQxZmItMzQ0Yy04N2E5LWQxNTNiZmZkNTQ4NCIsICJhaWQiOiAiMiIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvb29vbyIsICJob3N0IjogIm9jYmMuY29tIiwgInRscyI6ICIifQ==
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU1NDA5XHU2Nzk3XHU3NzAxIFx1NzlmYlx1NTJhOChcdTUxNjhcdTc3MDFcdTkwMWFcdTc1MjgpIiwgImFkZCI6ICJ2OS5oZWR1aWFuLmxpbmsiLCAicG9ydCI6ICIzMDgwOSIsICJpZCI6ICJjYmIzZjg3Ny1kMWZiLTM0NGMtODdhOS1kMTUzYmZmZDU0ODQiLCAiYWlkIjogIjIiLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgInRscyI6ICIiLCAiZnAiOiAiY2hyb21lIiwgInBhdGgiOiAiL29vb28iLCAiaG9zdCI6ICJiYWlkdS5jb20ifQ==
-trojan://trojan@109.234.211.66:8443?allowInsecure=0&sni=store.timimi.dpdns.org&type=ws&host=store.timimi.dpdns.org&path=/#%E8%A5%BF%E7%8F%AD%E7%89%99+V2CROSS.COM
+vmess://eyJhZGQiOiAiNDUuMTQ3LjIwMS4yMzEiLCAidiI6ICIyIiwgInBzIjogIlx1NGZjNFx1N2Y1N1x1NjVhZiBcdTgzYWJcdTY1YWZcdTc5ZDFKdXN0SG9zdCIsICJwb3J0IjogMjMxMTUsICJpZCI6ICJlNDU4NjAwOC1jM2Q1LTRjOWYtOWUxMC1iY2IyMDBmMzZlNWEiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiLyIsICJ0bHMiOiAiIn0=
+trojan://96c798f6-4645-11ee-b8a1-f23c9164ca5d@eebe3d89-syzj40-th9kx9-1os43.cu2.plebai.net:15229?sni=eebe3d89-syzj40-th9kx9-1os43.cu2.plebai.net#%E5%B9%BF%E4%B8%9C%E7%9C%81+%E8%81%94%E9%80%9A
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.58:8080#%E6%AC%A7%E7%9B%9F+V2CROSS.COM
+trojan://0f7070cd-c91d-4532-a51f-56da4f0e94be@172.67.150.132:443?sni=eeddcvfgt6.444682.xyz&type=ws&path=%2FctHoQlqeZn8pbEUSLppj7jCmY&host=eeddcvfgt6.444682.xyz&alpn=http%2F1.1&fp=chrome#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
+vmess://eyJhZGQiOiAiMTIwLjE5OC43MS4yMTUiLCAidiI6ICIyIiwgInBzIjogIlx1NWU3Zlx1NGUxY1x1NzcwMVx1NmU1Ylx1NmM1Zlx1NWUwMiBcdTc5ZmJcdTUyYTgiLCAicG9ydCI6IDU4ODgyLCAiaWQiOiAiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIiLCAidGxzIjogIiJ9
 ```
 
 <h5>上方节点（部分）永久订阅地址：https://proxy.v2gh.com/https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub</h5>
