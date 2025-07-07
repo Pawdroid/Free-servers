@@ -37,17 +37,17 @@
 
 ```
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@beesyar.org:8080#%E6%AC%A7%E7%9B%9F+V2CROSS.COM
-trojan://d6b8011a-c725-435a-9fec-bf6d3530392c@154.83.2.200:443?sni=vle.amclubdns.dpdns.org&allowInsecure=1&type=ws&path=%2F%3Fed%3D2560%26PROT_TYPE%3Dtrojan&host=vle.amclubdns.dpdns.org&fp=chrome#%E7%BE%8E%E5%9B%BD+Cloudinnovation%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
-vmess://eyJhZGQiOiAiczEuZGItbGluazAxLnRvcCIsICJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAicG9ydCI6IDg4ODAsICJpZCI6ICIwNTg4MWQ0My1lOWRhLTNkNjUtOGNiZS1mYjA0NTliNzg1NTciLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiMTAwLTIzMi0yMTAtMTAyLnMxLmRiLWxpbmswMS50b3AiLCAicGF0aCI6ICIvZGFiYWkuaW4xMDQuMjAuMjI0LjMiLCAidGxzIjogIiJ9
 trojan://4732adfa16c6450bbef87264e41332db@165.22.74.230:443?sni=nextstepcareer.online#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
+trojan://d6b8011a-c725-435a-9fec-bf6d3530392c@154.83.2.200:443?sni=vle.amclubdns.dpdns.org&allowInsecure=1&type=ws&path=%2F%3Fed%3D2560%26PROT_TYPE%3Dtrojan&host=vle.amclubdns.dpdns.org&fp=chrome#%E7%BE%8E%E5%9B%BD+Cloudinnovation%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU1NDA5XHU2Nzk3XHU3NzAxIFx1NzlmYlx1NTJhOChcdTUxNjhcdTc3MDFcdTkwMWFcdTc1MjgpIiwgImFkZCI6ICIxMTEuMjYuMTA5Ljc5IiwgInBvcnQiOiAiMzA4MzUiLCAiaWQiOiAiY2JiM2Y4NzctZDFmYi0zNDRjLTg3YTktZDE1M2JmZmQ1NDg0IiwgImFpZCI6ICIyIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJ0bHMiOiAiIiwgInBhdGgiOiAiL29vb28ifQ==
+trojan://730223f0-ef31-11ef-b5d9-f23c9164ca5d@675b39e1-sz38g0-t3mmvc-1qgd1.cu2.plebai.net:15229?sni=675b39e1-sz38g0-t3mmvc-1qgd1.cu2.plebai.net#%E5%B9%BF%E4%B8%9C%E7%9C%81+%E8%81%94%E9%80%9A
+trojan://0b9c9261-7209-4dcc-b268-2fa74f6cd536@unify.46322416.xyz:60073?allowInsecure=0&sni=cdn.alibaba.com#%E6%B5%99%E6%B1%9F%E7%9C%81%E5%8F%B0%E5%B7%9E%E5%B8%82+%E5%8F%B0%E5%B7%9E%E4%B8%96%E9%80%9A%E7%BD%91%E7%BB%9C
 trojan://f108e0e2-5f12-42b6-9e67-1b2f073ffb2b@172.67.219.196:443?sni=CCcvfgt6.852224.dpdns.org&type=ws&path=%2FCA5bMmr2JMum8sDKRwvFCJq&host=CCcvfgt6.852224.dpdns.org&fp=chrome#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
-trojan://Aimer@199.34.228.50:2053?sni=epml.ambercc.filegear-sg.me&type=ws&path=%2F&host=epml.ambercc.filegear-sg.me#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
-trojan://Aimer@192.200.160.169:2096?sni=epml.ambercc.filegear-sg.me&type=ws&path=%2F&host=epml.ambercc.filegear-sg.me#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU1NDA5XHU2Nzk3XHU3NzAxIFx1NzlmYlx1NTJhOChcdTUxNjhcdTc3MDFcdTkwMWFcdTc1MjgpIiwgImFkZCI6ICIxMTEuMjYuMTA5Ljc5IiwgInBvcnQiOiAiMzA4MjgiLCAiYWlkIjogMiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJpZCI6ICJjYmIzZjg3Ny1kMWZiLTM0NGMtODdhOS1kMTUzYmZmZDU0ODQiLCAic25pIjogIiIsICJob3N0IjogIm9jYmMuY29tIiwgInBhdGgiOiAiL29vb28ifQ==
-trojan://Aimer@31.43.179.27:443?allowInsecure=0&sni=epmk.ambercc.filegear-sg.me&type=ws&host=epmk.ambercc.filegear-sg.me&path=/#%E4%B9%8C%E5%85%8B%E5%85%B0+V2CROSS.COM
-trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.251.58:21829?allowInsecure=1&sni=www.baidu.com#%E6%B1%9F%E8%8B%8F%E7%9C%81+%E7%A7%BB%E5%8A%A8
-vmess://eyJhZGQiOiAiMTg1LjE0My4yMjEuMTQwIiwgInYiOiAiMiIsICJwcyI6ICJcdTRmYzRcdTdmNTdcdTY1YWYgVjJDUk9TUy5DT00iLCAicG9ydCI6IDIzMTE3LCAiaWQiOiAiYzc3ZjhmNmQtZTBlYy00OGQwLTg4MTAtYjhhNTRiYTg3YTc2IiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIi8iLCAidGxzIjogIiJ9
-trojan://Aimer@46.254.93.243:8443?allowInsecure=0&sni=epmk.ambercc.filegear-sg.me&type=ws&host=epmk.ambercc.filegear-sg.me&path=/#%E4%BF%84%E7%BD%97%E6%96%AF+V2CROSS.COM
+trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.192.10:9141?allowInsecure=1&sni=www.baidu.com#%E6%B1%9F%E8%8B%8F%E7%9C%81+%E7%A7%BB%E5%8A%A8
+trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.251.36:30534?allowInsecure=1&sni=www.baidu.com#%E6%B1%9F%E8%8B%8F%E7%9C%81+%E7%A7%BB%E5%8A%A8
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU1ZTdmXHU0ZTFjXHU3NzAxXHU2YzU1XHU1OTM0XHU1ZTAyIFx1NzlmYlx1NTJhOCIsICJhZGQiOiAidjcuaGVkdWlhbi5saW5rIiwgInBvcnQiOiAiMzA4MDciLCAidHlwZSI6ICJub25lIiwgImlkIjogImNiYjNmODc3LWQxZmItMzQ0Yy04N2E5LWQxNTNiZmZkNTQ4NCIsICJhaWQiOiAiMiIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvb29vbyIsICJob3N0IjogInY3LmhlZHVpYW4ubGluayIsICJ0bHMiOiAiIn0=
+vmess://eyJhZGQiOiAic1NzZENWZkJHTmprSS45MzEuUFAuVWEiLCAidiI6ICIyIiwgInBzIjogIlx1N2Y4ZVx1NTZmZCBDbG91ZEZsYXJlXHU4MjgyXHU3MGI5IiwgInBvcnQiOiA0NDMsICJpZCI6ICJhNGU4ZWMwYS03NWQwLTRmYzUtODM3YS00OTczZWQzYTlkM2UiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAic3NzZGN2ZmJnbmpraS45MzEucHAudWEiLCAicGF0aCI6ICIvMTRGemlxdzFoWWdDWE51dGtTNUgiLCAidGxzIjogInRscyJ9
+trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.251.61:45203?sni=www.baidu.com&allowInsecure=1&fp=chrome#%E6%B1%9F%E8%8B%8F%E7%9C%81+%E7%A7%BB%E5%8A%A8
 ```
 
 <h5>上方节点（部分）永久订阅地址：https://proxy.v2gh.com/https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub</h5>
