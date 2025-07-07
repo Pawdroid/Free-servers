@@ -35,11 +35,11 @@
  <h4>Lista de nós: (Apenas alguns nós são exibidos aqui, baixe o aplicativo para visualizar todos os nós)</h4>
     
 ```
-trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.251.58:21829?allowInsecure=1&sni=www.baidu.com#China
-vmess://eyJhZGQiOiAiZGRkY2NjdmZmLjQ0NDQ5MzYueHl6IiwgInYiOiAiMiIsICJwcyI6ICJFVUEiLCAicG9ydCI6IDgwLCAiaWQiOiAiZjg5OGZmY2ItNjQxNy00MzczLTk2NDAtMGI2NjA5MWU4MjA2IiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogImRkZGNjY3ZmZi40NDQ0OTM2Lnh5eiIsICJwYXRoIjogIi9HbkozYkJ4VjkxdUZrWXR1elh5SjVYTmVIMVIxIiwgInRscyI6ICIifQ==
-trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.251.24:50723?sni=www.baidu.com#China
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5UnZpTmE0dHNjamNtQ0I0MDh2TFNn@46.101.245.131:44354#Alemanha
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@134.255.210.49:990#Chipre
+trojan://Aimer@188.164.159.234:2083?allowInsecure=0&sni=epml.ambercc.filegear-sg.me&type=ws&host=epml.ambercc.filegear-sg.me&path=/#Arm%C3%AAnia
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.79:443#Reino+Unido
+trojan://Aimer@31.43.179.27:443?allowInsecure=0&sni=epmk.ambercc.filegear-sg.me&type=ws&host=epmk.ambercc.filegear-sg.me&path=/#Cazaquist%C3%A3o
+vmess://eyJhZGQiOiAiNzZkOWRiZjktc3ZhNzQwLXN6ZWdvZS0xMmhqOC5oazMucDVwdi5jb20iLCAidiI6ICIyIiwgInBzIjogIkhvbmcgS29uZyIsICJwb3J0IjogODAsICJpZCI6ICI1YWNjN2E3Yy1kN2VhLTExZWItODY3My1mMjNjOTE2NGNhNWQiLCAiYWlkIjogIjIiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiYnJvYWRjYXN0bHYuY2hhdC5iaWxpYmlsaS5jb20iLCAicGF0aCI6ICIvIiwgInRscyI6ICIifQ==
+vmess://eyJhZGQiOiAiMTcyLjY3LjE0OS4yMzkiLCAidiI6ICIyIiwgInBzIjogIkVVQSIsICJwb3J0IjogODAsICJpZCI6ICIzZDk3NDFkYS1jMGU0LTQ3Y2MtYTVlMC1mMWFmM2QzMzdkYWUiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAidnZ2dnZ2dnZ2dnZ2dnZiLjQ0NDQ5MjYueHl6IiwgInBhdGgiOiAiL1UyWjBGb0JrZ3RacWZ3QXdZMlNObSIsICJ0bHMiOiAiIn0=
 ```
 <h5>O endereço de assinatura permanente do nó superior (parte): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_pt-BR</h5>
  <p>Código QR do endereço de assinatura acima</p>
