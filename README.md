@@ -36,19 +36,18 @@
 <h4>节点列表：(这里仅展示部分节点，查看全部节点请下载app)</h4>
 
 ```
-vmess://eyJhZGQiOiAiczUuZGItbGluazAyLnRvcCIsICJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAicG9ydCI6IDg4ODAsICJpZCI6ICJlN2UyNmY3Yi1jNGQ4LTM4NTYtOWM5YS1kYmI5OGY5N2ZkNmIiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiMTAwLTIzNS0xMzItNDcuczUuZGItbGluazAyLnRvcCIsICJwYXRoIjogIi9kYWJhaS5pbjEwNC4yNS4yMDAuNCIsICJ0bHMiOiAiIn0=
-trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.251.60:30495?allowInsecure=1&sni=www.baidu.com#%E6%B1%9F%E8%8B%8F%E7%9C%81+%E7%A7%BB%E5%8A%A8
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAiYWRkIjogImF3ZXRkZmduX2Nkbi5oZmhmYi5ob21lcyIsICJwb3J0IjogIjIwODYiLCAiaWQiOiAiMTZmMDAwZDctNzgwNS00NTlkLTkxMzAtMjAwZDAwMTgwYjdjIiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJ0bHMiOiAiIiwgInBhdGgiOiAiL21hcmtldD9lZD0xMDI0IiwgImhvc3QiOiAibWdjZG44LmhmaGZiLmhvbWVzIn0=
-trojan://a0f7a422-7867-469c-946b-190d8fbc2a5d@103.248.229.29:1531#%E4%B8%AD%E5%9B%BD+V2CROSS.COM
-vmess://eyJhZGQiOiAiMTcyLjY3LjIwOS43OSIsICJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAicG9ydCI6IDgwLCAiaWQiOiAiNTEyZDk2NzQtZGIxMi00NGNhLWExYjUtNjU0MjQ0NTQ5YjY1IiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogInhjY2N2dmJubWouOTk5ODM0Lnh5eiIsICJwYXRoIjogIi91aUF4dkg2T2tWazBWQ2ZhN2RYM0pJcllrN3ptIiwgInRscyI6ICIifQ==
-ss://YWVzLTI1Ni1nY206NEozUjBUV0NLVE03MkU2OQ==@8tv68qhq.slashdevslashnetslashtun.net:15010#%E7%94%98%E8%82%83%E7%9C%81%E5%85%B0%E5%B7%9E%E5%B8%82+%E7%A7%BB%E5%8A%A8
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAiYWRkIjogInMxLmNuLWRiLnRvcCIsICJwb3J0IjogIjg4ODAiLCAiaWQiOiAiMDU4ODFkNDMtZTlkYS0zZDY1LThjYmUtZmIwNDU5Yjc4NTU3IiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJ0bHMiOiAiIiwgInBhdGgiOiAiL2RhYmFpLmluMTcyLjY0LjM0LjE4MCIsICJob3N0IjogIjEwMC0yNTMtODItMTY2LnMxLmNuLWRiLnRvcCJ9
-trojan://Aimer@192.200.160.169:2096?sni=epml.ambercc.filegear-sg.me&type=ws&path=%2F&host=epml.ambercc.filegear-sg.me#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
+trojan://288124da-0d68-42f4-9f48-70dc4dcc55a6@172.67.175.139:443?sni=cvFbghYU.859886.XYZ&type=ws&path=%2FraChT39pjLFYRA5HdHEIupMZeK&host=cvFbghYU.859886.XYZ&fp=chrome#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@134.209.147.198:990#%E5%8D%B0%E5%BA%A6+%E5%8D%A1%E7%BA%B3%E5%A1%94%E5%85%8B%E9%82%A6%E7%8F%AD%E5%8A%A0%E7%BD%97%E5%B0%94DigitalOcean%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
 trojan://fa050497-fc2a-45ee-89c0-96670c4ecb65@104.21.63.135:443?sni=Rrr4.8906004.xYZ&type=ws&path=%2FDZxb5QZyWgQPuXTwt&host=rrr4.8906004.xyz#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
-trojan://Aimer@46.254.93.243:8443?allowInsecure=0&sni=epmk.ambercc.filegear-sg.me&type=ws&host=epmk.ambercc.filegear-sg.me&path=/#%E4%BF%84%E7%BD%97%E6%96%AF+V2CROSS.COM
-vmess://eyJhZGQiOiAiaGt0LmdvdG9jaGluYXRvd24ubmV0IiwgInYiOiAiMiIsICJwcyI6ICJcdTk5OTlcdTZlMmYgXHU3NTM1XHU4YmFmXHU3NmM4XHU3OWQxXHU2NzA5XHU5NjUwXHU1MTZjXHU1M2Y4IiwgInBvcnQiOiA4MCwgImlkIjogImE2NjRkMTZhLTRlNDctMTFlZi05ZDdlLWYyM2M5MTY0Y2E1ZCIsICJhaWQiOiAiMiIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIvIiwgInRscyI6ICIifQ==
-trojan://d6b8011a-c725-435a-9fec-bf6d3530392c@154.83.2.200:443?sni=vle.amclubdns.dpdns.org&allowInsecure=1&type=ws&path=%2F%3Fed%3D2560%26PROT_TYPE%3Dtrojan&host=vle.amclubdns.dpdns.org&fp=chrome#%E7%BE%8E%E5%9B%BD+Cloudinnovation%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmZWFmYzJlZi1kNWZkLTRmNmQtODAzYi1mYWQ0YTVjYzFmMGU=@h.cm2.xiaomi-api.xyz:19852#%E5%B9%BF%E4%B8%9C%E7%9C%81%E9%98%B3%E6%B1%9F%E5%B8%82+%E7%A7%BB%E5%8A%A8
+ss://YWVzLTI1Ni1nY206SFBTN0k0QTJFRFBBVUVGMw==@w72tapyb.slashdevslashnetslashtun.net:17004#%E7%94%98%E8%82%83%E7%9C%81%E5%85%B0%E5%B7%9E%E5%B8%82+%E7%A7%BB%E5%8A%A8
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU1NDA5XHU2Nzk3XHU3NzAxIFx1NzlmYlx1NTJhOChcdTUxNjhcdTc3MDFcdTkwMWFcdTc1MjgpIiwgImFkZCI6ICJ2MjkuaGVkdWlhbi5saW5rIiwgInBvcnQiOiAiMzA4MjkiLCAidHlwZSI6ICJub25lIiwgImlkIjogImNiYjNmODc3LWQxZmItMzQ0Yy04N2E5LWQxNTNiZmZkNTQ4NCIsICJhaWQiOiAiMiIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvb29vbyIsICJob3N0IjogIm9jYmMuY29tIiwgInRscyI6ICIifQ==
+vmess://eyJhZGQiOiAiMTcyLjY3LjEzMS4yNyIsICJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAicG9ydCI6IDIwNTMsICJpZCI6ICIzNTBlMmIwMS1kNDEwLTQ0YTYtOTBiYS02NDgzZjEwNjI5NzIiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAicmFrMmQ0Ljg5MDYwMDA0Lnh5eiIsICJwYXRoIjogIi8iLCAidGxzIjogInRscyJ9
+trojan://512d9674-db12-44ca-a1b5-654244549b65@cccvffgty.444752.xyz:443?sni=cccvffgty.444752.xyz&type=ws&path=%2FHOi2k5ElZdeML7Ua7dX3JIrYk7zm&host=cccvffgty.444752.xyz#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
+trojan://xxoo@138.197.5.103:443?allowInsecure=0#%E7%BE%8E%E5%9B%BD+%E7%BA%BD%E7%BA%A6%E5%B8%82DigitalOcean%E4%BA%91%E5%85%AC%E5%8F%B8
+trojan://d6b8011a-c725-435a-9fec-bf6d3530392c@103.160.204.40:8443?sni=vle.amclubdns.dpdns.org&allowInsecure=1&type=ws&path=%2F%3Fed%3D2560%26PROT_TYPE%3Dtrojan&host=vle.amclubdns.dpdns.org&fp=chrome#%E5%8D%B0%E5%BA%A6+V2CROSS.COM
+vmess://eyJhZGQiOiAiaGsuYmV0aGViZXN0LmV1Lm9yZyIsICJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAicG9ydCI6IDIwNTIsICJpZCI6ICIzMmQzNzk1Yy03ZTM4LTQyNWEtOGE4Yy05ZDE5NWQxY2IzNTEiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAidXM3LjEyMzQxNy54eXoiLCAicGF0aCI6ICIvIiwgInRscyI6ICIifQ==
+trojan://730223f0-ef31-11ef-b5d9-f23c9164ca5d@675b39e1-sz38g0-t3mmvc-1qgd1.cu2.plebai.net:15229?sni=675b39e1-sz38g0-t3mmvc-1qgd1.cu2.plebai.net#%E5%B9%BF%E4%B8%9C%E7%9C%81+%E8%81%94%E9%80%9A
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU1NDA5XHU2Nzk3XHU3NzAxIFx1NzlmYlx1NTJhOChcdTUxNjhcdTc3MDFcdTkwMWFcdTc1MjgpIiwgImFkZCI6ICIxMTEuMjYuMTA5Ljc5IiwgInBvcnQiOiAiMzA4MzUiLCAidHlwZSI6ICJub25lIiwgImlkIjogImNiYjNmODc3LWQxZmItMzQ0Yy04N2E5LWQxNTNiZmZkNTQ4NCIsICJhaWQiOiAiMiIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvb29vbyIsICJob3N0IjogIiIsICJ0bHMiOiAiIn0=
 ```
 
 <h5>上方节点（部分）永久订阅地址：https://proxy.v2gh.com/https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub</h5>
