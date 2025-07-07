@@ -36,18 +36,18 @@
 <h4>节点列表：(这里仅展示部分节点，查看全部节点请下载app)</h4>
 
 ```
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU1ZTdmXHU0ZTFjXHU3NzAxXHU2YzU1XHU1OTM0XHU1ZTAyIFx1NzlmYlx1NTJhOCIsICJhZGQiOiAidjI5LmhlZHVpYW4ubGluayIsICJwb3J0IjogIjMwODI5IiwgInR5cGUiOiAibm9uZSIsICJpZCI6ICJjYmIzZjg3Ny1kMWZiLTM0NGMtODdhOS1kMTUzYmZmZDU0ODQiLCAiYWlkIjogIjIiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL29vb28iLCAiaG9zdCI6ICJvY2JjLmNvbSIsICJ0bHMiOiAiIn0=
+trojan://f108e0e2-5f12-42b6-9e67-1b2f073ffb2b@172.67.219.196:443?sni=CCcvfgt6.852224.dpdns.org&type=ws&path=%2FCA5bMmr2JMum8sDKRwvFCJq&host=CCcvfgt6.852224.dpdns.org&fp=chrome#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAiYWRkIjogIjE3Mi42Ny4xMzEuMjciLCAicG9ydCI6ICIyMDUzIiwgImlkIjogIjM1MGUyYjAxLWQ0MTAtNDRhNi05MGJhLTY0ODNmMTA2Mjk3MiIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAidGxzIjogInRscyIsICJzbmkiOiAicmFrMmQ0Ljg5MDYwMDA0Lnh5eiIsICJwYXRoIjogIi8iLCAiaG9zdCI6ICJyYWsyZDQuODkwNjAwMDQueHl6In0=
+ss://YWVzLTI1Ni1nY206YzY5Mzc0ZGEtMjIwOC00Y2JkLWI4MWUtY2RmODhiNWU3ZjUz@ss.002.node-for-bigairport.win:21001#%E9%A6%99%E6%B8%AF+Amazon%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
+trojan://d6b8011a-c725-435a-9fec-bf6d3530392c@154.83.2.200:443?sni=vle.amclubdns.dpdns.org&allowInsecure=1&type=ws&path=%2F%3Fed%3D2560%26PROT_TYPE%3Dtrojan&host=vle.amclubdns.dpdns.org&fp=chrome#%E7%BE%8E%E5%9B%BD+Cloudinnovation%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
+trojan://ypDt8RkT7J@89.187.181.172:43118?sni=egcmi.phooeyunfold.com#%E7%BE%8E%E5%9B%BD+%E4%BC%8A%E5%88%A9%E8%AF%BA%E4%BC%8A%E5%B7%9E%E8%8A%9D%E5%8A%A0%E5%93%A5CDN77%E8%8A%82%E7%82%B9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxc2NhdkY1VXZpSUwtOFYtRTRyYUJB@2.59.163.106:2222#%E4%B9%8C%E5%85%8B%E5%85%B0+V2CROSS.COM
+vmess://eyJhZGQiOiAiYXdldGRmZ25fY2RuLmhmaGZiLmhvbWVzIiwgInYiOiAiMiIsICJwcyI6ICJcdTdmOGVcdTU2ZmQgQ2xvdWRGbGFyZVx1ODI4Mlx1NzBiOSIsICJwb3J0IjogMjA4NiwgImlkIjogIjE2ZjAwMGQ3LTc4MDUtNDU5ZC05MTMwLTIwMGQwMDE4MGI3YyIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJtZ2NkbjguaGZoZmIuaG9tZXMiLCAicGF0aCI6ICIvbWFya2V0P2VkPTEwMjQiLCAidGxzIjogIiJ9
+trojan://d6b8011a-c725-435a-9fec-bf6d3530392c@103.160.204.40:8443?sni=vle.amclubdns.dpdns.org&allowInsecure=1&type=ws&path=%2F%3Fed%3D2560%26PROT_TYPE%3Dtrojan&host=vle.amclubdns.dpdns.org&fp=chrome#%E5%8D%B0%E5%BA%A6+V2CROSS.COM
+trojan://Aimer@192.200.160.169:2096?sni=epml.ambercc.filegear-sg.me&type=ws&path=%2F&host=epml.ambercc.filegear-sg.me#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
 vmess://eyJhZGQiOiAibHQuZnhsY24uY29tIiwgInYiOiAiMiIsICJwcyI6ICJcdTRlMGFcdTZkNzdcdTVlMDJcdTVmOTBcdTZjNDdcdTUzM2EgXHU4MDU0XHU5MDFhXHU2ZjE1XHU2Y2IzXHU2Y2ZlXHU2NTcwXHU2MzZlXHU0ZTJkXHU1ZmMzIiwgInBvcnQiOiA0NTI3MSwgImlkIjogIjQ2OWUwYjMxLTMwYzMtNGRhYi04MDBkLTcxMTIzMjYzNGNlMSIsICJhaWQiOiAiMCIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiLyIsICJ0bHMiOiAiIn0=
 trojan://a4291a2a-d62c-4eb9-ac7a-ac7355d1eda2@172.67.172.71:443?sni=666666Y.999165.XYZ&type=ws&path=%2FmFvK3LJyIAe8ydvnmRKWDa8&host=666666Y.999165.XYZ&fp=chrome#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3OTA1YTMyYi0wMTJjLTQ3MTEtODllMi03M2I2NzEzZWNhNzU=@pr.fastsoonlink.com:40030#%E5%B9%BF%E4%B8%9C%E7%9C%81+%E7%A7%BB%E5%8A%A8
-vmess://eyJhZGQiOiAiZmcuZnhsY24uY29tIiwgInYiOiAiMiIsICJwcyI6ICJcdTVlN2ZcdTRlMWNcdTc3MDFcdTVlN2ZcdTVkZGVcdTVlMDIgXHU3NTM1XHU0ZmUxSURDXHU2NzNhXHU2MjNmIiwgInBvcnQiOiA0NTI0MiwgImlkIjogIjQ2OWUwYjMxLTMwYzMtNGRhYi04MDBkLTcxMTIzMjYzNGNlMSIsICJhaWQiOiAiMCIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiZmcuZnhsY24uY29tIiwgInBhdGgiOiAiIiwgInRscyI6ICIifQ==
-trojan://Aimer@46.254.93.243:8443?allowInsecure=0&sni=epmk.ambercc.filegear-sg.me&type=ws&host=epmk.ambercc.filegear-sg.me&path=/#%E4%BF%84%E7%BD%97%E6%96%AF+V2CROSS.COM
-trojan://Aimer@188.164.159.214:2083?allowInsecure=0&sni=epmk.ambercc.filegear-sg.me&type=ws&host=epmk.ambercc.filegear-sg.me&path=/#%E4%BA%9A%E7%BE%8E%E5%B0%BC%E4%BA%9A+V2CROSS.COM
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@134.209.147.198:990#%E5%8D%B0%E5%BA%A6+%E5%8D%A1%E7%BA%B3%E5%A1%94%E5%85%8B%E9%82%A6%E7%8F%AD%E5%8A%A0%E7%BD%97%E5%B0%94DigitalOcean%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
-trojan://fa050497-fc2a-45ee-89c0-96670c4ecb65@104.21.63.135:443?sni=Rrr4.8906004.xYZ&type=ws&path=%2FDZxb5QZyWgQPuXTwt&host=rrr4.8906004.xyz#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
-trojan://4732adfa16c6450bbef87264e41332db@165.22.74.230:443?sni=nextstepcareer.online#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
-trojan://f108e0e2-5f12-42b6-9e67-1b2f073ffb2b@172.67.219.196:443?sni=CCcvfgt6.852224.dpdns.org&type=ws&path=%2FCA5bMmr2JMum8sDKRwvFCJq&host=CCcvfgt6.852224.dpdns.org&fp=chrome#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
-trojan://Aimer@31.43.179.27:443?allowInsecure=0&sni=epmk.ambercc.filegear-sg.me&type=ws&host=epmk.ambercc.filegear-sg.me&path=/#%E4%B9%8C%E5%85%8B%E5%85%B0+V2CROSS.COM
-trojan://ypDt8RkT7J@89.187.181.172:43118?sni=egcmi.phooeyunfold.com#%E7%BE%8E%E5%9B%BD+%E4%BC%8A%E5%88%A9%E8%AF%BA%E4%BC%8A%E5%B7%9E%E8%8A%9D%E5%8A%A0%E5%93%A5CDN77%E8%8A%82%E7%82%B9
 ```
 
 <h5>上方节点（部分）永久订阅地址：https://proxy.v2gh.com/https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub</h5>
@@ -60,7 +60,7 @@ trojan://ypDt8RkT7J@89.187.181.172:43118?sni=egcmi.phooeyunfold.com#%E7%BE%8E%E5
 
 <h4>建议国内iOS用户及早 <a href='https://apps.apple.com/cn/app/shadowshare/id1612647259'>App Store下载</a> 留存，可能会在未来的某个时间下架</h4>
 
-<blockquote style='text-align: center;'>优质 VPN 客户端<a href='https://pawdollvpn.com'>Pawdoll</a>已发布！支持iOS、Android，内置大量优质节点</blockquote>
+<blockquote style='text-align: center;'>优质 VPN 客户端<a href='https://pawdollvpn.com'>Pawdoll</a>已发布！支持iOS、Android，内置大量优质免费节点</blockquote>
 
 <h2>推荐个大厂VPN <a href='http://www.surflare.com'>直接官网下载软件</a> 然后按下面方法白嫖，全平台可薅。</h4>
 
