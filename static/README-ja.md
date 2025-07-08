@@ -35,10 +35,10 @@
  <h4>ノード リスト: (ここには一部のノードのみが表示されます。すべてのノードを表示するにはアプリをダウンロードしてください)</h4>
     
 ```
-vmess://eyJhZGQiOiAiRmZmdnZWYm5oSnVpOC4yMjI1NjAuWFl6IiwgInYiOiAiMiIsICJwcyI6ICJcdTMwYTJcdTMwZTFcdTMwZWFcdTMwYWIiLCAicG9ydCI6IDQ0MywgImlkIjogIjc3MDFkZGY1LTZhNDgtNDAxYi1hM2VjLThhZjUyYjZkZWI0OCIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIvbWx5UjV0bWNLeDNod2VCb3B1aFdFYklYIiwgInRscyI6ICJ0bHMifQ==
-trojan://2cba4104747d49d18319e5ade1b93ab5@yourjobnavigator.online:443#%E8%8B%B1%E5%9B%BD
-vmess://eyJhZGQiOiAiMTg2LjE5MC4yMTUuMTkzIiwgInYiOiAiMiIsICJwcyI6ICJcdTMwYTJcdTMwZTFcdTMwZWFcdTMwYWIiLCAicG9ydCI6IDIyMzI0LCAiaWQiOiAiMDQ2MjFiYWUtYWIzNi0xMWVjLWI5MDktMDI0MmFjMTIwMDAyIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIvIiwgInRscyI6ICIifQ==
-trojan://Aimer@46.254.93.243:8443?allowInsecure=0&sni=epmk.ambercc.filegear-sg.me&type=ws&host=epmk.ambercc.filegear-sg.me&path=/#%E3%83%AD%E3%82%B7%E3%82%A2
+trojan://mZMgM1vKw5@85.255.9.247:1935#%E3%83%81%E3%82%A7%E3%82%B3%E5%85%B1%E5%92%8C%E5%9B%BD
+vmess://eyJhZGQiOiAiOTQuMTM2LjE4NS4yMzAiLCAidiI6ICIyIiwgInBzIjogIlx1MzBjOVx1MzBhNFx1MzBjNFx1OTAyM1x1OTBhNlx1NTE3MVx1NTQ4Y1x1NTZmZCIsICJwb3J0IjogMTA1MzQsICJpZCI6ICJiMDFjN2VmOS0zM2VjLTQxZjYtYmZiZi03N2RkYzRkMjE2NDkiLCAiYWlkIjogIjAiLCAibmV0IjogInRjcCIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAiIn0=
+vmess://eyJhZGQiOiAiSkpKampqamptTU1tTS40NDQ0OTI2LlhZWiIsICJ2IjogIjIiLCAicHMiOiAiXHUzMGEyXHUzMGUxXHUzMGVhXHUzMGFiIiwgInBvcnQiOiA0NDMsICJpZCI6ICJkYzUwZWIxZC0yNDRkLTQ3MTEtYjE2OC1hMTAxYTVlNmZiMWIiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiampqampqamptbW1tbS40NDQ0OTI2Lnh5eiIsICJwYXRoIjogIi9hd21xcTc5QjE3cmZucFhpTmFXYiIsICJ0bHMiOiAidGxzIn0=
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@103.104.247.47:8080#%E3%82%AA%E3%83%A9%E3%83%B3%E3%83%80%E7%8E%8B%E5%9B%BD
 ```
 <h5>上位ノードの永続サブスクリプション アドレス (部分): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ja</h5>
  <p>上記の購読アドレスの QR コード</p>
