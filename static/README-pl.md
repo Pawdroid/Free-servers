@@ -35,10 +35,10 @@
  <h4>Lista węzłów: (wyświetlane są tutaj tylko niektóre węzły. Pobierz aplikację, aby wyświetlić wszystkie węzły)</h4>
     
 ```
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.167:443#United+States
-vmess://eyJhZGQiOiAiU1NzWFhYQ3ZCbm1qS2kuOTMxLlBwLnVBIiwgInYiOiAiMiIsICJwcyI6ICJVbml0ZWQgU3RhdGVzIiwgInBvcnQiOiA0NDMsICJpZCI6ICJkYTEyODI0Ni0zM2IwLTRjODgtYTQ0ZS1kOTFlOWUwYTFlMDUiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAic3NzeHh4Y3Zibm1qa2kuOTMxLnBwLnVhIiwgInBhdGgiOiAiLzBGaFVrcVFVZHhPaE1COUpzZ1Rhend6OSIsICJ0bHMiOiAidGxzIn0=
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.192:8080#Lithuania
-vmess://eyJhZGQiOiAiMTA0LjIxLjE2LjEiLCAidiI6ICIyIiwgInBzIjogIlVuaXRlZCBTdGF0ZXMiLCAicG9ydCI6IDg0NDMsICJpZCI6ICIyYmQwYzlkNy1mMjM5LTQzN2UtYTFlMS02Y2Y4MzBhZjJhMWEiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAidXMwMS5zaC1jbG91ZGZsYXJlLnNicyIsICJwYXRoIjogIi8iLCAidGxzIjogInRscyJ9
+ss://YWVzLTI1Ni1nY206NWJkYTI3MzYtODFlNy00M2I0LTg2ZmMtMjg2ZjhmOGU2NTc4@de-freevmess.privateip.net:8443#France
+trojan://288124da-0d68-42f4-9f48-70dc4dcc55a6@172.67.175.139:443?sni=cvFbghYU.859886.XYZ&type=ws&path=%2FraChT39pjLFYRA5HdHEIupMZeK&host=cvFbghYU.859886.XYZ&fp=chrome#United+States
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.196:443#United+Kingdom
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.158.171.146:8080#United+States
 ```
 <h5>Stały adres subskrypcji górnego węzła (część): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_pl</h5>
  <p>Kod QR dla adresu subskrypcji powyżej</p>
