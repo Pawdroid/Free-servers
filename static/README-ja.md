@@ -35,10 +35,10 @@
  <h4>ノード リスト: (ここには一部のノードのみが表示されます。すべてのノードを表示するにはアプリをダウンロードしてください)</h4>
     
 ```
-trojan://xxoo@138.197.5.103:443#%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.198:443#%E8%8B%B1%E5%9B%BD
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3OTA1YTMyYi0wMTJjLTQ3MTEtODllMi03M2I2NzEzZWNhNzU=@pr.fastsoonlink.com:40030#%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB
-vmess://eyJhZGQiOiAiMTA0LjIxLjE2LjEiLCAidiI6ICIyIiwgInBzIjogIlx1MzBhMlx1MzBlMVx1MzBlYVx1MzBhYiIsICJwb3J0IjogODQ0MywgImlkIjogIjJiZDBjOWQ3LWYyMzktNDM3ZS1hMWUxLTZjZjgzMGFmMmExYSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJ1czAxLnNoLWNsb3VkZmxhcmUuc2JzIiwgInBhdGgiOiAiLyIsICJ0bHMiOiAidGxzIn0=
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.154:8080#%E3%83%AA%E3%83%88%E3%82%A2%E3%83%8B%E3%82%A2%E5%85%B1%E5%92%8C%E5%9B%BD
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNThmYTYyYjQ5NDRkZGJm@147.45.178.200:57456#%E3%83%AD%E3%82%B7%E3%82%A2
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNThmYTYyYjQ5NDRkZGJm@81.19.137.222:57456#%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9%E5%85%B1%E5%92%8C%E5%9B%BD
+vmess://eyJ2IjogMiwgInBzIjogIlx1MzBhYlx1MzBjYVx1MzBjMCIsICJhZGQiOiAiNTEuNzkuMTAyLjI1MyIsICJwb3J0IjogODAsICJpZCI6ICI1OGZlMTU0Mi01MjkwLTQwYWQtODE1YS03NzcwN2E4MWFmZTUiLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogbnVsbCwgImhvc3QiOiAiNTEuNzkuMTAyLjI1MyIsICJwYXRoIjogIi9JT2ViaExNaGwxQ1RiRkhiTDk1bXlmUlgyIiwgInRscyI6IGZhbHNlLCAic25pIjogIiJ9
 ```
 <h5>上位ノードの永続サブスクリプション アドレス (部分): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ja</h5>
  <p>上記の購読アドレスの QR コード</p>
