@@ -36,17 +36,17 @@
 <h4>节点列表：(这里仅展示部分节点，查看全部节点请下载app)</h4>
 
 ```
-trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.251.33:19577?allowInsecure=1&sni=www.baidu.com#%E6%B1%9F%E8%8B%8F%E7%9C%81+%E7%A7%BB%E5%8A%A8
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAiYWRkIjogInRpbWUuaXMiLCAicG9ydCI6ICI0NDMiLCAidHlwZSI6ICJub25lIiwgImlkIjogIjFhMjU1NjEyLTk5MzItNDU0Yy05OTQxLTRhOWQxMTAzZGExYiIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvdm1lc3MtYXJnbz9lZD0yNTYwIiwgImhvc3QiOiAiZnJhbmNpc2NvLWFkZGVkLWZlLXNpZ25pZmljYW5jZS50cnljbG91ZGZsYXJlLmNvbSIsICJ0bHMiOiAidGxzIn0=
+trojan://0b9c9261-7209-4dcc-b268-2fa74f6cd536@unify.46322416.xyz:60073?allowInsecure=0&sni=cdn.alibaba.com#%E6%B5%99%E6%B1%9F%E7%9C%81%E5%8F%B0%E5%B7%9E%E5%B8%82+%E5%8F%B0%E5%B7%9E%E4%B8%96%E9%80%9A%E7%BD%91%E7%BB%9C
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3OTA1YTMyYi0wMTJjLTQ3MTEtODllMi03M2I2NzEzZWNhNzU=@pr.fastsoonlink.com:40030#%E5%B9%BF%E4%B8%9C%E7%9C%81+%E7%A7%BB%E5%8A%A8
+trojan://512d9674-db12-44ca-a1b5-654244549b65@cccvffgty.444752.xyz:443?sni=cccvffgty.444752.xyz&type=ws&path=%2FHOi2k5ElZdeML7Ua7dX3JIrYk7zm&host=cccvffgty.444752.xyz#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
+trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.251.36:30534?sni=www.baidu.com&fp=chrome#%E6%B1%9F%E8%8B%8F%E7%9C%81+%E7%A7%BB%E5%8A%A8
 trojan://Aimer@188.164.159.234:2083?sni=epml.ambercc.filegear-sg.me&type=ws&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&host=epml.ambercc.filegear-sg.me#%E4%BA%9A%E7%BE%8E%E5%B0%BC%E4%BA%9A+V2CROSS.COM
-trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.251.24:50723?allowInsecure=1&sni=www.baidu.com#%E6%B1%9F%E8%8B%8F%E7%9C%81+%E7%A7%BB%E5%8A%A8
+trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.251.33:19577?allowInsecure=1&sni=www.baidu.com#%E6%B1%9F%E8%8B%8F%E7%9C%81+%E7%A7%BB%E5%8A%A8
+trojan://4732adfa16c6450bbef87264e41332db@165.22.74.230:443?allowInsecure=0&sni=nextstepcareer.online#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
 vmess://eyJhZGQiOiAiU1NTeFhjdkZ0WS40NDQ3NTIuWHl6IiwgInYiOiAiMiIsICJwcyI6ICJcdTdmOGVcdTU2ZmQgQ2xvdWRGbGFyZVx1ODI4Mlx1NzBiOSIsICJwb3J0IjogODAsICJpZCI6ICI1MTJkOTY3NC1kYjEyLTQ0Y2EtYTFiNS02NTQyNDQ1NDliNjUiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAic3NzeHhjdmZ0eS40NDQ3NTIueHl6IiwgInBhdGgiOiAiL3VpQXh2SDZPa1ZrMFZDZmE3ZFgzSklyWWs3em0iLCAidGxzIjogIiJ9
-trojan://Aimer@192.200.160.169:2096?sni=epml.ambercc.filegear-sg.me&type=ws&path=%2F&host=epml.ambercc.filegear-sg.me#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU1NDA5XHU2Nzk3XHU3NzAxIFx1NzlmYlx1NTJhOChcdTUxNjhcdTc3MDFcdTkwMWFcdTc1MjgpIiwgImFkZCI6ICIxMTEuMjYuMTA5Ljc5IiwgInBvcnQiOiAiMzA4MzUiLCAiaWQiOiAiY2JiM2Y4NzctZDFmYi0zNDRjLTg3YTktZDE1M2JmZmQ1NDg0IiwgImFpZCI6ICIyIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJ0bHMiOiAiIiwgInBhdGgiOiAiL29vb28ifQ==
+vmess://eyJhZGQiOiAiczEuZGItbGluazAxLnRvcCIsICJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAicG9ydCI6IDg4ODAsICJpZCI6ICIwNTg4MWQ0My1lOWRhLTNkNjUtOGNiZS1mYjA0NTliNzg1NTciLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiMTAwLTIzMi0yMTAtMTAyLnMxLmRiLWxpbmswMS50b3AiLCAicGF0aCI6ICIvZGFiYWkuaW4xMDQuMjAuMjI0LjMiLCAidGxzIjogIiJ9
 trojan://4732adfa16c6450bbef87264e41332db@nextstepcareer.online:443#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
-trojan://Aimer@46.254.93.243:8443?allowInsecure=0&sni=epmk.ambercc.filegear-sg.me&type=ws&host=epmk.ambercc.filegear-sg.me&path=/#%E4%BF%84%E7%BD%97%E6%96%AF+V2CROSS.COM
-trojan://f108e0e2-5f12-42b6-9e67-1b2f073ffb2b@172.67.219.196:443?sni=CCcvfgt6.852224.dpdns.org&type=ws&path=%2FCA5bMmr2JMum8sDKRwvFCJq&host=CCcvfgt6.852224.dpdns.org&fp=chrome#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
-trojan://d6b8011a-c725-435a-9fec-bf6d3530392c@154.83.2.200:443?sni=vle.amclubdns.dpdns.org&allowInsecure=1&type=ws&path=%2F%3Fed%3D2560%26PROT_TYPE%3Dtrojan&host=vle.amclubdns.dpdns.org&fp=chrome#%E7%BE%8E%E5%9B%BD+Cloudinnovation%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
+trojan://a4291a2a-d62c-4eb9-ac7a-ac7355d1eda2@104.21.88.37:443?sni=XXcdVFghYUIOp.999165.xyZ&type=ws&path=%2FmFvK3LJyIAe8ydvnmRKWDa8&host=XXcdVFghYUIOp.999165.xyZ&fp=chrome#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
 ```
 
 <h5>上方节点（部分）永久订阅地址：https://proxy.v2gh.com/https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub</h5>
