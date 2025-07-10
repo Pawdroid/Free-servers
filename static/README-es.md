@@ -35,9 +35,9 @@
  <h4>Lista de nodos: (aquí solo se muestran algunos nodos; descargue la aplicación para ver todos los nodos)</h4>
     
 ```
-vmess://eyJhZGQiOiAiMzguOTkuODIuMTkzIiwgInYiOiAiMiIsICJwcyI6ICJFc3RhZG9zIFVuaWRvcyIsICJwb3J0IjogNDQzLCAiaWQiOiAiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogInRpbGViYW5pLmNvbSIsICJwYXRoIjogIi9saW5rdndzIiwgInRscyI6ICJ0bHMifQ==
-ss://YWVzLTI1Ni1nY206NWJkYTI3MzYtODFlNy00M2I0LTg2ZmMtMjg2ZjhmOGU2NTc4@de-freevmess.privateip.net:8443#Francia
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5UnZpTmE0dHNjamNtQ0I0MDh2TFNn@46.101.245.131:44354#Alemania
+vmess://eyJhZGQiOiAiU1NTeFhjdkZ0WS40NDQ3NTIuWHl6IiwgInYiOiAiMiIsICJwcyI6ICJFc3RhZG9zIFVuaWRvcyIsICJwb3J0IjogODAsICJpZCI6ICI1MTJkOTY3NC1kYjEyLTQ0Y2EtYTFiNS02NTQyNDQ1NDliNjUiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAic3NzeHhjdmZ0eS40NDQ3NTIueHl6IiwgInBhdGgiOiAiL3VpQXh2SDZPa1ZrMFZDZmE3ZFgzSklyWWs3em0iLCAidGxzIjogIiJ9
+trojan://d6b8011a-c725-435a-9fec-bf6d3530392c@194.53.53.249:2083?allowInsecure=1&sni=vle.amclubdns.dpdns.org&type=ws&host=vle.amclubdns.dpdns.org&path=%2F%3Fed%3D2560%26PROT_TYPE%3Dtrojan#Rusia
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@ca225.vpnbook.com:80#Canad%C3%A1
 ```
 <h5>La dirección de suscripción permanente del nodo superior (parte): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_es</h5>
  <p>Código QR para la dirección de suscripción anterior</p>
