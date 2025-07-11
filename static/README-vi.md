@@ -35,9 +35,9 @@
  <h4>Danh sách nút: (Chỉ hiển thị một số nút ở đây, vui lòng tải xuống ứng dụng để xem tất cả các nút)</h4>
     
 ```
+trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.192.26:41225?allowInsecure=1&sni=www.baidu.com#China
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMaUhRWDljRGJkb29CSGxJZzBlaXFR@45.144.54.33:34803#Slovenia
-vmess://eyJhZGQiOiAiMTA3LjE0OC42LjY4IiwgInYiOiAiMiIsICJwcyI6ICJVbml0ZWQgU3RhdGVzIiwgInBvcnQiOiAzMDAwMSwgImlkIjogIjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJ3d3cuNTM4NjU3MzQueHl6IiwgInBhdGgiOiAiL3BhdGgvMTcwNzMzMTMyMjMzIiwgInRscyI6ICJ0bHMifQ==
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.22:8080#Lithuania
+ss://YWVzLTEyOC1nY206WWMyQ3RySXo4TA==@2.58.87.221:16899#United+States
 ```
 <h5>Địa chỉ đăng ký vĩnh viễn của nút trên (một phần): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_vi</h5>
  <p>Mã QR cho địa chỉ đăng ký ở trên</p>
