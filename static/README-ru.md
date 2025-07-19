@@ -35,10 +35,9 @@
  <h4>Список узлов: (здесь показаны только некоторые узлы. Загрузите приложение, чтобы просмотреть все узлы)</h4>
     
 ```
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.47.132:443#%D0%A1%D0%A8%D0%90
-vmess://eyJhZGQiOiAiMTQxLjEwMS4xMTMuNiIsICJ2IjogIjIiLCAicHMiOiAiXHUwNDIxXHUwNDI4XHUwNDEwIiwgInBvcnQiOiA0NDMsICJpZCI6ICI4Zjc0ZWM4YS05NzFjLTExZWQtYThmYy0wMjQyYWMxMjAwMDIiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiOTIwZjk4NDAtNGQwZi0xMWYwLWE5NDgtNmE3NWY2NjdiNDcyLlNob21hUGFydmF6Um9ZYWRldG9uTmlzdC1CeXBhc3NJc0hlcmUubGF0IiwgInBhdGgiOiAiLzkyMGY5ODQwLTRkMGYtMTFmMC1hOTQ4LTZhNzVmNjY3YjQ3Mj9lZD0yMDQ4IiwgInRscyI6ICJ0bHMifQ==
-vmess://eyJhZGQiOiAiYXdldGRmZ25fY2RuLmhmaGZiLmhvbWVzIiwgInYiOiAiMiIsICJwcyI6ICJcdTA0MjFcdTA0MjhcdTA0MTAiLCAicG9ydCI6IDIwODYsICJpZCI6ICIzYjBhZDdhYi01N2Y5LTRkYjItOThkYy1kYWNjYzlkNTkzOGUiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAibWdjZG4xMC5oZmhmYi5ob21lcyIsICJwYXRoIjogIi9tYXJrZXQ/ZWQ9MTAyNCIsICJ0bHMiOiAiIn0=
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMTVNOaDIxVHJYalIyb2syNVEybkU4RU5UMnpvQm1QdmthM1JDQ1VBSFpFTENuV29la1ZqdmFmODlxd2NSa2RieEVmZXAyYmMyYVV0bW54cXZGMWF5UVJlejFKSGpVTGo=@exchange.gameaurela.click:52952#%D0%A1%D0%A8%D0%90
+vmess://eyJhZGQiOiAiODI3ZjA3LjRjMzhmMDllLnNob3AiLCAidiI6ICIyIiwgInBzIjogIlx1MDQyMVx1MDQyOFx1MDQxMCIsICJwb3J0IjogODAsICJpZCI6ICI5NTI3OTdiNi0yMWEwLTRlNjYtOTIzOS0zMGVmNWMwZWZjZGYiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiaGswNHMuNGMzOGYwOWUuc2hvcCIsICJwYXRoIjogIi8iLCAidGxzIjogIiJ9
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.47.130:443#%D0%A1%D0%A8%D0%90
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.240:8080#%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B
 ```
 <h5>Адрес постоянной подписки верхнего узла (части): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ru</h5>
  <p>QR-код для адреса подписки выше</p>
