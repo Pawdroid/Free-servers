@@ -35,7 +35,10 @@
  <h4>قائمة العقد: (يتم عرض بعض العقد فقط هنا، يرجى تنزيل التطبيق لعرض جميع العقد)</h4>
     
 ```
-
+vmess://eyJhZGQiOiAibnlsLjk4ODk3OC54eXoiLCAidiI6ICIyIiwgInBzIjogIlVuaXRlZCBTdGF0ZXMiLCAicG9ydCI6IDQ0MywgImlkIjogIjQwYWYwZTE0LTAzYzgtNDVlYi04NWYzLWQyZTY4OGRkYWI0YSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJueWwuOTg4OTc4Lnh5eiIsICJwYXRoIjogIi80MGFmMGUxNC0wM2M4LTQ1ZWItODVmMy1kMmU2ODhkZGFiNGEiLCAidGxzIjogInRscyJ9
+trojan://xxoo@us.blazeppn.info:443?sni=us.blazeppn.info#United+States
+trojan://Aimer@92.243.74.180:8443?allowInsecure=0&sni=tyep.esslh.filegear-sg.me&type=ws&host=tyep.esslh.filegear-sg.me&path=/#Russia
+vmess://eyJhZGQiOiAid3d3LnZpc2EuY29tLnNnIiwgInYiOiAiMiIsICJwcyI6ICJVbml0ZWQgU3RhdGVzIiwgInBvcnQiOiA4NDQzLCAiaWQiOiAiNjJhMDBlZGMtOTg2Ny00YzY2LTgyZWUtZDU3YzE5ZmFjYWQzIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogIm5vcm1hbC1yaWRpbmctbGFyZ2Utc3RydWN0LnRyeWNsb3VkZmxhcmUuY29tIiwgInBhdGgiOiAiLyIsICJ0bHMiOiAidGxzIn0=
 ```
 <h5>عنوان الاشتراك الدائم للعقدة العليا (جزء): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ar</h5>
  <p>رمز الاستجابة السريعة لعنوان الاشتراك أعلاه</p>
