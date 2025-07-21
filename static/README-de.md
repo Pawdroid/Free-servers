@@ -35,9 +35,9 @@
  <h4>Knotenliste: (Hier werden nur einige Knoten angezeigt. Bitte laden Sie die App herunter, um alle Knoten anzuzeigen.)</h4>
     
 ```
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.168:443#USA
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@151.242.251.147:8080#Iran
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.198:443#UK
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.243:443#USA
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@181.119.30.20:990#Kolumbien
+vmess://eyJhZGQiOiAiMTE5LjIwNi4xMDIuMjkiLCAidiI6ICIyIiwgInBzIjogIlNcdTAwZmNka29yZWEiLCAicG9ydCI6IDQ1OTc5LCAiaWQiOiAiMjNiZGY2ZGYtYzQ4Mi00NmQwLWMwZjQtNWE5OGQ1MzRlYTExIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIi90ZXN0IiwgInRscyI6ICIifQ==
 ```
 <h5>Die permanente Abonnementadresse des oberen Knotens (Teil): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_de</h5>
  <p>QR-Code für die Abonnementadresse oben</p>

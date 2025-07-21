@@ -35,9 +35,9 @@
  <h4>Liste des nœuds: (Seuls certains nœuds sont affichés ici, veuillez télécharger l'application pour afficher tous les nœuds)</h4>
     
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.28:8080#Lituanie
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.80:443#Royaume-Uni
-vmess://eyJhZGQiOiAiMjAyLjc5LjE2MC4xNjQiLCAidiI6ICIyIiwgInBzIjogIlNpbmdhcG91ciIsICJwb3J0IjogNDQzLCAiaWQiOiAiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwgImFpZCI6ICI2NCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJ3d3cuMjA4NTA3NzIueHl6IiwgInBhdGgiOiAiL3BhdGgvMTkxMDE5MDcyOTI3IiwgInRscyI6ICJ0bHMifQ==
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHUwMGM5dGF0cyBVbmlzIiwgImFkZCI6ICIxYTJkNTE0Yi0zN2NmLTQ5OWYtOGQwOC1kMDE3YTkyYWI1YmIuYXNvdWwtYXZhLnRvcCIsICJwb3J0IjogIjQ0MyIsICJ0eXBlIjogIm5vbmUiLCAiaWQiOiAiNWY3MjZmZTMtZDgyZS00ZGE1LWE3MTEtOGFmMGNiYjJiNjgyIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9henVtYXNlLnJlbiIsICJob3N0IjogIjFhMmQ1MTRiLTM3Y2YtNDk5Zi04ZDA4LWQwMTdhOTJhYjViYi5hc291bC1hdmEudG9wIiwgInRscyI6ICJ0bHMifQ==
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.34.244.68:443#Pays-Bas
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.47.253.227:990#%C3%89quateur
 ```
 <h5>L'adresse d'abonnement permanente du nœud supérieur (partie): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_fr</h5>
  <p>Code QR pour l'adresse d'abonnement ci-dessus</p>

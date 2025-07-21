@@ -35,9 +35,9 @@
  <h4>قائمة العقد: (يتم عرض بعض العقد فقط هنا، يرجى تنزيل التطبيق لعرض جميع العقد)</h4>
     
 ```
-ss://YWVzLTEyOC1nY206MTAwODY=@153.121.43.183:10087#Japan
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphTllzaFJiM216cDc=@93.152.207.167:443#Germany
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@79.127.233.170:990#United+Kingdom
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNDA2NDFjMWY4OWU3YWNi@tr.vpnsparta.pro:57456#T%C3%BCrkiye
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.62.161:443#Switzerland
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.79:443#United+Kingdom
 ```
 <h5>عنوان الاشتراك الدائم للعقدة العليا (جزء): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ar</h5>
  <p>رمز الاستجابة السريعة لعنوان الاشتراك أعلاه</p>

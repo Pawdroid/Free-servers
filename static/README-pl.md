@@ -35,9 +35,9 @@
  <h4>Lista węzłów: (wyświetlane są tutaj tylko niektóre węzły. Pobierz aplikację, aby wyświetlić wszystkie węzły)</h4>
     
 ```
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.169:443#United+States
-trojan://dda4f3bf-85fb-41bd-9d8e-77a8a02dbd59@194.104.147.74:1066?sni=194.104.147.74#Hong+Kong
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.193:443#United+Kingdom
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplVWg0bFNwaTduT1lqMHZTcnFMVWgw@95.163.176.37:8506#Russia
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080#The+Netherlands
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.81:443#United+Kingdom
 ```
 <h5>Stały adres subskrypcji górnego węzła (część): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_pl</h5>
  <p>Kod QR dla adresu subskrypcji powyżej</p>
