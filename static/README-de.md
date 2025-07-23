@@ -35,10 +35,10 @@
  <h4>Knotenliste: (Hier werden nur einige Knoten angezeigt. Bitte laden Sie die App herunter, um alle Knoten anzuzeigen.)</h4>
     
 ```
-vmess://eyJhZGQiOiAiMTQxLjEwMS4xMTMuMjQxIiwgInYiOiAiMiIsICJwcyI6ICJVU0EiLCAicG9ydCI6IDg4ODAsICJpZCI6ICIyNDhiZTUyYi0zNWQ5LTM0Y2ItOWI3My1lMTJiNzhiYzEzMDEiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiVEcuV2FuZ0NhaTIuczIuZGItbGluazAyLnRvcCIsICJwYXRoIjogIi9kYWJhaS5pbiIsICJ0bHMiOiAiIn0=
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYVU1UeWdFTTFqVllJdnlzWEtxQTVU@hackney-latest-strike.freesocks.work:443#USA
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3OTA1YTMyYi0wMTJjLTQ3MTEtODllMi03M2I2NzEzZWNhNzU=@pr.fastsoonlink.com:40030#USA
-vmess://eyJhZGQiOiAibGlmZXRpbWUuaWRrLmlvLnZuIiwgInYiOiAiMiIsICJwcyI6ICJWaWV0bmFtIiwgInBvcnQiOiA0NDMsICJpZCI6ICI5MGU1Njc1NS1kYjMwLTQ0NTUtOTVkMC02YWI5ZGEzMDU3MjAiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAibGlmZXRpbWUuaWRrLmlvLnZuIiwgInBhdGgiOiAiL3ZtZXNzIiwgInRscyI6ICJ0bHMifQ==
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.164:8080#Litauen
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@195.181.160.6:990#Tschechien
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.47.130:443#USA
+vmess://eyJhZGQiOiAiOTQuMjQ3LjE0Mi4yNDEiLCAidiI6ICIyIiwgInBzIjogIlVLIiwgInBvcnQiOiA4ODgwLCAiaWQiOiAiMjQ4YmU1MmItMzVkOS0zNGNiLTliNzMtZTEyYjc4YmMxMzAxIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogIlRHLldhbmdDYWkyLnMyLmRiLWxpbmswMi50b3AiLCAicGF0aCI6ICIvZGFiYWkuaW4iLCAidGxzIjogIiJ9
 ```
 <h5>Die permanente Abonnementadresse des oberen Knotens (Teil): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_de</h5>
  <p>QR-Code für die Abonnementadresse oben</p>

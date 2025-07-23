@@ -35,10 +35,10 @@
  <h4>ノード リスト: (ここには一部のノードのみが表示されます。すべてのノードを表示するにはアプリをダウンロードしてください)</h4>
     
 ```
-vmess://eyJhZGQiOiAiMTA5LjE3Ni4yMzkuMjQxIiwgInYiOiAiMiIsICJwcyI6ICJcdTgyZjFcdTU2ZmQiLCAicG9ydCI6IDg4ODAsICJpZCI6ICIyNDhiZTUyYi0zNWQ5LTM0Y2ItOWI3My1lMTJiNzhiYzEzMDEiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiVEcuV2FuZ0NhaTIuczIuZGItbGluazAyLnRvcCIsICJwYXRoIjogIi9kYWJhaS5pbiIsICJ0bHMiOiAiIn0=
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptU1FpdVQ1alIxN255V2djWE9QclRX@77.105.166.12:8594#%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9%E5%85%B1%E5%92%8C%E5%9B%BD
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5dHFoTWRJclRrZ1E0NlB2aHlBdE1I@switcher-nick-croquet.freesocks.work:443#%E3%82%A6%E3%82%AF%E3%83%A9%E3%82%A4%E3%83%8A%E5%85%B1%E5%92%8C%E5%9B%BD
-ss://YWVzLTEyOC1nY206MTAwODY=@153.121.43.183:10087#%E6%97%A5%E6%9C%AC
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.197:443#%E8%8B%B1%E5%9B%BD
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.62.163:443#%E3%82%B9%E3%82%A4%E3%82%B9%E9%80%A3%E9%82%A6
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.126.237.38:990#%E3%83%AB%E3%83%BC%E3%83%9E%E3%83%8B%E3%82%A2
+vmess://eyJhZGQiOiAiMi4xODguMjE5LjQzIiwgInYiOiAiMiIsICJwcyI6ICJcdTMwYTRcdTMwZTlcdTMwZjNcdTMwZmJcdTMwYTRcdTMwYjlcdTMwZTlcdTMwZTBcdTUxNzFcdTU0OGNcdTU2ZmQiLCAicG9ydCI6IDg0NDMsICJpZCI6ICJiMmUzODYyMS0wMzViLTQzZjgtODRhNS1lOTIxNjA3NjJmYzMiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiLyIsICJ0bHMiOiAiIn0=
 ```
 <h5>上位ノードの永続サブスクリプション アドレス (部分): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ja</h5>
  <p>上記の購読アドレスの QR コード</p>
