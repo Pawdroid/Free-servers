@@ -35,10 +35,10 @@
  <h4>Daftar node: (Hanya beberapa node yang ditampilkan di sini, silakan unduh aplikasi untuk melihat semua node)</h4>
     
 ```
-trojan://74260628090146500@stirring-parakeet.shiner427.skin:443#United+Kingdom
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMaUhRWDljRGJkb29CSGxJZzBlaXFR@45.144.54.33:34803#Slovenia
+vmess://eyJhZGQiOiAiY2MyZGFzaC44OTA2MDAwNC54eXoiLCAidiI6ICIyIiwgInBzIjogIlVuaXRlZCBTdGF0ZXMiLCAicG9ydCI6IDIwOTYsICJpZCI6ICIyZmMzNzcxMy0zMDE3LTQ5N2UtZmYyZC05NjVmODI2YTE5YTMiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiY2MyZDEuODkwNjAwMDQueHl6IiwgInBhdGgiOiAiLyIsICJ0bHMiOiAidGxzIn0=
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.158.171.110:8080#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@103.163.218.2:990#Vietnam
 vmess://eyJhZGQiOiAiYmxvZy5haWhpLnVrIiwgInYiOiAiMiIsICJwcyI6ICJVbml0ZWQgU3RhdGVzIiwgInBvcnQiOiAzMzA2LCAiaWQiOiAiZmRmN2RjZGMtOTZmMC00ZDM2LWE0MTItMTg2NmM3MzdjM2ZlIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogImJsb2cuYWloaS51ayIsICJwYXRoIjogIi9yYXkiLCAidGxzIjogInRscyJ9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.178:8080#Lithuania
 ```
 <h5>Alamat langganan permanen node atas (bagian): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_id</h5>
  <p>Kode QR untuk alamat berlangganan di atas</p>

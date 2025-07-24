@@ -35,10 +35,10 @@
 <h4>Node list: (Only some nodes are shown here, please download the app to view all nodes)</h4>
     
 ```
-vmess://eyJhZGQiOiAiMTA4LjE2NS4xNTIuMjQxIiwgInYiOiAiMiIsICJwcyI6ICJVbml0ZWQgU3RhdGVzIiwgInBvcnQiOiA4ODgwLCAiaWQiOiAiMjQ4YmU1MmItMzVkOS0zNGNiLTliNzMtZTEyYjc4YmMxMzAxIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogIlRHLldhbmdDYWkyLnMyLmRiLWxpbmswMi50b3AiLCAicGF0aCI6ICIvZGFiYWkuaW4iLCAidGxzIjogIiJ9
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.198:443#United+Kingdom
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.164:8080#Lithuania
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNDA2NDFjMWY4OWU3YWNi@46.226.163.225:57456#Armenia
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxc2NhdkY1VXZpSUwtOFYtRTRyYUJB@194.87.71.228:2222#Germany
+vmess://eyJhZGQiOiAiMTA0LjEyOS4xNjUuMjQxIiwgInYiOiAiMiIsICJwcyI6ICJTaW5nYXBvcmUiLCAicG9ydCI6IDg4ODAsICJpZCI6ICIyNDhiZTUyYi0zNWQ5LTM0Y2ItOWI3My1lMTJiNzhiYzEzMDEiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiVEcuV2FuZ0NhaTIuczIuZGItbGluazAyLnRvcCIsICJwYXRoIjogIi9kYWJhaS5pbiIsICJ0bHMiOiAiIn0=
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyNFdrMk5Tc3pyZkhuMjJ6ZW0xbFlW@188.166.220.70:37708#Singapore
+vmess://eyJhZGQiOiAiZjYwYWMwLjNjMDZiOTVkLnNob3AiLCAidiI6ICIyIiwgInBzIjogIlVuaXRlZCBTdGF0ZXMiLCAicG9ydCI6IDgwLCAiaWQiOiAiNTM1OTg0MDEtMzFlMS00Y2UzLWJiMmUtNmMwMGE4ZmMzZTAxIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogInNnMDJzLjNjMDZiOTVkLnNob3AiLCAicGF0aCI6ICIvIiwgInRscyI6ICIifQ==
 ```
 <h5>Permanent subscription address of the node above (part): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_en</h5>
 <p>QR code of the subscription address above</p>

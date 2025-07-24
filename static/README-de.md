@@ -35,10 +35,10 @@
  <h4>Knotenliste: (Hier werden nur einige Knoten angezeigt. Bitte laden Sie die App herunter, um alle Knoten anzuzeigen.)</h4>
     
 ```
-vmess://eyJhZGQiOiAiMTUuMjM1LjgzLjIyOCIsICJ2IjogIjIiLCAicHMiOiAiS2FuYWRhIiwgInBvcnQiOiA0NDMsICJpZCI6ICIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAid3JtZWxtd3hsZi5na3RldmxycXpud3Fxb3p5LmZhYnBmczY2Z2l6bW5vamhjdnF4d2wua3l0cmNmenFsYTg3Z3ZndnM2Yzdram5ydWJ1aC5jYyIsICJwYXRoIjogIi9saW5rdndzIiwgInRscyI6ICJ0bHMifQ==
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.22:8080#Litauen
-vmess://eyJhZGQiOiAiNTEuMzguNjQuMjA5IiwgInYiOiAiMiIsICJwcyI6ICJVSyIsICJwb3J0IjogNDQwMjMsICJpZCI6ICI3ZGE0NTdkYS1lZDBmLTQzN2QtYzgxZC02YzM1ODg1YmJlYTMiLCAiYWlkIjogIjAiLCAibmV0IjogInRjcCIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAiIn0=
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.78:443#UK
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@151.242.251.131:8080#Iran
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@151.242.251.153:8080#Iran
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.79:443#UK
+vmess://eyJhZGQiOiAib3YtZ2VybWFueTQuMDl2cG4uY29tIiwgInYiOiAiMiIsICJwcyI6ICJQb2xlbiIsICJwb3J0IjogODQ0MywgImlkIjogImNmYzY2ZDhkLTQ4YjUtNDM0Zi1iOTJkLTIyZGUxOTA3Y2VkNyIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIvdm1lc3MvIiwgInRscyI6ICJ0bHMifQ==
 ```
 <h5>Die permanente Abonnementadresse des oberen Knotens (Teil): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_de</h5>
  <p>QR-Code für die Abonnementadresse oben</p>
