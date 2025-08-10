@@ -35,11 +35,11 @@
  <h4>Список узлов: (здесь показаны только некоторые узлы. Загрузите приложение, чтобы просмотреть все узлы)</h4>
     
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@104.167.197.25:57456#%D0%A1%D0%A8%D0%90
-trojan://7248e825-887c-48b9-83bc-c26bc6392bf8@172.67.214.21:443?allowInsecure=0&sni=xXcdvFgt.191268.XYz&type=ws&host=xXcdvFgt.191268.XYz&path=/ctdmgeIg3NII3ibrzzKXJGy3S1#%D0%A1%D0%A8%D0%90
-vmess://eyJhZGQiOiAiNjQuODEuMzAuMjQiLCAidiI6ICIyIiwgInBzIjogIlx1MDQyMVx1MDQyOFx1MDQxMCIsICJwb3J0IjogMjAwODYsICJpZCI6ICJmNTNlMGQ0Mi1hZmNhLTRiNzYtYWU3Zi04MDZkNmExZDM2YzIiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiLyIsICJ0bHMiOiAiIn0=
-vmess://eyJhZGQiOiAiNjQuODEuMTE5LjE1NSIsICJ2IjogIjIiLCAicHMiOiAiXHUwNDIxXHUwNDI4XHUwNDEwIiwgInBvcnQiOiAyMDA4NiwgImlkIjogIjJiMWVjNWY0LTI3ZDYtNGJiMC05ZDNjLWQ1NjgzNDMzZjVlZCIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIvIiwgInRscyI6ICIifQ==
-vmess://eyJhZGQiOiAiMTQyLjE3MS4xNzYuMTQ2IiwgInYiOiAiMiIsICJwcyI6ICJcdTA0MjFcdTA0MjhcdTA0MTAiLCAicG9ydCI6IDIwMDg2LCAiaWQiOiAiM2QyMTQ3YWUtNTc3Yy00NDU3LTljODUtYzcxMzhmNmI3NGJiIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIi8iLCAidGxzIjogIiJ9
+vmess://eyJhZGQiOiAiMTA0LjIzOC4xNjIuNzYiLCAidiI6ICIyIiwgInBzIjogIlx1MDQyMVx1MDQyOFx1MDQxMCIsICJwb3J0IjogMjAwODYsICJpZCI6ICI2Y2Y5M2ZlNi0wMDYyLTQyMTItOTVhYS0yYWFiY2E4YjExYmYiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiLyIsICJ0bHMiOiAiIn0=
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.217:8080#%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@151.242.251.153:8080#%D0%98%D1%80%D0%B0%D0%BD
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0ckVydG84WHpMQUxhUUVzbFRwX2p3@ytreserved.opengate.wiki:2222#%D0%93%D1%80%D0%B5%D1%86%D0%B8%D1%8F
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@151.242.251.144:8080#%D0%98%D1%80%D0%B0%D0%BD
 ```
 <h5>Адрес постоянной подписки верхнего узла (части): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ru</h5>
  <p>QR-код для адреса подписки выше</p>
