@@ -35,11 +35,11 @@
  <h4>Lista de nós: (Apenas alguns nós são exibidos aqui, baixe o aplicativo para visualizar todos os nós)</h4>
     
 ```
-vmess://eyJhZGQiOiAiOTEuOTkuMTg1LjIxNiIsICJ2IjogIjIiLCAicHMiOiAiQWxlbWFuaGEiLCAicG9ydCI6IDIwMDg2LCAiaWQiOiAiN2JkNmExZWEtYTIyMC00ZjFjLWFmZWQtNmNmYjhhYjk2YWQ5IiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIi8iLCAidGxzIjogIiJ9
-vmess://eyJhZGQiOiAiNTEuNzkuODYuMTgyIiwgInYiOiAiMiIsICJwcyI6ICJDYW5hZFx1MDBlMSIsICJwb3J0IjogNDI2MTAsICJpZCI6ICJlMDk1N2NhNi1mNjEzLTQwMTctZmYzYy1lZmZkMWRhODg3MWEiLCAiYWlkIjogIjAiLCAibmV0IjogInRjcCIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAiIn0=
-vmess://eyJhZGQiOiAiMTAzLjE5Ny4xODUuMjA0IiwgInYiOiAiMiIsICJwcyI6ICJWaWV0blx1MDBlMyIsICJwb3J0IjogMjAwODYsICJpZCI6ICI5MWVmYTM5MC03M2EwLTQzNjctYTAzMi02NWNkNzk1M2IzMGIiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiLyIsICJ0bHMiOiAiIn0=
-ss://YWVzLTEyOC1nY206MTAwODY=@160.16.123.124:10087#Jap%C3%A3o
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@92.118.205.228:990#Pol%C3%B4nia
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.240:8080#Holanda
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@79.127.233.170:990#Reino+Unido
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.192:8080#Litu%C3%A2nia
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6dG40UHcyWFF1eS9xS0d2SGZ2Vjlzd2U2NFJtZ0UzUXlhbVRxZmY5ZGhBPQ==@165.22.49.146:57905#Singapura
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@193.29.139.189:8080#Holanda
 ```
 <h5>O endereço de assinatura permanente do nó superior (parte): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_pt-BR</h5>
  <p>Código QR do endereço de assinatura acima</p>
