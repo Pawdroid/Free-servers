@@ -35,11 +35,10 @@
  <h4>قائمة العقد: (يتم عرض بعض العقد فقط هنا، يرجى تنزيل التطبيق لعرض جميع العقد)</h4>
     
 ```
-vmess://eyJhZGQiOiAiNDUuMTI4LjU0Ljg0IiwgInYiOiAiMiIsICJwcyI6ICJBemVyYmFpamFuIiwgInBvcnQiOiAzNzMxMywgImlkIjogIjcyZmViODMzLTQxOTYtNGE3MC1hM2Y1LWFlYjAxMWY3ZDUzNCIsICJhaWQiOiAiMCIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiIiwgInRscyI6ICIifQ==
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.123.101.241:990#T%C3%BCrkiye
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@151.242.251.131:8080#Iran
-vmess://eyJhZGQiOiAiYjJkNWNiMjAtc3Yyc2cwLXQ3cXkyNi0xNGc3Ni5oazMucDVwdi5jb20iLCAidiI6ICIyIiwgInBzIjogIkhvbmcgS29uZyIsICJwb3J0IjogODAsICJpZCI6ICI0NzI5YjRjOC0xNzkwLTExZWItODY4NC1mMjNjOTEzYzhkMmIiLCAiYWlkIjogIjIiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiYnJvYWRjYXN0bHYuY2hhdC5iaWxpYmlsaS5jb20iLCAicGF0aCI6ICIvIiwgInRscyI6ICIifQ==
-vmess://eyJhZGQiOiAiNDUuMTIxLjQ4LjE3NCIsICJ2IjogIjIiLCAicHMiOiAiVGFpd2FuIiwgInBvcnQiOiAyMDc4OCwgImlkIjogImJmYzYzMGFhLTQ1OTgtNDQ4MS05MzM4LWNhYzE1ZTNlNmI2NSIsICJhaWQiOiAiMCIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiIiwgInRscyI6ICIifQ==
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.47.131:443#United+States
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.196:443#United+Kingdom
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.80:443#United+Kingdom
+vmess://eyJhZGQiOiAiMTQyLjE3MS4xNzYuMTQ2IiwgInYiOiAiMiIsICJwcyI6ICJVbml0ZWQgU3RhdGVzIiwgInBvcnQiOiAyMDA4NiwgImlkIjogIjNkMjE0N2FlLTU3N2MtNDQ1Ny05Yzg1LWM3MTM4ZjZiNzRiYiIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIvIiwgInRscyI6ICIifQ==
 ```
 <h5>عنوان الاشتراك الدائم للعقدة العليا (جزء): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ar</h5>
  <p>رمز الاستجابة السريعة لعنوان الاشتراك أعلاه</p>

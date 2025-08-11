@@ -35,11 +35,10 @@
  <h4>Danh sách nút: (Chỉ hiển thị một số nút ở đây, vui lòng tải xuống ứng dụng để xem tất cả các nút)</h4>
     
 ```
-vmess://eyJhZGQiOiAiMTQ2LjU5LjU1LjUwIiwgInYiOiAiMiIsICJwcyI6ICJQb2xhbmQiLCAicG9ydCI6IDQ0MywgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJvLm1ldHVqaS5jb20iLCAicGF0aCI6ICIvbGlua3Z3cyIsICJ0bHMiOiAidGxzIn0=
-vmess://eyJhZGQiOiAiMTUyLjUzLjE2NS4yMTgiLCAidiI6ICIyIiwgInBzIjogIkF1c3RyaWEiLCAicG9ydCI6IDMyMTU4LCAiaWQiOiAiYjQ0ZWNmNjItZDMxMy00ZjMyLThlNzctNjJjMGQ4ZGQxOGNlIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIiLCAidGxzIjogIiJ9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.251:8080#The+Netherlands
-ss://YWVzLTEyOC1nY206MTAwODY=@160.16.123.124:10087#Japan
-vmess://eyJhZGQiOiAiYmxvZy5haWhpLnVrIiwgInYiOiAiMiIsICJwcyI6ICJVbml0ZWQgU3RhdGVzIiwgInBvcnQiOiAzMzA2LCAiaWQiOiAiZmRmN2RjZGMtOTZmMC00ZDM2LWE0MTItMTg2NmM3MzdjM2ZlIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogImJsb2cuYWloaS51ayIsICJwYXRoIjogIi9yYXkiLCAidGxzIjogInRscyJ9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@181.119.30.20:990#Colombia
+vmess://eyJhZGQiOiAiczMuaXB5YXIub3JnIiwgInYiOiAiMiIsICJwcyI6ICJHZXJtYW55IiwgInBvcnQiOiAzMjAyMCwgImlkIjogIjc4YjRmYjU3LTM5ZDctNGU5ZC1kZDM4LWM5YTM4MzIyYmNiMiIsICJhaWQiOiAiMCIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAiIiwgImhvc3QiOiAidHRmYW5nLmZhbmdlLm1lIiwgInBhdGgiOiAiIiwgInRscyI6ICIifQ==
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5UnZpTmE0dHNjamNtQ0I0MDh2TFNn@46.101.245.131:44354#Germany
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.158.171.110:8080#United+States
 ```
 <h5>Địa chỉ đăng ký vĩnh viễn của nút trên (một phần): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_vi</h5>
  <p>Mã QR cho địa chỉ đăng ký ở trên</p>

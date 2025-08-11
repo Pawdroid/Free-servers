@@ -35,11 +35,10 @@
  <h4>नोड सूची: (यहां केवल कुछ नोड्स प्रदर्शित हैं, कृपया सभी नोड्स देखने के लिए ऐप डाउनलोड करें)</h4>
     
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyNFdrMk5Tc3pyZkhuMjJ6ZW0xbFlW@188.166.220.70:37708#Singapore
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.47.255.22:990#Puerto+Rico
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowUnNyY0ZKMXZPc1dFcWczUDU1aHZhYWNLZnVTaFQwY2MxaDB0OEFEME5BOHUxdVI=@92.38.171.215:31348#Spain
+vmess://eyJhZGQiOiAiNjQuODEuMzAuMjQiLCAidiI6ICIyIiwgInBzIjogIlVuaXRlZCBTdGF0ZXMiLCAicG9ydCI6IDIwMDg2LCAiaWQiOiAiZjUzZTBkNDItYWZjYS00Yjc2LWFlN2YtODA2ZDZhMWQzNmMyIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIi8iLCAidGxzIjogIiJ9
+trojan://7248e825-887c-48b9-83bc-c26bc6392bf8@172.67.214.21:443?allowInsecure=0&sni=xXcdvFgt.191268.XYz&type=ws&host=xXcdvFgt.191268.XYz&path=/ctdmgeIg3NII3ibrzzKXJGy3S1#United+States
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.81:443#United+Kingdom
 vmess://eyJhZGQiOiAiMTA0LjIxLjMuMTg5IiwgInYiOiAiMiIsICJwcyI6ICJVbml0ZWQgU3RhdGVzIiwgInBvcnQiOiAyMDUzLCAiaWQiOiAiMmZjMzc3MTMtMzAxNy00OTdlLWZmMmQtOTY1ZjgyNmExOWEzIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogImNjMmQ0Ljg5MDYwMDA0Lnh5eiIsICJwYXRoIjogIi8iLCAidGxzIjogInRscyJ9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@79.127.233.170:990#United+Kingdom
 ```
 <h5>ऊपरी नोड (भाग) का स्थायी सदस्यता पता: https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_hi</h5>
  <p>उपरोक्त सदस्यता पते के लिए QR कोड</p>

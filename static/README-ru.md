@@ -35,11 +35,10 @@
  <h4>Список узлов: (здесь показаны только некоторые узлы. Загрузите приложение, чтобы просмотреть все узлы)</h4>
     
 ```
-vmess://eyJhZGQiOiAiNTcuMTI5LjI4LjY5IiwgInYiOiAiMiIsICJwcyI6ICJcdTA0MjRcdTA0NDBcdTA0MzBcdTA0M2RcdTA0NDZcdTA0MzhcdTA0NGYiLCAicG9ydCI6IDQ0MywgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJiYXJhZGloYS5jb20iLCAicGF0aCI6ICIvbGlua3Z3cyIsICJ0bHMiOiAidGxzIn0=
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.198:443#%D0%91%D1%80%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D1%8F
-vmess://eyJhZGQiOiAiNjQuODEuMTE5LjE1NSIsICJ2IjogIjIiLCAicHMiOiAiXHUwNDIxXHUwNDI4XHUwNDEwIiwgInBvcnQiOiAyMDA4NiwgImlkIjogIjJiMWVjNWY0LTI3ZDYtNGJiMC05ZDNjLWQ1NjgzNDMzZjVlZCIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIvIiwgInRscyI6ICIifQ==
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpfYjZ4NXRmTzF3WlV4T2J1Ul9BSVhn@150.241.86.252:1080#%D0%98%D1%81%D0%BF%D0%B0%D0%BD%D0%B8%D1%8F
-vmess://eyJhZGQiOiAidjJyYXkuY29kZWZ5aW5jLmNvbSIsICJ2IjogIjIiLCAicHMiOiAiXHUwNDIxXHUwNDI4XHUwNDEwIiwgInBvcnQiOiA0NDMsICJpZCI6ICIyYzk4MTE2NC05YjkzLTRiY2EtOTRmZi1iNzhkM2Y4NDk4ZDciLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiL3ZtZXNzd3MiLCAidGxzIjogInRscyJ9
+ss://YWVzLTI1Ni1nY206VEc6QEVua2VsdGVfbm90aWYmJlRHOkBOb3RpZl9DaGF0@152.53.2.128:34045#%D0%90%D0%B2%D1%81%D1%82%D1%80%D0%B8%D1%8F
+trojan://tg-fq521free@216.24.57.30:443?allowInsecure=0&sni=torjan.xn--xhq44j.eu.org&type=ws&host=torjan.xn--xhq44j.eu.org&path=/#%D0%A1%D0%A8%D0%90
+vmess://eyJhZGQiOiAiNTcuMTI5LjI0LjEyNSIsICJ2IjogIjIiLCAicHMiOiAiXHUwNDI0XHUwNDIwXHUwNDEzIiwgInBvcnQiOiA0NDMsICJpZCI6ICIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiYXZlaXJvci5jb20iLCAicGF0aCI6ICIvbGlua3Z3cyIsICJ0bHMiOiAidGxzIn0=
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.79:443#%D0%91%D1%80%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D1%8F
 ```
 <h5>Адрес постоянной подписки верхнего узла (части): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ru</h5>
  <p>QR-код для адреса подписки выше</p>
