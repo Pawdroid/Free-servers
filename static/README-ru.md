@@ -35,12 +35,12 @@
  <h4>Список узлов: (здесь показаны только некоторые узлы. Загрузите приложение, чтобы просмотреть все узлы)</h4>
     
 ```
-vmess://eyJhZGQiOiAiMjAyLjc5LjE2MS4xODgiLCAidiI6ICIyIiwgInBzIjogIlx1MDQyMVx1MDQzOFx1MDQzZFx1MDQzM1x1MDQzMFx1MDQzZlx1MDQ0M1x1MDQ0MCIsICJwb3J0IjogNDQzLCAiaWQiOiAiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwgImFpZCI6ICI2NCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJ3d3cuMzIyNzgxMTcueHl6IiwgInBhdGgiOiAiL3BhdGgvMTcwNzMzMTMyMjMzIiwgInRscyI6ICJ0bHMifQ==
-ss://YWVzLTI1Ni1nY206VEc6QEVua2VsdGVfbm90aWYmJlRHOkBOb3RpZl9DaGF0@152.53.2.128:34045#%D0%90%D0%B2%D1%81%D1%82%D1%80%D0%B8%D1%8F
-vmess://eyJhZGQiOiAiNTEuMjIyLjE1OC4yNDMiLCAidiI6ICIyIiwgInBzIjogIlx1MDQxYVx1MDQzMFx1MDQzZFx1MDQzMFx1MDQzNFx1MDQzMCIsICJwb3J0IjogODQ0MywgImlkIjogIjRiMGRmMjEzLTBlNTktNGMxNi1iMzkxLWUwZDk3Njg2YmZhOSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIvdm1lc3MvIiwgInRscyI6ICJ0bHMifQ==
-trojan://Aimer@27.50.49.136:443?allowInsecure=1&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=/?ed=2560#%D0%A1%D0%B8%D0%BD%D0%B3%D0%B0%D0%BF%D1%83%D1%80
-trojan://Aimer@5.182.84.50:2096?allowInsecure=1&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=/?ed=2560#%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.196:443#%D0%91%D1%80%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D1%8F
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.126.239.250:990#%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.62.164:443#%D0%A8%D0%B2%D0%B5%D0%B9%D1%86%D0%B0%D1%80%D0%B8%D1%8F
+vmess://eyJhZGQiOiAiNDYuMTY1LjE5NC45MCIsICJ2IjogIjIiLCAicHMiOiAiXHUwNDI0XHUwNDIwXHUwNDEzIiwgInBvcnQiOiAyMDA4NiwgImlkIjogImYyYTlmMTQ5LWNiNmEtNDY2OS05MDk3LTJkOGNiMmQ0ZWE3ZSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIvIiwgInRscyI6ICIifQ==
+vmess://eyJhZGQiOiAiaGljYWk1dS5odXZpY2xvdWQuY29tIiwgInYiOiAiMiIsICJwcyI6ICJcdTA0MjFcdTA0MjhcdTA0MTAiLCAicG9ydCI6IDQ0MywgImlkIjogImJkMzNjYzZhLTVhNTUtNGFlOS04YTNhLTc5NjAxMzg0NjdjNSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJoaWNhaTV1Lmh1dmljbG91ZC5jb20iLCAicGF0aCI6ICIvaGljYWlzcGVlZHRlc3QiLCAidGxzIjogInRscyJ9
+trojan://2ee85121-31de-4581-a492-eb00f606e392@185.208.207.217:443?sni=dus.freeguard.org#%D0%A4%D0%A0%D0%93
+trojan://Aimer@108.165.152.1:2087?allowInsecure=1&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=/?ed=2560#%D0%A1%D0%A8%D0%90
 ```
 <h5>Адрес постоянной подписки верхнего узла (части): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ru</h5>
  <p>QR-код для адреса подписки выше</p>

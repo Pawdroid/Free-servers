@@ -35,12 +35,12 @@
  <h4>Lista de nodos: (aquí solo se muestran algunos nodos; descargue la aplicación para ver todos los nodos)</h4>
     
 ```
-vmess://eyJhZGQiOiAiNTcuMTI5LjI0LjEyNSIsICJ2IjogIjIiLCAicHMiOiAiQWxlbWFuaWEiLCAicG9ydCI6IDQ0MywgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJhdmVpcm9yLmNvbSIsICJwYXRoIjogIi9saW5rdndzIiwgInRscyI6ICJ0bHMifQ==
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@104.192.226.106:990#Estados+Unidos
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5UnZpTmE0dHNjamNtQ0I0MDh2TFNn@46.101.245.131:44354#Alemania
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowUnNyY0ZKMXZPc1dFcWczUDU1aHZhYWNLZnVTaFQwY2MxaDB0OEFEME5BOHUxdVI=@92.38.171.215:31348#Espa%C3%B1a
-vmess://eyJhZGQiOiAiMDUwOTEwLnh5eiIsICJ2IjogIjIiLCAicHMiOiAiRXN0YWRvcyBVbmlkb3MiLCAicG9ydCI6IDIwMDg2LCAiaWQiOiAiN2U5OTIxMzgtNGJhZS00NGQ3LTg5M2UtYzMzNjA1YzQwZDVmIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogIjA1MDkxMC54eXoiLCAicGF0aCI6ICIvIiwgInRscyI6ICIifQ==
-trojan://Aimer@45.67.215.217:2087?allowInsecure=1&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=/?ed=2560#Rusia
+vmess://eyJhZGQiOiAiNjQuODEuMzAuOTEiLCAidiI6ICIyIiwgInBzIjogIkVzdGFkb3MgVW5pZG9zIiwgInBvcnQiOiAyMDA4NiwgImlkIjogIjA2YjZmYjIwLTkzMzQtNGQ4Ni04ZjkzLTQ5ZmFmODMzMzU1ZCIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIvIiwgInRscyI6ICIifQ==
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpfYjZ4NXRmTzF3WlV4T2J1Ul9BSVhn@150.241.86.252:1080#Espa%C3%B1a
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.181:8080#Lituania
+trojan://Aimer@104.19.60.99:2087?allowInsecure=1&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=/?ed=2560#Estados+Unidos
+trojan://Aimer@108.165.152.1:2087?allowInsecure=1&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=/?ed=2560#Estados+Unidos
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptU1FpdVQ1alIxN255V2djWE9QclRX@77.105.166.12:8594#Francia
 ```
 <h5>La dirección de suscripción permanente del nodo superior (parte): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_es</h5>
  <p>Código QR para la dirección de suscripción anterior</p>

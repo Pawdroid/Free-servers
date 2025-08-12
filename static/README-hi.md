@@ -35,12 +35,12 @@
  <h4>नोड सूची: (यहां केवल कुछ नोड्स प्रदर्शित हैं, कृपया सभी नोड्स देखने के लिए ऐप डाउनलोड करें)</h4>
     
 ```
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.193:443#United+Kingdom
-vmess://eyJhZGQiOiAib3YtZ2VybWFueTcuMDl2cG4uY29tIiwgInYiOiAiMiIsICJwcyI6ICJQb2xhbmQiLCAicG9ydCI6IDg0NDMsICJpZCI6ICI4YjdlYzk4ZC1jMjkxLTQwMzQtOTcxOS1lNmQ2MjA1MTYzNmEiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAib3YtZ2VybWFueTcuMDl2cG4uY29tIiwgInBhdGgiOiAiL3ZtZXNzLyIsICJ0bHMiOiAidGxzIn0=
-trojan://Aimer@kip.ns.cloudflare.com:443?allowInsecure=1&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=/?ed=2560#United+States
-trojan://Aimer@46.254.92.142:2087?allowInsecure=1&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=/?ed=2560#Russia
-trojan://Aimer@27.50.49.37:2053?allowInsecure=1&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=/?ed=2560#Singapore
-vmess://eyJhZGQiOiAiNDUuMTkyLjk4LjEzMiIsICJ2IjogIjIiLCAicHMiOiAiSG9uZyBLb25nIiwgInBvcnQiOiAyMDA4NiwgImlkIjogIjk2MmI2OTU5LTgzZDQtNDg0Ni1iYmRmLWU5MWM1ZGRiYzkzMiIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIvIiwgInRscyI6ICIifQ==
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.34.244.68:443#The+Netherlands
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.157:8080#Lithuania
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@38.165.233.18:990#Paraguay
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptU1FpdVQ1alIxN255V2djWE9QclRX@77.105.166.12:8594#France
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.158.171.150:8080#United+States
+trojan://Aimer@108.165.152.78:2083?allowInsecure=1&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=/?ed=2560#United+States
 ```
 <h5>ऊपरी नोड (भाग) का स्थायी सदस्यता पता: https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_hi</h5>
  <p>उपरोक्त सदस्यता पते के लिए QR कोड</p>

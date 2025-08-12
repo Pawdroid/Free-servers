@@ -35,12 +35,12 @@
  <h4>Danh sách nút: (Chỉ hiển thị một số nút ở đây, vui lòng tải xuống ứng dụng để xem tất cả các nút)</h4>
     
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNThmYTYyYjQ5NDRkZGJm@147.45.178.200:57456#Russia
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.158.171.66:8080#United+States
-vmess://eyJhZGQiOiAiNjQuODEuMTE5LjE1NSIsICJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJwb3J0IjogMjAwODYsICJpZCI6ICIyYjFlYzVmNC0yN2Q2LTRiYjAtOWQzYy1kNTY4MzQzM2Y1ZWQiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiLyIsICJ0bHMiOiAiIn0=
-trojan://Aimer@kip.ns.cloudflare.com:443?allowInsecure=1&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=/?ed=2560#United+States
-trojan://Aimer@74.176.199.245:443?allowInsecure=1&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=/?ed=2560#United+States
-vmess://eyJhZGQiOiAiNDUuMTkyLjk4LjEzMiIsICJ2IjogIjIiLCAicHMiOiAiSG9uZyBLb25nIiwgInBvcnQiOiAyMDA4NiwgImlkIjogIjk2MmI2OTU5LTgzZDQtNDg0Ni1iYmRmLWU5MWM1ZGRiYzkzMiIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIvIiwgInRscyI6ICIifQ==
+trojan://Aimer@188.164.159.43:2083?allowInsecure=1&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=/?ed=2560#Armenia
+trojan://Aimer@222.105.100.2:12483?allowInsecure=1&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=/?ed=2560#South+Korea
+vmess://eyJhZGQiOiAiMTUuMjM1LjQxLjIwMCIsICJ2IjogIjIiLCAicHMiOiAiQ2FuYWRhIiwgInBvcnQiOiA4MCwgImlkIjogIjU4ZmUxNTQyLTUyOTAtNDBhZC04MTVhLTc3NzA3YTgxYWZlNSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIvSU9lYmhMTWhsMUNUYkZIYkw5NW15ZlJYMiIsICJ0bHMiOiAiIn0=
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.92:8080#Lithuania
+vmess://eyJhZGQiOiAidGVzdDEzLmh1dmljbG91ZC5jb20iLCAidiI6ICIyIiwgInBzIjogIkphcGFuIiwgInBvcnQiOiA0NDMsICJpZCI6ICJiNzA4NzgxNy1iOTY3LTQ3NGEtOGUzOC0wMjdlN2M5MmE5ODAiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAidGVzdDEzLmh1dmljbG91ZC5jb20iLCAicGF0aCI6ICIvZGpha2poYWhmM2ZnIiwgInRscyI6ICJ0bHMifQ==
+vmess://eyJhZGQiOiAiMjA2LjIwNi44MC4yMjciLCAidiI6ICIyIiwgInBzIjogIlVuaXRlZCBTdGF0ZXMiLCAicG9ydCI6IDIwMDg2LCAiaWQiOiAiMGFiYjdiOWUtODFiYS00MzM2LThjYTctMDU2ODY2MDMyZmYzIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIi8iLCAidGxzIjogIiJ9
 ```
 <h5>Địa chỉ đăng ký vĩnh viễn của nút trên (một phần): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_vi</h5>
  <p>Mã QR cho địa chỉ đăng ký ở trên</p>
