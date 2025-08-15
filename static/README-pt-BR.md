@@ -35,11 +35,11 @@
  <h4>Lista de nós: (Apenas alguns nós são exibidos aqui, baixe o aplicativo para visualizar todos os nós)</h4>
     
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.47.253.227:990#Equador
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.158.171.146:8080#EUA
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.217:8080#Holanda
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@193.29.139.179:8080#Holanda
-vmess://eyJhZGQiOiAidjM2LmVtb3llcy50b3AiLCAidiI6ICIyIiwgInBzIjogIkVVQSIsICJwb3J0IjogNDQzLCAiaWQiOiAiMDhiMjRkOGQtMTBhYi00YzVhLTk5MGUtNGUwZTE5NDg3MGFmIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogInYzNi5lbW95ZXMudG9wIiwgInBhdGgiOiAiLyIsICJ0bHMiOiAidGxzIn0=
+trojan://0F22D008-24D4-4DFE-947B-8D2FD64CD24C@www.visa.com.sg:2053?allowInsecure=0&sni=t.hongkong6.qzz.io&type=ws&host=t.hongkong6.qzz.io&path=/#EUA
+vmess://eyJhZGQiOiAiMTQ2LjU5LjU1LjUwIiwgInYiOiAiMiIsICJwcyI6ICJQb2xcdTAwZjRuaWEiLCAicG9ydCI6IDQ0MywgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJvLm1ldHVqaS5jb20iLCAicGF0aCI6ICIvbGlua3Z3cyIsICJ0bHMiOiAidGxzIn0=
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYVU1UeWdFTTFqVllJdnlzWEtxQTVU@hackney-latest-strike.freesocks.work:443#EUA
+vmess://eyJhZGQiOiAiMTAzLjEyNC4xMDcuMTQ0IiwgInYiOiAiMiIsICJwcyI6ICJFVUEiLCAicG9ydCI6IDI5ODAwLCAiaWQiOiAiY2MzMWRkZmMtZDkyZS00ZGFiLWNkMDYtMDBkZmI4NGFmOGFjIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIiLCAidGxzIjogIiJ9
+vmess://eyJhZGQiOiAidGVzdC5mbGhhLnJ1IiwgInYiOiAiMiIsICJwcyI6ICJFVUEiLCAicG9ydCI6IDgwLCAiaWQiOiAiMmJhYjZiOGYtOGQ2ZS00NjNhLTgzMzEtYjlkZTNkNTY5MjFkIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIi8yYmFiNmI4Zi04ZDZlLTQ2M2EtODMzMS1iOWRlM2Q1NjkyMWQtdm1lc3MiLCAidGxzIjogIiJ9
 ```
 <h5>O endereço de assinatura permanente do nó superior (parte): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_pt-BR</h5>
  <p>Código QR do endereço de assinatura acima</p>

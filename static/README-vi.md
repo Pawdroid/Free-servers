@@ -35,11 +35,11 @@
  <h4>Danh sách nút: (Chỉ hiển thị một số nút ở đây, vui lòng tải xuống ứng dụng để xem tất cả các nút)</h4>
     
 ```
-trojan://2ee85121-31de-4581-a492-eb00f606e392@185.208.207.217:443?sni=dus.freeguard.org#Germany
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.188:8080#Lithuania
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@203.23.128.33:990#Hong+Kong
-vmess://eyJ2IjogIjIiLCAicHMiOiAiRnJhbmNlIiwgImFkZCI6ICJwbGFuYi5tb2pjbi5jb20iLCAicG9ydCI6ICIxNjYxNyIsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogIjBjMGZkYWE5LWRhMmUtNDJjMC1iMzhlLTI1ZDU0ZWMxZTZkNCIsICJzbmkiOiAiIiwgImhvc3QiOiAiYjM3MDQ4NTQ0ZDA4M2E1MDMxODhkMzhjNTNkNmU0ZjIubW9iZ3NsYi50YmNhY2hlLmNvbSIsICJwYXRoIjogIi8ifQ==
-vmess://eyJhZGQiOiAiNTEuMjU0LjIxLjE5MyIsICJ2IjogIjIiLCAicHMiOiAiRnJhbmNlIiwgInBvcnQiOiAyMDA4NiwgImlkIjogIjliY2VjYjI2LTkyMGEtNGU2OC1iMjk2LTg4NTI2MzEwYmZmNiIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIvIiwgInRscyI6ICIifQ==
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYVU1UeWdFTTFqVllJdnlzWEtxQTVU@hackney-latest-strike.freesocks.work:443#United+States
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@173.244.56.6:443#United+States
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.194:443#United+Kingdom
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@151.242.251.153:8080#Iran
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.243:443#United+States
 ```
 <h5>Địa chỉ đăng ký vĩnh viễn của nút trên (một phần): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_vi</h5>
  <p>Mã QR cho địa chỉ đăng ký ở trên</p>
