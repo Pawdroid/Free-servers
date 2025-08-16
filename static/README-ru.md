@@ -35,11 +35,12 @@
  <h4>Список узлов: (здесь показаны только некоторые узлы. Загрузите приложение, чтобы просмотреть все узлы)</h4>
     
 ```
-trojan://0F22D008-24D4-4DFE-947B-8D2FD64CD24C@www.visa.com.sg:2053?allowInsecure=0&sni=t.hongkong6.qzz.io&type=ws&host=t.hongkong6.qzz.io&path=/#%D0%A1%D0%A8%D0%90
-vmess://eyJhZGQiOiAiNDYuMjUwLjI0My41NiIsICJ2IjogIjIiLCAicHMiOiAiXHUwNDExXHUwNDQwXHUwNDM4XHUwNDQyXHUwNDMwXHUwNDNkXHUwNDM4XHUwNDRmIiwgInBvcnQiOiA1MDM5NCwgImlkIjogImE3NWYzZjk1LWFkNGUtNDQ5OC1mYzcyLWRkNzQwZGQwMmJmYyIsICJhaWQiOiAiMCIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAiIiwgImhvc3QiOiAid3d3LnNwZWVkdGVzdC5uZXQiLCAicGF0aCI6ICIiLCAidGxzIjogIiJ9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcEtBQmNPcE5OQTBsNUcyQVZPbXc4@213.109.147.242:62685#%D0%91%D1%80%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D1%8F
-trojan://Aimer@176.124.223.92:443?allowInsecure=1&sni=epgc.aimercc.dpdns.org&type=ws&host=epgc.aimercc.dpdns.org&path=/?ed=2560#%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F
-vmess://eyJhZGQiOiAiMjAyLjc5LjE2MS4xODgiLCAidiI6ICIyIiwgInBzIjogIlx1MDQyMVx1MDQzOFx1MDQzZFx1MDQzM1x1MDQzMFx1MDQzZlx1MDQ0M1x1MDQ0MCIsICJwb3J0IjogNDQzLCAiaWQiOiAiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwgImFpZCI6ICI2NCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJ3d3cuMzIyNzgxMTcueHl6IiwgInBhdGgiOiAiL3BhdGgvMTcwNzMzMTMyMjMzIiwgInRscyI6ICJ0bHMifQ==
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.126.237.38:990#%D0%A0%D1%83%D0%BC%D1%8B%D0%BD%D0%B8%D1%8F
+vmess://eyJhZGQiOiAiNjIuMTQ2LjIzNS4xOTMiLCAidiI6ICIyIiwgInBzIjogIlx1MDQyNFx1MDQyMFx1MDQxMyIsICJwb3J0IjogMjgwMTEsICJpZCI6ICJjZmM1YTg3Zi0zYzEzLTRlMjUtYjU1Ni0xNzZjZGQ2YjVjNmEiLCAiYWlkIjogIjAiLCAibmV0IjogInRjcCIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAiIn0=
+vmess://eyJhZGQiOiAiNTcuMTI5LjI4LjY5IiwgInYiOiAiMiIsICJwcyI6ICJcdTA0MjRcdTA0NDBcdTA0MzBcdTA0M2RcdTA0NDZcdTA0MzhcdTA0NGYiLCAicG9ydCI6IDQ0MywgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJiYXJhZGloYS5jb20iLCAicGF0aCI6ICIvbGlua3Z3cyIsICJ0bHMiOiAidGxzIn0=
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.199:8080#%D0%9B%D0%B8%D1%82%D0%B2%D0%B0
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvMzh5dXZ6U2UzbTVhRE5wSHRVUEgxekd3YkdFWFhNRHNHd1ZhdWIyU1lFbUhVYTJXR1pVamllelgzVnZ2YTlDQ3pwanhZdHVKTGdLc1Nuc3lLQmY5Y2lQVmJhM3k0bzM=@beta.mattenadene.org:54075#%D0%A1%D0%A8%D0%90
+trojan://2ee85121-31de-4581-a492-eb00f606e392@103.252.116.138:443?sni=hk.freeguard.org#%D0%93%D0%BE%D0%BD%D0%BA%D0%BE%D0%BD%D0%B3
 ```
 <h5>Адрес постоянной подписки верхнего узла (части): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ru</h5>
  <p>QR-код для адреса подписки выше</p>

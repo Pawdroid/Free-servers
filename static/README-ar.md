@@ -35,11 +35,12 @@
  <h4>قائمة العقد: (يتم عرض بعض العقد فقط هنا، يرجى تنزيل التطبيق لعرض جميع العقد)</h4>
     
 ```
-trojan://Aimer@199.34.228.164:2087?allowInsecure=1&sni=epgc.aimercc.dpdns.org&type=ws&host=epgc.aimercc.dpdns.org&path=/?ed=2560#United+States
-trojan://Aimer@5.182.84.244:443?allowInsecure=1&sni=epgc.aimercc.dpdns.org&type=ws&host=epgc.aimercc.dpdns.org&path=/?ed=2560#Russia
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@173.244.56.9:443#United+States
-vmess://eyJhZGQiOiAiNDUuNjcuMTM5LjIyNSIsICJ2IjogIjIiLCAicHMiOiAiR2VybWFueSIsICJwb3J0IjogMjAwODYsICJpZCI6ICJkMzkyODMzMC00MDUwLTQ3ZjYtOWQxYy1kZjFmZDgwMWM1NjgiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiLyIsICJ0bHMiOiAiIn0=
-vmess://eyJhZGQiOiAiMTUuMjM1LjUwLjE3MiIsICJ2IjogIjIiLCAicHMiOiAiQ2FuYWRhIiwgInBvcnQiOiA0NDMsICJpZCI6ICIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiYmFyYWRpaGEuY29tIiwgInBhdGgiOiAiL2xpbmt2d3MiLCAidGxzIjogInRscyJ9
+trojan://Aimer@188.164.159.45:8443?allowInsecure=1&sni=epgc.aimercc.dpdns.org&type=ws&host=epgc.aimercc.dpdns.org&path=/?ed=2560#Armenia
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.78:443#United+Kingdom
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.154:8080#Lithuania
+vmess://eyJhZGQiOiAiNjQuODEuMzAuMjQiLCAidiI6ICIyIiwgInBzIjogIlVuaXRlZCBTdGF0ZXMiLCAicG9ydCI6IDIwMDg2LCAiaWQiOiAiZjUzZTBkNDItYWZjYS00Yjc2LWFlN2YtODA2ZDZhMWQzNmMyIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIi8iLCAidGxzIjogIiJ9
+vmess://eyJhZGQiOiAiMjA1LjIzMy4xODEuMyIsICJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJwb3J0IjogNDQzLCAiaWQiOiAiZGU5NGNjMGEtMDU5Mi00OTY5LWIxZmMtOTdlYThmMGVhMGIzIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogImZhcmlkLjEuYmVyb3poYS5pciIsICJwYXRoIjogIi91cy5ra3AubWUuZXUub3JnL2FhIiwgInRscyI6ICJ0bHMifQ==
+vmess://eyJhZGQiOiAiYzlkYzM3ZmUtc3ppMXMwLXQweTBuZC0xbW1icC5oazMucDVwdi5jb20iLCAidiI6ICIyIiwgInBzIjogIkhvbmcgS29uZyIsICJwb3J0IjogODAsICJpZCI6ICI2MDdkMzY1ZS03ZWExLTExZWUtOTVlOS1mMjNjOTEzYzhkMmIiLCAiYWlkIjogIjIiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiYnJvYWRjYXN0bHYuY2hhdC5iaWxpYmlsaS5jb20iLCAicGF0aCI6ICIvIiwgInRscyI6ICIifQ==
 ```
 <h5>عنوان الاشتراك الدائم للعقدة العليا (جزء): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ar</h5>
  <p>رمز الاستجابة السريعة لعنوان الاشتراك أعلاه</p>

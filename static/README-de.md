@@ -35,11 +35,12 @@
  <h4>Knotenliste: (Hier werden nur einige Knoten angezeigt. Bitte laden Sie die App herunter, um alle Knoten anzuzeigen.)</h4>
     
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080#Niederlande
-vmess://eyJhZGQiOiAiOTUuMTY0LjQuODgiLCAidiI6ICIyIiwgInBzIjogIkdpYnJhbHRhciIsICJwb3J0IjogODAsICJpZCI6ICJjMDRjM2IzNC03MGZkLTRmZWMtOTYzZS1jMTJkMDlmMzZiZWYiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiL3ZtZXNzLyIsICJ0bHMiOiAiIn0=
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.34.244.68:443#Niederlande
-vmess://eyJhZGQiOiAiNDUuMTkyLjk4LjEzMiIsICJ2IjogIjIiLCAicHMiOiAiSG9uZ2tvbmciLCAicG9ydCI6IDIwMDg2LCAiaWQiOiAiOTYyYjY5NTktODNkNC00ODQ2LWJiZGYtZTkxYzVkZGJjOTMyIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIi8iLCAidGxzIjogIiJ9
-trojan://Aimer@155.46.213.38:2083?allowInsecure=1&sni=epgc.aimercc.dpdns.org&type=ws&host=epgc.aimercc.dpdns.org&path=/?ed=2560#USA
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.28:8080#Litauen
+trojan://Aimer@188.164.159.241:2096?allowInsecure=1&sni=epgc.aimercc.dpdns.org&type=ws&host=epgc.aimercc.dpdns.org&path=/?ed=2560#Armenien
+vmess://eyJhZGQiOiAiNTcuMTI5LjI1LjIwIiwgInYiOiAiMiIsICJwcyI6ICJGcmFua3JlaWNoIiwgInBvcnQiOiA0NDMsICJpZCI6ICIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCAiYWlkIjogIjEiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiNTcuMTI5LjI1LjIwIiwgInBhdGgiOiAibGlua3Z3cyIsICJ0bHMiOiAidGxzIn0=
+trojan://Aimer@154.211.8.220:2096?allowInsecure=1&sni=epgc.aimercc.dpdns.org&type=ws&host=epgc.aimercc.dpdns.org&path=/?ed=2560#Hongkong
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.62.162:443#Schweiz
+trojan://Aimer@108.165.152.14:2096?allowInsecure=1&sni=epgc.aimercc.dpdns.org&type=ws&host=epgc.aimercc.dpdns.org&path=/?ed=2560#USA
 ```
 <h5>Die permanente Abonnementadresse des oberen Knotens (Teil): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_de</h5>
  <p>QR-Code für die Abonnementadresse oben</p>

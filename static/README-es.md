@@ -35,11 +35,12 @@
  <h4>Lista de nodos: (aquí solo se muestran algunos nodos; descargue la aplicación para ver todos los nodos)</h4>
     
 ```
-vmess://eyJhZGQiOiAiZGwwMS5hcm1vZC50b3AiLCAidiI6ICIyIiwgInBzIjogIklyXHUwMGUxbiIsICJwb3J0IjogNDQzLCAiaWQiOiAiY2QxMTM5MWItOWY3YS00NDc4LWI2MjQtM2ExZDVkODFkNDI2IiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJjYzJkMy44OTA2MDAwNC54eXoiLCAicGF0aCI6ICIiLCAidGxzIjogIiJ9
-vmess://eyJhZGQiOiAiMTAwMGlwLnlhbmdtaWUub25saW5lIiwgInYiOiAiMiIsICJwcyI6ICJFc3RhZG9zIFVuaWRvcyIsICJwb3J0IjogODA4MCwgImlkIjogImU5MTIzY2NlLWU0YmQtNDZjZi04NDY2LTcwOGIzNjNhOTgwNyIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJneWRlLmFpZmpqLmFzaWEiLCAicGF0aCI6ICIvIiwgInRscyI6ICIifQ==
-trojan://Aimer@5.182.84.9:2087?allowInsecure=1&sni=epgc.aimercc.dpdns.org&type=ws&host=epgc.aimercc.dpdns.org&path=/?ed=2560#Rusia
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxc2NhdkY1VXZpSUwtOFYtRTRyYUJB@185.245.107.61:2222#Alemania
-vmess://eyJhZGQiOiAiNTEuNzkuODYuMTgyIiwgInYiOiAiMiIsICJwcyI6ICJDYW5hZFx1MDBlMSIsICJwb3J0IjogNDI2MTAsICJpZCI6ICJlMDk1N2NhNi1mNjEzLTQwMTctZmYzYy1lZmZkMWRhODg3MWEiLCAiYWlkIjogIjAiLCAibmV0IjogInRjcCIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAiIn0=
+trojan://Aimer@27.50.48.115:2087?allowInsecure=1&sni=epgc.aimercc.dpdns.org&type=ws&host=epgc.aimercc.dpdns.org&path=/?ed=2560#Singapur
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.79:443#Reino+Unido
+vmess://eyJhZGQiOiAiNjQuODEuMzAuMjQiLCAidiI6ICIyIiwgInBzIjogIkVzdGFkb3MgVW5pZG9zIiwgInBvcnQiOiAyMDA4NiwgImlkIjogImY1M2UwZDQyLWFmY2EtNGI3Ni1hZTdmLTgwNmQ2YTFkMzZjMiIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIvIiwgInRscyI6ICIifQ==
+vmess://eyJhZGQiOiAiNTcuMTI5LjY0LjIzOCIsICJ2IjogIjIiLCAicHMiOiAiRnJhbmNpYSIsICJwb3J0IjogNDQzLCAiaWQiOiAiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogImthcGVsbGVuZy5jb20iLCAicGF0aCI6ICIvbGlua3Z3cyIsICJ0bHMiOiAidGxzIn0=
+trojan://Aimer@107.172.87.159:12354?allowInsecure=1&sni=epgc.aimercc.dpdns.org&type=ws&host=epgc.aimercc.dpdns.org&path=/?ed=2560#Estados+Unidos
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.47.130:443#Estados+Unidos
 ```
 <h5>La dirección de suscripción permanente del nodo superior (parte): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_es</h5>
  <p>Código QR para la dirección de suscripción anterior</p>
