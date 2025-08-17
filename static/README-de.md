@@ -35,11 +35,11 @@
  <h4>Knotenliste: (Hier werden nur einige Knoten angezeigt. Bitte laden Sie die App herunter, um alle Knoten anzuzeigen.)</h4>
     
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplMnk2Z0pkVFpxeVhORmI1cXJWdGEw@64.227.144.190:50690#Indien
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@154.205.159.100:990#Seychellen
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@151.242.251.144:8080#Iran
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.158.171.60:8080#USA
-vmess://eyJhZGQiOiAiZmsxLjYyMDcyMC54eXoiLCAidiI6ICIyIiwgInBzIjogIlVTQSIsICJwb3J0IjogODQ0MywgImlkIjogIjUxNmQ4YTdhLTNmMGItNDFkMy1iYWQwLTI0NjExNjM4MTUxNiIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJmazEuNjIwNzIwLnh5eiIsICJwYXRoIjogIi8iLCAidGxzIjogInRscyJ9
+vmess://eyJhZGQiOiAiNDUuMTI4LjU0Ljg0IiwgInYiOiAiMiIsICJwcyI6ICJBc2VyYmFpZHNjaGFuIiwgInBvcnQiOiAzNzMxMywgImlkIjogIjcyZmViODMzLTQxOTYtNGE3MC1hM2Y1LWFlYjAxMWY3ZDUzNCIsICJhaWQiOiAiMCIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiIiwgInRscyI6ICIifQ==
+vmess://eyJhZGQiOiAicmFrMWRpbmcuODkwNjAwMDQueHl6IiwgInYiOiAiMiIsICJwcyI6ICJVU0EiLCAicG9ydCI6IDIwODMsICJpZCI6ICI3NWQ5NjM2NS0xMjI5LTRmYzQtZGJkYS04NTU3MTdmODc2Y2YiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAicmFrMWQzLjk4ODk4OC5zaG9wIiwgInBhdGgiOiAiLyIsICJ0bHMiOiAidGxzIn0=
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@195.181.160.6:990#Tschechien
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMTVNOaDIxVHJYalIyb2syNVEybkU4RU5UMnpvQm1QdmthM1JDQ1VBSFpFTENuV29la1ZqdmFmODlxd2NSa2RieEVmZXAyYmMyYVV0bW54cXZGMWF5UVJlejFKSGpVTGo=@exchange.gameaurela.click:52952#USA
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.47.255.22:990#Puerto+Rico
 ```
 <h5>Die permanente Abonnementadresse des oberen Knotens (Teil): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_de</h5>
  <p>QR-Code für die Abonnementadresse oben</p>

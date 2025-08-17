@@ -35,11 +35,11 @@
  <h4>Lista de nós: (Apenas alguns nós são exibidos aqui, baixe o aplicativo para visualizar todos os nós)</h4>
     
 ```
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.62.162:443#Su%C3%AD%C3%A7a
-vmess://eyJhZGQiOiAiY2xvdWRnZXRzZXJ2aWNlLm1jbG91ZHNlcnZpY2Uuc2l0ZSIsICJ2IjogIjIiLCAicHMiOiAiRVVBIiwgInBvcnQiOiA0NDMsICJpZCI6ICIzN2Y0NjRjYi1iODI2LTQyNzgtOWJmOC0xMWJkZjFlYzg5MmIiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiRnJhLVZwLTEyMy5CTGFaRUNMT1VELlNpdGUiLCAicGF0aCI6ICIvbGludmt3cyIsICJ0bHMiOiAidGxzIn0=
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.170:443#EUA
-vmess://eyJhZGQiOiAiNjQuMjI3LjQ1LjkyIiwgInYiOiAiMiIsICJwcyI6ICJSZWlubyBVbmlkbyIsICJwb3J0IjogMjAwODYsICJpZCI6ICI1ZTAyYmMwMS00MmE3LTQ2MDktYjIwYS00ZDkzZmVlYTY1YzYiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiLyIsICJ0bHMiOiAiIn0=
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.193:443#Reino+Unido
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@38.165.233.18:990#Paraguai
+trojan://tg-fq521free@216.24.57.30:443?allowInsecure=0&sni=torjan.xn--xhq44j.eu.org&type=ws&host=torjan.xn--xhq44j.eu.org&path=/#EUA
+trojan://Aimer@103.116.7.189:443?allowInsecure=1&sni=epgc.aimercc.dpdns.org&type=ws&host=epgc.aimercc.dpdns.org&path=/?ed=2560#Jap%C3%A3o
+vmess://eyJhZGQiOiAiNS4xOTYuMjkuMTIzIiwgInYiOiAiMiIsICJwcyI6ICJGcmFuXHUwMGU3YSIsICJwb3J0IjogMjA4MiwgImlkIjogIjExMmFjMzZmLTNmNTMtNGUyNi04MzcxLWQyNWMwMjhlMWI5YSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJ3cm1lbG13eGxmLmdrdGV2bHJxem53cXFvenkuZmFicGZzNjZnaXptbm9qaGN2cXh3bC5reXRyY2Z6cWxhODdndmd2czZjN2tqbnJ1YnVoLmNjIiwgInBhdGgiOiAiLyIsICJ0bHMiOiAiIn0=
+vmess://eyJhZGQiOiAiMTgzLjEwOS4xMzEuNzUiLCAidiI6ICIyIiwgInBzIjogIkNvcmVpYSBkbyBTdWwiLCAicG9ydCI6IDIwMDg2LCAiaWQiOiAiYjI2YzQ4MDMtMGJjYS00NjdjLWEyNDUtYzlhODBiZGQ3MmVjIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIi8iLCAidGxzIjogIiJ9
 ```
 <h5>O endereço de assinatura permanente do nó superior (parte): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_pt-BR</h5>
  <p>Código QR do endereço de assinatura acima</p>

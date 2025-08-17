@@ -35,11 +35,11 @@
  <h4>Список узлов: (здесь показаны только некоторые узлы. Загрузите приложение, чтобы просмотреть все узлы)</h4>
     
 ```
-vmess://eyJ2IjogMiwgInBzIjogIlx1MDQxYVx1MDQzOFx1MDQzZlx1MDQ0MCIsICJhZGQiOiAiZmFzdGN1cC5uZXQiLCAicG9ydCI6IDgwLCAiaWQiOiAiNzU3NzI1NGItYzU3Ni00OGNkLWJiZDAtNjk4NzJhYTNhOWM5IiwgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6IG51bGwsICJob3N0IjogImNkbi1ub2RlLW9zcy05OS5wYW9mdS5kZSIsICJwYXRoIjogIi9wcm9maWxlL3RlbGVncmFtQHNzcnN1YiIsICJ0bHMiOiBmYWxzZSwgInNuaSI6ICIifQ==
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxc2NhdkY1VXZpSUwtOFYtRTRyYUJB@83.217.9.128:2222#%D0%A2%D1%83%D1%80%D1%86%D0%B8%D1%8F
-vmess://eyJhZGQiOiAiZmszLjYyMDcyMC54eXoiLCAidiI6ICIyIiwgInBzIjogIlx1MDQyMVx1MDQyOFx1MDQxMCIsICJwb3J0IjogODQ0MywgImlkIjogIjUxNmQ4YTdhLTNmMGItNDFkMy1iYWQwLTI0NjExNjM4MTUxNiIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJmazMuNjIwNzIwLnh5eiIsICJwYXRoIjogIi8iLCAidGxzIjogInRscyJ9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.202:8080#%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B
-trojan://Aimer@92.243.74.3:8443?allowInsecure=1&sni=epgc.aimercc.dpdns.org&type=ws&host=epgc.aimercc.dpdns.org&path=/?ed=2560#%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.69:8080#%D0%9B%D0%B8%D1%82%D0%B2%D0%B0
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.47.255.22:990#%D0%9F%D1%83%D1%8D%D1%80%D1%82%D0%BE-%D0%A0%D0%B8%D0%BA%D0%BE
+trojan://Aimer@135.84.74.254:2083?allowInsecure=1&sni=epgc.aimercc.dpdns.org&type=ws&host=epgc.aimercc.dpdns.org&path=/?ed=2560#%D0%A1%D0%A8%D0%90
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.227:8080#%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B
+vmess://eyJhZGQiOiAiMTE5LjIzNS4yNDkuMTU0IiwgInYiOiAiMiIsICJwcyI6ICJcdTA0MThcdTA0M2RcdTA0MzRcdTA0M2VcdTA0M2RcdTA0MzVcdTA0MzdcdTA0MzhcdTA0NGYiLCAicG9ydCI6IDIwMDg2LCAiaWQiOiAiYTA2NzI4M2ItM2QwMC00YjBhLTlmZmItM2MxODRjODNjMDg5IiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIi8iLCAidGxzIjogIiJ9
 ```
 <h5>Адрес постоянной подписки верхнего узла (части): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ru</h5>
  <p>QR-код для адреса подписки выше</p>
