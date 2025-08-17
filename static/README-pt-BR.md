@@ -35,11 +35,11 @@
  <h4>Lista de nós: (Apenas alguns nós são exibidos aqui, baixe o aplicativo para visualizar todos os nós)</h4>
     
 ```
-vmess://eyJhZGQiOiAiMTA0LjIxLjMuMTg5IiwgInYiOiAiMiIsICJwcyI6ICJFVUEiLCAicG9ydCI6IDIwNTMsICJpZCI6ICIyZmMzNzcxMy0zMDE3LTQ5N2UtZmYyZC05NjVmODI2YTE5YTMiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiY2MyZDQuODkwNjAwMDQueHl6IiwgInBhdGgiOiAiLyIsICJ0bHMiOiAidGxzIn0=
-vmess://eyJhZGQiOiAidHdnbmpieTNmLmt3MTAzMHY4Lnh5eiIsICJ2IjogIjIiLCAicHMiOiAiVGFpd2FuIiwgInBvcnQiOiAzOTk5OSwgImlkIjogIjc2NWIwNDY0LTc4OWQtMzc1ZC1hNTQ5LTgxNDlkMWYxZGJhMSIsICJhaWQiOiAiMCIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAiIiwgImhvc3QiOiAid3d3LmRvdXlpbi5jb20iLCAicGF0aCI6ICIiLCAidGxzIjogInRscyJ9
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.62.161:443#Su%C3%AD%C3%A7a
-trojan://Aimer@103.116.7.100:2087?allowInsecure=1&sni=epgc.aimercc.dpdns.org&type=ws&host=epgc.aimercc.dpdns.org&path=/?ed=2560#Jap%C3%A3o
-trojan://Aimer@167.68.4.199:2053?allowInsecure=1&sni=epgc.aimercc.dpdns.org&type=ws&host=epgc.aimercc.dpdns.org&path=/?ed=2560#EUA
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.92:8080#Litu%C3%A2nia
+vmess://eyJhZGQiOiAiZmszLjYyMDcyMC54eXoiLCAidiI6ICIyIiwgInBzIjogIkVVQSIsICJwb3J0IjogODQ0MywgImlkIjogIjUxNmQ4YTdhLTNmMGItNDFkMy1iYWQwLTI0NjExNjM4MTUxNiIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJmazMuNjIwNzIwLnh5eiIsICJwYXRoIjogIi8iLCAidGxzIjogInRscyJ9
+trojan://Aimer@130.250.137.63:2083?allowInsecure=1&sni=epgc.aimercc.dpdns.org&type=ws&host=epgc.aimercc.dpdns.org&path=/?ed=2560#EUA
+trojan://Aimer@154.211.8.209:8443?allowInsecure=1&sni=epgc.aimercc.dpdns.org&type=ws&host=epgc.aimercc.dpdns.org&path=/?ed=2560#Hong+Kong
+vmess://eyJhZGQiOiAiMTA0LjIzOC4xNjIuNzYiLCAidiI6ICIyIiwgInBzIjogIkVVQSIsICJwb3J0IjogMjAwODYsICJpZCI6ICI2Y2Y5M2ZlNi0wMDYyLTQyMTItOTVhYS0yYWFiY2E4YjExYmYiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiLyIsICJ0bHMiOiAiIn0=
 ```
 <h5>O endereço de assinatura permanente do nó superior (parte): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_pt-BR</h5>
  <p>Código QR do endereço de assinatura acima</p>
