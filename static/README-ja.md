@@ -35,10 +35,10 @@
  <h4>ノード リスト: (ここには一部のノードのみが表示されます。すべてのノードを表示するにはアプリをダウンロードしてください)</h4>
     
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@104.167.197.25:57456#%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB
-vmess://eyJhZGQiOiAiNjQuODEuMzkuMTAxIiwgInYiOiAiMiIsICJwcyI6ICJcdTMwYTJcdTMwZTFcdTMwZWFcdTMwYWIiLCAicG9ydCI6IDIwMDg2LCAiaWQiOiAiYjI5ZjcxODctOTcwNy00N2ZlLTg1ZDItNjViMWJhNjlkZjE2IiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIi8iLCAidGxzIjogIiJ9
-vmess://eyJhZGQiOiAiYXBpLmpxdWVyeS5jb20iLCAidiI6ICIyIiwgInBzIjogIlx1MzBhMlx1MzBlMVx1MzBlYVx1MzBhYiIsICJwb3J0IjogNDQzLCAiaWQiOiAiZGU5NGNjMGEtMDU5Mi00OTY5LWIxZmMtOTdlYThmMGVhMGIzIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogImFkbWluLmthc3JheC5pciIsICJwYXRoIjogIi91cy5ra3AubWUuZXUub3JnL2FhIiwgInRscyI6ICJ0bHMifQ==
-trojan://xxoo@us.blazeppn.info:443?sni=us.blazeppn.info#%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.62.162:443#%E3%82%B9%E3%82%A4%E3%82%B9%E9%80%A3%E9%82%A6
+vmess://eyJhZGQiOiAiOTEuMjE4LjE0My4xMzMiLCAidiI6ICIyIiwgInBzIjogIlx1MzBlZFx1MzBiN1x1MzBhMiIsICJwb3J0IjogMjAwODYsICJpZCI6ICJhNDQwZTBkMy1kMzlhLTRiZDgtYTJjNC1lMjJhNmFlZjk2ZTAiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiLyIsICJ0bHMiOiAiIn0=
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.158.171.150:8080#%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5UnZpTmE0dHNjamNtQ0I0MDh2TFNn@46.101.245.131:44354#%E3%83%89%E3%82%A4%E3%83%84%E9%80%A3%E9%82%A6%E5%85%B1%E5%92%8C%E5%9B%BD
 ```
 <h5>上位ノードの永続サブスクリプション アドレス (部分): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ja</h5>
  <p>上記の購読アドレスの QR コード</p>
