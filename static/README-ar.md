@@ -35,10 +35,10 @@
  <h4>قائمة العقد: (يتم عرض بعض العقد فقط هنا، يرجى تنزيل التطبيق لعرض جميع العقد)</h4>
     
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@ca225.vpnbook.com:80#Canada
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@103.104.247.49:8080#The+Netherlands
-ss://YWVzLTEyOC1nY206NmIxZTU0NzUtNzY2MS00OTIxLWFhMjYtZDExNzU4YjJmM2Yx@hanguo01.tmdns-sing.top:13882#South+Korea
-vmess://eyJhZGQiOiAiMTM3LjE3NS4xMjQuMTY3IiwgInYiOiAiMiIsICJwcyI6ICJVbml0ZWQgU3RhdGVzIiwgInBvcnQiOiAyMDA4NiwgImlkIjogImI0YmNlNTAwLTExZmUtNGY4Zi1hMzQ0LTAxYWMyNDdhZjliZCIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIvIiwgInRscyI6ICIifQ==
+vmess://eyJhZGQiOiAiMjEwLjMuMTU5LjE1MCIsICJ2IjogIjIiLCAicHMiOiAiSG9uZyBLb25nIiwgInBvcnQiOiA0MjcxNywgImlkIjogImI1ODAzZDc0LWM2ZjgtNDE1Zi1lMWU2LWViYzllNDI2OWI4NiIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIvIiwgInRscyI6ICIifQ==
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.62.162:443#Switzerland
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.158.171.146:8080#United+States
+trojan://tg-fq521free@45.67.215.95:443?allowInsecure=0&sni=torjan.xn--xhq44j.eu.org&type=ws&host=torjan.xn--xhq44j.eu.org&path=/#Russia
 ```
 <h5>عنوان الاشتراك الدائم للعقدة العليا (جزء): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ar</h5>
  <p>رمز الاستجابة السريعة لعنوان الاشتراك أعلاه</p>

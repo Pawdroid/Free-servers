@@ -35,10 +35,10 @@
  <h4>Lista de nodos: (aquí solo se muestran algunos nodos; descargue la aplicación para ver todos los nodos)</h4>
     
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5UnZpTmE0dHNjamNtQ0I0MDh2TFNn@46.101.245.131:44354#Alemania
-vmess://eyJhZGQiOiAiMTAwMGlwLnlhbmdtaWUub25saW5lIiwgInYiOiAiMiIsICJwcyI6ICJFc3RhZG9zIFVuaWRvcyIsICJwb3J0IjogODA4MCwgImlkIjogImU5MTIzY2NlLWU0YmQtNDZjZi04NDY2LTcwOGIzNjNhOTgwNyIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJneWRlLmFpZmpqLmFzaWEiLCAicGF0aCI6ICIvIiwgInRscyI6ICIifQ==
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.202:8080#Holanda
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg==@18.162.146.85:8313#Hong+Kong
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.62.163:443#Suiza
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvMzh5dXZ6U2UzbTVhRE5wSHRVUEgxekd3YkdFWFhNRHNHd1ZhdWIyU1lFbUhVYTJXR1pVamllelgzVnZ2YTlDQ3pwanhZdHVKTGdLc1Nuc3lLQmY5Y2lQVmJhM3k0bzM=@94.131.21.174:54075#Estados+Unidos
+vmess://eyJhZGQiOiAiNDUuNjcuMjMwLjc5IiwgInYiOiAiMiIsICJwcyI6ICJSdXNpYSIsICJwb3J0IjogMTEwNTIsICJpZCI6ICIzMTQxODVmNy05MzFkLTQ2NTYtOTIyZC0wODU3ZTdhZmQyMjQiLCAiYWlkIjogIjAiLCAibmV0IjogInRjcCIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAiIn0=
+vmess://eyJhZGQiOiAiNDYuMjQzLjMuNDIiLCAidiI6ICIyIiwgInBzIjogIklzbGFzIFZcdTAwZWRyZ2VuZXMiLCAicG9ydCI6IDI1ODA4LCAiaWQiOiAiOGZkMTYxNzEtOGM3OC00NzVjLTgwZmUtYTZmNjZiMzEwYmYzIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIi8iLCAidGxzIjogIiJ9
 ```
 <h5>La dirección de suscripción permanente del nodo superior (parte): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_es</h5>
  <p>Código QR para la dirección de suscripción anterior</p>

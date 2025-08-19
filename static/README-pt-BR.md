@@ -35,10 +35,10 @@
  <h4>Lista de nós: (Apenas alguns nós são exibidos aqui, baixe o aplicativo para visualizar todos os nós)</h4>
     
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcEtBQmNPcE5OQTBsNUcyQVZPbXc4@213.109.147.242:62685#Reino+Unido
-vmess://eyJhZGQiOiAiOTQuMTM2LjE4NS4yMzAiLCAidiI6ICIyIiwgInBzIjogIkFsZW1hbmhhIiwgInBvcnQiOiAxMDUzNCwgImlkIjogImIwMWM3ZWY5LTMzZWMtNDFmNi1iZmJmLTc3ZGRjNGQyMTY0OSIsICJhaWQiOiAiMCIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiIiwgInRscyI6ICIifQ==
-trojan://tg-fq521free@216.24.57.30:443?allowInsecure=0&sni=torjan.xn--xhq44j.eu.org&type=ws&host=torjan.xn--xhq44j.eu.org&path=/#EUA
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.47.131:443#EUA
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.198:443#Reino+Unido
+vmess://eyJhZGQiOiAiNTcuMTI5LjI1LjIwIiwgInYiOiAiMiIsICJwcyI6ICJGcmFuXHUwMGU3YSIsICJwb3J0IjogNDQzLCAiaWQiOiAiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwgImFpZCI6ICIxIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogIjU3LjEyOS4yNS4yMCIsICJwYXRoIjogImxpbmt2d3MiLCAidGxzIjogInRscyJ9
+trojan://xxoo@us.blazeppn.info:443?sni=us.blazeppn.info#EUA
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.62.162:443#Su%C3%AD%C3%A7a
 ```
 <h5>O endereço de assinatura permanente do nó superior (parte): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_pt-BR</h5>
  <p>Código QR do endereço de assinatura acima</p>
