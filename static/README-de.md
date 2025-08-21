@@ -35,10 +35,10 @@
  <h4>Knotenliste: (Hier werden nur einige Knoten angezeigt. Bitte laden Sie die App herunter, um alle Knoten anzuzeigen.)</h4>
     
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxWHZPN3pZVTdLZWFCME1kN0RRTG93@51.195.119.47:1080#Frankreich
-vmess://eyJ2IjogIjIiLCAicHMiOiAiVVNBIiwgImFkZCI6ICJ3d3cuc3BlZWR0ZXN0Lm5ldCIsICJwb3J0IjogIjQ0MyIsICJ0eXBlIjogIm5vbmUiLCAiaWQiOiAiZTJmYjI4YjgtYTQ1Ny00YmQyLTgwMWUtNTZmZGNjY2JkODhlIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9saW5rdmt3c3NzIiwgImhvc3QiOiAiYmxhemUtY2FuYS0xMjYuYmxhemVzZXJ2ZXJzMS5zaXRlIiwgInRscyI6ICJ0bHMifQ==
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@uk-dc1.yangon.club:443#UK
-vmess://eyJhZGQiOiAicGFuZWwzLmlweWFyLm9yZyIsICJ2IjogIjIiLCAicHMiOiAiRmlubmxhbmQiLCAicG9ydCI6IDMyMDE3LCAiaWQiOiAiYzBjY2RlYjktNzg0Yy00ZDY3LWI5MDQtMjBkY2FhYzk5MDJhIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJwYW5lbDMuaXB5YXIub3JnIiwgInBhdGgiOiAiIiwgInRscyI6ICIifQ==
+vmess://eyJhZGQiOiAiNjIuNjAuMTUyLjE3MCIsICJ2IjogIjIiLCAicHMiOiAiSXJhbiIsICJwb3J0IjogMjAwODYsICJpZCI6ICJkYmQ5YmVlYy00NTE5LTRhN2MtYjU5Yi0xZWE5MjUyZTNmNGUiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiLyIsICJ0bHMiOiAiIn0=
+trojan://tg-fq521free@216.24.57.30:443?allowInsecure=0&sni=torjan.xn--xhq44j.eu.org&type=ws&host=torjan.xn--xhq44j.eu.org&path=/#USA
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@38.165.233.18:990#Paraguay
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@103.104.247.47:8080#Niederlande
 ```
 <h5>Die permanente Abonnementadresse des oberen Knotens (Teil): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_de</h5>
  <p>QR-Code für die Abonnementadresse oben</p>
