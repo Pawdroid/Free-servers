@@ -35,10 +35,10 @@
  <h4>Lista de nós: (Apenas alguns nós são exibidos aqui, baixe o aplicativo para visualizar todos os nós)</h4>
     
 ```
-vmess://eyJhZGQiOiAiNjIuMTQ2LjIzNS4xOTMiLCAidiI6ICIyIiwgInBzIjogIkFsZW1hbmhhIiwgInBvcnQiOiAyODAxMSwgImlkIjogImNmYzVhODdmLTNjMTMtNGUyNS1iNTU2LTE3NmNkZDZiNWM2YSIsICJhaWQiOiAiMCIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiIiwgInRscyI6ICIifQ==
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWEdwMStpaGxmS2c4MjZI@185.177.229.245:1866#Alemanha
-vmess://eyJhZGQiOiAiODIuMTk3LjY5LjEzMSIsICJ2IjogIjIiLCAicHMiOiAiQWxlbWFuaGEiLCAicG9ydCI6IDM5Njc0LCAiaWQiOiAiNWE4OTM4NmEtODI3Yi00ZjU0LTg3NzgtMmYxYjUxMjJjNmVmIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIiLCAidGxzIjogIiJ9
-vmess://eyJhZGQiOiAiY2YuZm92aS50ayIsICJ2IjogIjIiLCAicHMiOiAiRVVBIiwgInBvcnQiOiA0NDMsICJpZCI6ICJiZjY3NDM3ZS02YzkwLTQ1Y2EtYWJjMi1jNzI0MGE1Y2UyYWEiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiZm94bHV4LmZvdmkudGsiLCAicGF0aCI6ICIvZWlzYXNxYSIsICJ0bHMiOiAidGxzIiwgInNuaSI6ICIiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgInNjeSI6ICIifQ==
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@173.244.56.9:443#EUA
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.80:443#Reino+Unido
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNbkV3NXpvMlpoZFM4R3k5ZkFNUGZiaG9ndXV2OGJpTllwb3lIb05RTEgyb1pYV0E0VTR5NmlOVFlNZXhqYWlCdlFXdjJONGI0M2dwOVNWRUczbll2TWY3NXA0NkszSGU=@imap.roomyinmita.name:40565#EUA
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.47.129:443#EUA
 ```
 <h5>O endereço de assinatura permanente do nó superior (parte): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_pt-BR</h5>
  <p>Código QR do endereço de assinatura acima</p>

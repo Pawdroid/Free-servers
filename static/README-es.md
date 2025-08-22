@@ -35,10 +35,10 @@
  <h4>Lista de nodos: (aquí solo se muestran algunos nodos; descargue la aplicación para ver todos los nodos)</h4>
     
 ```
-vmess://eyJhZGQiOiAiMTcyLjExMS4xNDYuNjQiLCAidiI6ICIyIiwgInBzIjogIkphcFx1MDBmM24iLCAicG9ydCI6IDgwLCAiaWQiOiAiMDViOGM3ODMtN2Y1OS00N2Y5LTk5MjMtMDZhNDY1Njc5ZjZhIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIi92bWVzcy8iLCAidGxzIjogIiJ9
-vmess://eyJhZGQiOiAiMTY0LjcwLjY4LjEyOCIsICJ2IjogIjIiLCAicHMiOiAiSmFwXHUwMGYzbiIsICJwb3J0IjogNTkzNjEsICJpZCI6ICJkNGUyZjJlMi1iZDJkLTQyM2UtODlmYi1jZmNmNDM1ZTc5NjMiLCAiYWlkIjogIjAiLCAibmV0IjogInRjcCIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAiIn0=
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNbkV3NXpvMlpoZFM4R3k5ZkFNUGZiaG9ndXV2OGJpTllwb3lIb05RTEgyb1pYV0E0VTR5NmlOVFlNZXhqYWlCdlFXdjJONGI0M2dwOVNWRUczbll2TWY3NXA0NkszSGU=@imap.roomyinmita.name:40565#Estados+Unidos
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@203.23.128.33:990#Hong+Kong
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMTVNOaDIxVHJYalIyb2syNVEybkU4RU5UMnpvQm1QdmthM1JDQ1VBSFpFTENuV29la1ZqdmFmODlxd2NSa2RieEVmZXAyYmMyYVV0bW54cXZGMWF5UVJlejFKSGpVTGo=@exchange.gameaurela.click:52952#Estados+Unidos
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.62.164:443#Suiza
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@134.209.147.198:990#India
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@173.244.56.9:443#Estados+Unidos
 ```
 <h5>La dirección de suscripción permanente del nodo superior (parte): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_es</h5>
  <p>Código QR para la dirección de suscripción anterior</p>
