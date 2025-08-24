@@ -35,10 +35,9 @@
  <h4>قائمة العقد: (يتم عرض بعض العقد فقط هنا، يرجى تنزيل التطبيق لعرض جميع العقد)</h4>
     
 ```
-vmess://eyJhZGQiOiAicGFuZWwzLmlweWFyLm9yZyIsICJ2IjogIjIiLCAicHMiOiAiRmlubGFuZCIsICJwb3J0IjogMzIwMTcsICJpZCI6ICJjMGNjZGViOS03ODRjLTRkNjctYjkwNC0yMGRjYWFjOTkwMmEiLCAiYWlkIjogIjAiLCAibmV0IjogInRjcCIsICJ0eXBlIjogIiIsICJob3N0IjogInBhbmVsMy5pcHlhci5vcmciLCAicGF0aCI6ICIiLCAidGxzIjogIiJ9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@103.163.218.2:990#Vietnam
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.47.253.227:990#Ecuador
-trojan://dda4f3bf-85fb-41bd-9d8e-77a8a02dbd59@194.104.147.74:1066?sni=194.104.147.74#Hong+Kong
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.196:443#United+Kingdom
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6STdraU5aMFVmVjljWEI3M2E0blJE@164.92.156.41:24206#The+Netherlands
+ss://YWVzLTI1Ni1nY206VEc6QEVua2VsdGVfbm90aWYmJlRHOkBOb3RpZl9DaGF0@152.53.2.128:34045#Austria
 ```
 <h5>عنوان الاشتراك الدائم للعقدة العليا (جزء): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ar</h5>
  <p>رمز الاستجابة السريعة لعنوان الاشتراك أعلاه</p>

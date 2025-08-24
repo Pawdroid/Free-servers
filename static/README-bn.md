@@ -35,10 +35,9 @@
  <h4>নোড তালিকা: (শুধুমাত্র কিছু নোড এখানে প্রদর্শিত হয়, সমস্ত নোড দেখতে অ্যাপটি ডাউনলোড করুন)</h4>
     
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.158.171.146:8080#United+States
-vmess://eyJhZGQiOiAiaGt0LmdvdG9jaGluYXRvd24ubmV0IiwgInYiOiAiMiIsICJwcyI6ICJIb25nIEtvbmciLCAicG9ydCI6IDgwLCAiaWQiOiAiOTNmYjY5ZmMtNzdjZi0xMWVlLTg1ZWUtZjIzYzkxMzY5ZjJkIiwgImFpZCI6ICIyIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIi8iLCAidGxzIjogIiJ9
-vmess://eyJhZGQiOiAiMTg4LjEyMS4xMDUuMjQ4IiwgInYiOiAiMiIsICJwcyI6ICJJcmFuIiwgInBvcnQiOiA0MDQwLCAiaWQiOiAiZDZmZDEwOWQtZTE0Ny00MjUzLTgzZjEtNTBiMzQwMWZiOGRhIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIiLCAidGxzIjogIiJ9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@45.154.206.192:990#United+Kingdom
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.195:443#United+Kingdom
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@151.242.251.131:8080#Iran
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.81:443#United+Kingdom
 ```
 <h5>উপরের নোডের স্থায়ী সদস্যতা ঠিকানা (অংশ): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_bn</h5>
  <p>উপরের সদস্যতা ঠিকানার জন্য QR কোড</p>
