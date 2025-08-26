@@ -35,11 +35,11 @@
  <h4>ノード リスト: (ここには一部のノードのみが表示されます。すべてのノードを表示するにはアプリをダウンロードしてください)</h4>
     
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.240:8080#%E3%82%AA%E3%83%A9%E3%83%B3%E3%83%80%E7%8E%8B%E5%9B%BD
-vmess://eyJhZGQiOiAiNTcuMTI5LjI0LjEyNCIsICJ2IjogIjIiLCAicHMiOiAiXHUzMGM5XHUzMGE0XHUzMGM0XHU5MDIzXHU5MGE2XHU1MTcxXHU1NDhjXHU1NmZkIiwgInBvcnQiOiA0NDMsICJpZCI6ICIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAid3JtZWxtd3hsZi5na3RldmxycXpud3Fxb3p5LmZhYnBmczY2Z2l6bW5vamhjdnF4d2wua3l0cmNmenFsYTg3Z3ZndnM2Yzdram5ydWJ1aC5jYyIsICJwYXRoIjogIi9saW5rdndzIiwgInRscyI6ICJ0bHMifQ==
-trojan://tg-fq521free@216.24.57.30:443?allowInsecure=0&sni=torjan.xn--xhq44j.eu.org&type=ws&host=torjan.xn--xhq44j.eu.org&path=/#%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB
-vmess://eyJhZGQiOiAiMTg1LjEzMy4zNS4yMTQiLCAidiI6ICIyIiwgInBzIjogIlx1MzBkNlx1MzBlOVx1MzBiOFx1MzBlYlx1OTAyM1x1OTBhNlx1NTE3MVx1NTQ4Y1x1NTZmZCIsICJwb3J0IjogODg4MCwgImlkIjogImQxYjc1Y2MzLWU2MTgtMzdjNC05YzU1LWZmMTFiNGVkNDkzYiIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJURy5XYW5nQ2FpMi5zNC5kYi1saW5rMDIudG9wIiwgInBhdGgiOiAiL2RhYmFpJlRlbGVncmFtXHVkODNjXHVkZGU4XHVkODNjXHVkZGYzQFdhbmdDYWkyLz9lZD0yNTYwIiwgInRscyI6ICIifQ==
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.47.255.22:990#%E3%83%97%E3%82%A8%E3%83%AB%E3%83%88%E3%83%AA%E3%82%B3
+trojan://xxoo@us.blazeppn.info:443?sni=us.blazeppn.info#%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB
+trojan://tg-fq521free@198.62.62.67:443?allowInsecure=0&sni=torjan.xn--xhq44j.eu.org&type=ws&host=torjan.xn--xhq44j.eu.org&path=/#%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.154:8080#%E3%83%AA%E3%83%88%E3%82%A2%E3%83%8B%E3%82%A2%E5%85%B1%E5%92%8C%E5%9B%BD
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.47.131:443#%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB
+vmess://eyJhZGQiOiAiYmFvdGEubWUiLCAidiI6ICIyIiwgInBzIjogIlx1MzBhMlx1MzBlMVx1MzBlYVx1MzBhYiIsICJwb3J0IjogODAsICJpZCI6ICIyZjM4Zjg0OC1hODk5LTRjODctOTgwNy0yMDdhNDE2MTVlM2MiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAidXMuZnJlZXl5ZHMuZHBkbnMub3JnIiwgInBhdGgiOiAiL3JvbmdzZXZlbj9lZD0yMDQ4IiwgInRscyI6ICIifQ==
 ```
 <h5>上位ノードの永続サブスクリプション アドレス (部分): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ja</h5>
  <p>上記の購読アドレスの QR コード</p>

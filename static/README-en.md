@@ -35,11 +35,11 @@
 <h4>Node list: (Only some nodes are shown here, please download the app to view all nodes)</h4>
     
 ```
-trojan://tg-fq521free@216.24.57.30:443?allowInsecure=0&sni=torjan.xn--xhq44j.eu.org&type=ws&host=torjan.xn--xhq44j.eu.org&path=/#United+States
-vmess://eyJhZGQiOiAiMTUuMjM1LjgzLjIyNyIsICJ2IjogIjIiLCAicHMiOiAiQ2FuYWRhIiwgInBvcnQiOiA0NDMsICJpZCI6ICIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAibWFua2FkbXUuY29tIiwgInBhdGgiOiAiL2xpbmt2d3MiLCAidGxzIjogInRscyJ9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.69:8080#Lithuania
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.126.239.250:990#Russia
-vmess://eyJhZGQiOiAiNTAuNjIuMTk0LjIxMiIsICJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJwb3J0IjogODg4MCwgImlkIjogImIyMDlkZmJmLTZiYjAtMzBiMi1hNzdhLTI4NmUyMzA0NjZiNSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJURy5XYW5nQ2FpMi5zNC5kYi1saW5rMDIudG9wIiwgInBhdGgiOiAiL2RhYmFpJlRlbGVncmFtXHVkODNjXHVkZGU4XHVkODNjXHVkZGYzQFdhbmdDYWkyLz9lZD0yNTYwIiwgInRscyI6ICIifQ==
+vmess://eyJhZGQiOiAiMTg1LjE3Ni4yNi4yMTUiLCAidiI6ICIyIiwgInBzIjogIkthemFraHN0YW4iLCAicG9ydCI6IDg4ODAsICJpZCI6ICIwYjY3ZjUzNy05YmRkLTNjMTAtYmFhMy0wNTU0MjQ5YmQ3ODgiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiVEcuV2FuZ0NhaTIuczQuZGItbGluazAyLnRvcCIsICJwYXRoIjogIi9kYWJhaSZUZWxlZ3JhbVx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRmM0BXYW5nQ2FpMi8/ZWQ9MjU2MCIsICJ0bHMiOiAiIn0=
+trojan://ttfang@86.38.214.194:2096?allowInsecure=1&sni=ttfang.fange.me&type=ws&host=ttfang.fange.me&path=/TelegramU0001F1E8U0001F1F3#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@104.167.197.25:57456#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.213.23.226:990#Norway
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozRHB4R3F4aUVUOWNxRUd5OTlVWVlF@77.105.166.12:8594#France
 ```
 <h5>Permanent subscription address of the node above (part): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_en</h5>
 <p>QR code of the subscription address above</p>
