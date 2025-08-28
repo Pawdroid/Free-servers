@@ -35,10 +35,10 @@
  <h4>Lista de nós: (Apenas alguns nós são exibidos aqui, baixe o aplicativo para visualizar todos os nós)</h4>
     
 ```
-vmess://eyJ2IjogIjIiLCAicHMiOiAiQ2hpcHJlIiwgImFkZCI6ICJjc2dvLmNvbSIsICJwb3J0IjogIjgwIiwgInR5cGUiOiAibm9uZSIsICJpZCI6ICI2MmU0MjUwYS1mZTAyLTQwY2MtYWQzMi1jODQ3Mzg5OTU2Y2QiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL3Byb2ZpbGUvdGVsZWdyYW1Ac3Nyc3ViIiwgImhvc3QiOiAiY2RuLW5vZGUtb3NzLTk5LnBhb2Z1LmRlIiwgInRscyI6ICIifQ==
-vmess://eyJhZGQiOiAiNDUuOC4xNDYuMTI5IiwgInYiOiAiMiIsICJwcyI6ICJFVUEiLCAicG9ydCI6IDgwLCAiaWQiOiAiMDcwNDAxNmYtNTQzNS00NjU1LWJlNmEtNzcxYTVhYmE1MmMzIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIi92bWVzcy8iLCAidGxzIjogIiJ9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@151.242.251.153:8080#Ir%C3%A3
-vmess://eyJhZGQiOiAiNzAuMzkuMTk2Ljg1IiwgInYiOiAiMiIsICJwcyI6ICJFVUEiLCAicG9ydCI6IDIwMDg2LCAiaWQiOiAiZTM4ZmQ4ZDMtYzZiNC00ZDZkLTkwODgtNzkyMTA3YjBkYzliIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIi8iLCAidGxzIjogIiJ9
+trojan://tg-fq521free@216.24.57.30:443?allowInsecure=0&sni=torjan.xn--xhq44j.eu.org&type=ws&host=torjan.xn--xhq44j.eu.org&path=/#EUA
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6STdraU5aMFVmVjljWEI3M2E0blJE@164.92.156.41:24206#Holanda
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.194:443#Reino+Unido
+vmess://eyJhZGQiOiAiNTEuNjguMTkxLjIzMyIsICJ2IjogIjIiLCAicHMiOiAiUG9sXHUwMGY0bmlhIiwgInBvcnQiOiA4MCwgImlkIjogImYwZWRhMDcyLTlhZTgtNDk0Yy1hNDk1LTIxNWZhNTcyOTQ2NyIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICI1MS42OC4xOTEuMjMzIiwgInBhdGgiOiAiL3ZtZXNzLyIsICJ0bHMiOiAiIn0=
 ```
 <h5>O endereço de assinatura permanente do nó superior (parte): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_pt-BR</h5>
  <p>Código QR do endereço de assinatura acima</p>

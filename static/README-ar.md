@@ -35,10 +35,10 @@
  <h4>قائمة العقد: (يتم عرض بعض العقد فقط هنا، يرجى تنزيل التطبيق لعرض جميع العقد)</h4>
     
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg==@18.162.146.85:8313#Hong+Kong
-vmess://eyJhZGQiOiAiMjA2LjIwNi44MC4yMjciLCAidiI6ICIyIiwgInBzIjogIlVuaXRlZCBTdGF0ZXMiLCAicG9ydCI6IDIwMDg2LCAiaWQiOiAiMGFiYjdiOWUtODFiYS00MzM2LThjYTctMDU2ODY2MDMyZmYzIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIi8iLCAidGxzIjogIiJ9
-vmess://eyJhZGQiOiAiNDUuMTIxLjQ4LjE3NCIsICJ2IjogIjIiLCAicHMiOiAiVGFpd2FuIiwgInBvcnQiOiAyMDc4OCwgImlkIjogImJmYzYzMGFhLTQ1OTgtNDQ4MS05MzM4LWNhYzE1ZTNlNmI2NSIsICJhaWQiOiAiMCIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiIiwgInRscyI6ICIifQ==
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.188:8080#Lithuania
+trojan://tg-fq521free@45.67.215.95:443?allowInsecure=0&sni=torjan.xn--xhq44j.eu.org&type=ws&host=torjan.xn--xhq44j.eu.org&path=/#Russia
+vmess://eyJhZGQiOiAiMjE2LjI0LjU3LjIxNCIsICJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJwb3J0IjogODg4MCwgImlkIjogImQxYjc1Y2MzLWU2MTgtMzdjNC05YzU1LWZmMTFiNGVkNDkzYiIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJURy5XYW5nQ2FpMi5zNC5kYi1saW5rMDIudG9wIiwgInBhdGgiOiAiL2RhYmFpJlRlbGVncmFtXHVkODNjXHVkZGU4XHVkODNjXHVkZGYzQFdhbmdDYWkyLz9lZD0yNTYwIiwgInRscyI6ICIifQ==
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.202:8080#The+Netherlands
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.169:443#United+States
 ```
 <h5>عنوان الاشتراك الدائم للعقدة العليا (جزء): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ar</h5>
  <p>رمز الاستجابة السريعة لعنوان الاشتراك أعلاه</p>
