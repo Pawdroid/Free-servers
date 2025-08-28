@@ -36,27 +36,27 @@
 <h4>节点列表：(这里仅展示部分节点，查看全部节点请下载app)</h4>
 
 ```
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.139:8880?allowInsecure=0&sni=yd.laoyoutiao.link&type=ws&host=yd.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3#%E7%BE%8E%E5%9B%BD%E5%8A%A0%E5%88%A9%E7%A6%8F%E5%B0%BC%E4%BA%9A%E5%B7%9E%E6%B4%9B%E6%9D%89%E7%9F%B6+Cloudinnovation%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@88.216.69.63:8880?allowInsecure=0&sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=/Telegram#%E7%AB%8B%E9%99%B6%E5%AE%9B+V2CROSS.COM
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@45.8.211.63:8880?allowInsecure=0&sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3 @WangCai2 /?ed=2560fp=chrome#%E6%AC%A7%E7%9B%9F+V2CROSS.COM
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@147.78.140.63:8880?allowInsecure=0&sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=/Telegram🇨🇳#%E6%AC%A7%E6%B4%B2+V2CROSS.COM
-vmess://eyJhZGQiOiAiMTk5LjE4MS4xOTcuNjAiLCAidiI6ICIyIiwgInBzIjogIlx1N2Y4ZVx1NTZmZCBWMkNST1NTLkNPTSIsICJwb3J0IjogNDQzLCAiaWQiOiAiZGU5NGNjMGEtMDU5Mi00OTY5LWIxZmMtOTdlYThmMGVhMGIzIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogImZhcmlkLjEuYmVyb3poYS5pciIsICJwYXRoIjogIi91cy5ra3AubWUuZXUub3JnL2FhIiwgInRscyI6ICJ0bHMifQ==
-trojan://tg-fq521free@45.67.215.95:443?allowInsecure=0&sni=torjan.xn--xhq44j.eu.org&type=ws&host=torjan.xn--xhq44j.eu.org&path=/#%E6%AC%A7%E7%9B%9F+V2CROSS.COM
-vless://0132166f-e702-48ed-a9e7-b07af768faf8@188.42.89.251:8880?allowInsecure=0&sni=cf.d3z.net&type=ws&host=cf.d3z.net&path=/Telegram🇨🇳 @WangCai2 /?ed=2560#%E5%8D%A2%E6%A3%AE%E5%A0%A1+root.lu%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
-vless://0132166f-e702-48ed-a9e7-b07af768faf8@114.129.43.251:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=cf.d3z.net&path=/TelegramU0001F1E8U0001F1F3 @WangCai2 /?ed=2560fp=chrome#%E6%96%B0%E5%8A%A0%E5%9D%A1+Skydio%E5%85%AC%E5%8F%B8
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@25.129.196.19:8880?allowInsecure=0&sni=hk.laoyoutiao.link&type=ws&host=hk.laoyoutiao.link&path=/telegram🇨🇳 @pgkj666 /?ed=2560#%E8%8B%B1%E5%9B%BD+V2CROSS.COM
-vless://0132166f-e702-48ed-a9e7-b07af768faf8@46.254.92.11:8880?allowInsecure=0&sni=cf.d3z.net&type=ws&host=cf.d3z.net&path=/TelegramU0001F1E8U0001F1F3 @WangCai2 /?ed=2560#%E4%BF%84%E7%BD%97%E6%96%AF+V2CROSS.COM
-vless://0132166f-e702-48ed-a9e7-b07af768faf8@46.254.92.2:8880?allowInsecure=0&sni=cf.d3z.net&type=ws&host=cf.d3z.net&path=/TelegramU0001F1E8U0001F1F3 @WangCai2 /?ed=2560#%E4%BF%84%E7%BD%97%E6%96%AF+V2CROSS.COM
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@25.129.196.213:8880?allowInsecure=0&sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=/?ed=2560#%E8%8B%B1%E5%9B%BD+V2CROSS.COM
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@25.129.196.168:8880?allowInsecure=0&sni=kjgx.laoyoutiao.link&type=ws&host=kjgx.laoyoutiao.link&path=/#%E8%8B%B1%E5%9B%BD+V2CROSS.COM
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@45.159.217.123:8880?allowInsecure=0&sni=sg.laoyoutiao.link&type=ws&host=sg.laoyoutiao.link&path=/Telegram@freecodes#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
+vless://0132166f-e702-48ed-a9e7-b07af768faf8@159.246.55.251:8880?allowInsecure=0&sni=cf.d3z.net&type=ws&host=cf.d3z.net&path=/Telegram#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
+vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@109.176.239.3:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=bitget1.asdasd.click&path=/Telegram#%E8%8B%B1%E5%9B%BD+V2CROSS.COM
 vless://583ceab3-4022-4553-9158-9bedc625ad4e@25.129.198.186:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=ip.langmanshanxi.top&path=/TelegramU0001F1E8U0001F1F3 @WangCai2 /?ed=2560#%E8%8B%B1%E5%9B%BD+V2CROSS.COM
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@45.159.217.213:8880?allowInsecure=0&sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=/Telegram@V2ray_Alpha/?ed=2048#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
-trojan://tg-fq521free@194.76.18.129:443?allowInsecure=0&sni=torjan.xn--xhq44j.eu.org&type=ws&host=torjan.xn--xhq44j.eu.org&path=/#%E5%BE%B7%E5%9B%BD+V2CROSS.COM
-vless://583ceab3-4022-4553-9158-9bedc625ad4e@104.129.164.39:8880?allowInsecure=0&sni=ip.langmanshanxi.top&type=ws&host=ip.langmanshanxi.top&path=/Telegram🇨🇳#%E7%BE%8E%E5%9B%BD+Vegasnap%E5%85%AC%E5%8F%B8
 vmess://eyJhZGQiOiAiY2xvdWRnZXRzZXJ2aWNlLm1jbG91ZHNlcnZpY2Uuc2l0ZSIsICJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAicG9ydCI6IDQ0MywgImlkIjogIjM3ZjQ2NGNiLWI4MjYtNDI3OC05YmY4LTExYmRmMWVjODkyYiIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJGcmEtVnAtMTIzLkJMYVpFQ0xPVUQuU2l0ZSIsICJwYXRoIjogIi9saW52a3dzIiwgInRscyI6ICJ0bHMifQ==
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@25.25.25.19:8880?allowInsecure=0&sni=hk.laoyoutiao.link&type=ws&host=hk.laoyoutiao.link&path=/telegram🇨🇳 @pgkj666 /?ed=2560#%E8%8B%B1%E5%9B%BD+V2CROSS.COM
+vless://583ceab3-4022-4553-9158-9bedc625ad4e@25.25.25.177:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=ip.langmanshanxi.top&path=/TelegramU0001F1E8U0001F1F3 @WangCai2fp=chrome#%E8%8B%B1%E5%9B%BD+V2CROSS.COM
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@185.148.107.213:8880?allowInsecure=0&sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=/?ed=2560#%E7%AB%8B%E9%99%B6%E5%AE%9B+V2CROSS.COM
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@88.216.69.63:8880?allowInsecure=0&sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=/Telegram#%E7%AB%8B%E9%99%B6%E5%AE%9B+V2CROSS.COM
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@147.78.140.63:8880?allowInsecure=0&sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=/Telegram🇨🇳#%E6%AC%A7%E6%B4%B2+V2CROSS.COM
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@45.8.211.63:8880?allowInsecure=0&sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3 @WangCai2 /?ed=2560fp=chrome#%E6%AC%A7%E7%9B%9F+V2CROSS.COM
+vmess://eyJhZGQiOiAiMTk5LjE4MS4xOTcuNjAiLCAidiI6ICIyIiwgInBzIjogIlx1N2Y4ZVx1NTZmZCBWMkNST1NTLkNPTSIsICJwb3J0IjogNDQzLCAiaWQiOiAiZGU5NGNjMGEtMDU5Mi00OTY5LWIxZmMtOTdlYThmMGVhMGIzIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogImZhcmlkLjEuYmVyb3poYS5pciIsICJwYXRoIjogIi91cy5ra3AubWUuZXUub3JnL2FhIiwgInRscyI6ICJ0bHMifQ==
 vless://0132166f-e702-48ed-a9e7-b07af768faf8@170.114.46.251:8880?allowInsecure=0&sni=cf.d3z.net&type=ws&host=cf.d3z.net&path=/Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
-trojan://tg-fq521free@216.24.57.30:443?allowInsecure=0&sni=torjan.xn--xhq44j.eu.org&type=ws&host=torjan.xn--xhq44j.eu.org&path=/#%E7%BE%8E%E5%9B%BD+%E5%8A%A0%E5%B7%9E
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@92.53.188.168:8880?allowInsecure=0&sni=kjgx.laoyoutiao.link&type=ws&host=kjgx.laoyoutiao.link&path=/Telegram@freecodes#%E6%96%AF%E6%B4%9B%E6%96%87%E5%B0%BC%E4%BA%9A+V2CROSS.COM
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@194.36.55.213:8880?allowInsecure=0&sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=/?ed=2560#%E8%8B%B1%E5%9B%BD+V2CROSS.COM
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@167.68.4.63:8880?allowInsecure=0&sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=/#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@141.193.27.29:8880?allowInsecure=0&sni=hk.laoyoutiao.link&type=ws&host=hk.laoyoutiao.link&path=/#%E7%BE%8E%E5%9B%BD+RF+Engineering
+vless://583ceab3-4022-4553-9158-9bedc625ad4e@104.129.164.39:8880?allowInsecure=0&sni=ip.langmanshanxi.top&type=ws&host=ip.langmanshanxi.top&path=/Telegram🇨🇳#%E7%BE%8E%E5%9B%BD+Vegasnap%E5%85%AC%E5%8F%B8
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@192.0.54.213:8880?allowInsecure=0&sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=/#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
+vless://583ceab3-4022-4553-9158-9bedc625ad4e@114.129.43.7:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=ip.langmanshanxi.top&path=/TelegramU0001F1E8U0001F1F3 @WangCai2#%E6%96%B0%E5%8A%A0%E5%9D%A1+Skydio%E5%85%AC%E5%8F%B8
+vless://583ceab3-4022-4553-9158-9bedc625ad4e@88.216.69.177:8880?allowInsecure=0&sni=ip.langmanshanxi.top&type=ws&host=ip.langmanshanxi.top&path=/Telegram@WangCai2/?ed=2560#%E7%AB%8B%E9%99%B6%E5%AE%9B+V2CROSS.COM
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.106:8880?allowInsecure=0&sni=yd.laoyoutiao.link&type=ws&host=yd.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3 @MxlShare @WangCai2 /?ed=2560#%E7%BE%8E%E5%9B%BD%E5%8A%A0%E5%88%A9%E7%A6%8F%E5%B0%BC%E4%BA%9A%E5%B7%9E%E6%B4%9B%E6%9D%89%E7%9F%B6+Cloudinnovation%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
 ```
 
 <h5>上方节点（部分）永久订阅地址：https://proxy.v2gh.com/https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub</h5>
