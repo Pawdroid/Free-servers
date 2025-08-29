@@ -36,16 +36,16 @@
 <h4>节点列表：(这里仅展示部分节点，查看全部节点请下载app)</h4>
 
 ```
-vless://583ceab3-4022-4553-9158-9bedc625ad4e@193.9.49.177:8880?allowInsecure=0&sni=ip.langmanshanxi.top&type=ws&host=ip.langmanshanxi.top&path=/Telegram🇨🇳@WangCai2/?ed=2560#%E4%BF%84%E7%BD%97%E6%96%AF+V2CROSS.COM
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU4MmYxXHU1NmZkIFYyQ1JPU1MuQ09NIiwgImFkZCI6ICIxOTQuMzYuNTUuMjI0IiwgInBvcnQiOiAiODg4MCIsICJ0eXBlIjogIm5vbmUiLCAiaWQiOiAiN2E2MWNiMWMtZTVlYS0zMWVmLWI4ODUtMDAxODM5MGVlYzVlIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9kYWJhaSZUZWxlZ3JhbVx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRmM0BXYW5nQ2FpMi8/ZWQ9MjU2MCIsICJob3N0IjogIlRHLldhbmdDYWkyLnM0LmRiLWxpbmswMi50b3AiLCAidGxzIjogIiJ9
 vmess://eyJhZGQiOiAibmV3MS5odXZpY2xvdWQuY29tIiwgInYiOiAiMiIsICJwcyI6ICJcdTdmOGVcdTU2ZmQgQ2xvdWRGbGFyZVx1ODI4Mlx1NzBiOSIsICJwb3J0IjogNDQzLCAiaWQiOiAiMGYwMmUwMmYtNDE4ZC00NDM0LWIwY2YtZGJkZDE1ODkyMzMzIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogIm5ldzEuaHV2aWNsb3VkLmNvbSIsICJwYXRoIjogIi8wZjAyZTAyZi00MThkLTQ0MzQtYjBjZi1kYmRkMTU4OTIzMzMiLCAidGxzIjogInRscyJ9
-ss://YWVzLTEyOC1nY206MDE3MjFlNDMtNTM4OS00Zjk3LWIyMWMtOTAwYWJiMmJkYTll@awes35lesl.blhao0o.dpdns.org:12023#%E4%BA%9A%E5%A4%AA%E5%9C%B0%E5%8C%BA+V2CROSS.COM
-vless://583ceab3-4022-4553-9158-9bedc625ad4e@193.9.49.188:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=ip.langmanshanxi.top&path=/#%E4%BF%84%E7%BD%97%E6%96%AF+V2CROSS.COM
-vless://583ceab3-4022-4553-9158-9bedc625ad4e@25.25.25.177:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=ip.langmanshanxi.top&path=/TelegramU0001F1E8U0001F1F3 @WangCai2fp=chrome#%E8%8B%B1%E5%9B%BD+V2CROSS.COM
 vmess://eyJhZGQiOiAiMTg1LjE5My4zMC4yMjQiLCAidiI6ICIyIiwgInBzIjogIlx1NjQ2OVx1NWMxNFx1NTkxYVx1NzRlNiBWMkNST1NTLkNPTSIsICJwb3J0IjogODg4MCwgImlkIjogIjVjNmI2OWQ4LTk3YTItMzljMS05MmI4LTAyZmMwYTM2OWMzMSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJURy5XYW5nQ2FpMi5zNC5kYi1saW5rMDIudG9wIiwgInBhdGgiOiAiL2RhYmFpJlRlbGVncmFtXHVkODNjXHVkZGU4XHVkODNjXHVkZGYzIEBXYW5nQ2FpMiAvP2VkPTI1NjAiLCAidGxzIjogIiJ9
-vless://0132166f-e702-48ed-a9e7-b07af768faf8@46.254.92.4:8880?allowInsecure=0&sni=cf.d3z.net&type=ws&host=cf.d3z.net&path=/Telegram🇨🇳 @WangCai2 /?ed=2560#%E4%BF%84%E7%BD%97%E6%96%AF+V2CROSS.COM
-vless://0132166f-e702-48ed-a9e7-b07af768faf8@46.254.92.2:8880?allowInsecure=0&sni=cf.d3z.net&type=ws&host=cf.d3z.net&path=/TelegramU0001F1E8U0001F1F3 @WangCai2 /?ed=2560#%E4%BF%84%E7%BD%97%E6%96%AF+V2CROSS.COM
-vless://583ceab3-4022-4553-9158-9bedc625ad4e@199.181.197.186:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=ip.langmanshanxi.top&path=/TelegramU0001F1E8U0001F1F3 @WangCai2 /?ed=2560#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
+vmess://eyJ2IjogMiwgInBzIjogIlx1NmM1Zlx1ODJjZlx1NzcwMSBcdTc5ZmJcdTUyYTgiLCAiYWRkIjogInYyNC5oZWR1aWFuLmxpbmsiLCAicG9ydCI6IDMwODI0LCAiaWQiOiAiY2JiM2Y4NzctZDFmYi0zNDRjLTg3YTktZDE1M2JmZmQ1NDg0IiwgImFpZCI6IDIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6IG51bGwsICJob3N0IjogInYyNC5oZWR1aWFuLmxpbmsiLCAicGF0aCI6ICIvb29vbyIsICJ0bHMiOiBmYWxzZSwgInNuaSI6ICIifQ==
+vmess://eyJhZGQiOiAiY2xvdWRnZXRzZXJ2aWNlLm1jbG91ZHNlcnZpY2Uuc2l0ZSIsICJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAicG9ydCI6IDQ0MywgImlkIjogIjM3ZjQ2NGNiLWI4MjYtNDI3OC05YmY4LTExYmRmMWVjODkyYiIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJGcmEtVnAtMTIzLkJMYVpFQ0xPVUQuU2l0ZSIsICJwYXRoIjogIi9saW52a3dzIiwgInRscyI6ICJ0bHMifQ==
+trojan://tg-fq521free@45.67.215.95:443?allowInsecure=0&sni=torjan.xn--xhq44j.eu.org&type=ws&host=torjan.xn--xhq44j.eu.org&path=/#%E6%AC%A7%E7%9B%9F+V2CROSS.COM
+vless://583ceab3-4022-4553-9158-9bedc625ad4e@193.9.49.177:8880?allowInsecure=0&sni=ip.langmanshanxi.top&type=ws&host=ip.langmanshanxi.top&path=/Telegram🇨🇳@WangCai2/?ed=2560#%E4%BF%84%E7%BD%97%E6%96%AF+V2CROSS.COM
+vless://0132166f-e702-48ed-a9e7-b07af768faf8@46.254.92.9:8880?allowInsecure=0&sni=cf.d3z.net&type=ws&host=cf.d3z.net&path=/TelegramU0001F1E8U0001F1F3 @WangCai2 /?ed=2560#%E4%BF%84%E7%BD%97%E6%96%AF+V2CROSS.COM
+vless://0132166f-e702-48ed-a9e7-b07af768faf8@188.42.89.251:8880?allowInsecure=0&sni=cf.d3z.net&type=ws&host=cf.d3z.net&path=/Telegram🇨🇳 @WangCai2 /?ed=2560#%E5%8D%A2%E6%A3%AE%E5%A0%A1+root.lu%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
+trojan://tg-fq521free@194.76.18.129:443?allowInsecure=0&sni=torjan.xn--xhq44j.eu.org&type=ws&host=torjan.xn--xhq44j.eu.org&path=/#%E5%BE%B7%E5%9B%BD+V2CROSS.COM
+vmess://eyJhZGQiOiAiMjE2LjIyNy4xNjguMTU3IiwgInYiOiAiMiIsICJwcyI6ICJcdTdmOGVcdTU2ZmQgVjJDUk9TUy5DT00iLCAicG9ydCI6IDQ1MjY2LCAiaWQiOiAiNDY5ZTBiMzEtMzBjMy00ZGFiLTgwMGQtNzExMjMyNjM0Y2UxIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJ5YWwuZnhsY24uY29tIiwgInBhdGgiOiAiIiwgInRscyI6ICIifQ==
 ```
 
 <h5>上方节点（部分）永久订阅地址：https://proxy.v2gh.com/https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub</h5>
