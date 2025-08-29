@@ -35,9 +35,9 @@
  <h4>Danh sách nút: (Chỉ hiển thị một số nút ở đây, vui lòng tải xuống ứng dụng để xem tất cả các nút)</h4>
     
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@134.255.210.49:990#Cyprus
-vmess://eyJhZGQiOiAiNTEuNjguMTkxLjIzMyIsICJ2IjogIjIiLCAicHMiOiAiUG9sYW5kIiwgInBvcnQiOiA4MCwgImlkIjogImYwZWRhMDcyLTlhZTgtNDk0Yy1hNDk1LTIxNWZhNTcyOTQ2NyIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICI1MS42OC4xOTEuMjMzIiwgInBhdGgiOiAiL3ZtZXNzLyIsICJ0bHMiOiAiIn0=
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@151.242.251.153:8080#Iran
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozRHB4R3F4aUVUOWNxRUd5OTlVWVlF@77.105.166.12:8594#France
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3NDFkZGNlZC1lNmVlLTQxNzUtOWMxYS1lNTI0MDA5ZjkwNDU=@144.126.146.38:30100#United+States
+vmess://eyJhZGQiOiAicmFrMWRpbmcuODkwNjAwMDQueHl6IiwgInYiOiAiMiIsICJwcyI6ICJVbml0ZWQgU3RhdGVzIiwgInBvcnQiOiAyMDgzLCAiaWQiOiAiNzVkOTYzNjUtMTIyOS00ZmM0LWRiZGEtODU1NzE3Zjg3NmNmIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogInJhazFkMy45ODg5ODguc2hvcCIsICJwYXRoIjogIi8iLCAidGxzIjogInRscyJ9
 ```
 <h5>Địa chỉ đăng ký vĩnh viễn của nút trên (một phần): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_vi</h5>
  <p>Mã QR cho địa chỉ đăng ký ở trên</p>
