@@ -35,10 +35,10 @@
  <h4>Lista de nodos: (aquí solo se muestran algunos nodos; descargue la aplicación para ver todos los nodos)</h4>
     
 ```
-ss://YWVzLTI1Ni1nY206VEc6QEVua2VsdGVfbm90aWYmJlRHOkBOb3RpZl9DaGF0@152.53.2.128:34045#Austria
-trojan://xxoo@us.blazeppn.info:443?sni=us.blazeppn.info#Estados+Unidos
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.243:443#Estados+Unidos
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@173.244.56.6:443#Estados+Unidos
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.154:8080#Lituania
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.28:8080#Lituania
+vmess://eyJhZGQiOiAiNzIuMTY3LjI1LjIxMiIsICJ2IjogIjIiLCAicHMiOiAiRXN0YWRvcyBVbmlkb3MiLCAicG9ydCI6IDg4ODAsICJpZCI6ICJiMjA5ZGZiZi02YmIwLTMwYjItYTc3YS0yODZlMjMwNDY2YjUiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiVEcuV2FuZ0NhaTIuczQuZGItbGluazAyLnRvcCIsICJwYXRoIjogIi9kYWJhaSZUZWxlZ3JhbVx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRmM0BXYW5nQ2FpMi8/ZWQ9MjU2MCIsICJ0bHMiOiAiIn0=
+vmess://eyJhZGQiOiAiMTk1LjIxMS45OS4xNDMiLCAidiI6ICIyIiwgInBzIjogIkVzdGFkb3MgVW5pZG9zIiwgInBvcnQiOiA4NDQzLCAiaWQiOiAiMmU1MTRhMzYtN2FlOC00YjZhLTllMzYtOWMyMGU3MjI4ODI0IiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIi8iLCAidGxzIjogIiJ9
 ```
 <h5>La dirección de suscripción permanente del nodo superior (parte): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_es</h5>
  <p>Código QR para la dirección de suscripción anterior</p>
