@@ -35,9 +35,10 @@
  <h4>नोड सूची: (यहां केवल कुछ नोड्स प्रदर्शित हैं, कृपया सभी नोड्स देखने के लिए ऐप डाउनलोड करें)</h4>
     
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@103.163.218.2:990#Vietnam
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.195:443#United+Kingdom
-trojan://1ce1df7962f71c6f@uk-03.allhubb.info:8443#France
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.22:8080#Lithuania
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.188:8080#Lithuania
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3NDFkZGNlZC1lNmVlLTQxNzUtOWMxYS1lNTI0MDA5ZjkwNDU=@144.126.146.38:30100#United+States
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.198:443#United+Kingdom
 ```
 <h5>ऊपरी नोड (भाग) का स्थायी सदस्यता पता: https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_hi</h5>
  <p>उपरोक्त सदस्यता पते के लिए QR कोड</p>

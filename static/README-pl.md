@@ -35,9 +35,10 @@
  <h4>Lista węzłów: (wyświetlane są tutaj tylko niektóre węzły. Pobierz aplikację, aby wyświetlić wszystkie węzły)</h4>
     
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcEtBQmNPcE5OQTBsNUcyQVZPbXc4@213.109.147.242:62685#United+Kingdom
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.194:443#United+Kingdom
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.62.164:443#Switzerland
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3NDFkZGNlZC1lNmVlLTQxNzUtOWMxYS1lNTI0MDA5ZjkwNDU=@144.126.146.38:30100#United+States
+vmess://eyJhZGQiOiAiY2cxYzEwLndhaW1hb2dvZ29nby5jYyIsICJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJwb3J0IjogNDQzLCAiaWQiOiAiNmZjODRmZDItMDQ0Mi00MDVmLWJhYTctNmRhZjY2YjgxYTEwIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogImNnMWMxMC53YWltYW9nb2dvZ28uY2MiLCAicGF0aCI6ICIvYXBpL3YxL2dyYXBocWwiLCAidGxzIjogInRscyJ9
+vmess://eyJhZGQiOiAiMTUuMjA0LjExLjE5MCIsICJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJwb3J0IjogMTUzNjEsICJpZCI6ICI1ZDdiZjllMy00MTVjLTQwZjMtYzY2ZC1hNTRlYTBmZDg2MGUiLCAiYWlkIjogIjAiLCAibmV0IjogInRjcCIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAiIn0=
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg==@18.162.146.85:8319#Hong+Kong
 ```
 <h5>Stały adres subskrypcji górnego węzła (część): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_pl</h5>
  <p>Kod QR dla adresu subskrypcji powyżej</p>

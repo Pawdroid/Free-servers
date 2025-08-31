@@ -35,9 +35,10 @@
  <h4>노드 목록: (여기에는 일부 노드만 표시됩니다. 모든 노드를 보려면 앱을 다운로드하세요.)</h4>
     
 ```
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.62.163:443#Switzerland
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@23.157.40.101:8009#United+States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxWHZPN3pZVTdLZWFCME1kN0RRTG93@51.195.119.47:1080#France
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNThmYTYyYjQ5NDRkZGJm@147.45.178.200:57456#Russia
+vmess://eyJhZGQiOiAiMTUuMjM1LjQxLjIwMCIsICJ2IjogIjIiLCAicHMiOiAiQ2FuYWRhIiwgInBvcnQiOiA4MCwgImlkIjogIjU4ZmUxNTQyLTUyOTAtNDBhZC04MTVhLTc3NzA3YTgxYWZlNSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIvSU9lYmhMTWhsMUNUYkZIYkw5NW15ZlJYMiIsICJ0bHMiOiAiIn0=
+vmess://eyJhZGQiOiAiNTEuMzguNjQuMjA5IiwgInYiOiAiMiIsICJwcyI6ICJVbml0ZWQgS2luZ2RvbSIsICJwb3J0IjogNDQwMjMsICJpZCI6ICI3ZGE0NTdkYS1lZDBmLTQzN2QtYzgxZC02YzM1ODg1YmJlYTMiLCAiYWlkIjogIjAiLCAibmV0IjogInRjcCIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAiIn0=
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.158.171.146:8080#United+States
 ```
 <h5>상위 노드(일부)의 영구 구독 주소: https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ko-KR</h5>
  <p>위 구독 주소의 QR 코드</p>

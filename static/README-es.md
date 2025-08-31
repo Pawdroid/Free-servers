@@ -35,9 +35,10 @@
  <h4>Lista de nodos: (aquí solo se muestran algunos nodos; descargue la aplicación para ver todos los nodos)</h4>
     
 ```
-vmess://eyJhZGQiOiAiNTEuNzkuODYuMTgyIiwgInYiOiAiMiIsICJwcyI6ICJDYW5hZFx1MDBlMSIsICJwb3J0IjogNDI2MTAsICJpZCI6ICJlMDk1N2NhNi1mNjEzLTQwMTctZmYzYy1lZmZkMWRhODg3MWEiLCAiYWlkIjogIjAiLCAibmV0IjogInRjcCIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAiIn0=
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxWHZPN3pZVTdLZWFCME1kN0RRTG93@51.195.119.47:1080#Francia
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.158.171.70:8080#Estados+Unidos
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@151.242.251.131:8080#Ir%C3%A1n
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@193.29.139.179:8080#Holanda
+trojan://2ee85121-31de-4581-a492-eb00f606e392@198.46.152.83:443?sni=sj3.freeguard.org#Canad%C3%A1
+vmess://eyJhZGQiOiAiMjE2LjIyNy4xNjguMTU3IiwgInYiOiAiMiIsICJwcyI6ICJFc3RhZG9zIFVuaWRvcyIsICJwb3J0IjogNDU0MTcsICJpZCI6ICI0NjllMGIzMS0zMGMzLTRkYWItODAwZC03MTEyMzI2MzRjZTEiLCAiYWlkIjogIjAiLCAibmV0IjogInRjcCIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIi8iLCAidGxzIjogIiJ9
 ```
 <h5>La dirección de suscripción permanente del nodo superior (parte): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_es</h5>
  <p>Código QR para la dirección de suscripción anterior</p>
