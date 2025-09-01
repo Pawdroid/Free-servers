@@ -35,10 +35,10 @@
  <h4>Lista de nós: (Apenas alguns nós são exibidos aqui, baixe o aplicativo para visualizar todos os nós)</h4>
     
 ```
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.198:443#Reino+Unido
-vmess://eyJ2IjogIjIiLCAicHMiOiAiRVVBIiwgImFkZCI6ICJPT29PT09vb09wLjIyMjc2OS5YWVoiLCAicG9ydCI6ICI4MCIsICJ0eXBlIjogIm5vbmUiLCAiaWQiOiAiY2U5MjEzODUtMmIzMS00NWZlLTg0YzUtMTg0M2U4YWU4NDViIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9WYWFTRWZOTEhkVzNJOThkeExrZXoiLCAiaG9zdCI6ICJvb29vb29vb29wLjIyMjc2OS54eXoiLCAidGxzIjogIiJ9
-ss://YWVzLTI1Ni1nY206NWYwMGU4ODAtNDVkOS00NDRjLWFmMTMtMTI4MjBlYjEzZmZj@ss.037.node-for-bigairport.win:11688#Hong+Kong
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.171:8080#Litu%C3%A2nia
+vmess://eyJhZGQiOiAiMTAzLjYxLjEzOS4xMzciLCAidiI6ICIyIiwgInBzIjogIlRhaXdhbiIsICJwb3J0IjogMjA1MjEsICJpZCI6ICJmOGQ5M2NmYi0zZDVkLTQ0N2MtYTY5Ny0xNjQ5NmRkNzQ2OTciLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiLyIsICJ0bHMiOiAiIn0=
+trojan://slch2024@190.93.247.195:2096?allowInsecure=0&sni=ocost-dy.wmlefl.cc&type=ws&host=ocost-dy.wmlefl.cc&path=/Telegram🇨🇳#Costa+Rica
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.178:443#Reino+Unido
+trojan://2ee85121-31de-4581-a492-eb00f606e392@45.91.171.116:443?security=tls&sni=sto.freeguard.org#Su%C3%A9cia
 ```
 <h5>O endereço de assinatura permanente do nó superior (parte): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_pt-BR</h5>
  <p>Código QR do endereço de assinatura acima</p>
