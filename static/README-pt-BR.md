@@ -35,9 +35,9 @@
  <h4>Lista de nós: (Apenas alguns nós são exibidos aqui, baixe o aplicativo para visualizar todos os nós)</h4>
     
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.92:8080#Litu%C3%A2nia
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.196:443#Reino+Unido
-vmess://eyJhZGQiOiAiNTcuMTI5LjEzMi4yMjMiLCAidiI6ICIyIiwgInBzIjogIkZyYW5cdTAwZTdhIiwgInBvcnQiOiA4MCwgImlkIjogImEyNWNiZjExLTI5MDgtNGExYi1hM2E4LTlhNTcxNzc3ZGNhMyIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIvdm1lc3MvIiwgInRscyI6ICIifQ==
+vmess://eyJhZGQiOiAiMzguMTAyLjcuMTgxIiwgInYiOiAiMiIsICJwcyI6ICJFVUEiLCAicG9ydCI6IDI0NTI4LCAiaWQiOiAiZWFiOTg5ZTAtMDYyMi00ZDM3LTljNDEtMWZkZGE4ZDk4OGZjIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIiLCAidGxzIjogIiJ9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.123.101.241:990#Turquia
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5dHFoTWRJclRrZ1E0NlB2aHlBdE1I@switcher-nick-croquet.freesocks.work:443#Ucr%C3%A2nia
 ```
 <h5>O endereço de assinatura permanente do nó superior (parte): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_pt-BR</h5>
  <p>Código QR do endereço de assinatura acima</p>
