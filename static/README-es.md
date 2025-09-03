@@ -35,9 +35,9 @@
  <h4>Lista de nodos: (aquí solo se muestran algunos nodos; descargue la aplicación para ver todos los nodos)</h4>
     
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@104.167.197.25:57456#Estados+Unidos
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.78:443#Reino+Unido
-trojan://1ce1df7962f71c6f@uk-03.allhubb.info:8443#Francia
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.126.239.250:990#Rusia
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.80:443#Reino+Unido
+vmess://eyJhZGQiOiAiNTcuMTI4LjE5OC4xNTIiLCAidiI6ICIyIiwgInBzIjogIkZyYW5jaWEiLCAicG9ydCI6IDgwLCAiaWQiOiAiNzg4MWY5MDYtODE3MC00YWNhLWI5NzEtMzAyYmU3ZjY1YjY2IiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIi92bWVzcy8iLCAidGxzIjogIiJ9
 ```
 <h5>La dirección de suscripción permanente del nodo superior (parte): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_es</h5>
  <p>Código QR para la dirección de suscripción anterior</p>
