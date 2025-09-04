@@ -35,9 +35,10 @@
  <h4>Daftar node: (Hanya beberapa node yang ditampilkan di sini, silakan unduh aplikasi untuk melihat semua node)</h4>
     
 ```
-trojan://slch2024@185.148.105.195:2096?allowInsecure=0&sni=ocost-dy.wmlefl.cc&type=ws&host=ocost-dy.wmlefl.cc&path=/Telegram🇨🇳#United+States
-trojan://slch2024@185.176.26.195:2096?allowInsecure=0&sni=ocost-dy.wmlefl.cc&type=ws&host=ocost-dy.wmlefl.cc&path=/Telegram🇨🇳#Kazakhstan
-vmess://eyJhZGQiOiAiMTU0LjkzLjM3LjIxIiwgInYiOiAiMiIsICJwcyI6ICJJcmFxIiwgInBvcnQiOiA0NDMsICJpZCI6ICI2NGEzN2NlNS1lNzEzLTRhZDQtYzFkZS1iNjg3NjFlOWZlZjYiLCAiYWlkIjogIjAiLCAibmV0IjogInRjcCIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAiIn0=
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.69:8080#Lithuania
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3NDFkZGNlZC1lNmVlLTQxNzUtOWMxYS1lNTI0MDA5ZjkwNDU=@144.126.146.38:30100#United+States
+vmess://eyJhZGQiOiAidjAxOS5lbW92cG4ueHl6IiwgInYiOiAiMiIsICJwcyI6ICJVbml0ZWQgU3RhdGVzIiwgInBvcnQiOiAyMDg3LCAiaWQiOiAiYTc4ZmMxNGUtNGU4Yi00ZmMwLThjYWItODZmZDgxYzU4M2NhIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogInYwMTkuZW1vdnBuLnh5eiIsICJwYXRoIjogIi8iLCAidGxzIjogInRscyJ9
+vmess://eyJ2IjogIjIiLCAicHMiOiAiQ2FuYWRhIiwgImFkZCI6ICI1MS43OS4xMDIuMjUzIiwgInBvcnQiOiAiODAiLCAidHlwZSI6ICJub25lIiwgImlkIjogIjU4ZmUxNTQyLTUyOTAtNDBhZC04MTVhLTc3NzA3YTgxYWZlNSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvSU9lYmhMTWhsMUNUYkZIYkw5NW15ZlJYMiIsICJob3N0IjogIiIsICJ0bHMiOiAiIn0=
 ```
 <h5>Alamat langganan permanen node atas (bagian): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_id</h5>
  <p>Kode QR untuk alamat berlangganan di atas</p>

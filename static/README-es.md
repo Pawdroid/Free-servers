@@ -35,9 +35,10 @@
  <h4>Lista de nodos: (aquí solo se muestran algunos nodos; descargue la aplicación para ver todos los nodos)</h4>
     
 ```
-trojan://slch2024@209.94.90.195:2096?allowInsecure=0&sni=ocost-dy.wmlefl.cc&type=ws&host=ocost-dy.wmlefl.cc&path=/Telegram🇨🇳#Estados+Unidos
+ss://YWVzLTI1Ni1nY206YzY5Mzc0ZGEtMjIwOC00Y2JkLWI4MWUtY2RmODhiNWU3ZjUz@ss.029.node-for-bigairport.win:36888#Hong+Kong
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.158.171.70:8080#Estados+Unidos
+vmess://eyJ2IjogMiwgInBzIjogIkVzdGFkb3MgVW5pZG9zIiwgImFkZCI6ICJiQmJiYmJiQmIuMjIyNzY5LlhZWiIsICJwb3J0IjogODAsICJpZCI6ICIyZTY1NTc3ZS04ZmRiLTRiYjEtYTQ5NS05NmYzMTIyMDk5YTciLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogbnVsbCwgImhvc3QiOiAiYmJiYmJiYmJiLjIyMjc2OS54eXoiLCAicGF0aCI6ICIvZjZ0YU9NY09TWmI5VFBSIiwgInRscyI6IGZhbHNlLCAic25pIjogIiJ9
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@104.167.197.25:57456#Estados+Unidos
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5dHFoTWRJclRrZ1E0NlB2aHlBdE1I@switcher-nick-croquet.freesocks.work:443#Ucrania
 ```
 <h5>La dirección de suscripción permanente del nodo superior (parte): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_es</h5>
  <p>Código QR para la dirección de suscripción anterior</p>
