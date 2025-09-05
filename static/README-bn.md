@@ -35,11 +35,11 @@
  <h4>নোড তালিকা: (শুধুমাত্র কিছু নোড এখানে প্রদর্শিত হয়, সমস্ত নোড দেখতে অ্যাপটি ডাউনলোড করুন)</h4>
     
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkZTBjNjE3NC03ZDEzLTRiNGEtYTQ2NS1iOWQyNWQ5NTZmOTQ=@125.229.88.58:10121#Taiwan
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@64.74.163.130:990#United+States
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.47.132:443#United+States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMTVNOaDIxVHJYalIyb2syNVEybkU4RU5UMnpvQm1QdmthM1JDQ1VBSFpFTENuV29la1ZqdmFmODlxd2NSa2RieEVmZXAyYmMyYVV0bW54cXZGMWF5UVJlejFKSGpVTGo=@exchange.gameaurela.click:52952#United+States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.47.255.22:990#Puerto+Rico
+vmess://eyJ2IjogIjIiLCAicHMiOiAiRG9taW5pY2FuIFJlcHVibGljIiwgImFkZCI6ICIxOTEuMTAxLjM2LjE2OCIsICJwb3J0IjogIjQ1OTc5IiwgInR5cGUiOiAibm9uZSIsICJpZCI6ICIyM2JkZjZkZi1jNDgyLTQ2ZDAtYzBmNC01YTk4ZDUzNGVhMTEiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL3Rlc3QiLCAiaG9zdCI6ICIiLCAidGxzIjogIiJ9
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.241:443#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@151.242.251.144:8080#Iran
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@103.111.114.29:57456#India
+vmess://eyJhZGQiOiAidGVzdDMuZmxoYS5ydSIsICJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJwb3J0IjogODAsICJpZCI6ICI5YTgxMzQwZC1mODFiLTRjNzYtOGFiYi1mNGQzMDVjNTM1YzAiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAidGVzdDMuZmxoYS5ydSIsICJwYXRoIjogIi85YTgxMzQwZC1mODFiLTRjNzYtOGFiYi1mNGQzMDVjNTM1YzAtdm1lc3MiLCAidGxzIjogIiJ9
 ```
 <h5>উপরের নোডের স্থায়ী সদস্যতা ঠিকানা (অংশ): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_bn</h5>
  <p>উপরের সদস্যতা ঠিকানার জন্য QR কোড</p>

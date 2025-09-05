@@ -35,11 +35,11 @@
  <h4>قائمة العقد: (يتم عرض بعض العقد فقط هنا، يرجى تنزيل التطبيق لعرض جميع العقد)</h4>
     
 ```
-vmess://eyJhZGQiOiAib3YtZ2VybWFueTQuMDl2cG4uY29tIiwgInYiOiAiMiIsICJwcyI6ICJQb2xhbmQiLCAicG9ydCI6IDg0NDMsICJpZCI6ICJjZmM2NmQ4ZC00OGI1LTQzNGYtYjkyZC0yMmRlMTkwN2NlZDciLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiL3ZtZXNzLyIsICJ0bHMiOiAidGxzIn0=
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.197:443#United+Kingdom
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.138:8080#The+Netherlands
-trojan://slch2024@195.13.44.195:2096?allowInsecure=0&sni=ocost-dy.wmlefl.cc&type=ws&host=ocost-dy.wmlefl.cc&path=/Telegram🇨🇳#United+States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@45.139.24.24:57456#Russia
+vmess://eyJhZGQiOiAiMTMuNjEuMjQyLjE1IiwgInYiOiAiMiIsICJwcyI6ICJTd2VkZW4iLCAicG9ydCI6IDMwNTYyLCAiaWQiOiAiMWFiOTk3ZjgtYTQ5NS00Yjc0LWU3NWEtNDNjODNiOWNlNWI1IiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIi8iLCAidGxzIjogIiJ9
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.198:443#United+Kingdom
+trojan://2ee85121-31de-4581-a492-eb00f606e392@185.208.207.217:443?sni=dus.freeguard.org#Germany
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.69:8080#Lithuania
+vmess://eyJhZGQiOiAiMi41OC44Ny4yMjEiLCAidiI6ICIyIiwgInBzIjogIlVuaXRlZCBTdGF0ZXMiLCAicG9ydCI6IDEyMjY5LCAiaWQiOiAiZGI4NWZmMGUtYzMzZi00MDFkLWM0MTUtNGM3Y2NlMTM1NzA0IiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIi8iLCAidGxzIjogIiJ9
 ```
 <h5>عنوان الاشتراك الدائم للعقدة العليا (جزء): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ar</h5>
  <p>رمز الاستجابة السريعة لعنوان الاشتراك أعلاه</p>

@@ -35,11 +35,11 @@
 <h4>Node list: (Only some nodes are shown here, please download the app to view all nodes)</h4>
     
 ```
-trojan://slch2024@209.94.90.195:2096?allowInsecure=0&sni=ocost-dy.wmlefl.cc&type=ws&host=ocost-dy.wmlefl.cc&path=/Telegram🇨🇳#United+States
-vmess://eyJhZGQiOiAidjM0LmVtb3llcy50b3AiLCAidiI6ICIyIiwgInBzIjogIlVuaXRlZCBTdGF0ZXMiLCAicG9ydCI6IDg0NDMsICJpZCI6ICJhNzhmYzE0ZS00ZThiLTRmYzAtOGNhYi04NmZkODFjNTgzY2EiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAidjM0LmVtb3llcy50b3AiLCAicGF0aCI6ICIiLCAidGxzIjogInRscyJ9
-vmess://eyJhZGQiOiAib3YtZ2VybWFueTcuMDl2cG4uY29tIiwgInYiOiAiMiIsICJwcyI6ICJQb2xhbmQiLCAicG9ydCI6IDgwLCAiaWQiOiAiOGI3ZWM5OGQtYzI5MS00MDM0LTk3MTktZTZkNjIwNTE2MzZhIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogIm92LWdlcm1hbnk3LjA5dnBuLmNvbSIsICJwYXRoIjogIi92bWVzcy8iLCAidGxzIjogIiJ9
-vmess://eyJhZGQiOiAiNDcuNzYuMTY4LjE0NyIsICJ2IjogIjIiLCAicHMiOiAiSG9uZyBLb25nIiwgInBvcnQiOiA2MTU5NCwgImlkIjogImY1OTUxOTQ5LTA1NmMtNDY0NS04ODIxLTkwODQzZjJkOTlkZiIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIvYXJraT9lZD0yMDQ4IiwgInRscyI6ICIifQ==
-vmess://eyJhZGQiOiAiMTIzLjU4LjIwMy45MiIsICJ2IjogIjIiLCAicHMiOiAiSW5kaWEiLCAicG9ydCI6IDg0NDMsICJpZCI6ICIwYmIwMzY1Yi1jMTgzLTQ4YzMtYWQwZC1hOTBmYzc2ZTI5MjYiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiLyIsICJ0bHMiOiAiIn0=
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYVU1UeWdFTTFqVllJdnlzWEtxQTVU@hackney-latest-strike.freesocks.work:443#United+States
+trojan://slch2024@188.244.122.195:2096?allowInsecure=0&sni=ocost-dy.wmlefl.cc&type=ws&host=ocost-dy.wmlefl.cc&path=/Telegram🇨🇳#Germany
+vmess://eyJhZGQiOiAiMTMuNjEuMjQyLjE1IiwgInYiOiAiMiIsICJwcyI6ICJTd2VkZW4iLCAicG9ydCI6IDEyOTY5LCAiaWQiOiAiY2IyYTBlY2YtODExMy00ODNiLWI4MTctN2M0NDNjOGViNjRlIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIi8iLCAidGxzIjogIiJ9
+trojan://slch2024@185.148.106.195:2096?allowInsecure=0&sni=ocost-dy.wmlefl.cc&type=ws&host=ocost-dy.wmlefl.cc&path=/Telegram🇨🇳#United+States
+trojan://slch2024@195.13.45.195:2096?allowInsecure=0&sni=ocost-dy.wmlefl.cc&type=ws&host=ocost-dy.wmlefl.cc&path=/Telegram🇨🇳#United+States
 ```
 <h5>Permanent subscription address of the node above (part): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_en</h5>
 <p>QR code of the subscription address above</p>

@@ -35,11 +35,11 @@
  <h4>Список узлов: (здесь показаны только некоторые узлы. Загрузите приложение, чтобы просмотреть все узлы)</h4>
     
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@142.4.216.225:80#%D0%9A%D0%B0%D0%BD%D0%B0%D0%B4%D0%B0
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.213.23.226:990#%D0%9D%D0%BE%D1%80%D0%B2%D0%B5%D0%B3%D0%B8%D1%8F
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxWHZPN3pZVTdLZWFCME1kN0RRTG93@51.195.119.47:1080#%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D1%8F
-trojan://slch2024@185.7.240.195:2096?allowInsecure=0&sni=ocost-dy.wmlefl.cc&type=ws&host=ocost-dy.wmlefl.cc&path=/Telegram🇨🇳#%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D1%8F
-trojan://slch2024@209.94.90.195:2096?allowInsecure=0&sni=ocost-dy.wmlefl.cc&type=ws&host=ocost-dy.wmlefl.cc&path=/Telegram🇨🇳#%D0%A1%D0%A8%D0%90
+vmess://eyJhZGQiOiAiMjAyLjc5LjE2MS4xOTIiLCAidiI6ICIyIiwgInBzIjogIlx1MDQyMVx1MDQzOFx1MDQzZFx1MDQzM1x1MDQzMFx1MDQzZlx1MDQ0M1x1MDQ0MCIsICJwb3J0IjogNDQzLCAiaWQiOiAiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogInBhdGgvMTcwNzMzMTMyMjMzIiwgInRscyI6ICJ0bHMifQ==
+trojan://79462058-8af8-4f78-9f72-252035389b87@tuntro003.instconn.com:443?sni=cherry.686911.xyz#%D0%AF%D0%BF%D0%BE%D0%BD%D0%B8%D1%8F
+vmess://eyJhZGQiOiAiOTEuMTA3LjE1Ny42IiwgInYiOiAiMiIsICJwcyI6ICJcdTA0MjRcdTA0MjBcdTA0MTMiLCAicG9ydCI6IDUxNjQ5LCAiaWQiOiAiNjUwN2ZjYmQtOWZiMC00NDcwLThlYzQtMjJmMmRmNDM2MDQ3IiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAiIn0=
+vmess://eyJhZGQiOiAiMTQyLjE3MS4xOTQuMTA1IiwgInYiOiAiMiIsICJwcyI6ICJcdTA0MjFcdTA0MjhcdTA0MTAiLCAicG9ydCI6IDY2NjYsICJpZCI6ICIzZWI4YjdhZC0xOWI2LTRhZDgtOGVhZi1jY2MzNTY0YzhlYjMiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiL3NiYiIsICJ0bHMiOiAiIn0=
+vmess://eyJhZGQiOiAiMTMuNjEuMjQyLjE1IiwgInYiOiAiMiIsICJwcyI6ICJcdTA0MjhcdTA0MzJcdTA0MzVcdTA0NDZcdTA0MzhcdTA0NGYiLCAicG9ydCI6IDMwNTYyLCAiaWQiOiAiMWFiOTk3ZjgtYTQ5NS00Yjc0LWU3NWEtNDNjODNiOWNlNWI1IiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIi8iLCAidGxzIjogIiJ9
 ```
 <h5>Адрес постоянной подписки верхнего узла (части): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ru</h5>
  <p>QR-код для адреса подписки выше</p>
