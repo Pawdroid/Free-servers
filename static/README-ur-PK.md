@@ -35,11 +35,11 @@
  <h4>نوڈ کی فہرست: (یہاں صرف کچھ نوڈس دکھائے گئے ہیں، براہ کرم تمام نوڈس دیکھنے کے لیے ایپ ڈاؤن لوڈ کریں)</h4>
     
 ```
-vmess://eyJhZGQiOiAidGxzLjA3Lm5vZGUtZm9yLWJpZ2FpcnBvcnQud2luIiwgInYiOiAiMiIsICJwcyI6ICJKYXBhbiIsICJwb3J0IjogMjIyMTEsICJpZCI6ICJjNjkzNzRkYS0yMjA4LTRjYmQtYjgxZS1jZGY4OGI1ZTdmNTMiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAidGxzLjA3Lm5vZGUtZm9yLWJpZ2FpcnBvcnQud2luIiwgInBhdGgiOiAiLyIsICJ0bHMiOiAiIn0=
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.196:443#United+Kingdom
-trojan://2ee85121-31de-4581-a492-eb00f606e392@45.91.171.116:443?security=tls&sni=sto.freeguard.org#Sweden
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@193.29.139.189:8080#The+Netherlands
-ss://YWVzLTEyOC1nY206MTAwODY=@160.16.123.124:10087#Japan
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@151.242.251.147:8080#Iran
+trojan://slch2024@192.0.54.195:2096?allowInsecure=0&sni=ocost-dy.wmlefl.cc&type=ws&host=ocost-dy.wmlefl.cc&path=/Telegram🇨🇳#United+States
+vmess://eyJhZGQiOiAiNDcuMjM5LjIwNC4xOTMiLCAidiI6ICIyIiwgInBzIjogIkhvbmcgS29uZyIsICJwb3J0IjogMzM2MTEsICJpZCI6ICI1NjYwOGQyYy1iN2I0LTRjZGUtYTYzYi0zM2Q2ZTBiNmZkNjIiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiL2Fya2k/ZWQ9MjA0OCIsICJ0bHMiOiAiIn0=
+vmess://eyJhZGQiOiAiMjE2LjE3My42OS4yNTAiLCAidiI6ICIyIiwgInBzIjogIlVuaXRlZCBLaW5nZG9tIiwgInBvcnQiOiA4NDQzLCAiaWQiOiAiOTEzODIwOTItMjMzMC00NTViLThhMWMtOWMxMjljZmU2NjFhIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIi8iLCAidGxzIjogIiJ9
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.195:443#United+Kingdom
 ```
 <h5>اوپری نوڈ کا مستقل رکنیت کا پتہ (حصہ): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ur-PK</h5>
  <p>اوپر سبسکرپشن ایڈریس کے لیے QR کوڈ</p>
