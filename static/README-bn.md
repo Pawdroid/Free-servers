@@ -35,12 +35,12 @@
  <h4>নোড তালিকা: (শুধুমাত্র কিছু নোড এখানে প্রদর্শিত হয়, সমস্ত নোড দেখতে অ্যাপটি ডাউনলোড করুন)</h4>
     
 ```
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@uk-dc1.yangon.club:443#United+Kingdom
-trojan://slch2024@193.9.49.195:2096?allowInsecure=0&sni=ocost-dy.wmlefl.cc&type=ws&host=ocost-dy.wmlefl.cc&path=/Telegram🇨🇳#Russia
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.158.171.150:8080#United+States
-vmess://eyJhZGQiOiAiMTU0LjQ0LjMuMjciLCAidiI6ICIyIiwgInBzIjogIlVuaXRlZCBTdGF0ZXMiLCAicG9ydCI6IDM3MDY4LCAiaWQiOiAiY2YxOTgxZTktYTgzZC00ZWE0LWVlNDQtNGI2ZDcxODNkYWRiIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAiIn0=
-vmess://eyJhZGQiOiAiMTg4LjIwOC4xNDEuMTc3IiwgInYiOiAiMiIsICJwcyI6ICJJbmRpYSIsICJwb3J0IjogNDQzLCAiaWQiOiAiMDk3MDgzNGYtNWI0ZC00NGRhLWQ4OTAtMTlkY2IyYTcyZDRjIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIiLCAidGxzIjogIiJ9
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.160:443#United+States
+vmess://eyJhZGQiOiAiMTUuMjM1LjQxLjIwMCIsICJ2IjogIjIiLCAicHMiOiAiQ2FuYWRhIiwgInBvcnQiOiA4MCwgImlkIjogIjU4ZmUxNTQyLTUyOTAtNDBhZC04MTVhLTc3NzA3YTgxYWZlNSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIvSU9lYmhMTWhsMUNUYkZIYkw5NW15ZlJYMiIsICJ0bHMiOiAiIn0=
+vmess://eyJhZGQiOiAiODIuMTk3LjY5LjEzMSIsICJ2IjogIjIiLCAicHMiOiAiR2VybWFueSIsICJwb3J0IjogMzk2NzQsICJpZCI6ICI1YTg5Mzg2YS04MjdiLTRmNTQtODc3OC0yZjFiNTEyMmM2ZWYiLCAiYWlkIjogIjAiLCAibmV0IjogInRjcCIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAiIn0=
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.157:8080#Lithuania
+trojan://slch2024@192.200.160.195:2096?allowInsecure=0&sni=ocost-dy.wmlefl.cc&type=ws&host=ocost-dy.wmlefl.cc&path=/Telegram🇨🇳#United+States
+vmess://eyJhZGQiOiAiYzAwNGU2ZmUtdDFpOXMwLXRtNTNjbS0xb2w5Ny5oa3QudGNwYmJyLm5ldCIsICJ2IjogIjIiLCAicHMiOiAiSG9uZyBLb25nIiwgInBvcnQiOiA4MCwgImlkIjogIjkzZmI2OWZjLTc3Y2YtMTFlZS04NWVlLWYyM2M5MTM2OWYyZCIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJicm9hZGNhc3Rsdi5jaGF0LmJpbGliaWxpLmNvbSIsICJwYXRoIjogIi8iLCAidGxzIjogIiJ9
+vmess://eyJhZGQiOiAiMzUuMjEyLjI0NC4yMyIsICJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJwb3J0IjogMTUyNDEsICJpZCI6ICJhOWJlZjhjYi1jMzA1LTRkYjEtZjUwYy1lMWJkYWM1Y2QzOWYiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiYTliZWY4Y2IiLCAidGxzIjogIiJ9
 ```
 <h5>উপরের নোডের স্থায়ী সদস্যতা ঠিকানা (অংশ): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_bn</h5>
  <p>উপরের সদস্যতা ঠিকানার জন্য QR কোড</p>
