@@ -35,11 +35,11 @@
  <h4>Daftar node: (Hanya beberapa node yang ditampilkan di sini, silakan unduh aplikasi untuk melihat semua node)</h4>
     
 ```
-vmess://eyJhZGQiOiAiY2YuZm92aS50ayIsICJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJwb3J0IjogNDQzLCAiaWQiOiAiYmY2NzQzN2UtNmM5MC00NWNhLWFiYzItYzcyNDBhNWNlMmFhIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogImZveGx1eC5mb3ZpLnRrIiwgInBhdGgiOiAiL2Vpc2FzcWEiLCAidGxzIjogInRscyIsICJzbmkiOiAiIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJzY3kiOiAiIn0=
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.241:443#United+States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@151.242.251.147:8080#Iran
+vmess://eyJhZGQiOiAiNjIuMTQ2LjIzNS4xOTMiLCAidiI6ICIyIiwgInBzIjogIkdlcm1hbnkiLCAicG9ydCI6IDI4MDExLCAiaWQiOiAiY2ZjNWE4N2YtM2MxMy00ZTI1LWI1NTYtMTc2Y2RkNmI1YzZhIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIiLCAidGxzIjogIiJ9
+vmess://eyJhZGQiOiAiMTM3LjE3NS4xMjQuMTY3IiwgInYiOiAiMiIsICJwcyI6ICJVbml0ZWQgU3RhdGVzIiwgInBvcnQiOiAyMDA4NiwgImlkIjogImI0YmNlNTAwLTExZmUtNGY4Zi1hMzQ0LTAxYWMyNDdhZjliZCIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIvIiwgInRscyI6ICIifQ==
+vmess://eyJhZGQiOiAiNjEuMTExLjI1MS45MSIsICJ2IjogIjIiLCAicHMiOiAiU291dGggS29yZWEiLCAicG9ydCI6IDYxNzY0LCAiaWQiOiAiNDQ4NWM5OTUtZjRiYS00MjcxLWE0ZjItNGMxOTdiN2EwMzFmIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIi9hcmtpP2VkPTIwNDgiLCAidGxzIjogIiJ9
+trojan://slch2024@185.251.82.195:2096?allowInsecure=0&sni=ocost-dy.wmlefl.cc&type=ws&host=ocost-dy.wmlefl.cc&path=/Telegram🇨🇳#Spain
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@154.205.159.100:990#Seychelles
-trojan://2ee85121-31de-4581-a492-eb00f606e392@103.252.116.138:443?sni=hk.freeguard.org#Hong+Kong
 ```
 <h5>Alamat langganan permanen node atas (bagian): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_id</h5>
  <p>Kode QR untuk alamat berlangganan di atas</p>

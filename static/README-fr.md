@@ -35,11 +35,11 @@
  <h4>Liste des nœuds: (Seuls certains nœuds sont affichés ici, veuillez télécharger l'application pour afficher tous les nœuds)</h4>
     
 ```
+vmess://eyJhZGQiOiAiNDUuOC4xNDYuMTI5IiwgInYiOiAiMiIsICJwcyI6ICJcdTAwYzl0YXRzIFVuaXMiLCAicG9ydCI6IDgwLCAiaWQiOiAiMDcwNDAxNmYtNTQzNS00NjU1LWJlNmEtNzcxYTVhYmE1MmMzIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIi92bWVzcy8iLCAidGxzIjogIiJ9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@103.111.114.29:57456#Inde
 trojan://slch2024@185.251.80.195:2096?allowInsecure=0&sni=ocost-dy.wmlefl.cc&type=ws&host=ocost-dy.wmlefl.cc&path=/Telegram🇨🇳#Espagne
-vmess://eyJhZGQiOiAiNjEuMTExLjI0NC4xMTIiLCAidiI6ICIyIiwgInBzIjogIkNvclx1MDBlOWUgZHUgU3VkIiwgInBvcnQiOiA1NjA3MiwgImlkIjogIjhlMTQ0ZmVkLTQ4ZjUtNDFiMC04MTYxLWIyOWYxYzc4YTY0NSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIvYXJraT9lZD0yMDQ4IiwgInRscyI6ICIifQ==
-vmess://eyJhZGQiOiAiOC4yMTAuMTQwLjIzIiwgInYiOiAiMiIsICJwcyI6ICJIb25nIEtvbmciLCAicG9ydCI6IDU0ODA5LCAiaWQiOiAiZmRlNzNkYWYtY2M2Ny00MmYzLTk5MzUtMzViMTMyYjAxYWJkIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIi9hcmtpP2VkPTIwNDgiLCAidGxzIjogIiJ9
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.110.1.122:8090#%C3%89tats+Unis
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@23.157.40.101:8000#%C3%89tats+Unis
+trojan://2ee85121-31de-4581-a492-eb00f606e392@198.46.152.83:443?sni=sj3.freeguard.org#Canada
+vmess://eyJhZGQiOiAiMTkyLjI0My4xMjMuOTMiLCAidiI6ICIyIiwgInBzIjogIkphcG9uIiwgInBvcnQiOiAzMjEyMywgImlkIjogIjZmOTBjYzgwLTMxODEtNGM4ZC04MDE1LWQwMDcyZGE5ODdiMyIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIvd3Rmd3RmOTk4IiwgInRscyI6ICIifQ==
 ```
 <h5>L'adresse d'abonnement permanente du nœud supérieur (partie): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_fr</h5>
  <p>Code QR pour l'adresse d'abonnement ci-dessus</p>
