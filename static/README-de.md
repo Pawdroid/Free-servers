@@ -35,11 +35,11 @@
  <h4>Knotenliste: (Hier werden nur einige Knoten angezeigt. Bitte laden Sie die App herunter, um alle Knoten anzuzeigen.)</h4>
     
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@45.139.24.24:57456#Russland
-vmess://eyJhZGQiOiAiMTAzLjE4Ni4xMTcuMjI5IiwgInYiOiAiMiIsICJwcyI6ICJNYWxheXNpYSIsICJwb3J0IjogNDU0OTcsICJpZCI6ICIyZTI1N2Y5Yy1mYTBlLTQ0MmYtZjUzYy02YTQ1MjkyNGMwYzIiLCAiYWlkIjogIjAiLCAibmV0IjogInRjcCIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAiIn0=
-ss://YWVzLTEyOC1nY206MTAwODY=@153.121.43.183:10087#Japan
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@103.104.247.49:8080#Niederlande
-trojan://slch2024@188.164.158.195:2096?allowInsecure=0&sni=ocost-dy.wmlefl.cc&type=ws&host=ocost-dy.wmlefl.cc&path=/TelegramU0001F1E8U0001F1F3#Armenien
+vmess://eyJhZGQiOiAidjAxOS5lbW92cG4ueHl6IiwgInYiOiAiMiIsICJwcyI6ICJVU0EiLCAicG9ydCI6IDIwODcsICJpZCI6ICJhNzhmYzE0ZS00ZThiLTRmYzAtOGNhYi04NmZkODFjNTgzY2EiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAidjAxOS5lbW92cG4ueHl6IiwgInBhdGgiOiAiLyIsICJ0bHMiOiAidGxzIn0=
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkY2JjOTk1MS1mMDg3LTQ4ZDktYTA0Yy04NzUwMGJiMGVmNGI=@125.231.78.25:10076#Taiwan
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@103.111.114.29:57456#Indien
+trojan://slch2024@199.68.156.195:2096?allowInsecure=0&sni=ocost-dy.wmlefl.cc&type=ws&host=ocost-dy.wmlefl.cc&path=/#USA
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@23.157.40.101:8008#USA
 ```
 <h5>Die permanente Abonnementadresse des oberen Knotens (Teil): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_de</h5>
  <p>QR-Code für die Abonnementadresse oben</p>

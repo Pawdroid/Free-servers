@@ -35,11 +35,11 @@
  <h4>Liste des nœuds: (Seuls certains nœuds sont affichés ici, veuillez télécharger l'application pour afficher tous les nœuds)</h4>
     
 ```
-vmess://eyJhZGQiOiAiNjIuMTQ2LjIzNS4xOTMiLCAidiI6ICIyIiwgInBzIjogIkFsbGVtYWduZSIsICJwb3J0IjogMjgwMTEsICJpZCI6ICJjZmM1YTg3Zi0zYzEzLTRlMjUtYjU1Ni0xNzZjZGQ2YjVjNmEiLCAiYWlkIjogIjAiLCAibmV0IjogInRjcCIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAiIn0=
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.69:8080#Lituanie
-vmess://eyJhZGQiOiAidmFsbC5jb2RlZnlpbmMuY29tIiwgInYiOiAiMiIsICJwcyI6ICJcdTAwYzl0YXRzIFVuaXMiLCAicG9ydCI6IDQ0MywgImlkIjogIjYwNmVjZTE3LTcyNzktNGE0My1iODc5LWY4NTAyMTAzZGU4ZiIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJ2YWxsLmNvZGVmeWluYy5jb20iLCAicGF0aCI6ICIvdm1lc3N3cyIsICJ0bHMiOiAidGxzIn0=
-vmess://eyJhZGQiOiAiMTA0LjE4LjE0OS43NiIsICJ2IjogIjIiLCAicHMiOiAiXHUwMGM5dGF0cyBVbmlzIiwgInBvcnQiOiA0NDMsICJpZCI6ICJkZTk0Y2MwYS0wNTkyLTQ5NjktYjFmYy05N2VhOGYwZWEwYjMiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAidXMua2twLm1lLmV1Lm9yZyIsICJwYXRoIjogIi9hYSIsICJ0bHMiOiAidGxzIn0=
-vmess://eyJhZGQiOiAiNDcuODYuMTYwLjE3NyIsICJ2IjogIjIiLCAicHMiOiAiXHUwMGM5dGF0cyBVbmlzIiwgInBvcnQiOiAzMjE5LCAiaWQiOiAiOGFjZjdlMjgtODVlOC00MDMwLWE2ZTktNTY2ZDM4MzUxNmZmIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIi9hcmtpP2VkPTIwNDgiLCAidGxzIjogIiJ9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWEdwMStpaGxmS2c4MjZI@185.177.229.245:1866#Allemagne
+trojan://slch2024@193.124.224.195:2096?allowInsecure=0&sni=ocost-dy.wmlefl.cc&type=ws&host=ocost-dy.wmlefl.cc&path=/Telegram🇨🇳#%C3%89tats+Unis
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.47.130:443#%C3%89tats+Unis
+trojan://slch2024@192.200.160.195:2096?allowInsecure=0&sni=ocost-dy.wmlefl.cc&type=ws&host=ocost-dy.wmlefl.cc&path=/Telegram🇨🇳#%C3%89tats+Unis
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.213.23.226:990#Norv%C3%A8ge
 ```
 <h5>L'adresse d'abonnement permanente du nœud supérieur (partie): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_fr</h5>
  <p>Code QR pour l'adresse d'abonnement ci-dessus</p>
