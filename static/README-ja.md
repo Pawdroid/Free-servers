@@ -35,11 +35,11 @@
  <h4>ノード リスト: (ここには一部のノードのみが表示されます。すべてのノードを表示するにはアプリをダウンロードしてください)</h4>
     
 ```
-trojan://dda4f3bf-85fb-41bd-9d8e-77a8a02dbd59@194.104.147.74:1066?sni=194.104.147.74#%E9%A6%99%E6%B8%AF
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWZHN3eGV0VmM2QWhJcHMxOHJ0WWJt@95.163.176.37:8506#%E3%83%AD%E3%82%B7%E3%82%A2
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMTVNOaDIxVHJYalIyb2syNVEybkU4RU5UMnpvQm1QdmthM1JDQ1VBSFpFTENuV29la1ZqdmFmODlxd2NSa2RieEVmZXAyYmMyYVV0bW54cXZGMWF5UVJlejFKSGpVTGo=@exchange.gameaurela.click:52952#%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB
-vmess://eyJhZGQiOiAiMTA3LjE0OS4xMzQuMTY1IiwgInYiOiAiMiIsICJwcyI6ICJcdTMwYTJcdTMwZTFcdTMwZWFcdTMwYWIiLCAicG9ydCI6IDQwOTgyLCAiaWQiOiAiYjk0NzQ4NDctODcyNC00OTFhLWEwNDItY2ZjMjQ1ZDM2MDI0IiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIi9hcmtpP2VkPTIwNDgiLCAidGxzIjogIiJ9
-trojan://slch2024@198.62.62.87:2096?allowInsecure=0&sni=ocost-dy.wmlefl.cc&type=ws&host=ocost-dy.wmlefl.cc&path=/Telegram#%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@38.54.45.129:990#%E3%82%A2%E3%83%AB%E3%82%BC%E3%83%B3%E3%83%81%E3%83%B3%E5%85%B1%E5%92%8C%E5%9B%BD
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.62.161:443#%E3%82%B9%E3%82%A4%E3%82%B9%E9%80%A3%E9%82%A6
+trojan://slch2024@199.68.156.195:2096?allowInsecure=0&sni=ocost-dy.wmlefl.cc&type=ws&host=ocost-dy.wmlefl.cc&path=/Telegram🇮🇷ShadowProxy66#%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB
+vmess://eyJhZGQiOiAiMjEyLjE5Mi4xNS43MyIsICJ2IjogIjIiLCAicHMiOiAiXHU5OTk5XHU2ZTJmIiwgInBvcnQiOiAyNTE1MSwgImlkIjogIjYzOWRmYzVmLWVkY2UtNDRkMi1hYmEwLTA0ZmRjZWRmZWVkZSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIvIiwgInRscyI6ICIifQ==
+ss://YWVzLTEyOC1nY206MTAwODY=@153.121.51.214:10087#%E6%97%A5%E6%9C%AC
 ```
 <h5>上位ノードの永続サブスクリプション アドレス (部分): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ja</h5>
  <p>上記の購読アドレスの QR コード</p>

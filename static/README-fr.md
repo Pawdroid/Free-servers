@@ -35,11 +35,11 @@
  <h4>Liste des nœuds: (Seuls certains nœuds sont affichés ici, veuillez télécharger l'application pour afficher tous les nœuds)</h4>
     
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNTYwNmUxNy1lMzEyLTQzZmQtYmMwNC0xZWE3MTlkZjAyNmY=@111.253.209.194:10148#Ta%C3%AFwan
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@beesyar.org:8080#Lituanie
-vmess://eyJhZGQiOiAiOTEuOTkuMTg1LjIxNiIsICJ2IjogIjIiLCAicHMiOiAiQWxsZW1hZ25lIiwgInBvcnQiOiAyMDA4NiwgImlkIjogIjdiZDZhMWVhLWEyMjAtNGYxYy1hZmVkLTZjZmI4YWI5NmFkOSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIvIiwgInRscyI6ICIifQ==
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@181.119.30.20:990#Colombie
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.193:443#Royaume-Uni
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.47.253.227:990#%C3%89quateur
+vmess://eyJhZGQiOiAiMjEyLjE5Mi4xNS43MyIsICJ2IjogIjIiLCAicHMiOiAiSG9uZyBLb25nIiwgInBvcnQiOiAyNTE1MSwgImlkIjogIjYzOWRmYzVmLWVkY2UtNDRkMi1hYmEwLTA0ZmRjZWRmZWVkZSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIvIiwgInRscyI6ICIifQ==
+vmess://eyJhZGQiOiAiMTM1LjEyNS4xODIuNzQiLCAidiI6ICIyIiwgInBzIjogIkZyYW5jZSIsICJwb3J0IjogMjgyMTMsICJpZCI6ICI4MTg1Mjc3MS03NmZiLTRlOTQtZTRmMS00ZTM3YTY5OGE0OWEiLCAiYWlkIjogIjAiLCAibmV0IjogInRjcCIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAiIn0=
+vmess://eyJhZGQiOiAiMjAyLjc5LjE2MS4xODgiLCAidiI6ICIyIiwgInBzIjogIlNpbmdhcG91ciIsICJwb3J0IjogNDQzLCAiaWQiOiAiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwgImFpZCI6ICI2NCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJ3d3cuMzIyNzgxMTcueHl6IiwgInBhdGgiOiAiL3BhdGgvMTcwNzMzMTMyMjMzIiwgInRscyI6ICJ0bHMifQ==
+trojan://slch2024@185.156.19.195:2096?allowInsecure=0&sni=ocost-dy.wmlefl.cc&type=ws&host=ocost-dy.wmlefl.cc&path=/Telegram#Royaume-Uni
 ```
 <h5>L'adresse d'abonnement permanente du nœud supérieur (partie): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_fr</h5>
  <p>Code QR pour l'adresse d'abonnement ci-dessus</p>

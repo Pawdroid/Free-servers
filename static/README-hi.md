@@ -35,11 +35,11 @@
  <h4>नोड सूची: (यहां केवल कुछ नोड्स प्रदर्शित हैं, कृपया सभी नोड्स देखने के लिए ऐप डाउनलोड करें)</h4>
     
 ```
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@23.157.40.101:8009#United+States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@103.104.247.47:8080#The+Netherlands
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.199:8080#Lithuania
-vmess://eyJhZGQiOiAiMTg4LjIwOC4xNDEuMTc3IiwgInYiOiAiMiIsICJwcyI6ICJJbmRpYSIsICJwb3J0IjogNDQzLCAiaWQiOiAiMDk3MDgzNGYtNWI0ZC00NGRhLWQ4OTAtMTlkY2IyYTcyZDRjIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIiLCAidGxzIjogIiJ9
-vmess://eyJhZGQiOiAiMTU0LjE3LjIxLjEzOSIsICJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJwb3J0IjogMTAwODUsICJpZCI6ICI5MTlmOGEzNy1mZTRmLTQ2NTQtYmE2MS1mYjhmYzM2NGFjNjQiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiMTU0LjE3LjIxLjEzOSIsICJwYXRoIjogIi92bWVzcyIsICJ0bHMiOiAiIn0=
+trojan://slch2024@212.183.88.195:2096?allowInsecure=0&sni=ocost-dy.wmlefl.cc&type=ws&host=ocost-dy.wmlefl.cc&path=/Telegram#Austria
+vmess://eyJhZGQiOiAiMTUuMjM1LjUwLjE3MiIsICJ2IjogIjIiLCAicHMiOiAiQ2FuYWRhIiwgInBvcnQiOiA0NDMsICJpZCI6ICIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiYmFyYWRpaGEuY29tIiwgInBhdGgiOiAiL2xpbmt2d3MiLCAidGxzIjogInRscyJ9
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.47.130:443#United+States
+trojan://slch2024@188.244.122.195:2096?allowInsecure=0&sni=ocost-dy.wmlefl.cc&type=ws&host=ocost-dy.wmlefl.cc&path=/由零开始#Germany
+vmess://eyJhZGQiOiAiM2gta2F6YWtoc3RhbjEuMDl2cG4uY29tIiwgInYiOiAiMiIsICJwcyI6ICJVbml0ZWQgU3RhdGVzIiwgInBvcnQiOiA4MCwgImlkIjogIjU2N2Y0YmU1LTEyYWItNDJlMS1iOGQ5LWRiNmZkMWZkZDMxYyIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIzaC1rYXpha2hzdGFuMS4wOXZwbi5jb20iLCAicGF0aCI6ICIvdm1lc3MvIiwgInRscyI6ICIifQ==
 ```
 <h5>ऊपरी नोड (भाग) का स्थायी सदस्यता पता: https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_hi</h5>
  <p>उपरोक्त सदस्यता पते के लिए QR कोड</p>

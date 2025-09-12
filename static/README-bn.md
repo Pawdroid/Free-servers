@@ -35,11 +35,11 @@
  <h4>নোড তালিকা: (শুধুমাত্র কিছু নোড এখানে প্রদর্শিত হয়, সমস্ত নোড দেখতে অ্যাপটি ডাউনলোড করুন)</h4>
     
 ```
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.78:443#United+Kingdom
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@92.118.205.228:990#Poland
-trojan://slch2024@192.200.160.195:2096?allowInsecure=0&sni=ocost-dy.wmlefl.cc&type=ws&host=ocost-dy.wmlefl.cc&path=/由零开始#United+States
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.196:443#United+Kingdom
-vmess://eyJhZGQiOiAiMTUuMjM1LjgzLjIyOCIsICJ2IjogIjIiLCAicHMiOiAiQ2FuYWRhIiwgInBvcnQiOiA0NDMsICJpZCI6ICIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAid3JtZWxtd3hsZi5na3RldmxycXpud3Fxb3p5LmZhYnBmczY2Z2l6bW5vamhjdnF4d2wua3l0cmNmenFsYTg3Z3ZndnM2Yzdram5ydWJ1aC5jYyIsICJwYXRoIjogIi9saW5rdndzIiwgInRscyI6ICJ0bHMifQ==
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.110.1.122:8090#United+States
+vmess://eyJ2IjogIjIiLCAicHMiOiAiVGFpd2FuIiwgImFkZCI6ICIxMDMuMTE1LjEwOS4yNTAiLCAicG9ydCI6ICI0MDc2MiIsICJ0eXBlIjogIm5vbmUiLCAiaWQiOiAiMzVjZTZlM2EtNGRkYy00NzJjLTllOWYtYTM0MzYyYzE5NGU3IiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIvIiwgImhvc3QiOiAiIiwgInRscyI6ICIifQ==
+trojan://2ee85121-31de-4581-a492-eb00f606e392@198.46.152.83:443?sni=sj3.freeguard.org#Canada
+trojan://slch2024@209.46.30.195:2096?allowInsecure=0&sni=ocost-dy.wmlefl.cc&type=ws&host=ocost-dy.wmlefl.cc&path=/由零开始#United+States
+trojan://slch2024@195.13.44.195:2096?allowInsecure=0&sni=ocost-dy.wmlefl.cc&type=ws&host=ocost-dy.wmlefl.cc&path=/Telegram#United+States
 ```
 <h5>উপরের নোডের স্থায়ী সদস্যতা ঠিকানা (অংশ): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_bn</h5>
  <p>উপরের সদস্যতা ঠিকানার জন্য QR কোড</p>

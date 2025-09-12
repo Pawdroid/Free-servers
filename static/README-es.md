@@ -35,11 +35,11 @@
  <h4>Lista de nodos: (aquí solo se muestran algunos nodos; descargue la aplicación para ver todos los nodos)</h4>
     
 ```
-trojan://slch2024@199.34.230.195:2096?allowInsecure=0&sni=ocost-dy.wmlefl.cc&type=ws&host=ocost-dy.wmlefl.cc&path=/由零开始#Estados+Unidos
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.170:443#Estados+Unidos
-vmess://eyJhZGQiOiAiNTEuNzkuMTAyLjI1MyIsICJ2IjogIjIiLCAicHMiOiAiQ2FuYWRcdTAwZTEiLCAicG9ydCI6IDgwLCAiaWQiOiAiNThmZTE1NDItNTI5MC00MGFkLTgxNWEtNzc3MDdhODFhZmU1IiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIi9JT2ViaExNaGwxQ1RiRkhiTDk1bXlmUlgyIiwgInRscyI6ICIifQ==
-vmess://eyJhZGQiOiAiMjAyLjc5LjE2MS4xODgiLCAidiI6ICIyIiwgInBzIjogIlNpbmdhcHVyIiwgInBvcnQiOiA0NDMsICJpZCI6ICI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCAiYWlkIjogIjY0IiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogInd3dy4zMjI3ODExNy54eXoiLCAicGF0aCI6ICIvcGF0aC8xNzA3MzMxMzIyMzMiLCAidGxzIjogInRscyJ9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxWHZPN3pZVTdLZWFCME1kN0RRTG93@51.195.119.47:1080#Francia
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMTVNOaDIxVHJYalIyb2syNVEybkU4RU5UMnpvQm1QdmthM1JDQ1VBSFpFTENuV29la1ZqdmFmODlxd2NSa2RieEVmZXAyYmMyYVV0bW54cXZGMWF5UVJlejFKSGpVTGo=@exchange.gameaurela.click:52952#Estados+Unidos
+trojan://slch2024@185.7.240.195:2096?allowInsecure=0&sni=ocost-dy.wmlefl.cc&type=ws&host=ocost-dy.wmlefl.cc&path=/Telegram#Francia
+vmess://eyJhZGQiOiAiNjIuMTQ2LjIzNS4xOTMiLCAidiI6ICIyIiwgInBzIjogIkFsZW1hbmlhIiwgInBvcnQiOiAyODAxMSwgImlkIjogImNmYzVhODdmLTNjMTMtNGUyNS1iNTU2LTE3NmNkZDZiNWM2YSIsICJhaWQiOiAiMCIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiIiwgInRscyI6ICIifQ==
+vmess://eyJhZGQiOiAiMzguMTIuODMuMjE3IiwgInYiOiAiMiIsICJwcyI6ICJFc3RhZG9zIFVuaWRvcyIsICJwb3J0IjogMzAwMDIsICJpZCI6ICI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCAiYWlkIjogIjY0IiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJsb29zZWx5LmZyZWV0cmFkZS5saW5rIiwgInBhdGgiOiAiIiwgInRscyI6ICIifQ==
+trojan://slch2024@195.13.45.195:2096?allowInsecure=0&sni=ocost-dy.wmlefl.cc&type=ws&host=ocost-dy.wmlefl.cc&path=/由零开始#Estados+Unidos
 ```
 <h5>La dirección de suscripción permanente del nodo superior (parte): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_es</h5>
  <p>Código QR para la dirección de suscripción anterior</p>
