@@ -35,10 +35,11 @@
 <h4>Node list: (Only some nodes are shown here, please download the app to view all nodes)</h4>
     
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@104.192.226.106:990#United+States
-trojan://slch2024@192.0.63.195:2096?allowInsecure=0&sni=ocost-dy.wmlefl.cc&type=ws&host=ocost-dy.wmlefl.cc&path=/由零开始#United+States
-vmess://eyJhZGQiOiAiMTQ2LjU5LjU1LjUwIiwgInYiOiAiMiIsICJwcyI6ICJQb2xhbmQiLCAicG9ydCI6IDQ0MywgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJvLm1ldHVqaS5jb20iLCAicGF0aCI6ICIvbGlua3Z3cyIsICJ0bHMiOiAidGxzIn0=
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@154.205.159.100:990#Seychelles
+trojan://slch2024@195.26.229.195:2096?allowInsecure=0&sni=ocost-dy.wmlefl.cc&type=ws&host=ocost-dy.wmlefl.cc&path=/由零开始#United+Kingdom
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3NDFkZGNlZC1lNmVlLTQxNzUtOWMxYS1lNTI0MDA5ZjkwNDU=@144.126.146.38:30100#United+States
+vmess://eyJhZGQiOiAiNDcuODMuMTYyLjQiLCAidiI6ICIyIiwgInBzIjogIlVuaXRlZCBTdGF0ZXMiLCAicG9ydCI6IDQwODczLCAiaWQiOiAiM2ZkMjY2YmMtNzY5MS00M2NmLWE4MmYtMGM5NzYxYTY5YmYwIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIi9hcmtpP2VkPTIwNDgiLCAidGxzIjogIiJ9
+trojan://slch2024@209.46.30.195:2096?allowInsecure=0&sni=ocost-dy.wmlefl.cc&type=ws&host=ocost-dy.wmlefl.cc&path=/由零开始#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkYzhkMWVmNC0yZWQ2LTQ2MjUtOTY0OS1hMTZiMjMxN2YyZTg=@tr01.wowo2u.top:30066#Japan
 ```
 <h5>Permanent subscription address of the node above (part): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_en</h5>
 <p>QR code of the subscription address above</p>

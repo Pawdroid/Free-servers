@@ -35,10 +35,11 @@
  <h4>قائمة العقد: (يتم عرض بعض العقد فقط هنا، يرجى تنزيل التطبيق لعرض جميع العقد)</h4>
     
 ```
-vmess://eyJhZGQiOiAiOTEuOTkuMTg1LjIxNiIsICJ2IjogIjIiLCAicHMiOiAiR2VybWFueSIsICJwb3J0IjogMjAwODYsICJpZCI6ICI3YmQ2YTFlYS1hMjIwLTRmMWMtYWZlZC02Y2ZiOGFiOTZhZDkiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiLyIsICJ0bHMiOiAiIn0=
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvMzh5dXZ6U2UzbTVhRE5wSHRVUEgxekd3YkdFWFhNRHNHd1ZhdWIyU1lFbUhVYTJXR1pVamllelgzVnZ2YTlDQ3pwanhZdHVKTGdLc1Nuc3lLQmY5Y2lQVmJhM3k0bzM=@94.131.21.174:54075#United+States
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.241:443#United+States
-vmess://eyJhZGQiOiAiMzguOTkuODIuMTkzIiwgInYiOiAiMiIsICJwcyI6ICJVbml0ZWQgU3RhdGVzIiwgInBvcnQiOiA0NDMsICJpZCI6ICIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAidGlsZWJhbmkuY29tIiwgInBhdGgiOiAiL2xpbmt2d3MiLCAidGxzIjogInRscyJ9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@104.192.226.106:990#United+States
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.62.164:443#Switzerland
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.126.237.38:990#Romania
+vmess://eyJhZGQiOiAib3YtZ2VybWFueTcuMDl2cG4uY29tIiwgInYiOiAiMiIsICJwcyI6ICJQb2xhbmQiLCAicG9ydCI6IDg0NDMsICJpZCI6ICI4YjdlYzk4ZC1jMjkxLTQwMzQtOTcxOS1lNmQ2MjA1MTYzNmEiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAib3YtZ2VybWFueTcuMDl2cG4uY29tIiwgInBhdGgiOiAiL3ZtZXNzLyIsICJ0bHMiOiAidGxzIn0=
+trojan://slch2024@185.148.105.195:2096?allowInsecure=0&sni=ocost-dy.wmlefl.cc&type=ws&host=ocost-dy.wmlefl.cc&path=/Telegram#United+States
 ```
 <h5>عنوان الاشتراك الدائم للعقدة العليا (جزء): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ar</h5>
  <p>رمز الاستجابة السريعة لعنوان الاشتراك أعلاه</p>

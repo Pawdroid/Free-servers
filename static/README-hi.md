@@ -35,10 +35,11 @@
  <h4>नोड सूची: (यहां केवल कुछ नोड्स प्रदर्शित हैं, कृपया सभी नोड्स देखने के लिए ऐप डाउनलोड करें)</h4>
     
 ```
-vmess://eyJhZGQiOiAiMTU0LjkwLjQ5LjU3IiwgInYiOiAiMiIsICJwcyI6ICJJbmRvbmVzaWEiLCAicG9ydCI6IDU4ODY4LCAiaWQiOiAiZmJmZmViNmItYjVlNS00Zjc3LTg4ODgtYzc5MTlmYmViMGFkIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIiLCAidGxzIjogIiJ9
-trojan://slch2024@192.200.160.195:2096?allowInsecure=0&sni=ocost-dy.wmlefl.cc&type=ws&host=ocost-dy.wmlefl.cc&path=/由零开始#United+States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@151.242.251.131:8080#Iran
-trojan://slch2024@192.200.160.87:2096?allowInsecure=0&sni=ocost-dy.wmlefl.cc&type=ws&host=ocost-dy.wmlefl.cc&path=/Telegram🇨🇳#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvMzh5dXZ6U2UzbTVhRE5wSHRVUEgxekd3YkdFWFhNRHNHd1ZhdWIyU1lFbUhVYTJXR1pVamllelgzVnZ2YTlDQ3pwanhZdHVKTGdLc1Nuc3lLQmY5Y2lQVmJhM3k0bzM=@94.131.21.174:54075#United+States
+vmess://eyJhZGQiOiAiMTAzLjExNS4xMDkuMjUwIiwgInYiOiAiMiIsICJwcyI6ICJUYWl3YW4iLCAicG9ydCI6IDQwNzYyLCAiaWQiOiAiMzVjZTZlM2EtNGRkYy00NzJjLTllOWYtYTM0MzYyYzE5NGU3IiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIiLCAidGxzIjogIiJ9
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.241:443#United+States
+trojan://slch2024@185.148.104.195:2096?allowInsecure=0&sni=ocost-dy.wmlefl.cc&type=ws&host=ocost-dy.wmlefl.cc&path=/Telegram🇨🇳#United+States
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.243:443#United+States
 ```
 <h5>ऊपरी नोड (भाग) का स्थायी सदस्यता पता: https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_hi</h5>
  <p>उपरोक्त सदस्यता पते के लिए QR कोड</p>
