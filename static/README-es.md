@@ -35,11 +35,11 @@
  <h4>Lista de nodos: (aquí solo se muestran algunos nodos; descargue la aplicación para ver todos los nodos)</h4>
     
 ```
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.243:443#Estados+Unidos
-vmess://eyJhZGQiOiAiMTUyLjY3LjguMjA1IiwgInYiOiAiMiIsICJwcyI6ICJJbmRpYSIsICJwb3J0IjogODAsICJpZCI6ICI5ZGI0YzcwOC1hZWY4LTQzNTktODIxYi0zOGU0Nzk5MGJlMGQiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiLyIsICJ0bHMiOiAiIn0=
-trojan://slch2024@199.68.156.87:2096?allowInsecure=0&sni=ocost-dy.wmlefl.cc&type=ws&host=ocost-dy.wmlefl.cc&path=/Telegram#Estados+Unidos
-trojan://slch2024@192.0.54.195:2096?allowInsecure=0&sni=ocost-dy.wmlefl.cc&type=ws&host=ocost-dy.wmlefl.cc&path=/Telegram#Estados+Unidos
-trojan://slch2024@212.183.88.195:2096?allowInsecure=0&sni=ocost-dy.wmlefl.cc&type=ws&host=ocost-dy.wmlefl.cc&path=/由零开始#Austria
+trojan://slch2024@185.148.107.195:2096?allowInsecure=0&sni=ocost-dy.wmlefl.cc&type=ws&host=ocost-dy.wmlefl.cc&path=/Telegram🇨🇳#Estados+Unidos
+vmess://eyJhZGQiOiAiMTcyLjY2LjE1OC4xMTUiLCAidiI6ICIyIiwgInBzIjogIkVzdGFkb3MgVW5pZG9zIiwgInBvcnQiOiA0NDMsICJpZCI6ICJiMTkwZTliZC1lMTFlLTQzMDUtYmUxNy0yMTgxNTg4ZTdkMzAiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiY2hpY2hha2ViYXhpYmF4aS5ndW9qaWFqaWEuZHBkbnMub3JnIiwgInBhdGgiOiAiLyIsICJ0bHMiOiAidGxzIn0=
+vmess://eyJhZGQiOiAiNDcuODMuMTYuMjkiLCAidiI6ICIyIiwgInBzIjogIkVzdGFkb3MgVW5pZG9zIiwgInBvcnQiOiAzMDI5OCwgImlkIjogIjYwMjI3MmMwLTE5MTYtNDFmZS05YjUzLWYxZWZkMTQ5ZjliZiIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIvIiwgInRscyI6ICIifQ==
+trojan://slch2024@199.68.156.195:2096?allowInsecure=0&sni=ocost-dy.wmlefl.cc&type=ws&host=ocost-dy.wmlefl.cc&path=/Telegram#Estados+Unidos
+vmess://eyJhZGQiOiAiMzUuMjEyLjI0NC4yMyIsICJ2IjogIjIiLCAicHMiOiAiRXN0YWRvcyBVbmlkb3MiLCAicG9ydCI6IDE1MjQxLCAiaWQiOiAiYTliZWY4Y2ItYzMwNS00ZGIxLWY1MGMtZTFiZGFjNWNkMzlmIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogImE5YmVmOGNiIiwgInRscyI6ICIifQ==
 ```
 <h5>La dirección de suscripción permanente del nodo superior (parte): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_es</h5>
  <p>Código QR para la dirección de suscripción anterior</p>
