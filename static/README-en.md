@@ -35,11 +35,11 @@
 <h4>Node list: (Only some nodes are shown here, please download the app to view all nodes)</h4>
     
 ```
-vmess://eyJhZGQiOiAidGVzdDMuZmxoYS5ydSIsICJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJwb3J0IjogODAsICJpZCI6ICI5YTgxMzQwZC1mODFiLTRjNzYtOGFiYi1mNGQzMDVjNTM1YzAiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAidGVzdDMuZmxoYS5ydSIsICJwYXRoIjogIi85YTgxMzQwZC1mODFiLTRjNzYtOGFiYi1mNGQzMDVjNTM1YzAtdm1lc3MiLCAidGxzIjogIiJ9
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.241:443#United+States
-vmess://eyJhZGQiOiAiMTAzLjEyNC4xMDcuMTQ0IiwgInYiOiAiMiIsICJwcyI6ICJVbml0ZWQgU3RhdGVzIiwgInBvcnQiOiAyOTgwMCwgImlkIjogImNjMzFkZGZjLWQ5MmUtNGRhYi1jZDA2LTAwZGZiODRhZjhhYyIsICJhaWQiOiAiMCIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiLyIsICJ0bHMiOiAiIn0=
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.243:443#United+States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTamRHQ0h3YWZqa3R0MXJ6cEd4VEtZVHZWQldiOFhhNkU1RFRyNk16YmRIUVN3dnBMaURjemozbjZNQmp5MnV5RlN6Z3FndkNXc0RRbXBNNFZRemZQenlHWUY1OHdkeUQ=@208.67.105.196:42029#The+Netherlands
+trojan://slch2024@192.65.217.195:2096?allowInsecure=0&sni=ocost-dy.wmlefl.cc&type=ws&host=ocost-dy.wmlefl.cc&path=/由零开始#Australia
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@79.127.233.170:990#United+Kingdom
+trojan://slch2024@185.174.138.195:2096?allowInsecure=0&sni=ocost-dy.wmlefl.cc&type=ws&host=ocost-dy.wmlefl.cc&path=/Telegram#Russia
+vmess://eyJhZGQiOiAiMTA3LjE0OS4xMzQuMTY1IiwgInYiOiAiMiIsICJwcyI6ICJVbml0ZWQgU3RhdGVzIiwgInBvcnQiOiA0MDk4MiwgImlkIjogImI5NDc0ODQ3LTg3MjQtNDkxYS1hMDQyLWNmYzI0NWQzNjAyNCIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIvYXJraT9lZD0yMDQ4IiwgInRscyI6ICIifQ==
+vmess://eyJhZGQiOiAiMTA3LjE0OS4xMzQuMTY1IiwgInYiOiAiMiIsICJwcyI6ICJVbml0ZWQgU3RhdGVzIiwgInBvcnQiOiAyMTAxNCwgImlkIjogImZmMzczMDY2LWI4YjktNDUzNy1hNmE2LWI3NDU1ZTliOGNkZiIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIvYXJraT9lZD0yMDQ4IiwgInRscyI6ICIifQ==
 ```
 <h5>Permanent subscription address of the node above (part): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_en</h5>
 <p>QR code of the subscription address above</p>

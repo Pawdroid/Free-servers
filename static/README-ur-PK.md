@@ -35,11 +35,11 @@
  <h4>نوڈ کی فہرست: (یہاں صرف کچھ نوڈس دکھائے گئے ہیں، براہ کرم تمام نوڈس دیکھنے کے لیے ایپ ڈاؤن لوڈ کریں)</h4>
     
 ```
-vmess://eyJhZGQiOiAiMTA3LjE0OS4xMzQuMTY1IiwgInYiOiAiMiIsICJwcyI6ICJVbml0ZWQgU3RhdGVzIiwgInBvcnQiOiA0MDk4MiwgImlkIjogImI5NDc0ODQ3LTg3MjQtNDkxYS1hMDQyLWNmYzI0NWQzNjAyNCIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIvYXJraT9lZD0yMDQ4IiwgInRscyI6ICIifQ==
-vmess://eyJhZGQiOiAiNDcuODMuMTYyLjQiLCAidiI6ICIyIiwgInBzIjogIlVuaXRlZCBTdGF0ZXMiLCAicG9ydCI6IDQwODczLCAiaWQiOiAiM2ZkMjY2YmMtNzY5MS00M2NmLWE4MmYtMGM5NzYxYTY5YmYwIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIi9hcmtpP2VkPTIwNDgiLCAidGxzIjogIiJ9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.202:8080#The+Netherlands
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@151.242.251.153:8080#Iran
-vmess://eyJhZGQiOiAibHQuZnhsY24uY29tIiwgInYiOiAiMiIsICJwcyI6ICJIb25nIEtvbmciLCAicG9ydCI6IDQ1MjU4LCAiaWQiOiAiNDY5ZTBiMzEtMzBjMy00ZGFiLTgwMGQtNzExMjMyNjM0Y2UxIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJsdC5meGxjbi5jb20iLCAicGF0aCI6ICIiLCAidGxzIjogIiJ9
+vmess://eyJhZGQiOiAiMzguMTA3LjIzNC41NyIsICJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJwb3J0IjogODAsICJpZCI6ICI1NjdmNGJlNS0xMmFiLTQyZTEtYjhkOS1kYjZmZDFmZGQzMWMiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiL3ZtZXNzLyIsICJ0bHMiOiAiIn0=
+vmess://eyJhZGQiOiAiMTAzLjU3LjI0OS4yMDQiLCAidiI6ICIyIiwgInBzIjogIkF1c3RyYWxpYSIsICJwb3J0IjogNDQzLCAiaWQiOiAiZjEzMTQzYTctNTQyZC00OWVjLTk0MjgtMDk4MTQyYjY5NzdjIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIiLCAidGxzIjogIiJ9
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.170:443#United+States
+trojan://slch2024@185.18.250.195:2096?allowInsecure=0&sni=ocost-dy.wmlefl.cc&type=ws&host=ocost-dy.wmlefl.cc&path=/由零开始#Switzerland
+trojan://slch2024@185.251.81.195:2096?allowInsecure=0&sni=ocost-dy.wmlefl.cc&type=ws&host=ocost-dy.wmlefl.cc&path=/Telegram@ShadowProxy66#Spain
 ```
 <h5>اوپری نوڈ کا مستقل رکنیت کا پتہ (حصہ): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ur-PK</h5>
  <p>اوپر سبسکرپشن ایڈریس کے لیے QR کوڈ</p>

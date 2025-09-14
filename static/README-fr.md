@@ -35,11 +35,11 @@
  <h4>Liste des nœuds: (Seuls certains nœuds sont affichés ici, veuillez télécharger l'application pour afficher tous les nœuds)</h4>
     
 ```
-trojan://slch2024@199.68.156.195:2096?allowInsecure=0&sni=ocost-dy.wmlefl.cc&type=ws&host=ocost-dy.wmlefl.cc&path=/TelegramU0001F1EEU0001F1F7ShadowProxy66#%C3%89tats+Unis
-vmess://eyJhZGQiOiAibHQuZnhsY24uY29tIiwgInYiOiAiMiIsICJwcyI6ICJIb25nIEtvbmciLCAicG9ydCI6IDQ1MjkxLCAiaWQiOiAiNDY5ZTBiMzEtMzBjMy00ZGFiLTgwMGQtNzExMjMyNjM0Y2UxIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIiLCAidGxzIjogIiJ9
-trojan://slch2024@198.62.62.195:2096?allowInsecure=0&sni=ocost-dy.wmlefl.cc&type=ws&host=ocost-dy.wmlefl.cc&path=/Telegram#%C3%89tats+Unis
-vmess://eyJhZGQiOiAiMjE2LjE3My42OS4yNTAiLCAidiI6ICIyIiwgInBzIjogIlJveWF1bWUtVW5pIiwgInBvcnQiOiA4NDQzLCAiaWQiOiAiOTEzODIwOTItMjMzMC00NTViLThhMWMtOWMxMjljZmU2NjFhIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIi8iLCAidGxzIjogIiJ9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@92.118.205.228:990#Pologne
+trojan://slch2024@213.182.199.195:2096?allowInsecure=0&sni=ocost-dy.wmlefl.cc&type=ws&host=ocost-dy.wmlefl.cc&path=/TelegramU0001F1E8U0001F1F3#Croatie
+vmess://eyJhZGQiOiAiMTAzLjYxLjEzOS4xMzciLCAidiI6ICIyIiwgInBzIjogIlRhXHUwMGVmd2FuIiwgInBvcnQiOiAyMDUyMSwgImlkIjogImY4ZDkzY2ZiLTNkNWQtNDQ3Yy1hNjk3LTE2NDk2ZGQ3NDY5NyIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIvIiwgInRscyI6ICIifQ==
+vmess://eyJhZGQiOiAiMTcyLjY2LjE0OC4yMjkiLCAidiI6ICIyIiwgInBzIjogIlx1MDBjOXRhdHMgVW5pcyIsICJwb3J0IjogNDQzLCAiaWQiOiAiNTVkNzFhZWQtNDI2OC00MjczLThkODktYjFlODBhNzE2ZjFkIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogImNoaWNoYWtlYmF4aWJheGkuZ3VvamlhamlhLmRwZG5zLm9yZyIsICJwYXRoIjogIi8iLCAidGxzIjogInRscyJ9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080#Pays-Bas
+vmess://eyJhZGQiOiAiMjEyLjE5Mi4xNS43MyIsICJ2IjogIjIiLCAicHMiOiAiSG9uZyBLb25nIiwgInBvcnQiOiAyMjEwOSwgImlkIjogImM2N2NlMTkxLTQ2NmItNGEzMS1hZTE5LTVlYzg4NmU0MzAyYiIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIvIiwgInRscyI6ICIifQ==
 ```
 <h5>L'adresse d'abonnement permanente du nœud supérieur (partie): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_fr</h5>
  <p>Code QR pour l'adresse d'abonnement ci-dessus</p>

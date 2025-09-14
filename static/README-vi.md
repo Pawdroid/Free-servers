@@ -35,11 +35,11 @@
  <h4>Danh sách nút: (Chỉ hiển thị một số nút ở đây, vui lòng tải xuống ứng dụng để xem tất cả các nút)</h4>
     
 ```
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.243:443#United+States
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.80:443#United+Kingdom
-vmess://eyJhZGQiOiAibHQuZnhsY24uY29tIiwgInYiOiAiMiIsICJwcyI6ICJIb25nIEtvbmciLCAicG9ydCI6IDQ1MjcxLCAiaWQiOiAiNDY5ZTBiMzEtMzBjMy00ZGFiLTgwMGQtNzExMjMyNjM0Y2UxIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIvIiwgInRscyI6ICIifQ==
-trojan://slch2024@209.46.30.195:2096?allowInsecure=0&sni=ocost-dy.wmlefl.cc&type=ws&host=ocost-dy.wmlefl.cc&path=/由零开始#United+States
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.110.1.122:7306#United+States
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.195:443#United+Kingdom
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.62.164:443#Switzerland
+vmess://eyJ2IjogIjIiLCAicHMiOiAiVGFpd2FuIiwgImFkZCI6ICIxMDMuMTE1LjEwOS4yNTAiLCAicG9ydCI6ICI0MDc2MiIsICJ0eXBlIjogIm5vbmUiLCAiaWQiOiAiMzVjZTZlM2EtNGRkYy00NzJjLTllOWYtYTM0MzYyYzE5NGU3IiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIvIiwgImhvc3QiOiAiIiwgInRscyI6ICIifQ==
+trojan://slch2024@185.251.80.195:2096?allowInsecure=0&sni=ocost-dy.wmlefl.cc&type=ws&host=ocost-dy.wmlefl.cc&path=/Telegram#Spain
 ```
 <h5>Địa chỉ đăng ký vĩnh viễn của nút trên (một phần): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_vi</h5>
  <p>Mã QR cho địa chỉ đăng ký ở trên</p>

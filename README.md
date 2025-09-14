@@ -36,19 +36,19 @@
 <h4>节点列表：(这里仅展示部分节点，查看全部节点请下载app)</h4>
 
 ```
-trojan://slch2024@188.42.89.195:2096?allowInsecure=0&sni=ocost-dy.wmlefl.cc&type=ws&host=ocost-dy.wmlefl.cc&path=/Telegram🇨🇳#%E5%8D%A2%E6%A3%AE%E5%A0%A1+root.lu%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
-trojan://slch2024@185.176.24.195:2096?allowInsecure=0&sni=ocost-dy.wmlefl.cc&type=ws&host=ocost-dy.wmlefl.cc&path=/TelegramU0001F1E8U0001F1F3#%E7%AB%8B%E9%99%B6%E5%AE%9B+NGS%E6%96%B0%E9%97%BB
-trojan://slch2024@188.244.122.195:2096?allowInsecure=0&sni=ocost-dy.wmlefl.cc&type=ws&host=ocost-dy.wmlefl.cc&path=/由零开始#%E8%8B%B1%E5%9B%BD+V2CROSS.COM
-trojan://slch2024@192.0.63.195:2096?allowInsecure=0&sni=ocost-dy.wmlefl.cc&type=ws&host=ocost-dy.wmlefl.cc&path=/由零开始#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
+trojan://slch2024@185.251.80.195:2096?allowInsecure=0&sni=ocost-dy.wmlefl.cc&type=ws&host=ocost-dy.wmlefl.cc&path=/Telegram#%E8%A5%BF%E7%8F%AD%E7%89%99+V2CROSS.COM
+vmess://eyJhZGQiOiAic2Vya2F0Lm9yZyIsICJ2IjogIjIiLCAicHMiOiAiXHU2Y2Q1XHU1NmZkIFx1NTZmZFx1OTY0NVx1ODIyYVx1N2E3YVx1NzUzNVx1OGJhZlx1OTZjNlx1NTZlMlx1NTE2Y1x1NTNmOChTSVRBKSIsICJwb3J0IjogNDQzLCAiaWQiOiAiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwgImFpZCI6ICIxIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogImxpbmt2d3MiLCAidGxzIjogInRscyJ9
+trojan://slch2024@198.62.62.195:2096?allowInsecure=0&sni=ocost-dy.wmlefl.cc&type=ws&host=ocost-dy.wmlefl.cc&path=/Telegram#%E5%8C%97%E7%BE%8E%E5%9C%B0%E5%8C%BA+V2CROSS.COM
+trojan://slch2024@209.46.30.195:2096?allowInsecure=0&sni=ocost-dy.wmlefl.cc&type=ws&host=ocost-dy.wmlefl.cc&path=/由零开始#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
+trojan://slch2024@185.251.82.195:2096?allowInsecure=0&sni=ocost-dy.wmlefl.cc&type=ws&host=ocost-dy.wmlefl.cc&path=/由零开始#%E8%A5%BF%E7%8F%AD%E7%89%99+V2CROSS.COM
+trojan://slch2024@195.26.229.195:2096?allowInsecure=0&sni=ocost-dy.wmlefl.cc&type=ws&host=ocost-dy.wmlefl.cc&path=/Telegram🇨🇳#%E8%8B%B1%E5%9B%BD+V2CROSS.COM
+trojan://slch2024@204.93.210.195:2096?allowInsecure=0&sni=ocost-dy.wmlefl.cc&type=ws&host=ocost-dy.wmlefl.cc&path=/TelegramU0001F1E8U0001F1F3#%E4%BA%9A%E5%A4%AA%E5%9C%B0%E5%8C%BA+CacheFly%E4%BA%9A%E6%B4%B2Anycast%E8%8A%82%E7%82%B9
+trojan://2ee85121-31de-4581-a492-eb00f606e392@192.3.107.252:443?sni=rc8.freeguard.org#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
+vmess://eyJhZGQiOiAiMjEyLjE5Mi4xNS43MyIsICJ2IjogIjIiLCAicHMiOiAiXHU0ZmM0XHU3ZjU3XHU2NWFmIFYyQ1JPU1MuQ09NIiwgInBvcnQiOiAyMjEwOSwgImlkIjogImM2N2NlMTkxLTQ2NmItNGEzMS1hZTE5LTVlYzg4NmU0MzAyYiIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIvIiwgInRscyI6ICIifQ==
+trojan://slch2024@185.18.250.195:2096?allowInsecure=0&sni=ocost-dy.wmlefl.cc&type=ws&host=ocost-dy.wmlefl.cc&path=/由零开始#%E8%A5%BF%E7%8F%AD%E7%89%99+V2CROSS.COM
+vmess://eyJhZGQiOiAiMWU0MjYwNDYtdDBmZHMwLXQxMmNuai0xb2w5Ny5oay5wNXB2LmNvbSIsICJ2IjogIjIiLCAicHMiOiAiXHU5OTk5XHU2ZTJmIFx1NzUzNVx1OGJhZlx1NzZjOFx1NzlkMVx1NjcwOVx1OTY1MFx1NTE2Y1x1NTNmOCIsICJwb3J0IjogODAsICJpZCI6ICI5M2ZiNjlmYy03N2NmLTExZWUtODVlZS1mMjNjOTEzNjlmMmQiLCAiYWlkIjogIjIiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiYnJvYWRjYXN0bHYuY2hhdC5iaWxpYmlsaS5jb20iLCAicGF0aCI6ICIvIiwgInRscyI6ICIifQ==
+trojan://slch2024@194.76.18.195:2096?allowInsecure=0&sni=ocost-dy.wmlefl.cc&type=ws&host=ocost-dy.wmlefl.cc&path=/Telegram#%E5%BE%B7%E5%9B%BD+V2CROSS.COM
 trojan://slch2024@185.156.19.195:2096?allowInsecure=0&sni=ocost-dy.wmlefl.cc&type=ws&host=ocost-dy.wmlefl.cc&path=/由零开始#%E8%8B%B1%E5%9B%BD+V2CROSS.COM
-vmess://eyJhZGQiOiAiMjAyLjc5LjE2MS4xOTIiLCAidiI6ICIyIiwgInBzIjogIlx1NmZiM1x1NTkyN1x1NTIyOVx1NGU5YSBWMkNST1NTLkNPTSIsICJwb3J0IjogNDQzLCAiaWQiOiAiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogInBhdGgvMTcwNzMzMTMyMjMzIiwgInRscyI6ICJ0bHMifQ==
-trojan://slch2024@198.62.62.87:2096?allowInsecure=0&sni=ocost-dy.wmlefl.cc&type=ws&host=ocost-dy.wmlefl.cc&path=/Telegram#%E5%8C%97%E7%BE%8E%E5%9C%B0%E5%8C%BA+V2CROSS.COM
-trojan://slch2024@209.94.90.195:2096?allowInsecure=0&sni=ocost-dy.wmlefl.cc&type=ws&host=ocost-dy.wmlefl.cc&path=/Telegram#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
-vmess://eyJhZGQiOiAiamFtZWtrLm9yZyIsICJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIFYyQ1JPU1MuQ09NIiwgInBvcnQiOiA0NDMsICJpZCI6ICIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCAiYWlkIjogIjEiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiamFtZWtrLm9yZyIsICJwYXRoIjogImxpbmt2d3MiLCAidGxzIjogInRscyJ9
-trojan://slch2024@199.68.156.195:2096?allowInsecure=0&sni=ocost-dy.wmlefl.cc&type=ws&host=ocost-dy.wmlefl.cc&path=/Telegram🇮🇷ShadowProxy66#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
-trojan://slch2024@185.174.138.195:2096?allowInsecure=0&sni=ocost-dy.wmlefl.cc&type=ws&host=ocost-dy.wmlefl.cc&path=/由零开始#%E4%BF%84%E7%BD%97%E6%96%AF+V2CROSS.COM
-trojan://slch2024@213.241.198.195:2096?allowInsecure=0&sni=ocost-dy.wmlefl.cc&type=ws&host=ocost-dy.wmlefl.cc&path=/TelegramU0001F1E8U0001F1F3#%E4%BF%84%E7%BD%97%E6%96%AF+V2CROSS.COM
-trojan://slch2024@185.7.240.195:2096?allowInsecure=0&sni=ocost-dy.wmlefl.cc&type=ws&host=ocost-dy.wmlefl.cc&path=/由零开始#%E6%B3%95%E5%9B%BD+V2CROSS.COM
 ```
 
 <h5>上方节点（部分）永久订阅地址：https://proxy.v2gh.com/https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub</h5>
