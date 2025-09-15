@@ -35,10 +35,10 @@
  <h4>नोड सूची: (यहां केवल कुछ नोड्स प्रदर्शित हैं, कृपया सभी नोड्स देखने के लिए ऐप डाउनलोड करें)</h4>
     
 ```
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.204:443#United+States
-vmess://eyJhZGQiOiAiMTUuMjM1LjUwLjE3MiIsICJ2IjogIjIiLCAicHMiOiAiQ2FuYWRhIiwgInBvcnQiOiA0NDMsICJpZCI6ICIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiYmFyYWRpaGEuY29tIiwgInBhdGgiOiAiL2xpbmt2d3MiLCAidGxzIjogInRscyJ9
-vmess://eyJhZGQiOiAiMTA0LjE3LjQ4LjYzIiwgInYiOiAiMiIsICJwcyI6ICJVbml0ZWQgU3RhdGVzIiwgInBvcnQiOiA0NDMsICJpZCI6ICI1NWQ3MWFlZC00MjY4LTQyNzMtOGQ4OS1iMWU4MGE3MTZmMWQiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiY2hpY2hha2ViYXhpYmF4aS5ndW9qaWFqaWEuZHBkbnMub3JnIiwgInBhdGgiOiAiLyIsICJ0bHMiOiAidGxzIn0=
-vmess://eyJhZGQiOiAiY2YuZm92aS50ayIsICJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJwb3J0IjogNDQzLCAiaWQiOiAiYmY2NzQzN2UtNmM5MC00NWNhLWFiYzItYzcyNDBhNWNlMmFhIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogImZveHBvbC5mb3ZpLnRrIiwgInBhdGgiOiAiL2Vpc2FzcWEiLCAidGxzIjogInRscyIsICJzbmkiOiAiIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJzY3kiOiAiIn0=
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.160:443#United+States
+vmess://eyJhZGQiOiAiMjMuMTYyLjIwMC4yMjciLCAidiI6ICIyIiwgInBzIjogIkNhbmFkYSIsICJwb3J0IjogNDQzLCAiaWQiOiAiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIi9saW5rdndzIiwgInRscyI6ICJ0bHMifQ==
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.170:443#United+States
+vmess://eyJhZGQiOiAiMTk1Ljg1LjU5Ljk1IiwgInYiOiAiMiIsICJwcyI6ICJDeXBydXMiLCAicG9ydCI6IDQ0MywgImlkIjogImIxOTBlOWJkLWUxMWUtNDMwNS1iZTE3LTIxODE1ODhlN2QzMCIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJjaGljaGFrZWJheGliYXhpLmd1b2ppYWppYS5kcGRucy5vcmciLCAicGF0aCI6ICIvIiwgInRscyI6ICJ0bHMifQ==
 ```
 <h5>ऊपरी नोड (भाग) का स्थायी सदस्यता पता: https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_hi</h5>
  <p>उपरोक्त सदस्यता पते के लिए QR कोड</p>

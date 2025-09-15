@@ -35,10 +35,10 @@
  <h4>Knotenliste: (Hier werden nur einige Knoten angezeigt. Bitte laden Sie die App herunter, um alle Knoten anzuzeigen.)</h4>
     
 ```
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.62.163:443#Schweiz
-vmess://eyJhZGQiOiAiMTUuMjM1LjgzLjIyOCIsICJ2IjogIjIiLCAicHMiOiAiS2FuYWRhIiwgInBvcnQiOiA0NDMsICJpZCI6ICIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAid3JtZWxtd3hsZi5na3RldmxycXpud3Fxb3p5LmZhYnBmczY2Z2l6bW5vamhjdnF4d2wua3l0cmNmenFsYTg3Z3ZndnM2Yzdram5ydWJ1aC5jYyIsICJwYXRoIjogIi9saW5rdndzIiwgInRscyI6ICJ0bHMifQ==
-trojan://2ee85121-31de-4581-a492-eb00f606e392@198.46.152.83:443?sni=sj3.freeguard.org#Kanada
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.243:443#USA
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.158.171.150:8080#USA
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.62.164:443#Schweiz
+trojan://XWnVX2ASHl@5.255.103.217:37757?allowInsecure=0&sni=moshali.arshiacomplus.dpdns.org&type=ws&host=moshali.arshiacomplus.dpdns.org&path=/moshaliplus#Niederlande
+vmess://eyJhZGQiOiAiMTcyLjY2LjE1OC4xMTUiLCAidiI6ICIyIiwgInBzIjogIlVTQSIsICJwb3J0IjogNDQzLCAiaWQiOiAiYjE5MGU5YmQtZTExZS00MzA1LWJlMTctMjE4MTU4OGU3ZDMwIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogImNoaWNoYWtlYmF4aWJheGkuZ3VvamlhamlhLmRwZG5zLm9yZyIsICJwYXRoIjogIi8iLCAidGxzIjogInRscyJ9
 ```
 <h5>Die permanente Abonnementadresse des oberen Knotens (Teil): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_de</h5>
  <p>QR-Code für die Abonnementadresse oben</p>

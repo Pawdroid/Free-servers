@@ -35,10 +35,10 @@
  <h4>Lista de nós: (Apenas alguns nós são exibidos aqui, baixe o aplicativo para visualizar todos os nós)</h4>
     
 ```
-vmess://eyJhZGQiOiAiMTcyLjY3LjY4LjE1NyIsICJ2IjogIjIiLCAicHMiOiAiRVVBIiwgInBvcnQiOiA0NDMsICJpZCI6ICI1NWQ3MWFlZC00MjY4LTQyNzMtOGQ4OS1iMWU4MGE3MTZmMWQiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiY2hpY2hha2ViYXhpYmF4aS5ndW9qaWFqaWEuZHBkbnMub3JnIiwgInBhdGgiOiAiLyIsICJ0bHMiOiAidGxzIn0=
-vmess://eyJhZGQiOiAiMTA0LjI2LjEyLjU0IiwgInYiOiAiMiIsICJwcyI6ICJFVUEiLCAicG9ydCI6IDQ0MywgImlkIjogIjU1ZDcxYWVkLTQyNjgtNDI3My04ZDg5LWIxZTgwYTcxNmYxZCIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJjaGljaGFrZWJheGliYXhpLmd1b2ppYWppYS5kcGRucy5vcmciLCAicGF0aCI6ICIvIiwgInRscyI6ICJ0bHMifQ==
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.62.164:443#Su%C3%AD%C3%A7a
-vmess://eyJhZGQiOiAiMzUuMjEyLjI0NC4yMyIsICJ2IjogIjIiLCAicHMiOiAiRVVBIiwgInBvcnQiOiAzMDI5OCwgImlkIjogIjYwMjI3MmMwLTE5MTYtNDFmZS05YjUzLWYxZWZkMTQ5ZjliZiIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIiLCAidGxzIjogIiJ9
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@23.157.40.101:8009#EUA
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTamRHQ0h3YWZqa3R0MXJ6cEd4VEtZVHZWQldiOFhhNkU1RFRyNk16YmRIUVN3dnBMaURjemozbjZNQmp5MnV5RlN6Z3FndkNXc0RRbXBNNFZRemZQenlHWUY1OHdkeUQ=@208.67.105.196:42029#Holanda
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.47.132:443#EUA
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@203.23.128.33:990#Hong+Kong
 ```
 <h5>O endereço de assinatura permanente do nó superior (parte): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_pt-BR</h5>
  <p>Código QR do endereço de assinatura acima</p>
