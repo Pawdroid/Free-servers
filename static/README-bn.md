@@ -35,11 +35,11 @@
  <h4>নোড তালিকা: (শুধুমাত্র কিছু নোড এখানে প্রদর্শিত হয়, সমস্ত নোড দেখতে অ্যাপটি ডাউনলোড করুন)</h4>
     
 ```
-trojan://Z3aK0aZqwyNcz7S3l3ncNCODYxNFnA8SCOOSOZ3y3AX8xA4a0RZ3gxn39aqYAaBOyzR43acKOCzSX3S@hanger.appagent.net:28331?security=tls#United+States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@45.154.206.192:990#United+Kingdom
-vmess://eyJhZGQiOiAiNTEuNzkuMTAyLjI1MyIsICJ2IjogIjIiLCAicHMiOiAiQ2FuYWRhIiwgInBvcnQiOiA4MCwgImlkIjogIjU4ZmUxNTQyLTUyOTAtNDBhZC04MTVhLTc3NzA3YTgxYWZlNSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIvSU9lYmhMTWhsMUNUYkZIYkw5NW15ZlJYMiIsICJ0bHMiOiAiIn0=
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.170:443#United+States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSRkszOENnN0FQbmVTQjVjV0RjcGJt@switcher-nick-croquet.freesocks.work:443#Ukraine
+trojan://Npgx9nO3OBaZF5yxARYl93lFX08TlR3waDla733az8SqXe3YS3zjESECSZpAw428a6SID@metallic.isquirrel.net:443?security=tls#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1WlFoNHBzc1NrNGFLMUpHMVhoQlJn@84.200.91.228:1080#Germany
+vmess://eyJhZGQiOiAiMjMuMjcuNTEuNTYiLCAidiI6ICIyIiwgInBzIjogIlVuaXRlZCBTdGF0ZXMiLCAicG9ydCI6IDIwMDg2LCAiaWQiOiAiOWEyYmJkMzYtY2NmZi00YTQ3LThjZGUtNTQ4ZTJmYzUwYjQ5IiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIi8iLCAidGxzIjogIiJ9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@223.165.4.173:990#Taiwan
+trojan://SaZa3XKYya0q3SZYDuE3SAC2NpeZgA9n3CA9jRDKz48O6Cg8Dn7Fx63lRITawuDeFRpBj@sevuior.missionsec.us:443#Taiwan
 ```
 <h5>উপরের নোডের স্থায়ী সদস্যতা ঠিকানা (অংশ): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_bn</h5>
  <p>উপরের সদস্যতা ঠিকানার জন্য QR কোড</p>

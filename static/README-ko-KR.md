@@ -35,11 +35,11 @@
  <h4>노드 목록: (여기에는 일부 노드만 표시됩니다. 모든 노드를 보려면 앱을 다운로드하세요.)</h4>
     
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.227:8080#The+Netherlands
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.80:443#United+Kingdom
-vmess://eyJhZGQiOiAiNDcuMjM5LjIzMy4xMDEiLCAidiI6ICIyIiwgInBzIjogIkhvbmcgS29uZyIsICJwb3J0IjogMTE2MTQsICJpZCI6ICI4ZTYzYmY1Yi0xZWNiLTQ5YzktYTUzYS01ZTlmNmQwZjdkMzkiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiL2Fya2k/ZWQ9MjA0OCIsICJ0bHMiOiAiIn0=
-vmess://eyJhZGQiOiAiNTcuMTI4LjE5OC4xNTIiLCAidiI6ICIyIiwgInBzIjogIkZyYW5jZSIsICJwb3J0IjogODAsICJpZCI6ICI3ODgxZjkwNi04MTcwLTRhY2EtYjk3MS0zMDJiZTdmNjViNjYiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiL3ZtZXNzLyIsICJ0bHMiOiAiIn0=
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.62.163:443#Switzerland
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.47.255.22:990#Puerto+Rico
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.169:443#United+States
+vmess://eyJhZGQiOiAiNDcuNzYuMTg0LjIzMSIsICJ2IjogIjIiLCAicHMiOiAiSG9uZyBLb25nIiwgInBvcnQiOiA1MTMxMiwgImlkIjogIjg1YjBkYzg4LWFiNjUtNDAxYS1iNDVjLWQzY2UzMzkxZTBiYyIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIvYXJraT9lZD0yMDQ4IiwgInRscyI6ICIifQ==
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@142.4.216.225:80#Canada
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.154:8080#Lithuania
 ```
 <h5>상위 노드(일부)의 영구 구독 주소: https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ko-KR</h5>
  <p>위 구독 주소의 QR 코드</p>

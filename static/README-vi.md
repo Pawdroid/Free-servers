@@ -35,11 +35,11 @@
  <h4>Danh sách nút: (Chỉ hiển thị một số nút ở đây, vui lòng tải xuống ứng dụng để xem tất cả các nút)</h4>
     
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.22:8080#Lithuania
-trojan://OaFFcTDe9pSlez6x3SY8AARXwClzCRRDwSN8F3OqZAEYC0SE6F8gp3wCTCSTDYllcNceagCDD2C59S3@bolster.appagent.net:28332?allowInsecure=0#United+States
-vmess://eyJhZGQiOiAicHViLmFwLXdpZmk2Lnh5eiIsICJ2IjogIjIiLCAicHMiOiAiSmFwYW4iLCAicG9ydCI6IDY0MDE4LCAiaWQiOiAiN2FlN2ZiYzUtMzk5NC0zYjlhLTkwNTMtNTQ0Yjg0NTQwYWExIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIiLCAidGxzIjogIiJ9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.227:8080#The+Netherlands
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.158.171.60:8080#United+States
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.80:443#United+Kingdom
+vmess://eyJhZGQiOiAiMTU0LjkuMjU0LjYzIiwgInYiOiAiMiIsICJwcyI6ICJVbml0ZWQgU3RhdGVzIiwgInBvcnQiOiAyMDUyMSwgImlkIjogImQ4MjQ3NjRhLTk1NGUtNGM3NS05MTE2LWY2ZTVlYmE5NDRhOSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIvIiwgInRscyI6ICIifQ==
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.126.239.250:990#Russia
+vmess://eyJhZGQiOiAiNDcuMjM4LjI1Mi4xNTQiLCAidiI6ICIyIiwgInBzIjogIkhvbmcgS29uZyIsICJwb3J0IjogNTg4NjcsICJpZCI6ICI3YjgwZTM2Zi1iMDgyLTQ2ZmMtYWU1OS02YmIwZGQxN2VlZTgiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiL2Fya2k/ZWQ9MjA0OCIsICJ0bHMiOiAiIn0=
+vmess://eyJhZGQiOiAiNTcuMTI5LjI4LjY5IiwgInYiOiAiMiIsICJwcyI6ICJGcmFuY2UiLCAicG9ydCI6IDQ0MywgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJiYXJhZGloYS5jb20iLCAicGF0aCI6ICIvbGlua3Z3cyIsICJ0bHMiOiAidGxzIn0=
 ```
 <h5>Địa chỉ đăng ký vĩnh viễn của nút trên (một phần): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_vi</h5>
  <p>Mã QR cho địa chỉ đăng ký ở trên</p>
