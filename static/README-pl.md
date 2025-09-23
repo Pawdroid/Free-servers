@@ -35,11 +35,11 @@
  <h4>Lista węzłów: (wyświetlane są tutaj tylko niektóre węzły. Pobierz aplikację, aby wyświetlić wszystkie węzły)</h4>
     
 ```
-trojan://installshield@38.180.249.177:8443?sni=38.180.249.177#The+Netherlands
-vmess://eyJ2IjogIjIiLCAicHMiOiAiSG9uZyBLb25nIiwgImFkZCI6ICJ2OS5oZWR1aWFuLmxpbmsiLCAicG9ydCI6ICIzMDgwOSIsICJhaWQiOiAyLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogImNiYjNmODc3LWQxZmItMzQ0Yy04N2E5LWQxNTNiZmZkNTQ4NCIsICJzbmkiOiAiIiwgImhvc3QiOiAiYmFpZHUuY29tIiwgInBhdGgiOiAiL29vb28ifQ==
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.47.131:443#United+States
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.47.130:443#United+States
-vmess://eyJhZGQiOiAiNDYuMjkuMzQuMjA1IiwgInYiOiAiMiIsICJwcyI6ICJBdXN0cmlhIiwgInBvcnQiOiA1OTk1NiwgImlkIjogImNhMGM5OTM3LTU4YTYtNDRlYS05MTExLWE2YWJhYzI2N2QwZiIsICJhaWQiOiAiMCIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiIiwgInRscyI6ICIifQ==
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.164:8080#Lithuania
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.62.163:443#Switzerland
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTamRHQ0h3YWZqa3R0MXJ6cEd4VEtZVHZWQldiOFhhNkU1RFRyNk16YmRIUVN3dnBMaURjemozbjZNQmp5MnV5RlN6Z3FndkNXc0RRbXBNNFZRemZQenlHWUY1OHdkeUQ=@208.67.105.196:42029#The+Netherlands
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.110.1.122:8090#United+States
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.81:443#United+Kingdom
 ```
 <h5>Stały adres subskrypcji górnego węzła (część): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_pl</h5>
  <p>Kod QR dla adresu subskrypcji powyżej</p>

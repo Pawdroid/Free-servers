@@ -35,11 +35,11 @@
  <h4>Lista de nodos: (aquí solo se muestran algunos nodos; descargue la aplicación para ver todos los nodos)</h4>
     
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.213.23.226:990#Noruega
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@173.244.56.6:443#Estados+Unidos
-vmess://eyJhZGQiOiAiOC4yMTcuOTUuNDMiLCAidiI6ICIyIiwgInBzIjogIkhvbmcgS29uZyIsICJwb3J0IjogMjA1MjEsICJpZCI6ICIwMjZjNGMyZi05ODg3LTRjOGYtYTM1My0zODJkNThmYTYxNDUiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiLyIsICJ0bHMiOiAiIn0=
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.47.130:443#Estados+Unidos
-vmess://eyJhZGQiOiAibWFzamlkZS5vcmciLCAidiI6ICIyIiwgInBzIjogIlJlaW5vIFVuaWRvIiwgInBvcnQiOiA0NDMsICJpZCI6ICIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCAiYWlkIjogIjEiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAibWFzamlkZS5vcmciLCAicGF0aCI6ICJsaW5rdndzIiwgInRscyI6ICJ0bHMifQ==
+vmess://eyJhZGQiOiAiMTUuMjM1LjUwLjE3MiIsICJ2IjogIjIiLCAicHMiOiAiQ2FuYWRcdTAwZTEiLCAicG9ydCI6IDQ0MywgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJiYXJhZGloYS5jb20iLCAicGF0aCI6ICIvbGlua3Z3cyIsICJ0bHMiOiAidGxzIn0=
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.194:443#Reino+Unido
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.47.255.22:990#Puerto+Rico
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.80:443#Reino+Unido
+vmess://eyJhZGQiOiAiOC4yMTcuMTcxLjE5MyIsICJ2IjogIjIiLCAicHMiOiAiSG9uZyBLb25nIiwgInBvcnQiOiAyODkxMCwgImlkIjogImMxM2M3MzdjLWMwYjMtNDM0ZS04MDkxLWJiNjc3OTQ2ZmQ0MCIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIvYXJraT9lZD0yMDQ4IiwgInRscyI6ICIifQ==
 ```
 <h5>La dirección de suscripción permanente del nodo superior (parte): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_es</h5>
  <p>Código QR para la dirección de suscripción anterior</p>
