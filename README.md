@@ -36,13 +36,13 @@
 <h4>节点列表：(这里仅展示部分节点，查看全部节点请下载app)</h4>
 
 ```
-vmess://eyJhZGQiOiAiNTEuNzUuMTYwLjIzNyIsICJ2IjogIjIiLCAicHMiOiAiXHU2Y2Q1XHU1NmZkIFx1OWM4MVx1OGQxZE9WSFx1NjU3MFx1NjM2ZVx1NGUyZFx1NWZjMyIsICJwb3J0IjogNDQzLCAiaWQiOiAiM2FkYmE0NjItMzE4Zi00YTZjLWFkN2EtMjkyM2JjNzRmMjA3IiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogImJsYXpFLVVrLTIzNy5CTGFaRXNFUlZFUnMxLnNJdEUiLCAicGF0aCI6ICIvbGlua3Zrd3NzIiwgInRscyI6ICJ0bHMifQ==
-vmess://eyJhZGQiOiAiNDUuMTQ0LjE3NC42MCIsICJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIFYyQ1JPU1MuQ09NIiwgInBvcnQiOiAyMjExOSwgImlkIjogIjk1NDBhMmE4LTM0OTctNDNkYi1iMDc0LTQ2ZTZmMDUxZjUwMiIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIvIiwgInRscyI6ICIifQ==
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU1ZTdmXHU0ZTFjXHU3NzAxIFx1NzlmYlx1NTJhOCIsICJhZGQiOiAieGlhb25pdS52LmpzcWNkbi5iaWQiLCAicG9ydCI6ICI0MTMxMSIsICJ0eXBlIjogIm5vbmUiLCAiaWQiOiAiYmQ2NGQyYTMtNzZhMS00MDdmLWFmN2YtYmRjZGNiNzhkMjFlIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9vYmoiLCAiaG9zdCI6ICJpbWcxNC4zNjBidXlpbWcuY29tIiwgInRscyI6ICIifQ==
-vless://01996549-6892-dbf0-0453-f700236936bd@166.1.201.179:443?allowInsecure=0&sni=kejiland.freewarp.eu.org&type=ws&host=kejiland.freewarp.eu.org&path=/snippets/ip=proxyip.fxxk.dedyn.io:443?ed=2560fp=chrome&security=tls#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
-trojan://2ee85121-31de-4581-a492-eb00f606e392@45.91.171.116:443?sni=sto.freeguard.org#%E6%AC%A7%E7%9B%9F+V2CROSS.COM
 vmess://eyJhZGQiOiAiNDUuMTQ0LjE3NC42MCIsICJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIFYyQ1JPU1MuQ09NIiwgInBvcnQiOiAyMzE3OSwgImlkIjogIjk1NDBhMmE4LTM0OTctNDNkYi1iMDc0LTQ2ZTZmMDUxZjUwMiIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIvIiwgInRscyI6ICIifQ==
+trojan://2ee85121-31de-4581-a492-eb00f606e392@198.46.152.83:443?allowInsecure=0&sni=sj3.freeguard.org#%E7%BE%8E%E5%9B%BD+%E7%BA%BD%E7%BA%A6%E5%B7%9E%E4%BC%8A%E5%88%A9%E5%8E%BF%E5%A8%81%E5%BB%89%E6%96%AF%E7%BB%B4%E5%B0%94%E6%9D%91ColoCrossing%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAiYWRkIjogImRkZHZ2Ym4uOTMxLnBwLnVhIiwgInBvcnQiOiAiNDQzIiwgInR5cGUiOiAibm9uZSIsICJpZCI6ICI0MTc0Yjk1ZC0xMTVlLTRkMzktYWRkNi0xZjhkYjk1YmI4NjAiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLzZXZTNVOURmMVdHeGdGbm9GUHcxIiwgImhvc3QiOiAiZGRkdnZibi45MzEucHAudWEiLCAidGxzIjogInRscyJ9
 vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU2YzVmXHU4MmNmXHU3NzAxIFx1NzlmYlx1NTJhOCIsICJhZGQiOiAidjkuaGVkdWlhbi5saW5rIiwgInBvcnQiOiAiMzA4MDkiLCAidHlwZSI6ICJub25lIiwgImlkIjogImNiYjNmODc3LWQxZmItMzQ0Yy04N2E5LWQxNTNiZmZkNTQ4NCIsICJhaWQiOiAiMiIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvb29vbyIsICJob3N0IjogImJhaWR1LmNvbSIsICJ0bHMiOiAiIn0=
+vless://b65f4df7-f6af-42b2-877a-cef33f21675e@81.200.158.206:8443?allowInsecure=0&sni=kejiland.freewarp.eu.org&type=ws&host=kejiland.freewarp.eu.org&path=/snippets/ip=proxyip.fxxk.dedyn.io:443?ed=2560fp=chrome&security=tls#%E4%BF%84%E7%BD%97%E6%96%AF+V2CROSS.COM
+vless://f4f8e632-334c-41a6-b4e9-e3fb21b82114@172.66.40.99:80?allowInsecure=0&sni=websocket.network.www.speedtest.net.flutter.dev.russia.python.js.elmahstyle.xyz.&type=ws&host=websocket.network.www.speedtest.net.flutter.dev.russia.python.js.elmahstyle.xyz.&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
+vless://b65f4df7-f6af-42b2-877a-cef33f21675e@150.230.5.34:45681?allowInsecure=0&sni=kejiland.freewarp.eu.org&type=ws&host=kejiland.freewarp.eu.org&path=/snippets/ip=proxyip.fxxk.dedyn.io:443?ed=2560fp=chrome&security=tls#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
 ```
 
 <h5>上方节点（部分）永久订阅地址：https://proxy.v2gh.com/https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub</h5>
