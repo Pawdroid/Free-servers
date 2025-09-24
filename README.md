@@ -36,15 +36,15 @@
 <h4>节点列表：(这里仅展示部分节点，查看全部节点请下载app)</h4>
 
 ```
+trojan://253bc477d4e43c209f2d427272968280@202.181.103.246:443?allowInsecure=0&sni=www.nintendogames.net#%E6%97%A5%E6%9C%AC+%E4%B8%9C%E4%BA%AC%E9%83%BD%E6%A8%B1%E8%8A%B1%E4%BA%92%E8%81%94%E7%BD%91%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
 trojan://253bc477d4e43c209f2d427272968280@160.16.236.32:443?allowInsecure=0&sni=www.nintendogames.net#%E6%97%A5%E6%9C%AC+%E4%B8%9C%E4%BA%ACSakura%E6%A8%B1%E8%8A%B1%E4%BA%91%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
-vless://01996549-6892-dbf0-0453-f700236936bd@166.1.201.179:443?allowInsecure=0&sni=kejiland.freewarp.eu.org&type=ws&host=kejiland.freewarp.eu.org&path=/snippets/ip=proxyip.fxxk.dedyn.io:443?ed=2560fp=chrome&security=tls#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
-vless://b65f4df7-f6af-42b2-877a-cef33f21675e@81.200.158.206:8443?allowInsecure=0&sni=kejiland.freewarp.eu.org&type=ws&host=kejiland.freewarp.eu.org&path=/snippets/ip=proxyip.fxxk.dedyn.io:443?ed=2560fp=chrome&security=tls#%E4%BF%84%E7%BD%97%E6%96%AF+V2CROSS.COM
-trojan://253bc477d4e43c209f2d427272968280@160.16.117.182:4397?allowInsecure=1&sni=www.nintendogames.net#%E6%97%A5%E6%9C%AC+%E4%B8%9C%E4%BA%AC%E6%A8%B1%E8%8A%B1%E7%BD%91%E7%BB%9C%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
+vless://b65f4df7-f6af-42b2-877a-cef33f21675e@89.22.230.152:2053?allowInsecure=0&sni=kejiland.freewarp.eu.org&type=ws&host=kejiland.freewarp.eu.org&path=/snippets/ip=proxyip.fxxk.dedyn.io:443fp=chromefp=chrome&security=tls#%E7%BD%97%E9%A9%AC%E5%B0%BC%E4%BA%9A+V2CROSS.COM
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBemRHNFBRTVpsVUhkWlNFVDkwN2Ny@185.247.118.230:4362#%E8%8D%B7%E5%85%B0+V2CROSS.COM
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpncWtVQ3ZtZU9UZ2hZSlhGMVlJdWs1@71.19.148.74:443#%E7%BE%8E%E5%9B%BD+%E5%8A%A0%E5%88%A9%E7%A6%8F%E5%B0%BC%E4%BA%9A%E5%B7%9E%E5%9C%A3%E4%BD%95%E5%A1%9EPRGMR%E4%BA%91%E8%AE%A1%E7%AE%97%E5%85%AC%E5%8F%B8
-vless://01996549-6892-dbf0-0453-f700236936bd@142.171.75.222:17628?allowInsecure=0&sni=kejiland.freewarp.eu.org&type=ws&host=kejiland.freewarp.eu.org&path=/snippets/ip=proxyip.fxxk.dedyn.io:443?ed=2560fp=chrome&security=tls#%E5%8A%A0%E6%8B%BF%E5%A4%A7+Bell
-trojan://253bc477d4e43c209f2d427272968280@160.16.231.103:1331?allowInsecure=0&sni=www.nintendogames.net#%E6%97%A5%E6%9C%AC+%E4%B8%9C%E4%BA%ACSakura%E6%A8%B1%E8%8A%B1%E4%BA%91%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
-trojan://253bc477d4e43c209f2d427272968280@160.16.130.66:2045?allowInsecure=0&sni=www.nintendogames.net#%E6%97%A5%E6%9C%AC+%E4%B8%9C%E4%BA%ACSakura%E6%A8%B1%E8%8A%B1%E4%BA%91%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
-trojan://253bc477d4e43c209f2d427272968280@153.121.45.139:1700?allowInsecure=0&sni=www.nintendogames.net#%E6%97%A5%E6%9C%AC+%E4%B8%9C%E4%BA%ACSAKURA%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAiYWRkIjogImRkZHZ2Ym4uOTMxLnBwLnVhIiwgInBvcnQiOiAiNDQzIiwgInR5cGUiOiAibm9uZSIsICJpZCI6ICI0MTc0Yjk1ZC0xMTVlLTRkMzktYWRkNi0xZjhkYjk1YmI4NjAiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLzZXZTNVOURmMVdHeGdGbm9GUHcxIiwgImhvc3QiOiAiZGRkdnZibi45MzEucHAudWEiLCAidGxzIjogInRscyJ9
+vmess://eyJhZGQiOiAiNTcuMTI5LjI4LjIxMyIsICJ2IjogIjIiLCAicHMiOiAiXHU2Y2Q1XHU1NmZkIFx1NTZmZFx1OTY0NVx1ODIyYVx1N2E3YVx1NzUzNVx1OGJhZlx1OTZjNlx1NTZlMlx1NTE2Y1x1NTNmOChTSVRBKSIsICJwb3J0IjogNDQzLCAiaWQiOiAiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogImZhcGVuZy5vcmciLCAicGF0aCI6ICJsaW5rdndzIiwgInRscyI6ICJ0bHMifQ==
+vless://01996549-6892-dbf0-0453-f700236936bd@166.1.201.179:443?allowInsecure=0&sni=kejiland.freewarp.eu.org&type=ws&host=kejiland.freewarp.eu.org&path=/snippets/ip=proxyip.fxxk.dedyn.io:443?ed=2560fp=chrome&security=tls#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
+trojan://2ee85121-31de-4581-a492-eb00f606e392@198.46.152.83:443?allowInsecure=0&sni=sj3.freeguard.org#%E7%BE%8E%E5%9B%BD+%E7%BA%BD%E7%BA%A6%E5%B7%9E%E4%BC%8A%E5%88%A9%E5%8E%BF%E5%A8%81%E5%BB%89%E6%96%AF%E7%BB%B4%E5%B0%94%E6%9D%91ColoCrossing%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8
 ```
 
 <h5>上方节点（部分）永久订阅地址：https://proxy.v2gh.com/https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub</h5>
