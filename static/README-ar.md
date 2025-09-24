@@ -35,11 +35,11 @@
  <h4>قائمة العقد: (يتم عرض بعض العقد فقط هنا، يرجى تنزيل التطبيق لعرض جميع العقد)</h4>
     
 ```
-vmess://eyJhZGQiOiAibHQuZnhsY24uY29tIiwgInYiOiAiMiIsICJwcyI6ICJIb25nIEtvbmciLCAicG9ydCI6IDQ1Mjg3LCAiaWQiOiAiNDY5ZTBiMzEtMzBjMy00ZGFiLTgwMGQtNzExMjMyNjM0Y2UxIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJsdC5meGxjbi5jb20iLCAicGF0aCI6ICIvIiwgInRscyI6ICIifQ==
-vmess://eyJhZGQiOiAiNDUuMTQ0LjE3NC42MCIsICJ2IjogIjIiLCAicHMiOiAiVGhlIE5ldGhlcmxhbmRzIiwgInBvcnQiOiAyMjExOSwgImlkIjogIjk1NDBhMmE4LTM0OTctNDNkYi1iMDc0LTQ2ZTZmMDUxZjUwMiIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIvIiwgInRscyI6ICIifQ==
-vmess://eyJhZGQiOiAiMTAzLjk2LjczLjE2MiIsICJ2IjogIjIiLCAicHMiOiAiSG9uZyBLb25nIiwgInBvcnQiOiAyMDA4NiwgImlkIjogIjI1M2ZkMjJkLTZjYmUtNDk1My04OTFiLTRjZTMxMDhlZDkzNSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIvIiwgInRscyI6ICIifQ==
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.34.244.68:443#The+Netherlands
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@103.111.114.29:57456#India
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwNzhuYUNmMkVmT2xSU0xUWDB3RlZ4@pupas-shirting-unsung.freesocks.work:443#United+States
+trojan://253bc477d4e43c209f2d427272968280@160.16.117.182:4397?security=tls&sni=www.nintendogames.net#Japan
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@23.157.40.101:8000#United+States
+vmess://eyJhZGQiOiAiMjExLjI1LjI0Ni4xMzEiLCAidiI6ICIyIiwgInBzIjogIk1hbGF5c2lhIiwgInBvcnQiOiAzNTg4NSwgImlkIjogImY1MzBjYzM4LTEzZTctNDRjMy1iYzdmLWEzZGIyYjZmYmE0NiIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIvYXJraT9lZD0yMDQ4IiwgInRscyI6ICIifQ==
 ```
 <h5>عنوان الاشتراك الدائم للعقدة العليا (جزء): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ar</h5>
  <p>رمز الاستجابة السريعة لعنوان الاشتراك أعلاه</p>

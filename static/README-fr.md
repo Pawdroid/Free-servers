@@ -35,11 +35,11 @@
  <h4>Liste des nœuds: (Seuls certains nœuds sont affichés ici, veuillez télécharger l'application pour afficher tous les nœuds)</h4>
     
 ```
-trojan://installshield@38.180.249.177:8443?sni=38.180.249.177#Pays-Bas
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTamRHQ0h3YWZqa3R0MXJ6cEd4VEtZVHZWQldiOFhhNkU1RFRyNk16YmRIUVN3dnBMaURjemozbjZNQmp5MnV5RlN6Z3FndkNXc0RRbXBNNFZRemZQenlHWUY1OHdkeUQ=@208.67.105.196:42029#Pays-Bas
-vmess://eyJhZGQiOiAiMjExLjI1LjI0Ni4xMzEiLCAidiI6ICIyIiwgInBzIjogIk1hbGFpc2llIiwgInBvcnQiOiA2MzcwMywgImlkIjogImZmZWY5YmM0LTM5MDctNDZlOS1iOGQ2LTEyOTNhOWE0ZGNkYiIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIvYXJraT9lZD0yMDQ4IiwgInRscyI6ICIifQ==
-ss://YWVzLTI1Ni1nY206YzY5Mzc0ZGEtMjIwOC00Y2JkLWI4MWUtY2RmODhiNWU3ZjUz@ss.021.node-for-bigairport.win:15199#Hong+Kong
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.69:8080#Lituanie
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.158.171.110:8080#%C3%89tats+Unis
+vmess://eyJhZGQiOiAiNDcuNzYuODkuMTc1IiwgInYiOiAiMiIsICJwcyI6ICJIb25nIEtvbmciLCAicG9ydCI6IDQzMzU5LCAiaWQiOiAiMzRkNTRmMjktYWQwYS00N2U2LTlmNWUtMGI4MjA3NDE2M2RjIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIi9hcmtpP2VkPTIwNDgiLCAidGxzIjogIiJ9
+vmess://eyJhZGQiOiAiOC4yMTcuMTcxLjE5MyIsICJ2IjogIjIiLCAicHMiOiAiSG9uZyBLb25nIiwgInBvcnQiOiAzNjMwMCwgImlkIjogIjY3OGNkYjE0LTIyYTYtNGZiMi1hMDQwLWIzNTNlY2I5ODljZSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIvYXJraT9lZD0yMDQ4IiwgInRscyI6ICIifQ==
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@173.244.56.6:443#%C3%89tats+Unis
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.157:8080#Pays-Bas
 ```
 <h5>L'adresse d'abonnement permanente du nœud supérieur (partie): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_fr</h5>
  <p>Code QR pour l'adresse d'abonnement ci-dessus</p>
