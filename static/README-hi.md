@@ -35,11 +35,11 @@
  <h4>नोड सूची: (यहां केवल कुछ नोड्स प्रदर्शित हैं, कृपया सभी नोड्स देखने के लिए ऐप डाउनलोड करें)</h4>
     
 ```
-trojan://253bc477d4e43c209f2d427272968280@160.16.117.182:3296?allowInsecure=0&sni=www.nintendogames.net#Japan
-vmess://eyJhZGQiOiAiMTU0LjkuMjU0LjYzIiwgInYiOiAiMiIsICJwcyI6ICJVbml0ZWQgU3RhdGVzIiwgInBvcnQiOiAyMDUyMSwgImlkIjogImQ4MjQ3NjRhLTk1NGUtNGM3NS05MTE2LWY2ZTVlYmE5NDRhOSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIvIiwgInRscyI6ICIifQ==
-vmess://eyJhZGQiOiAiNDcuMjM5LjEyOC4xOTQiLCAidiI6ICIyIiwgInBzIjogIkhvbmcgS29uZyIsICJwb3J0IjogNTgwNTYsICJpZCI6ICIwZDVhNTA5MS1jOTIzLTRmYjYtOWRmZC05NWVjZmQ2MGNkZWUiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiL2Fya2k/ZWQ9MjA0OCIsICJ0bHMiOiAiIn0=
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@beesyar.org:8080#Iran
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@38.54.45.129:990#Argentina
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.199:8080#Lithuania
+vmess://eyJhZGQiOiAiNjEuMTExLjI1MS4yMTgiLCAidiI6ICIyIiwgInBzIjogIlNvdXRoIEtvcmVhIiwgInBvcnQiOiA0MzkxOCwgImlkIjogIjkwYmRkNDI4LWRhZWQtNGJmNi1hNmNlLTk3NTc1M2JmNzc2OCIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIvYXJraT9lZD0yMDQ4IiwgInRscyI6ICIifQ==
+vmess://eyJhZGQiOiAiNDcuMjM5LjEyOC4xOTQiLCAidiI6ICIyIiwgInBzIjogIkhvbmcgS29uZyIsICJwb3J0IjogMzAyNDQsICJpZCI6ICJiMzc4ZWFhMC04NDhmLTQzYmItYjA2Mi0wMjQ0ZjllMDcwYzYiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiL2Fya2k/ZWQ9MjA0OCIsICJ0bHMiOiAiIn0=
+vmess://eyJhZGQiOiAiMTg4LjIwOC4xNDEuMTc3IiwgInYiOiAiMiIsICJwcyI6ICJJbmRpYSIsICJwb3J0IjogNDQzLCAiaWQiOiAiMDk3MDgzNGYtNWI0ZC00NGRhLWQ4OTAtMTlkY2IyYTcyZDRjIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIiLCAidGxzIjogIiJ9
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.178:443#United+Kingdom
 ```
 <h5>ऊपरी नोड (भाग) का स्थायी सदस्यता पता: https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_hi</h5>
  <p>उपरोक्त सदस्यता पते के लिए QR कोड</p>
