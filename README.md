@@ -36,15 +36,15 @@
 <h4>节点列表：(这里仅展示部分节点，查看全部节点请下载app)</h4>
 
 ```
-trojan://253bc477d4e43c209f2d427272968280@202.181.103.246:443?allowInsecure=1&sni=www.nintendogames.net#%E6%97%A5%E6%9C%AC+%E4%B8%9C%E4%BA%AC%E9%83%BD%E6%A8%B1%E8%8A%B1%E4%BA%92%E8%81%94%E7%BD%91%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
+trojan://253bc477d4e43c209f2d427272968280@160.16.130.66:2045?allowInsecure=1&sni=www.nintendogames.net#%E6%97%A5%E6%9C%AC+%E4%B8%9C%E4%BA%ACSakura%E6%A8%B1%E8%8A%B1%E4%BA%91%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
 trojan://253bc477d4e43c209f2d427272968280@160.16.68.250:3160?allowInsecure=0&sni=www.nintendogames.net#%E6%97%A5%E6%9C%AC+%E4%B8%9C%E4%BA%AC%E6%A8%B1%E8%8A%B1%E7%BD%91%E7%BB%9C%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU1ZTdmXHU0ZTFjXHU3NzAxIFx1NzlmYlx1NTJhOCIsICJhZGQiOiAieGlhb25pdS52LmpzcWNkbi5iaWQiLCAicG9ydCI6ICI0MTMxMSIsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogImJkNjRkMmEzLTc2YTEtNDA3Zi1hZjdmLWJkY2RjYjc4ZDIxZSIsICJzbmkiOiAiIiwgImhvc3QiOiAiaW1nMTQuMzYwYnV5aW1nLmNvbSIsICJwYXRoIjogIi9vYmoifQ==
-vmess://eyJhZGQiOiAiNDUuMTQ0LjE3NC42MCIsICJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIFYyQ1JPU1MuQ09NIiwgInBvcnQiOiAyMjExOSwgImlkIjogIjQ2ZDAxMDIyLWRhNDgtNDMxYi05ODZjLWQyZTBmZjhjZTdlOSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIvIiwgInRscyI6ICIifQ==
-trojan://253bc477d4e43c209f2d427272968280@160.16.117.182:3296?allowInsecure=0&sni=www.nintendogames.net#%E6%97%A5%E6%9C%AC+%E4%B8%9C%E4%BA%AC%E6%A8%B1%E8%8A%B1%E7%BD%91%E7%BB%9C%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
-vless://01996549-6892-dbf0-0453-f700236936bd@166.1.201.179:443?allowInsecure=0&sni=kejiland.freewarp.eu.org&type=ws&host=kejiland.freewarp.eu.org&path=/snippets/ip=proxyip.fxxk.dedyn.io:443?ed=2560fp=chrome&security=tls#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
-trojan://c443be95-725d-4da3-a60f-d35af5bfbff8@de1.pptv-tv.store:17755?sni=data.52daishu.life#%E5%B9%BF%E4%B8%9C%E7%9C%81%E5%B9%BF%E5%B7%9E%E5%B8%82+%E7%A7%BB%E5%8A%A8
-vmess://eyJhZGQiOiAiaGt0LmdvdG9jaGluYXRvd24ubmV0IiwgInYiOiAiMiIsICJwcyI6ICJcdTk5OTlcdTZlMmYgXHU3NTM1XHU4YmFmXHU3NmM4XHU3OWQxXHU2NzA5XHU5NjUwXHU1MTZjXHU1M2Y4IiwgInBvcnQiOiA4MCwgImlkIjogIjkzZmI2OWZjLTc3Y2YtMTFlZS04NWVlLWYyM2M5MTM2OWYyZCIsICJhaWQiOiAiMiIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIvIiwgInRscyI6ICIifQ==
-trojan://c443be95-725d-4da3-a60f-d35af5bfbff8@es1.pptv-tv.store:17730?sni=data.52daishu.life#%E5%B9%BF%E4%B8%9C%E7%9C%81%E5%B9%BF%E5%B7%9E%E5%B8%82+%E7%A7%BB%E5%8A%A8
+trojan://c443be95-725d-4da3-a60f-d35af5bfbff8@sg3.pptv-tv.store:17713?sni=data.52daishu.life#%E5%B9%BF%E4%B8%9C%E7%9C%81%E5%B9%BF%E5%B7%9E%E5%B8%82+%E7%A7%BB%E5%8A%A8
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU1ZTdmXHU0ZTFjXHU3NzAxIFx1NzlmYlx1NTJhOCIsICJhZGQiOiAieGlhb25pdS52LmpzcWNkbi5iaWQiLCAicG9ydCI6ICI0MTMxNyIsICJ0eXBlIjogIm5vbmUiLCAiaWQiOiAiYmQ2NGQyYTMtNzZhMS00MDdmLWFmN2YtYmRjZGNiNzhkMjFlIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9vYmoiLCAiaG9zdCI6ICJpbWcxNC4zNjBidXlpbWcuY29tIiwgInRscyI6ICIifQ==
+vless://b65f4df7-f6af-42b2-877a-cef33f21675e@81.200.158.206:8443?allowInsecure=0&sni=kejiland.freewarp.eu.org&type=ws&host=kejiland.freewarp.eu.org&path=/snippets/ip=proxyip.fxxk.dedyn.io:443?ed=2560fp=chrome&security=tls#%E4%BF%84%E7%BD%97%E6%96%AF+V2CROSS.COM
+vless://b65f4df7-f6af-42b2-877a-cef33f21675e@91.108.241.44:8443?allowInsecure=0&sni=kejiland.freewarp.eu.org&type=ws&host=kejiland.freewarp.eu.org&path=/snippets/ip=proxyip.fxxk.dedyn.io:443?ed=2560fp=chrome&security=tls#%E4%BC%8A%E6%8B%89%E5%85%8B+V2CROSS.COM
+trojan://2fd0d127-266d-4d0b-b453-f94659a132fc@106.75.134.1:12000?sni=aliyun.com#%E5%B9%BF%E4%B8%9C%E7%9C%81%E5%B9%BF%E5%B7%9E%E5%B8%82+UCloud
+vless://b65f4df7-f6af-42b2-877a-cef33f21675e@89.22.230.152:2053?allowInsecure=0&sni=kejiland.freewarp.eu.org&type=ws&host=kejiland.freewarp.eu.org&path=/snippets/ip=proxyip.fxxk.dedyn.io:443fp=chromefp=chrome&security=tls#%E7%BD%97%E9%A9%AC%E5%B0%BC%E4%BA%9A+V2CROSS.COM
+trojan://253bc477d4e43c209f2d427272968280@160.16.236.32:443?allowInsecure=0&sni=www.nintendogames.net#%E6%97%A5%E6%9C%AC+%E4%B8%9C%E4%BA%ACSakura%E6%A8%B1%E8%8A%B1%E4%BA%91%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
 ```
 
 <h5>上方节点（部分）永久订阅地址：https://proxy.v2gh.com/https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub</h5>
