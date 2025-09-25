@@ -36,11 +36,10 @@
 <h4>节点列表：(这里仅展示部分节点，查看全部节点请下载app)</h4>
 
 ```
-vmess://eyJhZGQiOiAia2FtcG9uZy5vcmciLCAidiI6ICIyIiwgInBzIjogIlx1N2Y4ZVx1NTZmZCBcdTYwZTBcdTY2NmVIUCIsICJwb3J0IjogNDQzLCAiaWQiOiAiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwgImFpZCI6ICIxIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogImthbXBvbmcub3JnIiwgInBhdGgiOiAibGlua3Z3cyIsICJ0bHMiOiAidGxzIn0=
-trojan://1ce1df7962f71c6f@uk-03.allhubb.info:8443?allowInsecure=0#%E8%8B%B1%E5%9B%BD+%E7%A4%BE%E4%BC%9A%E4%BF%9D%E9%99%A9%E5%AE%89%E5%85%A8%E9%83%A8
-trojan://installshield@23.162.152.30:8443#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
-vless://b65f4df7-f6af-42b2-877a-cef33f21675e@89.22.230.152:2053?allowInsecure=0&sni=kejiland.freewarp.eu.org&type=ws&host=kejiland.freewarp.eu.org&path=/snippets/ip=proxyip.fxxk.dedyn.io:443fp=chromefp=chrome&security=tls#%E7%BD%97%E9%A9%AC%E5%B0%BC%E4%BA%9A+V2CROSS.COM
-vmess://eyJhZGQiOiAiMTU4LjEwMS4xNDYuMyIsICJ2IjogIjIiLCAicHMiOiAiXHU2NWU1XHU2NzJjXHU0ZTFjXHU0ZWFjIE9yYWNsZVx1NGU5MVx1OGJhMVx1N2I5N1x1NjU3MFx1NjM2ZVx1NGUyZFx1NWZjMyIsICJwb3J0IjogNTQ1MTYsICJpZCI6ICI2ZDBiMjRiNi02NjIyLTQ0YjItOGRhMC1lZjFlNjc2NTEzMjUiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAic2VydjAwX3ZtZXNzLnN3ZWV0cnguZXUub3JnIiwgInBhdGgiOiAiL3ZtZXNzIiwgInRscyI6ICJ0bHMifQ==
+trojan://1ce1df7962f71c6f@uk-03.allhubb.info:8443#%E8%8B%B1%E5%9B%BD+%E7%A4%BE%E4%BC%9A%E4%BF%9D%E9%99%A9%E5%AE%89%E5%85%A8%E9%83%A8
+trojan://installshield@176.97.68.153:8443#%E8%8B%B1%E5%9B%BD+V2CROSS.COM
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU2YzVmXHU4MmNmXHU3NzAxIFx1NzlmYlx1NTJhOCIsICJhZGQiOiAidjM5LmhlZHVpYW4ubGluayIsICJwb3J0IjogIjMwODM5IiwgImFpZCI6IDIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiY2JiM2Y4NzctZDFmYi0zNDRjLTg3YTktZDE1M2JmZmQ1NDg0IiwgInNuaSI6ICIiLCAiaG9zdCI6ICJiYWlkdS5jb20iLCAicGF0aCI6ICIvb29vbyJ9
+vmess://eyJhZGQiOiAia2FtcG9uZy5vcmciLCAidiI6ICIyIiwgInBzIjogIlx1NmNkNVx1NTZmZCBcdTU2ZmRcdTk2NDVcdTgyMmFcdTdhN2FcdTc1MzVcdThiYWZcdTk2YzZcdTU2ZTJcdTUxNmNcdTUzZjgoU0lUQSkiLCAicG9ydCI6IDQ0MywgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsICJhaWQiOiAiMSIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJrYW1wb25nLm9yZyIsICJwYXRoIjogImxpbmt2d3MiLCAidGxzIjogInRscyJ9
 ```
 
 <h5>上方节点（部分）永久订阅地址：https://proxy.v2gh.com/https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub</h5>
