@@ -35,11 +35,11 @@
  <h4>Lista de nós: (Apenas alguns nós são exibidos aqui, baixe o aplicativo para visualizar todos os nós)</h4>
     
 ```
-vmess://eyJhZGQiOiAiMTAzLjU3LjI0OS4yMDQiLCAidiI6ICIyIiwgInBzIjogIkF1c3RyXHUwMGUxbGlhIiwgInBvcnQiOiA0NDMsICJpZCI6ICJmMTMxNDNhNy01NDJkLTQ5ZWMtOTQyOC0wOTgxNDJiNjk3N2MiLCAiYWlkIjogIjAiLCAibmV0IjogInRjcCIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAiIn0=
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.195:443#Reino+Unido
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.192:8080#Litu%C3%A2nia
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.126.237.38:990#Rom%C3%AAnia
-trojan://2fd0d127-266d-4d0b-b453-f94659a132fc@106.75.134.1:12000?allowInsecure=1&sni=aliyun.com#China
+vmess://eyJhZGQiOiAiNDcuMjM5LjgxLjExMyIsICJ2IjogIjIiLCAicHMiOiAiSG9uZyBLb25nIiwgInBvcnQiOiAyODQyMSwgImlkIjogIjEwZjFjZjhiLTA2NWItNDliZC05YzJjLTQ2ZTY0ZWQwOGIzZCIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIvYXJraT9lZD0yMDQ4IiwgInRscyI6ICIifQ==
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNDA2NDFjMWY4OWU3YWNi@de.vpnsparta.pro:57456#Alemanha
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@64.74.163.130:990#EUA
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.178:8080#Litu%C3%A2nia
+ss://YWVzLTEyOC1nY206MTAwODY=@153.121.51.214:10087#Jap%C3%A3o
 ```
 <h5>O endereço de assinatura permanente do nó superior (parte): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_pt-BR</h5>
  <p>Código QR do endereço de assinatura acima</p>
