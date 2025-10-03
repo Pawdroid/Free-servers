@@ -36,11 +36,9 @@
 <h4>节点列表：(这里仅展示部分节点，查看全部节点请下载app)</h4>
 
 ```
-trojan://253bc477d4e43c209f2d427272968280@58.152.25.156:443?allowInsecure=0&sni=www.nintendogames.net#%E9%A6%99%E6%B8%AF+%E7%94%B5%E8%AE%AF%E7%9B%88%E7%A7%91%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8
-trojan://253bc477d4e43c209f2d427272968280@36.156.102.88:3296?allowInsecure=0&sni=www.nintendogames.net#%E6%B1%9F%E8%8B%8F%E7%9C%81%E7%9B%90%E5%9F%8E%E5%B8%82+%E7%A7%BB%E5%8A%A8
+vmess://eyJhZGQiOiAicGFuZWwtZGUyLnR1cmtjbG91ZC5pciIsICJ2IjogIjIiLCAicHMiOiAiXHU1ZmI3XHU1NmZkIFYyQ1JPU1MuQ09NIiwgInBvcnQiOiA4NDQzLCAiaWQiOiAiNmIzYTcwMzQtMzllYy1mMDU3LTM3N2QtY2Y2YWY1N2I0ZGI0IiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJ0cm9qYW4uYnVyZ2VyaXAuY28udWsiLCAicGF0aCI6ICIiLCAidGxzIjogIiJ9
 vless://d46fbe10-7982-4229-b461-4afef5c690fa@mstr.fastly80.hosting-ip.com:80?allowInsecure=0&sni=gm195.io&type=ws&host=gm195.io&path=/admin#%E7%BE%8E%E5%9B%BD+Fastly%E5%85%A8%E7%90%83Anycast%E8%8A%82%E7%82%B9
-trojan://2fd0d127-266d-4d0b-b453-f94659a132fc@106.75.134.1:12000?allowInsecure=1&sni=aliyun.com#%E5%B9%BF%E4%B8%9C%E7%9C%81%E5%B9%BF%E5%B7%9E%E5%B8%82+UCloud
-trojan://253bc477d4e43c209f2d427272968280@160.16.124.55:3160?allowInsecure=0&sni=www.nintendogames.net#%E6%97%A5%E6%9C%AC+%E4%B8%9C%E4%BA%AC%E6%A8%B1%E8%8A%B1%E7%BD%91%E7%BB%9C%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
+vmess://eyJhZGQiOiAidGVzdDIuZmxoYS5ydSIsICJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAicG9ydCI6IDgwLCAiaWQiOiAiMTVmNjJhYmYtOGNjOS00NTk4LThkNTctZTRkZjdiNDk5YTg0IiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogInRlc3QyLmZsaGEucnUiLCAicGF0aCI6ICIvMTVmNjJhYmYtOGNjOS00NTk4LThkNTctZTRkZjdiNDk5YTg0LXZtZXNzIiwgInRscyI6ICIifQ==
 ```
 
 <h5>上方节点（部分）永久订阅地址：https://proxy.v2gh.com/https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub</h5>
