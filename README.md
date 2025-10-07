@@ -36,10 +36,10 @@
 <h4>节点列表：(这里仅展示部分节点，查看全部节点请下载app)</h4>
 
 ```
-vless://f2e486f9-1697-4be6-be59-6c4fb42c7a24@188.114.97.3:443?allowInsecure=0&sni=paS-kaLE-AGhA.pageS.deV&alpn=http/1.1&type=ws&host=pas-kale-agha.pages.dev&path=/Telegram@V2ray_Alpha/?ed=2560fp=randomized&security=tls#%E5%B7%B4%E8%A5%BF%E5%9C%A3%E4%BF%9D%E7%BD%97+CloudFlare%E8%8A%82%E7%82%B9
 vmess://eyJ2IjogMiwgInBzIjogIlx1NmM1Zlx1ODJjZlx1NzcwMSBcdTc5ZmJcdTUyYTgiLCAiYWRkIjogInYyOS5oZWR1aWFuLmxpbmsiLCAicG9ydCI6IDMwODI5LCAiaWQiOiAiY2JiM2Y4NzctZDFmYi0zNDRjLTg3YTktZDE1M2JmZmQ1NDg0IiwgImFpZCI6IDIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6IG51bGwsICJob3N0IjogIm9jYmMuY29tIiwgInBhdGgiOiAiL29vb28iLCAidGxzIjogZmFsc2UsICJzbmkiOiAiIn0=
-vmess://eyJhZGQiOiAiY2YuZm92aS50ayIsICJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAicG9ydCI6IDQ0MywgImlkIjogImJmNjc0MzdlLTZjOTAtNDVjYS1hYmMyLWM3MjQwYTVjZTJhYSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJmb3hsdXguZm92aS50ayIsICJwYXRoIjogIi9laXNhc3FhIiwgInRscyI6ICJ0bHMiLCAic25pIjogIiIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAic2N5IjogIiJ9
-vmess://eyJhZGQiOiAidGxzLjE5Lm5vZGUtZm9yLWJpZ2FpcnBvcnQud2luIiwgInYiOiAiMiIsICJwcyI6ICJcdTY1ZTVcdTY3MmMgXHU0ZTFjXHU0ZWFjQW1hem9uXHU2NTcwXHU2MzZlXHU0ZTJkXHU1ZmMzIiwgInBvcnQiOiAyMzIxMSwgImlkIjogImM2OTM3NGRhLTIyMDgtNGNiZC1iODFlLWNkZjg4YjVlN2Y1MyIsICJhaWQiOiAiMCIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiIiwgInRscyI6ICIifQ==
+vless://63005378-e32e-4e23-bc6e-84812f147a6f@172.66.44.118:443?allowInsecure=0&sni=ConFIgmr.PaGeS.dEV&type=ws&host=configmr.pages.dev&path=/VrChX4o5oasIm4In?ed=2560fp=chrome&security=tls#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
+vless://f2e486f9-1697-4be6-be59-6c4fb42c7a24@188.114.97.3:443?allowInsecure=0&sni=paS-kaLE-AGhA.pageS.deV&alpn=http/1.1&type=ws&host=pas-kale-agha.pages.dev&path=/Telegram@V2ray_Alpha/?ed=2560fp=randomized&security=tls#%E5%B7%B4%E8%A5%BF%E5%9C%A3%E4%BF%9D%E7%BD%97+CloudFlare%E8%8A%82%E7%82%B9
+ss://YWVzLTI1Ni1nY206ZTliMGZhMGItNzJmYi00OTkzLWEyNTEtOWY1MTg1MTJmZWM4@entrance04.qqa678.cc:47081#%E4%B8%8A%E6%B5%B7%E5%B8%82+%E7%94%B5%E4%BF%A1IDC%E6%9C%BA%E6%88%BF
 ```
 
 <h5>上方节点（部分）永久订阅地址：https://proxy.v2gh.com/https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub</h5>
