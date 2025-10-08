@@ -36,12 +36,12 @@
 <h4>节点列表：(这里仅展示部分节点，查看全部节点请下载app)</h4>
 
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOWm9ielU3V3h1MjRrRGNiT2VIQkVZ@143.244.137.253:2494#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
-vless://857b7905-8b11-4987-994d-09bcbf7979df@mstr.fastly80.hosting-ip.com:80?allowInsecure=0&sni=Gn8656.io&type=ws&host=Gn8656.io&path=/admin#%E7%BE%8E%E5%9B%BD+Fastly%E5%85%A8%E7%90%83Anycast%E8%8A%82%E7%82%B9
-trojan://wb6368@92.243.75.49:2087?allowInsecure=0&sni=hsdgbuys.pages.dev&type=ws&host=hsdgbuys.pages.dev&path=/#%E4%BF%84%E7%BD%97%E6%96%AF+V2CROSS.COM
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU2YzVmXHU4MmNmXHU3NzAxIFx1NzlmYlx1NTJhOCIsICJhZGQiOiAidjI5LmhlZHVpYW4ubGluayIsICJwb3J0IjogIjMwODI5IiwgInR5cGUiOiAibm9uZSIsICJpZCI6ICJjYmIzZjg3Ny1kMWZiLTM0NGMtODdhOS1kMTUzYmZmZDU0ODQiLCAiYWlkIjogIjIiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL29vb28iLCAiaG9zdCI6ICJvY2JjLmNvbSIsICJ0bHMiOiAiIn0=
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@79.127.233.170:990#%E6%8D%B7%E5%85%8B+V2CROSS.COM
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU2YzVmXHU4MmNmXHU3NzAxIFx1NzlmYlx1NTJhOCIsICJhZGQiOiAidjYuaGVkdWlhbi5saW5rIiwgInBvcnQiOiAiMzA4MDYiLCAiYWlkIjogMiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJpZCI6ICJjYmIzZjg3Ny1kMWZiLTM0NGMtODdhOS1kMTUzYmZmZDU0ODQiLCAic25pIjogIiIsICJob3N0IjogIm9jYmMuY29tIiwgInBhdGgiOiAiL29vb28ifQ==
 vmess://eyJhZGQiOiAiNDYuMy4yNi4xMiIsICJ2IjogIjIiLCAicHMiOiAiXHU1M2YwXHU2ZTdlXHU3NzAxXHU1M2YwXHU1MzE3XHU1ZTAyIFYyQ1JPU1MuQ09NIiwgInBvcnQiOiA0NDMsICJpZCI6ICI0YmYwNzVmNS00ZDVlLTRkMzktZjVhYi1iMzJhODYyNTBmMGUiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiaGsubmJlZS5wcC51YSIsICJwYXRoIjogIi9hYSIsICJ0bHMiOiAidGxzIn0=
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOWm9ielU3V3h1MjRrRGNiT2VIQkVZ@143.244.137.253:2494#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@79.127.233.170:990#%E6%8D%B7%E5%85%8B+V2CROSS.COM
+vless://dacf0561-ff27-491c-8583-df7bc63f28a4@172.66.156.81:80?allowInsecure=0&sni=websocket.network.www.speedtest.net.flutter.dev.russia.python.vegaskala.com.&type=ws&host=websocket.network.www.speedtest.net.flutter.dev.russia.python.vegaskala.com.&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
+vless://857b7905-8b11-4987-994d-09bcbf7979df@mstr.fastly80.hosting-ip.com:80?allowInsecure=0&sni=Gn8656.io&type=ws&host=Gn8656.io&path=/admin#%E7%BE%8E%E5%9B%BD+Fastly%E5%85%A8%E7%90%83Anycast%E8%8A%82%E7%82%B9
 ```
 
 <h5>上方节点（部分）永久订阅地址：https://proxy.v2gh.com/https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub</h5>
