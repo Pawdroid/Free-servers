@@ -36,12 +36,11 @@
 <h4>节点列表：(这里仅展示部分节点，查看全部节点请下载app)</h4>
 
 ```
+vless://857b7905-8b11-4987-994d-09bcbf7979df@mstr.fastly80.hosting-ip.com:80?allowInsecure=0&sni=Gn8656.io&type=ws&host=Gn8656.io&path=/admin#%E7%BE%8E%E5%9B%BD+Fastly%E5%85%A8%E7%90%83Anycast%E8%8A%82%E7%82%B9
+vmess://eyJ2IjogMiwgInBzIjogIlx1NmM1Zlx1ODJjZlx1NzcwMSBcdTc5ZmJcdTUyYTgiLCAiYWRkIjogInYyNC5oZWR1aWFuLmxpbmsiLCAicG9ydCI6IDMwODI0LCAiaWQiOiAiY2JiM2Y4NzctZDFmYi0zNDRjLTg3YTktZDE1M2JmZmQ1NDg0IiwgImFpZCI6IDIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6IG51bGwsICJob3N0IjogInYyNC5oZWR1aWFuLmxpbmsiLCAicGF0aCI6ICIvb29vbyIsICJ0bHMiOiBmYWxzZSwgInNuaSI6ICIifQ==
+vmess://eyJhZGQiOiAidjEwLmhlZHVpYW4ubGluayIsICJ2IjogIjIiLCAicHMiOiAiXHU5OTk5XHU2ZTJmIFx1NzUzNVx1OGJhZlx1NzZjOFx1NzlkMVx1NjcwOVx1OTY1MFx1NTE2Y1x1NTNmOCIsICJwb3J0IjogMzA4MDcsICJpZCI6ICJjYmIzZjg3Ny1kMWZiLTM0NGMtODdhOS1kMTUzYmZmZDU0ODQiLCAiYWlkIjogIjIiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiYmFpZHUuY29tIiwgInBhdGgiOiAiL29vb28iLCAidGxzIjogIiJ9
 trojan://wb6368@92.243.75.49:2087?allowInsecure=0&sni=hsdgbuys.pages.dev&type=ws&host=hsdgbuys.pages.dev&path=/#%E4%BF%84%E7%BD%97%E6%96%AF+V2CROSS.COM
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU2YzVmXHU4MmNmXHU3NzAxIFx1NzlmYlx1NTJhOCIsICJhZGQiOiAidjkuaGVkdWlhbi5saW5rIiwgInBvcnQiOiAiMzA4MDkiLCAidHlwZSI6ICJub25lIiwgImlkIjogImNiYjNmODc3LWQxZmItMzQ0Yy04N2E5LWQxNTNiZmZkNTQ4NCIsICJhaWQiOiAiMiIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvb29vbyIsICJob3N0IjogImJhaWR1LmNvbSIsICJ0bHMiOiAiIn0=
-trojan://253bc477d4e43c209f2d427272968280@36.156.102.84:1572?security=tls&sni=www.nintendogames.net#%E6%B1%9F%E8%8B%8F%E7%9C%81%E7%9B%90%E5%9F%8E%E5%B8%82+%E7%A7%BB%E5%8A%A8
-trojan://253bc477d4e43c209f2d427272968280@160.16.81.84:1536?security=tls&sni=www.nintendogames.net#%E6%97%A5%E6%9C%AC+%E4%B8%9C%E4%BA%AC%E6%A8%B1%E8%8A%B1%E7%BD%91%E7%BB%9C%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU3NTE4XHU4MDgzXHU3NzAxXHU1MTcwXHU1ZGRlXHU1ZTAyIFx1NzlmYlx1NTJhOCIsICJhZGQiOiAiMzYuMTM5LjIwMS4zNSIsICJwb3J0IjogIjEwMDAyIiwgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogIjhkNzE3ZTVhLWRhYjUtNGI5OS1hZjRmLWVhMjllZjhlZWJlZCIsICJzbmkiOiAiIn0=
-vless://12345678-1234-1234-1234-123456789123@170.114.45.44:2096?allowInsecure=0&sni=kejiland.freewarp.eu.org&type=ws&host=kejiland.freewarp.eu.org&path=/snippetsfp=chrome&security=tls#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
+trojan://253bc477d4e43c209f2d427272968280@153.121.70.134:5041?sni=www.nintendogames.net#%E6%97%A5%E6%9C%AC+%E4%B8%9C%E4%BA%ACSAKURA%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
 ```
 
 <h5>上方节点（部分）永久订阅地址：https://proxy.v2gh.com/https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub</h5>
