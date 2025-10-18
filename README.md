@@ -36,10 +36,10 @@
 <h4>节点列表：(这里仅展示部分节点，查看全部节点请下载app)</h4>
 
 ```
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@49.174.170.115:22577?allowInsecure=0&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=/X@节点狂魔/?ed=2560fp=chrome&security=tls#%E9%9F%A9%E5%9B%BD+V2CROSS.COM
-vmess://eyJhZGQiOiAiYWZsenp1bC5tZWlxdWFua29uZ2ppYW4uY29tIiwgInYiOiAiMiIsICJwcyI6ICJcdTc1MThcdTgwODNcdTc3MDFcdTUxNzBcdTVkZGVcdTVlMDIgXHU3OWZiXHU1MmE4IiwgInBvcnQiOiA1MjUxMiwgImlkIjogIjM0MmJhY2ZkLTJiOGYtM2Y0OS1hMTZlLTQzOWRiNWIwYjlkNSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJhZmx6enVsLm1laXF1YW5rb25namlhbi5jb20iLCAicGF0aCI6ICIvNTY0ZGZhMjAvIiwgInRscyI6ICIifQ==
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@106.245.216.35:50001?allowInsecure=0&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=/X@节点狂魔/?ed=2560fp=chrome&security=tls#%E9%9F%A9%E5%9B%BD+LG+DACOM
+vmess://eyJhZGQiOiAiczEuZGItbGluazAzLnRvcCIsICJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAicG9ydCI6IDgwLCAiaWQiOiAiMjVmYmNlYzYtZTQ1YS0zYTg2LTk3N2EtMTJjNDBiZjY0OWJhIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogImY3ZjQ4YTBmNzY4NWIyMDhlZmRmNDk1NmFlNWViMGEwLnMxLmRiLWxpbmswMy50b3AiLCAicGF0aCI6ICIvZGFiYWkuaW4/PWY3ZjQ4YTBmNzY4NWIyMDhlZmRmNDk1NmFlNWViMGEwIiwgInRscyI6ICIifQ==
+trojan://BxceQaOe@36.151.195.112:4556#%E6%B1%9F%E8%8B%8F%E7%9C%81+%E7%A7%BB%E5%8A%A8
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4ZDVjNDY4MC05ZGQwLTQzZDQtOWVhMS0yYjBlM2RiYjQ2ODQ=@118.170.203.35:10017#%E5%8F%B0%E6%B9%BE%E7%9C%81+%E4%B8%AD%E5%8D%8E%E7%94%B5%E4%BF%A1%28HiNet%29%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@109.61.39.28:990#%E5%8C%88%E7%89%99%E5%88%A9+V2CROSS.COM
 ```
 
 <h5>上方节点（部分）永久订阅地址：https://proxy.v2gh.com/https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub</h5>
