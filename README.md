@@ -36,11 +36,10 @@
 <h4>节点列表：(这里仅展示部分节点，查看全部节点请下载app)</h4>
 
 ```
-trojan://BxceQaOe@36.156.102.115:26876?allowInsecure=1#%E6%B1%9F%E8%8B%8F%E7%9C%81%E7%9B%90%E5%9F%8E%E5%B8%82+%E7%A7%BB%E5%8A%A8
-trojan://BxceQaOe@36.156.102.115:2088?allowInsecure=1#%E6%B1%9F%E8%8B%8F%E7%9C%81%E7%9B%90%E5%9F%8E%E5%B8%82+%E7%A7%BB%E5%8A%A8
-trojan://BxceQaOe@36.151.251.18:811?allowInsecure=1#%E6%B1%9F%E8%8B%8F%E7%9C%81+%E7%A7%BB%E5%8A%A8
-vmess://eyJhZGQiOiAiaGt0LmdvdG9jaGluYXRvd24ubmV0IiwgInYiOiAiMiIsICJwcyI6ICJcdTk5OTlcdTZlMmYgXHU3NTM1XHU4YmFmXHU3NmM4XHU3OWQxXHU2NzA5XHU5NjUwXHU1MTZjXHU1M2Y4IiwgInBvcnQiOiA4MCwgImlkIjogIjM4NGQxYjQyLTY1NWYtMTFlZC1hOGJmLWYyM2M5MWNmYmJjOSIsICJhaWQiOiAiMiIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIvIiwgInRscyI6ICIifQ==
 vmess://eyJhZGQiOiAidjEwLmhlZHVpYW4ubGluayIsICJ2IjogIjIiLCAicHMiOiAiXHU5OTk5XHU2ZTJmIFx1NzUzNVx1OGJhZlx1NzZjOFx1NzlkMVx1NjcwOVx1OTY1MFx1NTE2Y1x1NTNmOCIsICJwb3J0IjogMzA4MDcsICJpZCI6ICJjYmIzZjg3Ny1kMWZiLTM0NGMtODdhOS1kMTUzYmZmZDU0ODQiLCAiYWlkIjogIjIiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiYmFpZHUuY29tIiwgInBhdGgiOiAiL29vb28iLCAidGxzIjogIiJ9
+vless://f61a4285-7264-4d07-9408-7b9ba1922c26@217.60.248.66:443?allowInsecure=0&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=/Telegram🇨🇳 @WangCai2 /?ed=2560fp=chrome&security=tls#%E4%BC%8A%E6%9C%97+V2CROSS.COM
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU2Y2IzXHU1MzE3XHU3NzAxXHU3N2YzXHU1YmI2XHU1ZTg0XHU1ZTAyIFx1NzUzNVx1NGZlMSIsICJhZGQiOiAiMTI0LjIzNi40Ni4xMTQiLCAicG9ydCI6IDQ3MDgzLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiZmQ0OTM4MWYtOWZkOC00NDAzLTg2OTgtNDgzMzFhNGQ3NzVkIn0=
+trojan://BxceQaOe@36.156.102.115:26876?allowInsecure=1#%E6%B1%9F%E8%8B%8F%E7%9C%81%E7%9B%90%E5%9F%8E%E5%B8%82+%E7%A7%BB%E5%8A%A8
 ```
 
 <h5>上方节点（部分）永久订阅地址：https://proxy.v2gh.com/https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub</h5>
