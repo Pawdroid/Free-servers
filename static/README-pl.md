@@ -35,18 +35,18 @@
  <h4>Lista węzłów: (wyświetlane są tutaj tylko niektóre węzły. Pobierz aplikację, aby wyświetlić wszystkie węzły)</h4>
     
 ```
-trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@jp01.weyaf9sdoh2h.space:18028?sni=TG.WangCai2#Iran
-vmess://eyJhZGQiOiAiMTQ5LjMwLjIzMi4xMDMiLCAidiI6ICIyIiwgInBzIjogIlVuaXRlZCBTdGF0ZXMiLCAicG9ydCI6IDMxNDY5LCAiaWQiOiAiNTM4MTQ0NWQtNmFlNC00OTQ4LWI2MWEtYTE2ZDk0OThkMjFiIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIi9hcmtpP2VkPTIwNDgiLCAidGxzIjogIiJ9
-trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@jp02.weyaf9sdoh2h.space:19044#Iran
-trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@jp01.weyaf9sdoh2h.space:18008?sni=TG.WangCai2#Iran
-trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@jp01.weyaf9sdoh2h.space:18093?sni=TG.WangCai2#Iran
-trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@jp02.weyaf9sdoh2h.space:19040?sni=TG.WangCai2#Iran
-vmess://eyJhZGQiOiAiMTUuMjM1LjUwLjE3MiIsICJ2IjogIjIiLCAicHMiOiAiQ2FuYWRhIiwgInBvcnQiOiA0NDMsICJpZCI6ICIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiYmFyYWRpaGEuY29tIiwgInBhdGgiOiAiL2xpbmt2d3MiLCAidGxzIjogInRscyJ9
-trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@jp02.weyaf9sdoh2h.space:19035?sni=TG.WangCai2#Iran
-trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@jp02.weyaf9sdoh2h.space:19026?sni=TG.WangCai2#Iran
-trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@jp02.weyaf9sdoh2h.space:19091?sni=TG.WangCai2#Iran
-trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@jp01.weyaf9sdoh2h.space:18001?sni=TG.WangCai2#Iran
-trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@jp01.weyaf9sdoh2h.space:18064?sni=TG.WangCai2#Iran
+vmess://eyJhZGQiOiAiNDcuMjM4Ljc4LjIyMyIsICJ2IjogIjIiLCAicHMiOiAiSG9uZyBLb25nIiwgInBvcnQiOiAzNzA1MywgImlkIjogIjg0OGUyYzc3LWVmOGMtNDI5Zi1iM2NiLWMyYTE1OWVlMDNiMCIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIvYXJraT9lZD0yMDQ4IiwgInRscyI6ICIifQ==
+trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@jp02.weyaf9sdoh2h.space:19064?sni=TG.WangCai2#Iran
+trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@jp02.weyaf9sdoh2h.space:19041?sni=TG.WangCai2#Iran
+trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@jp03.weyaf9sdoh2h.space:17028?allowInsecure=0&sni=TG.WangCai2#Iran
+trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@jp03.weyaf9sdoh2h.space:17048?sni=TG.WangCai2#Iran
+trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@jp02.weyaf9sdoh2h.space:19060?sni=TG.WangCai2#Iran
+ss://YWVzLTEyOC1nY206MTAwODY=@160.16.123.124:10087#Japan
+trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@jp02.weyaf9sdoh2h.space:19029?sni=TG.WangCai2#Iran
+vmess://eyJhZGQiOiAiNTcuMTI4LjE4OS4yNTMiLCAidiI6ICIyIiwgInBzIjogIkZyYW5jZSIsICJwb3J0IjogNDQzLCAiaWQiOiAiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogImthcGVsbGVuZy5jb20iLCAicGF0aCI6ICIvbGlua3Z3cyIsICJ0bHMiOiAidGxzIn0=
+trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@jp02.weyaf9sdoh2h.space:19051?sni=TG.WangCai2#Iran
+trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@jp01.weyaf9sdoh2h.space:18015?sni=TG.WangCai2#Iran
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwNzhuYUNmMkVmT2xSU0xUWDB3RlZ4@pupas-shirting-unsung.freesocks.work:443#United+States
 ```
 <h5>Stały adres subskrypcji górnego węzła (część): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_pl</h5>
  <p>Kod QR dla adresu subskrypcji powyżej</p>

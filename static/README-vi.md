@@ -35,18 +35,18 @@
  <h4>Danh sách nút: (Chỉ hiển thị một số nút ở đây, vui lòng tải xuống ứng dụng để xem tất cả các nút)</h4>
     
 ```
-vmess://eyJhZGQiOiAiNDcuODYuODUuOTUiLCAidiI6ICIyIiwgInBzIjogIlVuaXRlZCBTdGF0ZXMiLCAicG9ydCI6IDIwNTIyLCAiaWQiOiAiOWJlYWFmY2QtYmRjMS00MjBlLTk4NGEtYjgzNDMzN2JjYjE2IiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIi90ZWxlZ3JhbV9Ac3N3aWEiLCAidGxzIjogIiJ9
-vmess://eyJhZGQiOiAiNDcuMjM4Ljc4LjIyMyIsICJ2IjogIjIiLCAicHMiOiAiSG9uZyBLb25nIiwgInBvcnQiOiAxNzcyMywgImlkIjogIjQ4YWNiM2I0LTU3NGEtNDViMi1iNTI3LWMwZjlhM2U2ZGZhMCIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIvYXJraT9lZD0yMDQ4IiwgInRscyI6ICIifQ==
-trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@jp02.weyaf9sdoh2h.space:19008?sni=TG.WangCai2#Iran
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@203.23.128.33:990#Hong+Kong
-trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@jp01.weyaf9sdoh2h.space:18020?sni=TG.WangCai2#Iran
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@89.46.239.231:990#Romania
-trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@jp02.weyaf9sdoh2h.space:19009?allowInsecure=0&sni=TG.WangCai2#Iran
-trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@jp03.weyaf9sdoh2h.space:17039?sni=TG.WangCai2#Iran
-vmess://eyJhZGQiOiAiMTAzLjI0My4yNS4yMTMiLCAidiI6ICIyIiwgInBzIjogIkhvbmcgS29uZyIsICJwb3J0IjogMjE1MzMsICJpZCI6ICI2ZDRlMjM0MS1lMzNkLTQyOGQtYmM3MC0xNDYxNTkyYWIxYTIiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiL2Fya2k/ZWQ9MjA0OCIsICJ0bHMiOiAiIn0=
-vmess://eyJhZGQiOiAiOC4yMTAuMjMwLjE3OSIsICJ2IjogIjIiLCAicHMiOiAiSG9uZyBLb25nIiwgInBvcnQiOiAxMjEyNSwgImlkIjogIjhiMGMxMWJlLTFmZmUtNDA3NC1hZmM1LWU3MzRmZTk4NWIyMiIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIvYXJraT9lZD0yMDQ4IiwgInRscyI6ICIifQ==
-trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@jp02.weyaf9sdoh2h.space:19045?sni=TG.WangCai2#Iran
-trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@jp03.weyaf9sdoh2h.space:17061?sni=TG.WangCai2#Iran
+vmess://eyJhZGQiOiAiNTcuMTI5LjI4LjIxNCIsICJ2IjogIjIiLCAicHMiOiAiRnJhbmNlIiwgInBvcnQiOiA0NDMsICJpZCI6ICIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAia2FtcG9uZy5vcmciLCAicGF0aCI6ICJsaW5rdndzIiwgInRscyI6ICJ0bHMifQ==
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@151.242.251.147:8080#Iran
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@181.119.30.20:990#Colombia
+trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@jp03.weyaf9sdoh2h.space:17052?sni=TG.WangCai2#Iran
+trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@jp03.weyaf9sdoh2h.space:17064?sni=TG.WangCai2#Iran
+trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@jp01.weyaf9sdoh2h.space:18081?sni=TG.WangCai2#Iran
+trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@jp03.weyaf9sdoh2h.space:17009?sni=TG.WangCai2#Iran
+trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@jp01.weyaf9sdoh2h.space:18089?sni=TG.WangCai2#Iran
+trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@jp01.weyaf9sdoh2h.space:18077?sni=TG.WangCai2#Iran
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMXY1ZzlGZWZkb08=@57.129.140.88:8388#France
+trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@jp01.weyaf9sdoh2h.space:18022?sni=TG.WangCai2#Iran
+vmess://eyJhZGQiOiAiY2YuZm92aS50ayIsICJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJwb3J0IjogNDQzLCAiaWQiOiAiYmY2NzQzN2UtNmM5MC00NWNhLWFiYzItYzcyNDBhNWNlMmFhIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogImZveGx1eC5mb3ZpLnRrIiwgInBhdGgiOiAiL2Vpc2FzcWEiLCAidGxzIjogInRscyIsICJzbmkiOiAiIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJzY3kiOiAiIn0=
 ```
 <h5>Địa chỉ đăng ký vĩnh viễn của nút trên (một phần): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_vi</h5>
  <p>Mã QR cho địa chỉ đăng ký ở trên</p>

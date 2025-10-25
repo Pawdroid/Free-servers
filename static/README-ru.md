@@ -35,18 +35,18 @@
  <h4>Список узлов: (здесь показаны только некоторые узлы. Загрузите приложение, чтобы просмотреть все узлы)</h4>
     
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvNW9zWmcyNjl2NXpIcFlqcjF4WTlz@151.242.251.137:8080#%D0%98%D1%80%D0%B0%D0%BD
-vmess://eyJhZGQiOiAiOC4yMTAuMjEyLjE5NiIsICJ2IjogIjIiLCAicHMiOiAiXHUwNDEzXHUwNDNlXHUwNDNkXHUwNDNhXHUwNDNlXHUwNDNkXHUwNDMzIiwgInBvcnQiOiA1NzE3MiwgImlkIjogImU3YjhjMWU5LTQwZjYtNGUzMS05MWM3LWUzNmQwY2I2ODQwNiIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIvYXJraT9lZD0yMDQ4IiwgInRscyI6ICIifQ==
-trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@jp02.weyaf9sdoh2h.space:19034?sni=TG.WangCai2#%D0%98%D1%80%D0%B0%D0%BD
-trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@jp03.weyaf9sdoh2h.space:17087?sni=TG.WangCai2#%D0%98%D1%80%D0%B0%D0%BD
-trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@jp01.weyaf9sdoh2h.space:18010?sni=TG.WangCai2#%D0%98%D1%80%D0%B0%D0%BD
-trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@jp01.weyaf9sdoh2h.space:18085#%D0%98%D1%80%D0%B0%D0%BD
-trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@jp02.weyaf9sdoh2h.space:19066?sni=TG.WangCai2#%D0%98%D1%80%D0%B0%D0%BD
-trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@jp03.weyaf9sdoh2h.space:17008?sni=TG.WangCai2#%D0%98%D1%80%D0%B0%D0%BD
-trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@jp01.weyaf9sdoh2h.space:18035?sni=TG.WangCai2#%D0%98%D1%80%D0%B0%D0%BD
-vmess://eyJhZGQiOiAiOC4yMTcuMTU4LjkyIiwgInYiOiAiMiIsICJwcyI6ICJcdTA0MTNcdTA0M2VcdTA0M2RcdTA0M2FcdTA0M2VcdTA0M2RcdTA0MzMiLCAicG9ydCI6IDQ5NzYxLCAiaWQiOiAiYjIyNDg3NWUtOThhNi00NDc3LWExZWUtNTMzODg3YjY3MDFkIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIi9hcmtpP2VkPTIwNDgiLCAidGxzIjogIiJ9
-trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@jp02.weyaf9sdoh2h.space:19033#%D0%98%D1%80%D0%B0%D0%BD
-trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@jp02.weyaf9sdoh2h.space:19098#%D0%98%D1%80%D0%B0%D0%BD
+trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@jp03.weyaf9sdoh2h.space:17021?sni=TG.WangCai2#%D0%98%D1%80%D0%B0%D0%BD
+trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@jp01.weyaf9sdoh2h.space:18068?sni=TG.WangCai2#%D0%98%D1%80%D0%B0%D0%BD
+vmess://eyJhZGQiOiAiMTg4LjExNC45Ny4xIiwgInYiOiAiMiIsICJwcyI6ICJcdTA0MWRcdTA0MzhcdTA0MzRcdTA0MzVcdTA0NDBcdTA0M2JcdTA0MzBcdTA0M2RcdTA0MzRcdTA0NGIiLCAicG9ydCI6IDQ0MywgImlkIjogIjVmNzI2ZmUzLWQ4MmUtNGRhNS1hNzExLThhZjBjYmIyYjY4MiIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIxYTJkNTE0Yi0zN2NmLTQ5OWYtOGQwOC1kMDE3YTkyYWI1YmIuYXNvdWwtYXZhLnRvcCIsICJwYXRoIjogIi9henVtYXNlLnJlbiIsICJ0bHMiOiAidGxzIn0=
+trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@jp01.weyaf9sdoh2h.space:18006?sni=TG.WangCai2#%D0%98%D1%80%D0%B0%D0%BD
+trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@jp01.weyaf9sdoh2h.space:18004?sni=TG.WangCai2#%D0%98%D1%80%D0%B0%D0%BD
+trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@jp03.weyaf9sdoh2h.space:17096?sni=TG.WangCai2#%D0%98%D1%80%D0%B0%D0%BD
+trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@jp02.weyaf9sdoh2h.space:19077?allowInsecure=0&sni=TG.WangCai2#%D0%98%D1%80%D0%B0%D0%BD
+vmess://eyJhZGQiOiAiMTUuMjM1LjgzLjIyNyIsICJ2IjogIjIiLCAicHMiOiAiXHUwNDFhXHUwNDMwXHUwNDNkXHUwNDMwXHUwNDM0XHUwNDMwIiwgInBvcnQiOiA0NDMsICJpZCI6ICIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAibWFua2FkbXUuY29tIiwgInBhdGgiOiAiL2xpbmt2d3MiLCAidGxzIjogInRscyJ9
+vmess://eyJhZGQiOiAiMTUuMjM1Ljg1LjE0NyIsICJ2IjogIjIiLCAicHMiOiAiXHUwNDFhXHUwNDMwXHUwNDNkXHUwNDMwXHUwNDM0XHUwNDMwIiwgInBvcnQiOiA0NDMsICJpZCI6ICIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAicGVsYW5nLm9yZyIsICJwYXRoIjogImxpbmt2d3MiLCAidGxzIjogInRscyJ9
+trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@jp02.weyaf9sdoh2h.space:19072?sni=TG.WangCai2#%D0%98%D1%80%D0%B0%D0%BD
+vmess://eyJhZGQiOiAiMzguNjAuMTU2LjU5IiwgInYiOiAiMiIsICJwcyI6ICJcdTA0MjJcdTA0MzBcdTA0MzhcdTA0M2JcdTA0MzBcdTA0M2RcdTA0MzQiLCAicG9ydCI6IDMzMzY3LCAiaWQiOiAiMjEzZDE5M2EtY2YxZi00NDUzLWVjZmMtMjc0YTU1ODZjNjRiIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAiIn0=
+trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@jp03.weyaf9sdoh2h.space:17044?sni=TG.WangCai2#%D0%98%D1%80%D0%B0%D0%BD
 ```
 <h5>Адрес постоянной подписки верхнего узла (части): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ru</h5>
  <p>QR-код для адреса подписки выше</p>

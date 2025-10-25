@@ -35,18 +35,18 @@
  <h4>Knotenliste: (Hier werden nur einige Knoten angezeigt. Bitte laden Sie die App herunter, um alle Knoten anzuzeigen.)</h4>
     
 ```
-trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@jp01.weyaf9sdoh2h.space:18025?sni=TG.WangCai2#Iran
-trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@jp03.weyaf9sdoh2h.space:17011?sni=TG.WangCai2#Iran
-vmess://eyJhZGQiOiAiOTEuMTM0LjguOTMiLCAidiI6ICIyIiwgInBzIjogIkZyYW5rcmVpY2giLCAicG9ydCI6IDQ0MywgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJwZWxhbmcub3JnIiwgInBhdGgiOiAibGlua3Z3cyIsICJ0bHMiOiAidGxzIn0=
-trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@jp01.weyaf9sdoh2h.space:18096?sni=TG.WangCai2#Iran
-ss://YWVzLTI1Ni1nY206ZGFkYTA4MDE=@54.90.226.121:80#USA
-vmess://eyJhZGQiOiAiMjA5LjEyNi44NC4xODkiLCAidiI6ICIyIiwgInBzIjogIlVTQSIsICJwb3J0IjogNDQzLCAiaWQiOiAiMmM5ODExNjQtOWI5My00YmNhLTk0ZmYtYjc4ZDNmODQ5OGQ3IiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogIjIwOS4xMjYuODQuMTg5IiwgInBhdGgiOiAiL3ZtZXNzd3MiLCAidGxzIjogIiJ9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@154.70.207.97:990#Marokko
-vmess://eyJhZGQiOiAiOC4yMTguOC44NCIsICJ2IjogIjIiLCAicHMiOiAiSG9uZ2tvbmciLCAicG9ydCI6IDU1MTM4LCAiaWQiOiAiNmJkNTBhZjgtODFhNy00ODBkLWFiNzgtNWVmMjg0ODY4NDg1IiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIi9hcmtpP2VkPTIwNDgiLCAidGxzIjogIiJ9
-vmess://eyJhZGQiOiAiMTQ5LjMwLjIzMi4xMDMiLCAidiI6ICIyIiwgInBzIjogIlVTQSIsICJwb3J0IjogMTgzOTMsICJpZCI6ICIyYzE4MDdjZS02YTYzLTQ0NTEtOWFkZC1hNzc4ZDI1MDcxNjAiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiL2Fya2k/ZWQ9MjA0OCIsICJ0bHMiOiAiIn0=
-trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@jp01.weyaf9sdoh2h.space:18000?allowInsecure=0&sni=TG.WangCai2#Iran
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.166:8080#Litauen
-trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@jp03.weyaf9sdoh2h.space:17010?sni=TG.WangCai2#Iran
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@23.157.40.101:8008#USA
+vmess://eyJhZGQiOiAiNDcuMjQzLjI1MS4yNDAiLCAidiI6ICIyIiwgInBzIjogIkhvbmdrb25nIiwgInBvcnQiOiAyNDIyNSwgImlkIjogIjU1ZGEzNDJmLTQ1ZmYtNDM3Yi1iZWM2LTU1MjAyOTljYjBkZCIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIvYXJraT9lZD0yMDQ4IiwgInRscyI6ICIifQ==
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.58:8080#Litauen
+trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@jp01.weyaf9sdoh2h.space:18049?sni=TG.WangCai2#Iran
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.251:8080#Niederlande
+trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@jp01.weyaf9sdoh2h.space:18081?sni=TG.WangCai2#Iran
+trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@jp03.weyaf9sdoh2h.space:17082?sni=TG.WangCai2#Iran
+trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@jp03.weyaf9sdoh2h.space:17012?sni=TG.WangCai2#Iran
+trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@jp02.weyaf9sdoh2h.space:19057?sni=TG.WangCai2#Iran
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@89.46.239.231:990#Rum%C3%A4nien
+trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@jp01.weyaf9sdoh2h.space:18047?sni=TG.WangCai2#Iran
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1VFpud1BiMjNwUVMzOWxJdWNzcEp3@fin.outlinebot1.ru:5904#Vereinigte+Arabische+Emirate
 ```
 <h5>Die permanente Abonnementadresse des oberen Knotens (Teil): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_de</h5>
  <p>QR-Code für die Abonnementadresse oben</p>

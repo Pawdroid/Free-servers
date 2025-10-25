@@ -35,18 +35,18 @@
 <h4>Node list: (Only some nodes are shown here, please download the app to view all nodes)</h4>
     
 ```
-trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@jp02.weyaf9sdoh2h.space:19049?sni=TG.WangCai2#Iran
-trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@jp01.weyaf9sdoh2h.space:18046?sni=TG.WangCai2#Iran
-trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@jp03.weyaf9sdoh2h.space:17025?sni=TG.WangCai2#Iran
-trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@jp01.weyaf9sdoh2h.space:18080?sni=TG.WangCai2#Iran
-vmess://eyJhZGQiOiAiNDcuNzYuODkuMTc1IiwgInYiOiAiMiIsICJwcyI6ICJIb25nIEtvbmciLCAicG9ydCI6IDQzMzU5LCAiaWQiOiAiMzRkNTRmMjktYWQwYS00N2U2LTlmNWUtMGI4MjA3NDE2M2RjIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIi9hcmtpP2VkPTIwNDgiLCAidGxzIjogIiJ9
-trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@jp02.weyaf9sdoh2h.space:19079?sni=TG.WangCai2#Iran
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1NjYyMzY4ZC0xNWY1LTQyODMtODhkYS05MTE2NzY3NDc4YWM=@134.122.174.192:12222#Singapore
-trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@jp03.weyaf9sdoh2h.space:17067?sni=TG.WangCai2#Iran
-trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@jp01.weyaf9sdoh2h.space:18085#Iran
-trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@jp01.weyaf9sdoh2h.space:18045?sni=TG.WangCai2#Iran
-trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@jp01.weyaf9sdoh2h.space:18082?sni=TG.WangCai2#Iran
-vmess://eyJhZGQiOiAiMTQ5LjMwLjIzMi4xMDMiLCAidiI6ICIyIiwgInBzIjogIlVuaXRlZCBTdGF0ZXMiLCAicG9ydCI6IDE4MzkzLCAiaWQiOiAiMmMxODA3Y2UtNmE2My00NDUxLTlhZGQtYTc3OGQyNTA3MTYwIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIi9hcmtpP2VkPTIwNDgiLCAidGxzIjogIiJ9
+trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@jp03.weyaf9sdoh2h.space:17074?sni=TG.WangCai2#Iran
+vmess://eyJhZGQiOiAiNTcuMTI5LjI1LjIwIiwgInYiOiAiMiIsICJwcyI6ICJGcmFuY2UiLCAicG9ydCI6IDQ0MywgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsICJhaWQiOiAiMSIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICI1Ny4xMjkuMjUuMjAiLCAicGF0aCI6ICJsaW5rdndzIiwgInRscyI6ICJ0bHMifQ==
+vmess://eyJhZGQiOiAiOC4yMTcuMTU5Ljk2IiwgInYiOiAiMiIsICJwcyI6ICJIb25nIEtvbmciLCAicG9ydCI6IDQ3ODcyLCAiaWQiOiAiMjNlYTBiNzUtMjA2Yi00ZTNiLWI2MjQtZTA5M2Q1ODA4YmY4IiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIi9hcmtpP2VkPTIwNDgiLCAidGxzIjogIiJ9
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@173.244.56.9:443#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@46.183.217.204:990#Latvia
+trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@jp01.weyaf9sdoh2h.space:18029?allowInsecure=0&sni=TG.WangCai2#Iran
+trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@jp01.weyaf9sdoh2h.space:18043?sni=TG.WangCai2#Iran
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@id.vpnsparta.pro:57456#Iran
+trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@jp02.weyaf9sdoh2h.space:19000?allowInsecure=0&sni=TG.WangCai2#Iran
+vmess://eyJhZGQiOiAiNTcuMTI4LjE4OS4yNDAiLCAidiI6ICIyIiwgInBzIjogIkZyYW5jZSIsICJwb3J0IjogNDQzLCAiaWQiOiAiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIi9saW5rdndzIiwgInRscyI6ICJ0bHMifQ==
+trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@jp03.weyaf9sdoh2h.space:17027?sni=TG.WangCai2#Iran
+vmess://eyJhZGQiOiAiMTAzLjI0My4yNS4yMTMiLCAidiI6ICIyIiwgInBzIjogIkhvbmcgS29uZyIsICJwb3J0IjogNDc0OTIsICJpZCI6ICIzZDMzODM1YS01ZDAyLTRjNDgtODAzMC1kMzAxYzA1MDQ4ZWYiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiL2Fya2k/ZWQ9MjA0OCIsICJ0bHMiOiAiIn0=
 ```
 <h5>Permanent subscription address of the node above (part): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_en</h5>
 <p>QR code of the subscription address above</p>
