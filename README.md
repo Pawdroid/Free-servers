@@ -36,9 +36,9 @@
 <h4>节点列表：(这里仅展示部分节点，查看全部节点请下载app)</h4>
 
 ```
+trojan://BxceQaOe@36.151.251.35:24392?allowInsecure=1#%E6%B1%9F%E8%8B%8F%E7%9C%81+%E7%A7%BB%E5%8A%A8
 trojan://BxceQaOe@36.151.251.23:4451?allowInsecure=1#%E6%B1%9F%E8%8B%8F%E7%9C%81+%E7%A7%BB%E5%8A%A8
-vmess://eyJ2IjogMiwgInBzIjogIlx1NmM1Zlx1ODJjZlx1NzcwMSBcdTc5ZmJcdTUyYTgiLCAiYWRkIjogInYyOS5oZWR1aWFuLmxpbmsiLCAicG9ydCI6IDMwODI5LCAiaWQiOiAiY2JiM2Y4NzctZDFmYi0zNDRjLTg3YTktZDE1M2JmZmQ1NDg0IiwgImFpZCI6IDIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6IG51bGwsICJob3N0IjogIm9jYmMuY29tIiwgInBhdGgiOiAiL29vb28iLCAidGxzIjogZmFsc2UsICJzbmkiOiAiIn0=
-trojan://BxceQaOe@36.150.215.241:1924?allowInsecure=1#%E6%B1%9F%E8%8B%8F%E7%9C%81+%E7%A7%BB%E5%8A%A8
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU2YzVmXHU4MmNmXHU3NzAxIFx1NzlmYlx1NTJhOCIsICJhZGQiOiAidjkuaGVkdWlhbi5saW5rIiwgInBvcnQiOiAiMzA4MDkiLCAiYWlkIjogMiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJpZCI6ICJjYmIzZjg3Ny1kMWZiLTM0NGMtODdhOS1kMTUzYmZmZDU0ODQiLCAic25pIjogIiIsICJob3N0IjogImJhaWR1LmNvbSIsICJwYXRoIjogIi9vb29vIn0=
 ```
 
 <h5>上方节点（部分）永久订阅地址：https://proxy.v2gh.com/https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub</h5>
