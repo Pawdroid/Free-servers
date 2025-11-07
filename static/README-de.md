@@ -35,10 +35,10 @@
  <h4>Knotenliste: (Hier werden nur einige Knoten angezeigt. Bitte laden Sie die App herunter, um alle Knoten anzuzeigen.)</h4>
     
 ```
-vmess://eyJhZGQiOiAiMTU0LjE3LjIzMC42NyIsICJ2IjogIjIiLCAicHMiOiAiVVNBIiwgInBvcnQiOiAzMzk5NSwgImlkIjogImRlOTRjYzBhLTA1OTItNDk2OS1iMWZjLTk3ZWE4ZjBlYTBiMyIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJ1cy5uYmVlLnBwLnVhIiwgInBhdGgiOiAiL2FhIiwgInRscyI6ICJ0bHMifQ==
-vmess://eyJhZGQiOiAiODkuMzEuMTIwLjE5MiIsICJ2IjogIjIiLCAicHMiOiAiVmVyZWluaWd0ZSBBcmFiaXNjaGUgRW1pcmF0ZSIsICJwb3J0IjogNDQzLCAiaWQiOiAiNDQ1Mzc1OTUtOWNjYy00YjgzLTg5MzYtNWY5YWQzMjI5MDE5IiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIiLCAidGxzIjogIiJ9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.166:8080#Litauen
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.251:8080#Niederlande
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.166:443#Litauen
+vmess://eyJ2IjoiMiIsInBzIjoi8J+Hq/Cfh7cgRlLms5Xlm70obWliZWk3Ny5jb20g57Gz6LSd6IqC54K55YiG5LqrKSIsImFkZCI6IjIwMDE6YmM4OjMyZDc6MzAyOjoxMCIsInBvcnQiOiI0NDU3OSIsInR5cGUiOiJub25lIiwiaWQiOiI4ZTM0ZTE3MC0xM2FlLTQ4OTItOWQyMC0wNTk2MmFjYzlmODQiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsImhvc3QiOiIyMDAxOmJjODozMmQ3OjMwMjo6MTAiLCJ0bHMiOiIifQ==
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@103.163.218.2:990#Vietnam
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.158.171.146:8080#USA
 ```
 <h5>Die permanente Abonnementadresse des oberen Knotens (Teil): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_de</h5>
  <p>QR-Code für die Abonnementadresse oben</p>

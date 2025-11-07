@@ -35,10 +35,10 @@
  <h4>नोड सूची: (यहां केवल कुछ नोड्स प्रदर्शित हैं, कृपया सभी नोड्स देखने के लिए ऐप डाउनलोड करें)</h4>
     
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@104.192.226.106:990#United+States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@203.23.128.33:990#Hong+Kong
-vmess://eyJhZGQiOiAiNDcuMjM5LjI1Mi4zMCIsICJ2IjogIjIiLCAicHMiOiAiSG9uZyBLb25nIiwgInBvcnQiOiAyMzU0MCwgImlkIjogIjJkNWFkMjUxLThiYzMtNDFjNC04ODgwLWQ1N2VmN2YzNjc1OSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIvYXJraT9lZD0yMDQ4IiwgInRscyI6ICIifQ==
-vmess://eyJhZGQiOiAiY2YuZm92aS50ayIsICJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJwb3J0IjogNDQzLCAiaWQiOiAiYmY2NzQzN2UtNmM5MC00NWNhLWFiYzItYzcyNDBhNWNlMmFhIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogImZveGx1eC5mb3ZpLnRrIiwgInBhdGgiOiAiL2Vpc2FzcWEiLCAidGxzIjogInRscyIsICJzbmkiOiAiIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJzY3kiOiAiIn0=
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@beesyar.org:8080#Iran
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@64.74.163.130:990#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.47.255.22:990#Puerto+Rico
+vmess://eyJhZGQiOiAiOC4yMTcuOTIuMTEwIiwgInYiOiAiMiIsICJwcyI6ICJIb25nIEtvbmciLCAicG9ydCI6IDIwNTIyLCAiaWQiOiAiMzFlMWY5MGYtMDIxOC00MDk3LTkxZjktYTQyZGY5YjMzMzRhIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIi90ZWxlZ3JhbV9Ac3N3aWEiLCAidGxzIjogIiJ9
 ```
 <h5>ऊपरी नोड (भाग) का स्थायी सदस्यता पता: https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_hi</h5>
  <p>उपरोक्त सदस्यता पते के लिए QR कोड</p>
