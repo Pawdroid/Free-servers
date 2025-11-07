@@ -35,11 +35,12 @@
  <h4>Daftar node: (Hanya beberapa node yang ditampilkan di sini, silakan unduh aplikasi untuk melihat semua node)</h4>
     
 ```
-vmess://eyJhZGQiOiAiODUuMTk1LjEwMS4xMjIiLCAidiI6ICIyIiwgInBzIjogIkdlcm1hbnkiLCAicG9ydCI6IDQwODc4LCAiaWQiOiAiZjNkNDE2N2UtYjE1ZS00ZTQ2LTgyZTktOTI4NmVmOTNmZGE3IiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIiLCAidGxzIjogIiJ9
-ss://YWVzLTEyOC1nY206STFxcll4T1h4UFlDT2toVA==@nl1.web3sp.com:50829#Hong+Kong
-vmess://eyJhZGQiOiAiMjA5LjEyNi44NC4xODkiLCAidiI6ICIyIiwgInBzIjogIlVuaXRlZCBTdGF0ZXMiLCAicG9ydCI6IDQ0MywgImlkIjogIjJjOTgxMTY0LTliOTMtNGJjYS05NGZmLWI3OGQzZjg0OThkNyIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIyMDkuMTI2Ljg0LjE4OSIsICJwYXRoIjogIi92bWVzc3dzIiwgInRscyI6ICIifQ==
-vmess://eyJhZGQiOiAiNDcuMjQzLjI1MS4yNDAiLCAidiI6ICIyIiwgInBzIjogIkhvbmcgS29uZyIsICJwb3J0IjogMjQyMjUsICJpZCI6ICI1NWRhMzQyZi00NWZmLTQzN2ItYmVjNi01NTIwMjk5Y2IwZGQiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiL2Fya2k/ZWQ9MjA0OCIsICJ0bHMiOiAiIn0=
-trojan://e4e262d453466988575c397a30562337@58.152.53.42:443?allowInsecure=0&sni=www.nintendogames.net#Hong+Kong
+ss://YWVzLTEyOC1nY206STFxcll4T1h4UFlDT2toVA==@in1.web3sp.com:50609#Hong+Kong
+ss://YWVzLTEyOC1nY206STFxcll4T1h4UFlDT2toVA==@us1.web3sp.com:50529#Hong+Kong
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1NjYyMzY4ZC0xNWY1LTQyODMtODhkYS05MTE2NzY3NDc4YWM=@134.122.174.192:12222#Singapore
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.47.255.22:990#Puerto+Rico
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMXY1ZzlGZWZkb08=@57.129.140.88:8388#France
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.187:8080#Lithuania
 ```
 <h5>Alamat langganan permanen node atas (bagian): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_id</h5>
  <p>Kode QR untuk alamat berlangganan di atas</p>
