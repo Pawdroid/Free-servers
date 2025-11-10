@@ -35,10 +35,10 @@
  <h4>ノード リスト: (ここには一部のノードのみが表示されます。すべてのノードを表示するにはアプリをダウンロードしてください)</h4>
     
 ```
-trojan://BxceQaOe@58.152.30.26:443?sni=t.me%25252Fripaojiedian#%E9%A6%99%E6%B8%AF
-vmess://eyJhZGQiOiAiODMuMTQ3LjEzLjIyOCIsICJ2IjogIjIiLCAicHMiOiAiXHUzMGIzXHUzMGVkXHUzMGYzXHUzMGQzXHUzMGEyXHU1MTcxXHU1NDhjXHU1NmZkIiwgInBvcnQiOiA4MDgwLCAiaWQiOiAiMjZkNzdkN2EtZDRlYS00MGNkLThkYTUtNTRhOWM4NGU3MzYyIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIi9lYy1NY0F1dGgvaW5kZXgiLCAidGxzIjogIiJ9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0SmxFV2gyUHpETWV3OHFvOVlrUEVB@promo16v.bystrivpn.ru:443#%E3%83%88%E3%83%AB%E3%82%B3%E5%85%B1%E5%92%8C%E5%9B%BD
-trojan://1b57001bd214304027025a740b6cf1ac@58.152.110.25:443?sni=www.nintendogames.net#%E9%A6%99%E6%B8%AF
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@ca225.vpnbook.com:80#%E3%82%AB%E3%83%8A%E3%83%80
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@151.242.251.152:8080#%E3%82%A4%E3%83%A9%E3%83%B3%E3%83%BB%E3%82%A4%E3%82%B9%E3%83%A9%E3%83%A0%E5%85%B1%E5%92%8C%E5%9B%BD
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.187:8080#%E3%83%AA%E3%83%88%E3%82%A2%E3%83%8B%E3%82%A2%E5%85%B1%E5%92%8C%E5%9B%BD
+trojan://1b57001bd214304027025a740b6cf1ac@221.128.195.12:3841?sni=www.nintendogames.net#%E4%B8%AD%E5%9B%BD
 ```
 <h5>上位ノードの永続サブスクリプション アドレス (部分): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ja</h5>
  <p>上記の購読アドレスの QR コード</p>
