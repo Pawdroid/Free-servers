@@ -35,11 +35,10 @@
  <h4>নোড তালিকা: (শুধুমাত্র কিছু নোড এখানে প্রদর্শিত হয়, সমস্ত নোড দেখতে অ্যাপটি ডাউনলোড করুন)</h4>
     
 ```
-trojan://2274c52572e721086f8bd8f88984643c@160.16.214.6:4095?allowInsecure=0&sni=www.nintendogames.net#Japan
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpIbVpmZEduZjJMQmRraWRpdks0VjM5@81.90.31.219:443#Iraq
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.47.253.227:990#Ecuador
-vmess://eyJhZGQiOiAiY2dyb3VwLm5vZGU1LnYubm9kZWxpc3QtYWlycG9ydC5jb20iLCAidiI6ICIyIiwgInBzIjogIlVuaXRlZCBTdGF0ZXMiLCAicG9ydCI6IDY1NDIsICJpZCI6ICI4ZjNhODM1Yy04YTQ1LTQ4MGQtYWUzNS0xZGViMmM1MmRjYWUiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiY2dyb3VwLm5vZGU1LnYubm9kZWxpc3QtYWlycG9ydC5jb20iLCAicGF0aCI6ICIvIiwgInRscyI6ICIifQ==
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.126.237.38:990#Romania
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.123.101.241:990#T%C3%BCrkiye
+vmess://eyJ2IjogIjIiLCAicHMiOiAiSG9uZyBLb25nIiwgImFkZCI6ICIxMDMuMjQzLjI2LjIwOSIsICJwb3J0IjogIjgwODAiLCAidHlwZSI6ICJodHRwIiwgImlkIjogImJjN2U2ODQwLWFiODMtNDU3MC1lYWFlLWQ5YWZmMWUyZGEwOSIsICJhaWQiOiAiMCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiLyIsICJob3N0IjogIjEwMy4yNDMuMjYuMjA5IiwgInRscyI6ICIifQ==
+vmess://eyJhZGQiOiAiOC4yMTguMTEzLjE5IiwgInYiOiAiMiIsICJwcyI6ICJIb25nIEtvbmciLCAicG9ydCI6IDYxOTIsICJpZCI6ICI0MDZkNWJlNi0xMDFjLTQ2ZjctOWUxMC1iZTIyMmE5ZjVhMWIiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiL2Fya2k/ZWQ9MjA0OCIsICJ0bHMiOiAiIn0=
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxWHZPN3pZVTdLZWFCME1kN0RRTG93@51.195.119.47:1080#France
 ```
 <h5>উপরের নোডের স্থায়ী সদস্যতা ঠিকানা (অংশ): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_bn</h5>
  <p>উপরের সদস্যতা ঠিকানার জন্য QR কোড</p>

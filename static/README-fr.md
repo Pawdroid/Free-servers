@@ -35,11 +35,10 @@
  <h4>Liste des nœuds: (Seuls certains nœuds sont affichés ici, veuillez télécharger l'application pour afficher tous les nœuds)</h4>
     
 ```
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.170:443#%C3%89tats+Unis
-vmess://eyJhZGQiOiAiOC4yMTguMTUyLjk3IiwgInYiOiAiMiIsICJwcyI6ICJIb25nIEtvbmciLCAicG9ydCI6IDQ2NDMzLCAiaWQiOiAiNDY0OGUwMTctYTE4Zi00OGI2LWE1NzAtMWJmZTYxZmMzODI1IiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIi9hcmtpP2VkPTIwNDgiLCAidGxzIjogIiJ9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@154.205.159.100:990#Seychelles
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.58:8080#Lituanie
-vmess://eyJhZGQiOiAiNTcuMTI5LjU5LjE5MyIsICJ2IjogIjIiLCAicHMiOiAiRnJhbmNlIiwgInBvcnQiOiA0NDMsICJpZCI6ICIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAic2Vya2F0Lm9yZyIsICJwYXRoIjogIi9saW5rdndzIiwgInRscyI6ICJ0bHMifQ==
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0SmxFV2gyUHpETWV3OHFvOVlrUEVB@38.180.105.12:443#Turquie
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@79.127.233.170:990#Royaume-Uni
+vmess://eyJhZGQiOiAiMTA3LjE3Mi44Mi40MSIsICJ2IjogIjIiLCAicHMiOiAiQ2FuYWRhIiwgInBvcnQiOiAxMTgxNCwgImlkIjogIjRmMzRmMjQyLWI1YTctNDhjMS1jMjU4LWYwMTliZTNiZjljNyIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJybi44MTA5MzAueHl6IiwgInBhdGgiOiAiIiwgInRscyI6ICJ0bHMifQ==
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@193.29.139.179:8080#Pays-Bas
 ```
 <h5>L'adresse d'abonnement permanente du nœud supérieur (partie): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_fr</h5>
  <p>Code QR pour l'adresse d'abonnement ci-dessus</p>
