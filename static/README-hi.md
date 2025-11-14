@@ -35,11 +35,10 @@
  <h4>नोड सूची: (यहां केवल कुछ नोड्स प्रदर्शित हैं, कृपया सभी नोड्स देखने के लिए ऐप डाउनलोड करें)</h4>
     
 ```
-trojan://63b8ce6d-9a30-4122-a00f-fd47f020dc27@89.28.236.243:443?allowInsecure=0&sni=joss.dus.biz.id&type=ws&host=joss.dus.biz.id&path=/Free-VPN-CF-Geo-Project/89.28.236.243=443#United+Kingdom
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiZWVkMTQ5ZS1kMmEyLTQ5NDQtODJjNy0zZDFhZmI4YTZlNGY=@134.122.174.192:12222#Singapore
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTamRHQ0h3YWZqa3R0MXJ6cEd4VEtZVHZWQldiOFhhNkU1RFRyNk16YmRIUVN3dnBMaURjemozbjZNQmp5MnV5RlN6Z3FndkNXc0RRbXBNNFZRemZQenlHWUY1OHdkeUQ=@208.67.105.196:42029#The+Netherlands
-trojan://BxceQaOe@116.49.237.130:4094?sni=t.me%252Fripaojiedian#Hong+Kong
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@45.159.250.190:990#Kazakhstan
+vmess://eyJhZGQiOiAiNDcuMjM4LjI0Ny42OSIsICJ2IjogIjIiLCAicHMiOiAiSG9uZyBLb25nIiwgInBvcnQiOiA1Njc4MywgImlkIjogImM0YjhiYTkwLWIxMTMtNDYxZS04OTg5LWEzMDc5ZWFhMzk0YiIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIvYXJraT9lZD0yMDQ4IiwgInRscyI6ICIifQ==
+trojan://5ad5fe82-6b60-4f59-977b-93910ef7a9ca@86.107.197.239:443?allowInsecure=0&sni=joss.dus.biz.id&type=ws&host=joss.dus.biz.id&path=/Free-VPN-CF-Geo-Project/86.107.197.239=443#The+Netherlands
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.199:8080#Lithuania
+vmess://eyJhZGQiOiAiNTcuMTI5LjU5LjE5MyIsICJ2IjogIjIiLCAicHMiOiAiRnJhbmNlIiwgInBvcnQiOiA0NDMsICJpZCI6ICIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAic2Vya2F0Lm9yZyIsICJwYXRoIjogIi9saW5rdndzIiwgInRscyI6ICJ0bHMifQ==
 ```
 <h5>ऊपरी नोड (भाग) का स्थायी सदस्यता पता: https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_hi</h5>
  <p>उपरोक्त सदस्यता पते के लिए QR कोड</p>

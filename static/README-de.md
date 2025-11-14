@@ -35,11 +35,10 @@
  <h4>Knotenliste: (Hier werden nur einige Knoten angezeigt. Bitte laden Sie die App herunter, um alle Knoten anzuzeigen.)</h4>
     
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@64.74.163.130:990#USA
-vmess://eyJhZGQiOiAiNTcuMTI5LjU5LjIwMSIsICJ2IjogIjIiLCAicHMiOiAiRnJhbmtyZWljaCIsICJwb3J0IjogNDQzLCAiaWQiOiAiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogImthbXBvbmcub3JnIiwgInBhdGgiOiAibGlua3Z3cyIsICJ0bHMiOiAidGxzIn0=
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.199:8080#Litauen
-trojan://d5a49621-b25c-4684-aea8-8389f3a8afaf@94.177.199.119:8443?allowInsecure=0&sni=joss.dus.biz.id&type=ws&host=joss.dus.biz.id&path=/Free-VPN-CF-Geo-Project/94.177.199.119=8443#Italien
-trojan://55d19115-ec40-407b-a674-74e6a948347a@45.144.48.55:2053?allowInsecure=0&sni=joss.dus.biz.id&type=ws&host=joss.dus.biz.id&path=/Free-VPN-CF-Geo-Project/45.144.48.55=2053#Polen
+vmess://eyJ2IjogIjIiLCAicHMiOiAiSG9uZ2tvbmciLCAiYWRkIjogIjEwMy4yNDMuMjYuMjA5IiwgInBvcnQiOiAiMTAwODYiLCAidHlwZSI6ICJodHRwIiwgImlkIjogImM1ZWMyZTNmLWMwNTgtNDZhOC1hMTQ4LTE4MzE4MjRiYjk0YiIsICJhaWQiOiAiMCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiLyIsICJob3N0IjogIjEwMy4yNDMuMjYuMjA5IiwgInRscyI6ICIifQ==
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.240:8080#Niederlande
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@38.54.45.129:990#Argentinien
+vmess://eyJhZGQiOiAiNTcuMTI5LjU5LjE5OSIsICJ2IjogIjIiLCAicHMiOiAiRnJhbmtyZWljaCIsICJwb3J0IjogNDQzLCAiaWQiOiAiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogImthbXBvbmcub3JnIiwgInBhdGgiOiAibGlua3Z3cyIsICJ0bHMiOiAidGxzIn0=
 ```
 <h5>Die permanente Abonnementadresse des oberen Knotens (Teil): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_de</h5>
  <p>QR-Code für die Abonnementadresse oben</p>
