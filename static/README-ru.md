@@ -35,10 +35,9 @@
  <h4>Список узлов: (здесь показаны только некоторые узлы. Загрузите приложение, чтобы просмотреть все узлы)</h4>
     
 ```
-vmess://eyJhZGQiOiAiMTI1LjEzNC4xMjMuMTc4IiwgInYiOiAiMiIsICJwcyI6ICJcdTA0MjBcdTA0MzVcdTA0NDFcdTA0M2ZcdTA0NDNcdTA0MzFcdTA0M2JcdTA0MzhcdTA0M2FcdTA0MzAgXHUwNDFhXHUwNDNlXHUwNDQwXHUwNDM1XHUwNDRmIiwgInBvcnQiOiA1MDAwMSwgImlkIjogImZmZGUzODFiLTRhMzAtNDFkNC05MGViLTE1MWYyMjhiMDZlYSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJhYS5uYmVlLnBwLnVhIiwgInBhdGgiOiAiL3FxIiwgInRscyI6ICJ0bHMifQ==
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.35:8080#%D0%9B%D0%B8%D1%82%D0%B2%D0%B0
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.171:8080#%D0%9B%D0%B8%D1%82%D0%B2%D0%B0
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@45.87.175.174:8080#%D0%9B%D0%B8%D1%82%D0%B2%D0%B0
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxWHZPN3pZVTdLZWFCME1kN0RRTG93@51.195.119.47:1080#%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D1%8F
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@212.102.54.45:990#%D0%98%D1%82%D0%B0%D0%BB%D0%B8%D1%8F
+trojan://3b38715b-f08a-46dd-9904-7531ca4bb6e8@95.182.120.208:2053?allowInsecure=0&sni=joss.gpj.web.id&type=ws&host=joss.gpj.web.id&path=/Free-VPN-CF-Geo-Project/95.182.120.208=2053#%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F
 ```
 <h5>Адрес постоянной подписки верхнего узла (части): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ru</h5>
  <p>QR-код для адреса подписки выше</p>
