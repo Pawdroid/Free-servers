@@ -35,9 +35,9 @@
  <h4>ノード リスト: (ここには一部のノードのみが表示されます。すべてのノードを表示するにはアプリをダウンロードしてください)</h4>
     
 ```
-vmess://eyJhZGQiOiAiNjkuODQuMTgyLjEwOCIsICJ2IjogIjIiLCAicHMiOiAiXHUzMGEyXHUzMGUxXHUzMGVhXHUzMGFiIiwgInBvcnQiOiAyMDUzLCAiaWQiOiAiNTU5YjkwZWMtYjYyMC00MjU1LTgwYTUtYzY0YjhkM2ZmZTZjIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogImNkbi1ub2RlLW9zcy03Ni5wYW9mdS5kZSIsICJwYXRoIjogIi9wcm9maWxlL3NoYXJlbm9kZSIsICJ0bHMiOiAidGxzIn0=
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.171:8080#%E3%83%AA%E3%83%88%E3%82%A2%E3%83%8B%E3%82%A2%E5%85%B1%E5%92%8C%E5%9B%BD
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@103.163.218.2:990#%E3%83%99%E3%83%88%E3%83%8A%E3%83%A0
+vmess://eyJhZGQiOiAiNDUuMzIuNDUuNDUiLCAidiI6ICIyIiwgInBzIjogIlx1NjVlNVx1NjcyYyIsICJwb3J0IjogMTQ3NjAsICJpZCI6ICJkYmY3YTZlNC1kNTE4LTRmOWItYTU1ZS0yN2VmODkyZmZhYzEiLCAiYWlkIjogIjAiLCAibmV0IjogInRjcCIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAiIn0=
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@45.87.175.155:8080#%E3%83%AA%E3%83%88%E3%82%A2%E3%83%8B%E3%82%A2%E5%85%B1%E5%92%8C%E5%9B%BD
+trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@202.181.103.246:1334?allowInsecure=0&sni=www.nintendogames.net#%E6%97%A5%E6%9C%AC
 ```
 <h5>上位ノードの永続サブスクリプション アドレス (部分): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ja</h5>
  <p>上記の購読アドレスの QR コード</p>

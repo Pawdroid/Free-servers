@@ -35,9 +35,9 @@
  <h4>नोड सूची: (यहां केवल कुछ नोड्स प्रदर्शित हैं, कृपया सभी नोड्स देखने के लिए ऐप डाउनलोड करें)</h4>
     
 ```
-vmess://eyJ2IjogIjIiLCAicHMiOiAiSG9uZyBLb25nIiwgImFkZCI6ICJ2OS5oZWR1aWFuLmxpbmsiLCAicG9ydCI6ICIzMDgwOSIsICJ0eXBlIjogIm5vbmUiLCAiaWQiOiAiY2JiM2Y4NzctZDFmYi0zNDRjLTg3YTktZDE1M2JmZmQ1NDg0IiwgImFpZCI6ICIyIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9vb29vIiwgImhvc3QiOiAiYmFpZHUuY29tIiwgInRscyI6ICIifQ==
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.65:8080#Lithuania
-vmess://eyJhZGQiOiAiOC4yMTcuMjA2LjI1IiwgInYiOiAiMiIsICJwcyI6ICJIb25nIEtvbmciLCAicG9ydCI6IDM3MjEsICJpZCI6ICI5YWNkY2FhZC1hYzE0LTQ0YWUtYTY3NS0wMTdlYTE0MzE3ODkiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiLyIsICJ0bHMiOiAiIn0=
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@151.242.251.142:8080#Iran
+vmess://eyJhZGQiOiAiNTQuMTg0LjE5NS45NiIsICJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJwb3J0IjogMzYxNDMsICJpZCI6ICI5NWVhZjYyMi1mOTNlLTQ4NTItZDgwNS1lNDZiNTEyMGEwYzYiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiLyIsICJ0bHMiOiAiIn0=
+trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@202.181.103.246:5553?sni=www.nintendogames.net#Japan
 ```
 <h5>ऊपरी नोड (भाग) का स्थायी सदस्यता पता: https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_hi</h5>
  <p>उपरोक्त सदस्यता पते के लिए QR कोड</p>

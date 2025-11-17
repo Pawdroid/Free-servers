@@ -35,9 +35,9 @@
  <h4>Danh sách nút: (Chỉ hiển thị một số nút ở đây, vui lòng tải xuống ứng dụng để xem tất cả các nút)</h4>
     
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@151.242.251.152:8080#Iran
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.167:443#United+States
-trojan://BxceQaOe@38.180.191.251:443?sni=t.me%252Fripaojiedian#The+Netherlands
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.188:8080#Lithuania
+vmess://eyJhZGQiOiAiMTg1LjE0Ni4xNzMuMTE3IiwgInYiOiAiMiIsICJwcyI6ICJTd2VkZW4iLCAicG9ydCI6IDgwLCAiaWQiOiAiZDk2N2ZmY2EtZGU5MC00ZGFhLWJkMDAtZDUyN2U1YmFlMTFmIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogImdvb2dsZS53aGF0c2FwcC5zbmFwcC50b3JvYi5iYXNhbGFtLmxlb3Nob3BwaW5nNzcuaXIuIiwgInBhdGgiOiAiLz9CSUFfVEVMRUdSQU0gKEBBWkFSQkFZSkFCMSkgVE0gKEBBWkFSQkFZSkFCMSkgVE0gKEBBWkFSQkFZSkFCMSkgVE0gKEBBWkFSQkFZSkFCMSkgVE0gKEBBWkFSQkFZSkFCMSkgVE0gKEBBWkFSQkFZSkFCMSkiLCAidGxzIjogIiJ9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.22:8080#Lithuania
 ```
 <h5>Địa chỉ đăng ký vĩnh viễn của nút trên (một phần): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_vi</h5>
  <p>Mã QR cho địa chỉ đăng ký ở trên</p>

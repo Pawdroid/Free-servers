@@ -35,9 +35,9 @@
  <h4>Список узлов: (здесь показаны только некоторые узлы. Загрузите приложение, чтобы просмотреть все узлы)</h4>
     
 ```
-vmess://eyJhZGQiOiAiOC4yMTguMTcuMTM2IiwgInYiOiAiMiIsICJwcyI6ICJcdTA0MTNcdTA0M2VcdTA0M2RcdTA0M2FcdTA0M2VcdTA0M2RcdTA0MzMiLCAicG9ydCI6IDQ3MjgsICJpZCI6ICJhMGUwNTBjYS02ZDM3LTQ1MmYtYmY1Yy0zZTRlNDc1ZWYzNmIiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiIiwgInRscyI6ICIifQ==
-vmess://eyJhZGQiOiAiOC4yMTAuNTIuMjExIiwgInYiOiAiMiIsICJwcyI6ICJcdTA0MTNcdTA0M2VcdTA0M2RcdTA0M2FcdTA0M2VcdTA0M2RcdTA0MzMiLCAicG9ydCI6IDIwNTIyLCAiaWQiOiAiMzc4MjcwMzYtMWZjNS00MWVhLTlmYzUtMTExYWYxZGI0OWRjIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIi90ZWxlZ3JhbV9Ac3N3aWEiLCAidGxzIjogIiJ9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@193.29.139.189:8080#%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.157:8080#%D0%9B%D0%B8%D1%82%D0%B2%D0%B0
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@151.242.251.142:8080#%D0%98%D1%80%D0%B0%D0%BD
+vmess://eyJhZGQiOiAiOC4yMTcuNTIuNDIiLCAidiI6ICIyIiwgInBzIjogIlx1MDQxM1x1MDQzZVx1MDQzZFx1MDQzYVx1MDQzZVx1MDQzZFx1MDQzMyIsICJwb3J0IjogMzcyMSwgImlkIjogImY4MGIyYjBkLWRmNzMtNDcwYy04MTM5LWNjMWFkNjEzMjMwYiIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIiLCAidGxzIjogIiJ9
 ```
 <h5>Адрес постоянной подписки верхнего узла (части): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ru</h5>
  <p>QR-код для адреса подписки выше</p>

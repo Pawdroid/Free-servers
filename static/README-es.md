@@ -35,9 +35,9 @@
  <h4>Lista de nodos: (aquí solo se muestran algunos nodos; descargue la aplicación para ver todos los nodos)</h4>
     
 ```
-vmess://eyJhZGQiOiAiODkuMzEuMTIwLjE5MiIsICJ2IjogIjIiLCAicHMiOiAiRW1pcmF0b3MgXHUwMGMxcmFiZXMgVW5pZG9zIiwgInBvcnQiOiA0NDMsICJpZCI6ICI0NDUzNzU5NS05Y2NjLTRiODMtODkzNi01ZjlhZDMyMjkwMTkiLCAiYWlkIjogIjAiLCAibmV0IjogInRjcCIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAiIn0=
-trojan://installshield@38.180.249.177:8443?sni=wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc#Holanda
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.69:8080#Lituania
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.164:8080#Lituania
+vmess://eyJ2IjogIjIiLCAicHMiOiAiSG9uZyBLb25nIiwgImFkZCI6ICIxMDMuMjQzLjI2LjIwOSIsICJwb3J0IjogIjEwMDg2IiwgInR5cGUiOiAiaHR0cCIsICJpZCI6ICJjNWVjMmUzZi1jMDU4LTQ2YTgtYTE0OC0xODMxODI0YmI5NGIiLCAiYWlkIjogIjAiLCAibmV0IjogInRjcCIsICJwYXRoIjogIi8iLCAiaG9zdCI6ICIxMDMuMjQzLjI2LjIwOSIsICJ0bHMiOiAiIn0=
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.35:8080#Lituania
 ```
 <h5>La dirección de suscripción permanente del nodo superior (parte): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_es</h5>
  <p>Código QR para la dirección de suscripción anterior</p>

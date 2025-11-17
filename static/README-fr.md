@@ -35,9 +35,9 @@
  <h4>Liste des nœuds: (Seuls certains nœuds sont affichés ici, veuillez télécharger l'application pour afficher tous les nœuds)</h4>
     
 ```
-vmess://eyJhZGQiOiAiODIuMTk3LjY5LjEzMSIsICJ2IjogIjIiLCAicHMiOiAiQWxsZW1hZ25lIiwgInBvcnQiOiAzOTY3NCwgImlkIjogIjVhODkzODZhLTgyN2ItNGY1NC04Nzc4LTJmMWI1MTIyYzZlZiIsICJhaWQiOiAiMCIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiIiwgInRscyI6ICIifQ==
-trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@202.181.103.246:5553?allowInsecure=0&sni=www.nintendogames.net#Japon
-trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@160.16.131.243:1334?sni=www.nintendogames.net#Japon
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.188:8080#Lituanie
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.126.237.38:990#Roumanie
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.217:8080#Pays-Bas
 ```
 <h5>L'adresse d'abonnement permanente du nœud supérieur (partie): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_fr</h5>
  <p>Code QR pour l'adresse d'abonnement ci-dessus</p>
