@@ -36,11 +36,11 @@
 <h4>节点列表：(这里仅展示部分节点，查看全部节点请下载app)</h4>
 
 ```
-trojan://BxceQaOe@219.79.165.55:443?allowInsecure=1&sni=t.me%2Fripaojiedian#%E9%A6%99%E6%B8%AF+%E7%94%B5%E8%AE%AF%E7%9B%88%E7%A7%91%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8
-trojan://019a8c1f-3d28-74e8-8a8e-40045d7ec77f@194.87.18.124:443?allowInsecure=1&sni=www.bilibili.com#%E4%BF%84%E7%BD%97%E6%96%AF+V2CROSS.COM
-trojan://BxceQaOe@58.152.26.173:443?allowInsecure=1&sni=t.me%2Fripaojiedian#%E9%A6%99%E6%B8%AF+%E7%94%B5%E8%AE%AF%E7%9B%88%E7%A7%91%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8
-trojan://BxceQaOe@116.49.237.130:3127?sni=t.me%252Fripaojiedian#%E9%A6%99%E6%B8%AF+%E7%94%B5%E8%AE%AF%E7%9B%88%E7%A7%91%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8
 vmess://eyJhZGQiOiAiMTg1LjE0Ni4xNzMuMTYiLCAidiI6ICIyIiwgInBzIjogIlx1NzQ1ZVx1NTE3OCBWMkNST1NTLkNPTSIsICJwb3J0IjogODAsICJpZCI6ICJkOTY3ZmZjYS1kZTkwLTRkYWEtYmQwMC1kNTI3ZTViYWUxMWYiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiZ29vZ2xlLndoYXRzYXBwLnNuYXBwLnRvcm9iLmJhc2FsYW0ubGVvc2hvcHBpbmc3Ny5pci4iLCAicGF0aCI6ICIvP0JJQV9URUxFR1JBTSAoQEFaQVJCQVlKQUIxKSBUTSAoQEFaQVJCQVlKQUIxKSBUTSAoQEFaQVJCQVlKQUIxKSBUTSAoQEFaQVJCQVlKQUIxKSBUTSAoQEFaQVJCQVlKQUIxKSBUTSAoQEFaQVJCQVlKQUIxKSIsICJ0bHMiOiAiIn0=
+trojan://BxceQaOe@116.49.237.130:3127?sni=t.me%252Fripaojiedian#%E9%A6%99%E6%B8%AF+%E7%94%B5%E8%AE%AF%E7%9B%88%E7%A7%91%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8
+trojan://BxceQaOe@58.152.26.173:443?allowInsecure=1&sni=t.me%2Fripaojiedian#%E9%A6%99%E6%B8%AF+%E7%94%B5%E8%AE%AF%E7%9B%88%E7%A7%91%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8
+trojan://019a8c1f-3d28-74e8-8a8e-40045d7ec77f@194.87.18.124:443?allowInsecure=1&sni=www.bilibili.com#%E4%BF%84%E7%BD%97%E6%96%AF+V2CROSS.COM
+trojan://BxceQaOe@219.79.165.55:443?allowInsecure=1&sni=t.me%2Fripaojiedian#%E9%A6%99%E6%B8%AF+%E7%94%B5%E8%AE%AF%E7%9B%88%E7%A7%91%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8
 ```
 
 <h5>上方节点（部分）永久订阅地址：https://proxy.v2gh.com/https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub</h5>
