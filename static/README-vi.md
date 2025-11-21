@@ -35,10 +35,10 @@
  <h4>Danh sách nút: (Chỉ hiển thị một số nút ở đây, vui lòng tải xuống ứng dụng để xem tất cả các nút)</h4>
     
 ```
-trojan://1e1a7efa-a4f1-4936-a470-a001e0c3c85b@212.227.144.37:8443?allowInsecure=0&sni=joss.gpj1.web.id&type=ws&host=joss.gpj1.web.id&path=/Free-VPN-CF-Geo-Project/212.227.144.37=8443#Germany
-trojan://BxceQaOe@58.152.18.95:443?sni=t.me%25252Fripaojiedian#Hong+Kong
-vmess://eyJhZGQiOiAiMTU0LjIxLjIwMS44MyIsICJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJwb3J0IjogNDQzLCAiaWQiOiAiNGJmMDc1ZjUtNGQ1ZS00ZDM5LWY1YWItYjMyYTg2MjUwZjBlIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogImhrLm5iZWUucHAudWEiLCAicGF0aCI6ICIvYWEiLCAidGxzIjogInRscyJ9
-vmess://eyJhZGQiOiAiOC4yMTguMTcuMTM2IiwgInYiOiAiMiIsICJwcyI6ICJIb25nIEtvbmciLCAicG9ydCI6IDQ3MjgsICJpZCI6ICJhMGUwNTBjYS02ZDM3LTQ1MmYtYmY1Yy0zZTRlNDc1ZWYzNmIiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiIiwgInRscyI6ICIifQ==
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@193.29.139.179:8080#The+Netherlands
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.192:8080#Lithuania
+vmess://eyJhZGQiOiAib3YtZ2VybWFueTcuMDl2cG4uY29tIiwgInYiOiAiMiIsICJwcyI6ICJQb2xhbmQiLCAicG9ydCI6IDgwLCAiaWQiOiAiOGI3ZWM5OGQtYzI5MS00MDM0LTk3MTktZTZkNjIwNTE2MzZhIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogIm92LWdlcm1hbnk3LjA5dnBuLmNvbSIsICJwYXRoIjogIi92bWVzcy8iLCAidGxzIjogIiJ9
+trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@160.16.117.182:2760?sni=www.nintendogames.net#Japan
 ```
 <h5>Địa chỉ đăng ký vĩnh viễn của nút trên (một phần): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_vi</h5>
  <p>Mã QR cho địa chỉ đăng ký ở trên</p>
