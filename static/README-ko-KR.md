@@ -35,10 +35,10 @@
  <h4>노드 목록: (여기에는 일부 노드만 표시됩니다. 모든 노드를 보려면 앱을 다운로드하세요.)</h4>
     
 ```
-trojan://BxceQaOe@38.180.191.251:443?sni=t.me%252Fripaojiedian#The+Netherlands
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsWE9WakVNc3gwMGplT1F6SHNRcmtM@213.176.16.71:4966#Iran
-trojan://3208e968-b862-4e2e-ad90-2b49e7ce7afb@37.252.5.75:443?allowInsecure=0&sni=joss.gpj1.web.id&type=ws&host=joss.gpj1.web.id&path=/Free-VPN-CF-Geo-Project/37.252.5.75=443#Estonia
-vmess://eyJ2IjogMiwgInBzIjogIlVuaXRlZCBTdGF0ZXMiLCAiYWRkIjogImREZENDVkZnLjkyMjkyMi5TSE9QIiwgInBvcnQiOiA4MCwgImlkIjogImJjZTBjN2NiLTA4ZDEtNDZhNy1iNzdiLTdiZmY4YjQ2MjUyZiIsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiBudWxsLCAiaG9zdCI6ICJkRGRDQ1ZGZy45MjI5MjIuU0hPUCIsICJwYXRoIjogIi9Sa1VVYnFoQTlHSlpCUk9qTDNRNXZUeW1yIiwgInRscyI6IGZhbHNlLCAic25pIjogIiJ9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@45.87.175.197:8080#Lithuania
+trojan://BxceQaOe@160.16.85.138:4492?sni=t.me%252Fripaojiedian#Japan
+trojan://d78d48df-b788-4a95-9e9f-77c9b2f69822@193.233.114.58:8443?allowInsecure=0&sni=joss.gpj1.web.id&type=ws&host=joss.gpj1.web.id&path=/Free-VPN-CF-Geo-Project/193.233.114.58=8443#Russia
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@45.159.250.190:990#Kazakhstan
 ```
 <h5>상위 노드(일부)의 영구 구독 주소: https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ko-KR</h5>
  <p>위 구독 주소의 QR 코드</p>
