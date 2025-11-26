@@ -35,11 +35,10 @@
  <h4>Danh sách nút: (Chỉ hiển thị một số nút ở đây, vui lòng tải xuống ứng dụng để xem tất cả các nút)</h4>
     
 ```
-vmess://eyJhZGQiOiAiODIuMTk3LjY5LjEzMSIsICJ2IjogIjIiLCAicHMiOiAiR2VybWFueSIsICJwb3J0IjogMzk2NzQsICJpZCI6ICI1YTg5Mzg2YS04MjdiLTRmNTQtODc3OC0yZjFiNTEyMmM2ZWYiLCAiYWlkIjogIjAiLCAibmV0IjogInRjcCIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAiIn0=
-vmess://eyJhZGQiOiAiMjA5LjEyNi44NC4xODkiLCAidiI6ICIyIiwgInBzIjogIlVuaXRlZCBTdGF0ZXMiLCAicG9ydCI6IDQ0MywgImlkIjogIjJjOTgxMTY0LTliOTMtNGJjYS05NGZmLWI3OGQzZjg0OThkNyIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIyMDkuMTI2Ljg0LjE4OSIsICJwYXRoIjogIi92bWVzc3dzIiwgInRscyI6ICIifQ==
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.199:8080#United+Kingdom
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.157:8080#The+Netherlands
-trojan://2cf6d686799e6fa95316394064f26c0a@160.16.131.243:3169?sni=www.nintendogames.net#Japan
+vmess://eyJhZGQiOiAiOC4yMTguMTcuMTM2IiwgInYiOiAiMiIsICJwcyI6ICJIb25nIEtvbmciLCAicG9ydCI6IDQ3MjgsICJpZCI6ICJhMGUwNTBjYS02ZDM3LTQ1MmYtYmY1Yy0zZTRlNDc1ZWYzNmIiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiIiwgInRscyI6ICIifQ==
+trojan://BxceQaOe@153.121.65.212:5156?sni=t.me%252Fripaojiedian#Japan
+vmess://eyJhZGQiOiAiYWY4ZTJmZTItdDZnMXMwLXQ3dnp2bS0xajBhNC5oazMucDVwdi5jb20iLCAidiI6ICIyIiwgInBzIjogIkhvbmcgS29uZyIsICJwb3J0IjogODAsICJpZCI6ICI0ZWVkY2RlNi1kMTZhLTExZWYtOTczYS1mMjNjOTEzYzhkMmIiLCAiYWlkIjogIjIiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiYnJvYWRjYXN0bHYuY2hhdC5iaWxpYmlsaS5jb20iLCAicGF0aCI6ICIvIiwgInRscyI6ICIifQ==
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@195.181.160.6:990#Czechia
 ```
 <h5>Địa chỉ đăng ký vĩnh viễn của nút trên (một phần): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_vi</h5>
  <p>Mã QR cho địa chỉ đăng ký ở trên</p>
