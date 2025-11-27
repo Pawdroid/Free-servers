@@ -36,10 +36,10 @@
 <h4>节点列表：(这里仅展示部分节点，查看全部节点请下载app)</h4>
 
 ```
-trojan://6pRjKQJ0CWyFtG.9@198.57.27.27:12990#%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%A4%9A%E4%BC%A6%E5%A4%9A+V2CROSS.COM
-ss://YWVzLTEyOC1nY206NzlhZDI4NTItZWI3Ni00YzNlLWJhNGQtMzY2OGVlNWVjZTc0@wangcai.singdns.com:23344#%E4%BA%9A%E5%A4%AA%E5%9C%B0%E5%8C%BA+V2CROSS.COM
 vmess://eyJhZGQiOiAiNDUuMTM2LjI0NC4yMDEiLCAidiI6ICIyIiwgInBzIjogIlx1NGZjNFx1N2Y1N1x1NjVhZiBcdTgzYWJcdTY1YWZcdTc5ZDFKdXN0SG9zdCIsICJwb3J0IjogNDk5MzQsICJpZCI6ICI5MGFmYTQ3ZC0zNDFhLTQ5N2QtYWUyNS0xZDgxMjU4ODA0ZDUiLCAiYWlkIjogIjAiLCAibmV0IjogInRjcCIsICJ0eXBlIjogIiIsICJob3N0IjogImdyZWVuMi5jZG50ZW5jZW50bXVzaWMuY29tIiwgInBhdGgiOiAiIiwgInRscyI6ICIifQ==
-trojan://Qzy7tgpRhu@37.18.14.33:443?allowInsecure=1&sni=m.vk.com#%E4%BF%84%E7%BD%97%E6%96%AF+V2CROSS.COM
+trojan://.+QAJot50sDi6mvb@5.188.108.13:11790?security=tls&sni=runningshoes.purpletornado.click&allowInsecure=1&type=tcp&headerType=none#%E5%8D%A2%E6%A3%AE%E5%A0%A1+V2CROSS.COM
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU4MmYxXHU1NmZkIFYyQ1JPU1MuQ09NIiwgImFkZCI6ICI4Mi4xOTguMjQ2Ljk3IiwgInBvcnQiOiAiMTgwIiwgInR5cGUiOiAibm9uZSIsICJpZCI6ICJkMTNmYzJmNS0zZTA1LTQ3OTUtODFlYi00NDE0M2EwOWU1NTIiLCAiYWlkIjogIjAiLCAibmV0IjogInRjcCIsICJwYXRoIjogIi8iLCAiaG9zdCI6ICIiLCAidGxzIjogIiJ9
+vmess://eyJhZGQiOiAiY2dyb3VwLm5vZGUxLnYubm9kZWxpc3QtYWlycG9ydC5jb20iLCAidiI6ICIyIiwgInBzIjogIlx1NjVlNVx1NjcyYyBcdTRlMWNcdTRlYWNBbWF6b25cdTY1NzBcdTYzNmVcdTRlMmRcdTVmYzMiLCAicG9ydCI6IDUzMjMxLCAiaWQiOiAiOGYzYTgzNWMtOGE0NS00ODBkLWFlMzUtMWRlYjJjNTJkY2FlIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJjZ3JvdXAubm9kZTEudi5ub2RlbGlzdC1haXJwb3J0LmNvbSIsICJwYXRoIjogIi8iLCAidGxzIjogIiJ9
 ```
 
 <h5>上方节点（部分）永久订阅地址：https://proxy.v2gh.com/https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub</h5>
