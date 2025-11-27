@@ -35,10 +35,10 @@
  <h4>Knotenliste: (Hier werden nur einige Knoten angezeigt. Bitte laden Sie die App herunter, um alle Knoten anzuzeigen.)</h4>
     
 ```
-vmess://eyJhZGQiOiAiNDUuMTM2LjI0NC4yMDEiLCAidiI6ICIyIiwgInBzIjogIlJ1c3NsYW5kIiwgInBvcnQiOiA0OTkzNCwgImlkIjogIjkwYWZhNDdkLTM0MWEtNDk3ZC1hZTI1LTFkODEyNTg4MDRkNSIsICJhaWQiOiAiMCIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiZ3JlZW4yLmNkbnRlbmNlbnRtdXNpYy5jb20iLCAicGF0aCI6ICIiLCAidGxzIjogIiJ9
-trojan://2cf6d686799e6fa95316394064f26c0a@160.16.116.227:4054?security=tls&sni=www.nintendogames.net#Japan
-vmess://eyJhZGQiOiAiMzguOTkuODIuMTkzIiwgInYiOiAiMiIsICJwcyI6ICJVU0EiLCAicG9ydCI6IDQ0MywgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJ0aWxlYmFuaS5jb20iLCAicGF0aCI6ICIvbGlua3Z3cyIsICJ0bHMiOiAidGxzIn0=
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4SHRDN3JqNk5mWm5jWFl2QWpEVjV0@213.176.16.77:7022#Iran
+vmess://eyJhZGQiOiAiNDUuMzIuNDUuNDUiLCAidiI6ICIyIiwgInBzIjogIkphcGFuIiwgInBvcnQiOiAxNDc2MCwgImlkIjogImRiZjdhNmU0LWQ1MTgtNGY5Yi1hNTVlLTI3ZWY4OTJmZmFjMSIsICJhaWQiOiAiMCIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiIiwgInRscyI6ICIifQ==
+trojan://2cf6d686799e6fa95316394064f26c0a@160.16.116.227:4054?allowInsecure=1&sni=www.nintendogames.net#Japan
+trojan://2cf6d686799e6fa95316394064f26c0a@160.16.236.32:2760?sni=www.nintendogames.net#Japan
+trojan://Qzy7tgpRhu@37.18.14.33:443?allowInsecure=1&sni=m.vk.com#Russland
 ```
 <h5>Die permanente Abonnementadresse des oberen Knotens (Teil): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_de</h5>
  <p>QR-Code für die Abonnementadresse oben</p>
