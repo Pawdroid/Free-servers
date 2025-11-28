@@ -36,10 +36,9 @@
 <h4>节点列表：(这里仅展示部分节点，查看全部节点请下载app)</h4>
 
 ```
-trojan://BxceQaOe@112.120.31.179:443#%E9%A6%99%E6%B8%AF+%E7%94%B5%E8%AE%AF%E7%9B%88%E7%A7%91%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8
-vmess://eyJhZGQiOiAiODIuMTk4LjI0Ni45NyIsICJ2IjogIjIiLCAicHMiOiAiXHU4MmYxXHU1NmZkIFYyQ1JPU1MuQ09NIiwgInBvcnQiOiAxODAsICJpZCI6ICJkMTNmYzJmNS0zZTA1LTQ3OTUtODFlYi00NDE0M2EwOWU1NTIiLCAiYWlkIjogIjAiLCAibmV0IjogInRjcCIsICJ0eXBlIjogIiIsICJob3N0IjogInRyb2phbi5idXJnZXJpcC5jby51ayIsICJwYXRoIjogIiIsICJ0bHMiOiAiIn0=
+trojan://.+QAJot50sDi6mvb@5.188.108.13:11790?security=tls&sni=runningshoes.purpletornado.click&allowInsecure=1&type=tcp&headerType=none#%E5%8D%A2%E6%A3%AE%E5%A0%A1+V2CROSS.COM
+trojan://BxceQaOe@160.16.151.9:2145?sni=t.me%25252Fripaojiedian#%E6%97%A5%E6%9C%AC+%E4%B8%9C%E4%BA%ACSakura%E6%A8%B1%E8%8A%B1%E4%BA%91%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
 vmess://eyJhZGQiOiAiODIuMTk4LjI0Ni45NyIsICJ2IjogIjIiLCAicHMiOiAiXHU4MmYxXHU1NmZkIFYyQ1JPU1MuQ09NIiwgInBvcnQiOiAxODAsICJpZCI6ICJkMTNmYzJmNS0zZTA1LTQ3OTUtODFlYi00NDE0M2EwOWU1NTIiLCAiYWlkIjogIjAiLCAibmV0IjogInRjcCIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIi8iLCAidGxzIjogIiJ9
-trojan://6pRjKQJ0CWyFtG.9@198.57.27.27:12990?allowInsecure=0#%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%A4%9A%E4%BC%A6%E5%A4%9A+V2CROSS.COM
 ```
 
 <h5>上方节点（部分）永久订阅地址：https://proxy.v2gh.com/https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub</h5>
