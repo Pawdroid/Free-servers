@@ -35,10 +35,10 @@
  <h4>नोड सूची: (यहां केवल कुछ नोड्स प्रदर्शित हैं, कृपया सभी नोड्स देखने के लिए ऐप डाउनलोड करें)</h4>
     
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@45.87.175.174:8080#Lithuania
-trojan://BxceQaOe@58.152.53.22:443?sni=t.me%252Fripaojiedian#Hong+Kong
-trojan://2cf6d686799e6fa95316394064f26c0a@202.181.103.246:127?sni=www.nintendogames.net#Japan
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.227:8080#The+Netherlands
+trojan://2cf6d686799e6fa95316394064f26c0a@160.16.63.16:2890?sni=www.nintendogames.net#Japan
+trojan://2cf6d686799e6fa95316394064f26c0a@160.16.132.158:127?security=tls&sni=www.nintendogames.net#Japan
+trojan://Q9gofGxinwLv0TfDfdKmdttdPGxrhKQS@psg2-ag.t.sgateway.link:5223?sni=pod-kr-g1.psusercontent.com#China
+vmess://eyJhZGQiOiAiNTcuMTI5LjI1LjI2IiwgInYiOiAiMiIsICJwcyI6ICJGcmFuY2UiLCAicG9ydCI6IDQ0MywgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJ5aWNodWVuZy5vcmciLCAicGF0aCI6ICJsaW5rdndzIiwgInRscyI6ICJ0bHMifQ==
 ```
 <h5>ऊपरी नोड (भाग) का स्थायी सदस्यता पता: https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_hi</h5>
  <p>उपरोक्त सदस्यता पते के लिए QR कोड</p>
