@@ -37,8 +37,8 @@
 
 ```
 vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU0ZTJkXHU1NmZkIFYyQ1JPU1MuQ09NIiwgImFkZCI6ICJ2MTIuaGRhY2QuY29tIiwgInBvcnQiOiAiMzA4MTIiLCAidHlwZSI6ICJub25lIiwgImlkIjogImNiYjNmODc3LWQxZmItMzQ0Yy04N2E5LWQxNTNiZmZkNTQ4NCIsICJhaWQiOiAiMCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiLyIsICJob3N0IjogInYxMi5oZGFjZC5jb20iLCAidGxzIjogIiJ9
-trojan://.+QAJot50sDi6mvb@5.188.108.13:11790?allowInsecure=1&sni=runningshoes.purpletornado.click#%E5%8D%A2%E6%A3%AE%E5%A0%A1+V2CROSS.COM
-trojan://.ie4rghJuMkcf0oF@38.96.254.102:18509?security=tls&headerType=none&type=tcp&sni=shoppingmall.electricbanana.click#%E7%BE%8E%E5%9B%BD+%E5%8D%8E%E7%9B%9B%E9%A1%BFCogent%E9%80%9A%E4%BF%A1%E5%85%AC%E5%8F%B8
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU4MmYxXHU1NmZkIFYyQ1JPU1MuQ09NIiwgImFkZCI6ICI4Mi4xOTguMjQ2Ljk3IiwgInBvcnQiOiAiMTgwIiwgInR5cGUiOiAibm9uZSIsICJpZCI6ICJkMTNmYzJmNS0zZTA1LTQ3OTUtODFlYi00NDE0M2EwOWU1NTIiLCAiYWlkIjogIjAiLCAibmV0IjogInRjcCIsICJwYXRoIjogIi8iLCAiaG9zdCI6ICIiLCAidGxzIjogIiJ9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxN1pET1JXSWxpUUh1TzZXUkdIQ2hYWU16ZFJ0QVlWUA==@45.14.245.2:443#%E6%AC%A7%E7%9B%9F+V2CROSS.COM
 ```
 
 <h5>上方节点（部分）永久订阅地址：https://proxy.v2gh.com/https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub</h5>
