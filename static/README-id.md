@@ -35,12 +35,11 @@
  <h4>Daftar node: (Hanya beberapa node yang ditampilkan di sini, silakan unduh aplikasi untuk melihat semua node)</h4>
     
 ```
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.167:443#United+States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@45.87.175.197:8080#Lithuania
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxRkFKZEJFcXNJNzFqYVNNTDY3bkhvUEJDR2hYOTR1aw==@45.138.157.162:443#Russia
-trojan://Q9gofGxinwLv0TfDfdKmdttdPGxrhKQS@psg2-ag.t.sgateway.link:5223?sni=pod-kr-g1.psusercontent.com#China
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppeFB5bUZtYTZQN1U0MXdrOU1OUDd6blBudmF4M21qZA==@45.89.55.173:443#Serbia
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvNW9zWmcyNjl2NXpIcFlqcjF4WTlz@151.242.251.137:8080#Iran
+vmess://eyJhZGQiOiAiNDcuMjQzLjUxLjIzNyIsICJ2IjogIjIiLCAicHMiOiAiSG9uZyBLb25nIiwgInBvcnQiOiA1MjgwMSwgImlkIjogImVmOTNmNDEzLTkwMzktNGRkYi1hZWZiLTI0OTAyODdkZjU1YSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIvYXJraT9lZD0yMDQ4IiwgInRscyI6ICIifQ==
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@156.38.168.58:990#South+Africa
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@151.242.251.133:8080#Iran
+trojan://79314e99f0a473fe86efc7827942ad00@160.16.214.6:4054?security=tls&sni=www.nintendogames.net#Japan
+vmess://eyJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJhZGQiOiAiaGd0cm9qYW4uemFiYy5uZXQiLCAicG9ydCI6ICIyMDgzIiwgInR5cGUiOiAibm9uZSIsICJpZCI6ICJlNjM5NWMyMC00NTcxLTRiMzQtZDZiMS01NWE1ZDM2ZTQ5ZWEiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL2U2Mzk1YzIwIiwgImhvc3QiOiAiaGd0cm9qYW4uemFiYy5uZXQiLCAidGxzIjogInRscyJ9
 ```
 <h5>Alamat langganan permanen node atas (bagian): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_id</h5>
  <p>Kode QR untuk alamat berlangganan di atas</p>
