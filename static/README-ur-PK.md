@@ -35,12 +35,12 @@
  <h4>نوڈ کی فہرست: (یہاں صرف کچھ نوڈس دکھائے گئے ہیں، براہ کرم تمام نوڈس دیکھنے کے لیے ایپ ڈاؤن لوڈ کریں)</h4>
     
 ```
-vmess://eyJhZGQiOiAiMTA3LjE3My4zMS4zNyIsICJ2IjogIjIiLCAicHMiOiAiQ2FuYWRhIiwgInBvcnQiOiA0NDMsICJpZCI6ICJiZTg3NzFiZC0xMGI5LTQ3NjYtYWQ0NC04Nzk3MWJhMWZiYTQiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAicHJveHkuZ2VsaW5kZWppYS5hc2lhIiwgInBhdGgiOiAiL3ZpZGVvIiwgInRscyI6ICJ0bHMifQ==
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1bzdFYnRxSXdnWlhYSG1NdjVMYkxjT3hwdHlQbE5raA==@178.23.190.238:443#The+Netherlands
-trojan://BxceQaOe@58.152.18.95:443#Hong+Kong
-trojan://79314e99f0a473fe86efc7827942ad00@160.16.63.16:4054?allowInsecure=1&sni=www.nintendogames.net#Japan
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@104.192.226.106:990#United+States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTamRHQ0h3YWZqa3R0MXJ6cEd4VEtZVHZWQldiOFhhNkU1RFRyNk16YmRIUVN3dnBMaURjemozbjZNQmp5MnV5RlN6Z3FndkNXc0RRbXBNNFZRemZQenlHWUY1OHdkeUQ=@208.67.105.196:42029#The+Netherlands
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYTE9ydkxXa0NCQkJ4THFTRWU5UzhsbkM1UExzTmZSaA==@103.75.118.125:443#Japan
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuWVJoVENaZFFMRXhLNmV3VkhnSFMybWx2NEZDeXNLeWV5VFRmaFJkRWdkZWVSTjA=@5.188.36.93:31348#T%C3%BCrkiye
+vmess://eyJhZGQiOiAiMjMuMTYyLjIwMC4yMjciLCAidiI6ICIyIiwgInBzIjogIkNhbmFkYSIsICJwb3J0IjogNDQzLCAiaWQiOiAiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIi9saW5rdndzIiwgInRscyI6ICJ0bHMifQ==
+vmess://eyJhZGQiOiAiMTcyLjIzNS4zMy4xMTQiLCAidiI6ICIyIiwgInBzIjogIlVuaXRlZCBTdGF0ZXMiLCAicG9ydCI6IDEwMDAxLCAiaWQiOiAiNDQyYTM5MjMtZWNhMS00YWYwLWIzZmYtMjRhN2NlMGFmNjhmIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIiLCAidGxzIjogIiJ9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptYmhxc1N0bkZRVDFjVFpZQ2RzbWt1Z0dVQzZHVDZycA==@213.159.67.124:443#Russia
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.47.253.227:990#Ecuador
 ```
 <h5>اوپری نوڈ کا مستقل رکنیت کا پتہ (حصہ): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ur-PK</h5>
  <p>اوپر سبسکرپشن ایڈریس کے لیے QR کوڈ</p>

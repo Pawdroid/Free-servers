@@ -35,12 +35,12 @@
  <h4>Danh sách nút: (Chỉ hiển thị một số nút ở đây, vui lòng tải xuống ứng dụng để xem tất cả các nút)</h4>
     
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.251:8080#The+Netherlands
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.170:443#United+States
-vmess://eyJhZGQiOiAiNTcuMTI5LjI4LjIxMiIsICJ2IjogIjIiLCAicHMiOiAiRnJhbmNlIiwgInBvcnQiOiA0NDMsICJpZCI6ICIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiZmFwZW5nLm9yZyIsICJwYXRoIjogImxpbmt2d3MiLCAidGxzIjogInRscyJ9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuWVJoVENaZFFMRXhLNmV3VkhnSFMybWx2NEZDeXNLeWV5VFRmaFJkRWdkZWVSTjA=@5.188.36.93:31348#T%C3%BCrkiye
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@151.242.251.144:8080#Iran
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKR3Y2MTZoTVdkamZ1WjAwallmcTdYa0JISlpyT0JyZw==@87.121.162.249:443#Russia
+trojan://79314e99f0a473fe86efc7827942ad00@153.121.65.107:1331?sni=www.nintendogames.net#Japan
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0U2FDSWF6bGd1bVlrTThGa1B6bG13anB5V0JEWkZCaw==@103.106.3.82:443#Kazakhstan
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwbDJYdFIwcHp3a25RT0d3ZXdid1h0UFlEdzF6bjlWdQ==@213.159.66.206:443#Russia
+vmess://eyJhZGQiOiAiNTcuMTI5LjU5LjIwMSIsICJ2IjogIjIiLCAicHMiOiAiRnJhbmNlIiwgInBvcnQiOiA0NDMsICJpZCI6ICIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAia2FtcG9uZy5vcmciLCAicGF0aCI6ICJsaW5rdndzIiwgInRscyI6ICJ0bHMifQ==
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@46.183.217.204:990#Latvia
+vmess://eyJhZGQiOiAiNS4yMzEuNTYuOTgiLCAidiI6ICIyIiwgInBzIjogIkdlcm1hbnkiLCAicG9ydCI6IDM3MjEsICJpZCI6ICI1ZjJmMDc2NS1mMzMxLTRkMWUtODU2MC1kMmZiNTMzZGQ2ZmUiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiIiwgInRscyI6ICIifQ==
 ```
 <h5>Địa chỉ đăng ký vĩnh viễn của nút trên (một phần): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_vi</h5>
  <p>Mã QR cho địa chỉ đăng ký ở trên</p>
