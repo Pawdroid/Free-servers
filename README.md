@@ -36,12 +36,12 @@
 <h4>节点列表：(这里仅展示部分节点，查看全部节点请下载app)</h4>
 
 ```
-trojan://071a82fd-a46c-4ed5-8ba0-ebf362f102eb@green2.cdntencentmusic.com:35502?sni=green2.cdntencentmusic.com#%E5%8F%B0%E6%B9%BE%E7%9C%81%E5%8F%B0%E4%B8%AD%E5%B8%82+%E4%B8%AD%E5%8D%8E%E7%94%B5%E4%BF%A1
-vmess://eyJhZGQiOiAiYzcuNjIwNzIwLnh5eiIsICJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAicG9ydCI6IDg0NDMsICJpZCI6ICI1MTZkOGE3YS0zZjBiLTQxZDMtYmFkMC0yNDYxMTYzODE1MTYiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiYzcuNjIwNzIwLnh5eiIsICJwYXRoIjogIi8iLCAidGxzIjogInRscyJ9
-trojan://b05c056c-33af-4627-8e9c-4a91b20e48ff@green2.cdntencentmusic.com:33301?sni=green2.cdntencentmusic.com#%E5%8F%B0%E6%B9%BE%E7%9C%81%E5%8F%B0%E4%B8%AD%E5%B8%82+%E4%B8%AD%E5%8D%8E%E7%94%B5%E4%BF%A1
+vmess://eyJhZGQiOiAiMi41Ni4yNDIuMjEwIiwgInYiOiAiMiIsICJwcyI6ICJcdTRmYzRcdTdmNTdcdTY1YWYgXHU2NWIwXHU4OTdmXHU0ZjJmXHU1MjI5XHU0ZTlhanVzdGhvc3QiLCAicG9ydCI6IDM0ODk1LCAiaWQiOiAiNmZlNmI2MmEtZGZiZS00NzUzLWQ3OTUtZTAyZjI1NjFlZGVhIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJub25lIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiIiwgInRscyI6ICIifQ==
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU0ZTJkXHU1NmZkIFYyQ1JPU1MuQ09NIiwgImFkZCI6ICJ2MTIuaGRhY2QuY29tIiwgInBvcnQiOiAiMzA4MTIiLCAidHlwZSI6ICJub25lIiwgImlkIjogImNiYjNmODc3LWQxZmItMzQ0Yy04N2E5LWQxNTNiZmZkNTQ4NCIsICJhaWQiOiAiMCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiL3ZjIiwgImhvc3QiOiAidmMuZmx5LmRldiIsICJ0bHMiOiAiIn0=
+trojan://29c31447-8574-4f87-9c45-ebcd90af13ce@green2.cdntencentmusic.com:34411?sni=green2.cdntencentmusic.com#%E5%8F%B0%E6%B9%BE%E7%9C%81%E5%8F%B0%E4%B8%AD%E5%B8%82+%E4%B8%AD%E5%8D%8E%E7%94%B5%E4%BF%A1
 trojan://BxceQaOe@58.152.25.71:443?sni=t.me%252Fripaojiedian#%E9%A6%99%E6%B8%AF+%E7%94%B5%E8%AE%AF%E7%9B%88%E7%A7%91%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU1ZTdmXHU0ZTFjXHU3NzAxXHU0ZTFjXHU4MzllXHU1ZTAyIFx1NzUzNVx1NGZlMUlEQ1x1NjczYVx1NjIzZiIsICJhZGQiOiAieGlhb25pdS5hbmRjZG4uYmlkIiwgInBvcnQiOiAiNDEzMTgiLCAidHlwZSI6ICJub25lIiwgImlkIjogIjgyNTM5ZWI3LTE4YzgtNDhkMC1iYjljLTU1ZDFiNmU0N2Y1OSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvb2JqIiwgImhvc3QiOiAiaW1nMTQuMzYwYnV5aW1nLmNvbSIsICJ0bHMiOiAiIn0=
-trojan://.ie4rghJuMkcf0oF@38.96.254.102:18509?sni=shoppingmall.electricbanana.click#%E7%BE%8E%E5%9B%BD+%E5%8D%8E%E7%9B%9B%E9%A1%BFCogent%E9%80%9A%E4%BF%A1%E5%85%AC%E5%8F%B8
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU5OTk5XHU2ZTJmIFx1NzUzNVx1OGJhZlx1NzZjOFx1NzlkMVx1NjcwOVx1OTY1MFx1NTE2Y1x1NTNmOCIsICJhZGQiOiAidjMwLmhkYWNkLmNvbSIsICJwb3J0IjogIjMwODMwIiwgInR5cGUiOiAibm9uZSIsICJpZCI6ICJjYmIzZjg3Ny1kMWZiLTM0NGMtODdhOS1kMTUzYmZmZDU0ODQiLCAiYWlkIjogIjAiLCAibmV0IjogInRjcCIsICJwYXRoIjogIi8iLCAiaG9zdCI6ICI1MWFhOGY3LmhmLmdsYWRvcy1jb25maWcubmV0IiwgInRscyI6ICIifQ==
+trojan://BxceQaOe@58.152.26.107:443?allowInsecure=1&sni=t.me%2Fripaojiedian#%E9%A6%99%E6%B8%AF+%E7%94%B5%E8%AE%AF%E7%9B%88%E7%A7%91%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8
 ```
 
 <h5>上方节点（部分）永久订阅地址：https://proxy.v2gh.com/https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub</h5>
