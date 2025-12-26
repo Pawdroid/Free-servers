@@ -35,12 +35,12 @@
  <h4>노드 목록: (여기에는 일부 노드만 표시됩니다. 모든 노드를 보려면 앱을 다운로드하세요.)</h4>
     
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@193.29.139.179:8080#The+Netherlands
-trojan://d11813fd-992a-4a1d-b3c6-b63aaad4a869@cdnfire.xiaomispeed.com:21103?sni=cdnfire.xiaomispeed.com#Taiwan
-vmess://eyJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJhZGQiOiAiOTIwYS00QkNjLTlBMmQtNTc5NjA2MDNDN2Q5LjQ1Ny5wUC5VYSIsICJwb3J0IjogIjQ0MyIsICJ0eXBlIjogIm5vbmUiLCAiaWQiOiAiYTFkMmUzY2QtMjk3ZS00NzUzLThlN2EtNmQ5ZmIwZjRhYWMxIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9rVDVWSFljTXJwaGVzcVJPelNQb0hyQm8iLCAiaG9zdCI6ICI5MjBhLTRiY2MtOUEyRC01Nzk2MDYwM2M3ZDkuNDU3LlBQLnVhIiwgInRscyI6ICJ0bHMifQ==
-vmess://eyJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJhZGQiOiAic3Nzc3Nzc3Nzc3NzZmZmZmZmZmdoLjIwMzIucHAudWEiLCAicG9ydCI6ICI0NDMiLCAidHlwZSI6ICJub25lIiwgImlkIjogIjQxNzRiOTVkLTExNWUtNGQzOS1hZGQ2LTFmOGRiOTViYjg2MCIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvNldlM1U5RGYxV0d4Z0Zub0ZQdzEiLCAiaG9zdCI6ICJzc3Nzc3Nzc3Nzc3NmZmZmZmZmZ2guMjAzMi5wcC51YSIsICJ0bHMiOiAidGxzIn0=
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.182:443#United+Kingdom
-trojan://Q9gofGxinwLv0TfDfdKmdttdPGxrhKQS@hk3.t.sgateway.link:5223?allowInsecure=0&sni=pod-hk-z1.psusercontent.com#%F0%9F%87%A8%F0%9F%87%B3%20TW%E5%8F%B0%E6%B9%BE%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.47.255.22:990#Puerto+Rico
+trojan://44e660b0ee21cf3ac66aee2c08af85d2@153.121.53.187:3169?allowInsecure=0&sni=www.nintendogames.net#Japan
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.158.171.70:8080#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6d0JMTTZiQkU1WXh2d3ZuS2d4QXEzRXJYcHFNWXYyMA==@185.193.48.157:443#United+Kingdom
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@151.242.251.153:8080#Iran
+vmess://eyJhZGQiOiAiMTQxLjk0LjE1NS4yMjgiLCAidiI6ICIyIiwgInBzIjogIkZyYW5jZSIsICJwb3J0IjogNDQzLCAiaWQiOiAiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogImthbXBvbmcub3JnIiwgInBhdGgiOiAibGlua3Z3cyIsICJ0bHMiOiAidGxzIn0=
 ```
 <h5>상위 노드(일부)의 영구 구독 주소: https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ko-KR</h5>
  <p>위 구독 주소의 QR 코드</p>
