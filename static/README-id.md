@@ -35,11 +35,11 @@
  <h4>Daftar node: (Hanya beberapa node yang ditampilkan di sini, silakan unduh aplikasi untuk melihat semua node)</h4>
     
 ```
-vmess://eyJhZGQiOiAiMTQ2LjU2LjExMi4xMTAiLCAidiI6ICIyIiwgInBzIjogIlNvdXRoIEtvcmVhIiwgInBvcnQiOiA4ODg4LCAiaWQiOiAiZTdjMzAyZjMtOTBkNi00MmRkLTlkN2QtOTRhMzY4M2EzNzA3IiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIiLCAidGxzIjogIiJ9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@38.60.250.107:990#Germany
-vmess://eyJhZGQiOiAiMTU0LjIxMS44LjU4IiwgInYiOiAiMiIsICJwcyI6ICJIb25nIEtvbmciLCAicG9ydCI6IDQ0MywgImlkIjogImRlOTRjYzBhLTA1OTItNDk2OS1iMWZjLTk3ZWE4ZjBlYTBiMyIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJ1cy5uYmVlLnBwLnVhIiwgInBhdGgiOiAiL2FhIiwgInRscyI6ICJ0bHMifQ==
-vmess://eyJhZGQiOiAidjJyYXkuY29kZWZ5aW5jLmNvbSIsICJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJwb3J0IjogNDQzLCAiaWQiOiAiMmM5ODExNjQtOWI5My00YmNhLTk0ZmYtYjc4ZDNmODQ5OGQ3IiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogInYycmF5LmNvZGVmeWluYy5jb20iLCAicGF0aCI6ICIvdm1lc3N3cyIsICJ0bHMiOiAiIn0=
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4Z29Pc3l5QnYyWW40dzBoU3Fqc05xZjVJR2JJRVRaNg==@5.253.41.46:443#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@176.123.5.253:990#Moldova
+trojan://f36f4495b4b26cc2fe346cfa23e05b1b@160.16.223.205:2760?sni=www.nintendogames.net#Japan
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@151.242.251.152:8080#Iran
+trojan://BxceQaOe@13.231.208.147:1112?sni=t.me%252Fripaojiedian#Japan
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@156.59.243.6:990#Singapore
 ```
 <h5>Alamat langganan permanen node atas (bagian): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_id</h5>
  <p>Kode QR untuk alamat berlangganan di atas</p>

@@ -35,11 +35,11 @@
  <h4>নোড তালিকা: (শুধুমাত্র কিছু নোড এখানে প্রদর্শিত হয়, সমস্ত নোড দেখতে অ্যাপটি ডাউনলোড করুন)</h4>
     
 ```
-vmess://eyJhZGQiOiAiMzguMTA3LjIzNC41NyIsICJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJwb3J0IjogODAsICJpZCI6ICI1NjdmNGJlNS0xMmFiLTQyZTEtYjhkOS1kYjZmZDFmZGQzMWMiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiL3ZtZXNzLyIsICJ0bHMiOiAiIn0=
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxRkFKZEJFcXNJNzFqYVNNTDY3bkhvUEJDR2hYOTR1aw==@45.138.157.162:443#Russia
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@188.214.157.30:990#Morocco
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@38.60.247.151:990#Bulgaria
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@176.123.5.253:990#Moldova
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@195.181.160.6:990#Czechia
+trojan://.ie4rghJuMkcf0oF@38.96.254.102:18509?sni=shoppingmall.electricbanana.click#Canada
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.169:443#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2VkFjbGw0UDh4UFRVVlZ0SGVTVDNvblJtTG9WSUJTVQ==@94.131.104.147:443#Latvia
+vmess://eyJhZGQiOiAidjI5LmhkYWNkLmNvbSIsICJ2IjogIjIiLCAicHMiOiAiSG9uZyBLb25nIiwgInBvcnQiOiAzMDgyOSwgImlkIjogImNiYjNmODc3LWQxZmItMzQ0Yy04N2E5LWQxNTNiZmZkNTQ4NCIsICJhaWQiOiAiMiIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiIiwgInRscyI6ICIifQ==
 ```
 <h5>উপরের নোডের স্থায়ী সদস্যতা ঠিকানা (অংশ): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_bn</h5>
  <p>উপরের সদস্যতা ঠিকানার জন্য QR কোড</p>
