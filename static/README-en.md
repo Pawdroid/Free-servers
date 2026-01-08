@@ -35,11 +35,10 @@
 <h4>Node list: (Only some nodes are shown here, please download the app to view all nodes)</h4>
     
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@185.93.173.60:990#Bolivia
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplOGEwMWEzZmMwN2NkZTE0@209.126.8.72:10011#United+States
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.178:443#United+Kingdom
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@79.127.233.170:990#United+Kingdom
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@103.106.228.247:990#Japan
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYMzZUSWk0QzNOSDZPbG4zVGRHeWpn@fl3.cowjuice.me:9443#Slovenia
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.167:443#United+States
+vmess://eyJhZGQiOiAiNDUxZTYyNDItdDcwZjQwLXQ4a2d3OC1qanYyLmhrdC5nb3RvY2hpbmF0b3duLm5ldCIsICJ2IjogIjIiLCAicHMiOiAiSG9uZyBLb25nIiwgInBvcnQiOiA4MCwgImlkIjogIjMxNjc2NzI1LWIwZmQtZmVkMi1jODU3LTJkYThjZTVhNmU0ZiIsICJhaWQiOiAiMiIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJicm9hZGNhc3Rsdi5jaGF0LmJpbGliaWxpLmNvbSIsICJwYXRoIjogIi8iLCAidGxzIjogIiJ9
+vmess://eyJhZGQiOiAiNTcuMTI5LjI0LjEzMSIsICJ2IjogIjIiLCAicHMiOiAiR2VybWFueSIsICJwb3J0IjogNDQzLCAiaWQiOiAiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwgImFpZCI6ICIxIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogImthbXBvbmcub3JnIiwgInBhdGgiOiAibGlua3Z3cyIsICJ0bHMiOiAidGxzIn0=
 ```
 <h5>Permanent subscription address of the node above (part): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_en</h5>
 <p>QR code of the subscription address above</p>

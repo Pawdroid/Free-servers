@@ -35,11 +35,10 @@
  <h4>نوڈ کی فہرست: (یہاں صرف کچھ نوڈس دکھائے گئے ہیں، براہ کرم تمام نوڈس دیکھنے کے لیے ایپ ڈاؤن لوڈ کریں)</h4>
     
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.22:8080#Lithuania
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.204:443#United+States
-trojan://381f2e86233720eacda26d50e9aa26da@160.16.138.24:3901?allowInsecure=1&sni=www.nintendogames.net#Japan
-vmess://eyJhZGQiOiAiMzIwZWRlOGItdDcwZjQwLXRmaTVmZC0xaW1pNC5oa3QuZ290b2NoaW5hdG93bi5uZXQiLCAidiI6ICIyIiwgInBzIjogIkhvbmcgS29uZyIsICJwb3J0IjogODAsICJpZCI6ICI0MGZiMTMxNS0xOTFhLTExZWQtYjBjYS1mMjNjOTFjZmJiYzkiLCAiYWlkIjogIjIiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiYnJvYWRjYXN0bHYuY2hhdC5iaWxpYmlsaS5jb20iLCAicGF0aCI6ICIvIiwgInRscyI6ICIifQ==
-trojan://381f2e86233720eacda26d50e9aa26da@160.16.63.16:3901?sni=www.nintendogames.net#Japan
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.154:8080#Lithuania
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcEtBQmNPcE5OQTBsNUcyQVZPbXc4@213.109.147.242:62685#United+Kingdom
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@193.29.139.179:8080#The+Netherlands
+trojan://6pRjKQJ0CWyFtG.9@198.57.27.27:12990?allowInsecure=0#Canada
 ```
 <h5>اوپری نوڈ کا مستقل رکنیت کا پتہ (حصہ): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ur-PK</h5>
  <p>اوپر سبسکرپشن ایڈریس کے لیے QR کوڈ</p>

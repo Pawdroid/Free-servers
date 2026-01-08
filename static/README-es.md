@@ -35,11 +35,10 @@
  <h4>Lista de nodos: (aquí solo se muestran algunos nodos; descargue la aplicación para ver todos los nodos)</h4>
     
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@134.255.210.49:990#Chipre
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@45.154.204.7:990#Canad%C3%A1
-vmess://eyJhZGQiOiAidjI0LmhkYWNkLmNvbSIsICJ2IjogIjIiLCAicHMiOiAiSG9uZyBLb25nIiwgInBvcnQiOiAzMDgyNCwgImlkIjogImNiYjNmODc3LWQxZmItMzQ0Yy04N2E5LWQxNTNiZmZkNTQ4NCIsICJhaWQiOiAiMiIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiIiwgInRscyI6ICIifQ==
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwbDJYdFIwcHp3a25RT0d3ZXdid1h0UFlEdzF6bjlWdQ==@213.159.66.206:443#Rusia
-trojan://381f2e86233720eacda26d50e9aa26da@160.16.63.16:1281?sni=www.nintendogames.net#Jap%C3%B3n
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.240:8080#Holanda
+vmess://eyJhZGQiOiAiNTcuMTI5LjI4LjIxMiIsICJ2IjogIjIiLCAicHMiOiAiRnJhbmNpYSIsICJwb3J0IjogNDQzLCAiaWQiOiAiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogImZhcGVuZy5vcmciLCAicGF0aCI6ICJsaW5rdndzIiwgInRscyI6ICJ0bHMifQ==
+vmess://eyJhZGQiOiAiMTUuMjM1LjUwLjE3MiIsICJ2IjogIjIiLCAicHMiOiAiQ2FuYWRcdTAwZTEiLCAicG9ydCI6IDQ0MywgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJiYXJhZGloYS5jb20iLCAicGF0aCI6ICIvbGlua3Z3cyIsICJ0bHMiOiAidGxzIn0=
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@37.143.130.203:990#Espa%C3%B1a
 ```
 <h5>La dirección de suscripción permanente del nodo superior (parte): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_es</h5>
  <p>Código QR para la dirección de suscripción anterior</p>
