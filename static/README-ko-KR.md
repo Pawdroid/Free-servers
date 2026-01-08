@@ -35,10 +35,10 @@
  <h4>노드 목록: (여기에는 일부 노드만 표시됩니다. 모든 노드를 보려면 앱을 다운로드하세요.)</h4>
     
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTRGFGSVNyM0dmbTZZa0JTU3JGSUV3d1dqRUVVN1hibw==@95.164.10.228:443#Denmark
-trojan://381f2e86233720eacda26d50e9aa26da@160.16.63.16:1281?sni=www.nintendogames.net#Japan
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.47.253.227:990#Ecuador
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.202:8080#United+Kingdom
+vmess://eyJhZGQiOiAidjI0LmhkYWNkLmNvbSIsICJ2IjogIjIiLCAicHMiOiAiSG9uZyBLb25nIiwgInBvcnQiOiAzMDgyNCwgImlkIjogImNiYjNmODc3LWQxZmItMzQ0Yy04N2E5LWQxNTNiZmZkNTQ4NCIsICJhaWQiOiAiMiIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiIiwgInRscyI6ICIifQ==
+vmess://eyJ2IjogIjIiLCAicHMiOiAiSG9uZyBLb25nIiwgImFkZCI6ICI2ZmRkYTk5OS10NzBmNDAtdGxtNjRjLXhtMHEuaGt0LmdvdG9jaGluYXRvd24ubmV0IiwgInBvcnQiOiAiODAiLCAidHlwZSI6ICJub25lIiwgImlkIjogIjM0MzdmMzRlLTFiNzctMTFlYi04Njg0LWYyM2M5MTNjOGQyYiIsICJhaWQiOiAiMiIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgImhvc3QiOiAiNmZkZGE5OTktdDcwZjQwLXRsbTY0Yy14bTBxLmhrdC5nb3RvY2hpbmF0b3duLm5ldCIsICJ0bHMiOiAiIn0=
+trojan://381f2e86233720eacda26d50e9aa26da@160.16.138.24:4006?allowInsecure=0&sni=www.nintendogames.net#Japan
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5dHFoTWRJclRrZ1E0NlB2aHlBdE1I@switcher-nick-croquet.freesocks.work:443#Ukraine
 ```
 <h5>상위 노드(일부)의 영구 구독 주소: https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ko-KR</h5>
  <p>위 구독 주소의 QR 코드</p>

@@ -35,10 +35,10 @@
  <h4>Danh sách nút: (Chỉ hiển thị một số nút ở đây, vui lòng tải xuống ứng dụng để xem tất cả các nút)</h4>
     
 ```
-vmess://eyJhZGQiOiAiNTcuMTI5LjU5LjE5NSIsICJ2IjogIjIiLCAicHMiOiAiRnJhbmNlIiwgInBvcnQiOiA0NDMsICJpZCI6ICIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAia2FtcG9uZy5vcmciLCAicGF0aCI6ICJsaW5rdndzIiwgInRscyI6ICJ0bHMifQ==
-vmess://eyJhZGQiOiAiMGNhNDMwNWYtdDZyNXMwLXRodjlsNC0xamJqMC5oa3QuZ290b2NoaW5hdG93bi5uZXQiLCAidiI6ICIyIiwgInBzIjogIkhvbmcgS29uZyIsICJwb3J0IjogODAsICJpZCI6ICJiMmM2Mzg0Yy1mNjNkLTExZWMtYjFiMy1mMjNjOTFjZmJiYzkiLCAiYWlkIjogIjIiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiLyIsICJ0bHMiOiAiIn0=
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@142.4.216.225:80#Canada
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@beesyar.org:8080#Lithuania
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpIYU5xdzlwSUU0amN4OThzZzdVUWdIZUdOVE00UjJwaw==@194.246.114.101:443#Hong+Kong
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.193:8080#Lithuania
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.22:8080#Lithuania
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.214:8080#United+Kingdom
 ```
 <h5>Địa chỉ đăng ký vĩnh viễn của nút trên (một phần): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_vi</h5>
  <p>Mã QR cho địa chỉ đăng ký ở trên</p>

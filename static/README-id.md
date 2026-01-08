@@ -35,10 +35,10 @@
  <h4>Daftar node: (Hanya beberapa node yang ditampilkan di sini, silakan unduh aplikasi untuk melihat semua node)</h4>
     
 ```
-vmess://eyJhZGQiOiAiZHY0Ljc4OTkwMC54eXoiLCAidiI6ICIyIiwgInBzIjogIlNvdXRoIEtvcmVhIiwgInBvcnQiOiAyMDk2LCAiaWQiOiAiMGM4ZjNlMjktNGVjOS00YmE2LWE2ZWYtNDQ4Nzg3M2Y1ZDA1IiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogImR2NC43ODk5MDAueHl6IiwgInBhdGgiOiAiLzBjOGYzZTI5LTRlYzktNGJhNi1hNmVmLTQ0ODc4NzNmNWQwNS12bSIsICJ0bHMiOiAidGxzIn0=
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.69:8080#Lithuania
-vmess://eyJ2IjogIjIiLCAicHMiOiAiSG9uZyBLb25nIiwgImFkZCI6ICJ2MTAuaGRhY2QuY29tIiwgInBvcnQiOiAzMDgwNywgImFpZCI6IDIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogImNiYjNmODc3LWQxZmItMzQ0Yy04N2E5LWQxNTNiZmZkNTQ4NCJ9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@23.95.76.59:990#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiZTVlZTNjNjJmMGFhZTk2@91.106.109.73:11201#Jordan
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@212.102.54.45:990#Italy
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.182:443#United+Kingdom
+trojan://381f2e86233720eacda26d50e9aa26da@58.152.110.104:443?allowInsecure=0&sni=www.nintendogames.net#Hong+Kong
 ```
 <h5>Alamat langganan permanen node atas (bagian): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_id</h5>
  <p>Kode QR untuk alamat berlangganan di atas</p>

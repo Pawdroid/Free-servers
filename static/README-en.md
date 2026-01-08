@@ -35,10 +35,10 @@
 <h4>Node list: (Only some nodes are shown here, please download the app to view all nodes)</h4>
     
 ```
-vmess://eyJhZGQiOiAiODUuMTk1LjEwMS4xMjIiLCAidiI6ICIyIiwgInBzIjogIkdlcm1hbnkiLCAicG9ydCI6IDQwODc4LCAiaWQiOiAiZjNkNDE2N2UtYjE1ZS00ZTQ2LTgyZTktOTI4NmVmOTNmZGE3IiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIiLCAidGxzIjogIiJ9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxMWJmMDU0ZGNjMDM0MmNk@91.106.109.74:11201#Jordan
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@79.127.200.169:990#Canada
-trojan://381f2e86233720eacda26d50e9aa26da@58.152.110.104:443?sni=www.nintendogames.net#Hong+Kong
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@154.205.159.100:990#Seychelles
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@45.87.175.197:8080#Lithuania
+vmess://eyJ2IjogIjIiLCAicHMiOiAiSG9uZyBLb25nIiwgImFkZCI6ICI2YWNmNzU0NC10NnI1czAtdG5rdWtzLXd1am4uaGt0LmdvdG9jaGluYXRvd24ubmV0IiwgInBvcnQiOiAiODAiLCAidHlwZSI6ICJub25lIiwgImlkIjogIjUxMzYyYWI2LWI1ZTYtMTFlYS1hZDI4LWYyM2M5MTNjOGQyYiIsICJhaWQiOiAiMiIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgImhvc3QiOiAiNmFjZjc1NDQtdDZyNXMwLXRua3Vrcy13dWpuLmhrdC5nb3RvY2hpbmF0b3duLm5ldCIsICJ0bHMiOiAiIn0=
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@142.4.216.225:80#Canada
 ```
 <h5>Permanent subscription address of the node above (part): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_en</h5>
 <p>QR code of the subscription address above</p>

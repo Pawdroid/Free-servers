@@ -35,10 +35,10 @@
  <h4>نوڈ کی فہرست: (یہاں صرف کچھ نوڈس دکھائے گئے ہیں، براہ کرم تمام نوڈس دیکھنے کے لیے ایپ ڈاؤن لوڈ کریں)</h4>
     
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@beesyar.org:8080#Lithuania
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnNVJRb3hRdVZ0bkZ2M1h4c2E4ZWRQaXNYTlBueVdLeQ==@45.83.20.206:443#Paraguay
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.184:8080#United+Kingdom
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0U2FDSWF6bGd1bVlrTThGa1B6bG13anB5V0JEWkZCaw==@103.106.3.82:443#Kazakhstan
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@173.244.56.6:443#United+States
+vmess://eyJhZGQiOiAiNTcuMTI5LjY0LjE1NyIsICJ2IjogIjIiLCAicHMiOiAiRnJhbmNlIiwgInBvcnQiOiA0NDMsICJpZCI6ICIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAibGFtbWFsYW5kLm9yZyIsICJwYXRoIjogImxpbmt2d3MiLCAidGxzIjogInRscyJ9
+vmess://eyJhZGQiOiAic3k0LjYyMDcyMC54eXoiLCAidiI6ICIyIiwgInBzIjogIlVuaXRlZCBTdGF0ZXMiLCAicG9ydCI6IDQ0MywgImlkIjogIjUxNmQ4YTdhLTNmMGItNDFkMy1iYWQwLTI0NjExNjM4MTUxNiIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIvIiwgInRscyI6ICJ0bHMifQ==
+trojan://BxceQaOe@58.152.46.60:443?sni=t.me%252Fripaojiedian#Hong+Kong
 ```
 <h5>اوپری نوڈ کا مستقل رکنیت کا پتہ (حصہ): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ur-PK</h5>
  <p>اوپر سبسکرپشن ایڈریس کے لیے QR کوڈ</p>

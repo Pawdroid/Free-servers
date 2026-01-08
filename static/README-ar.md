@@ -35,10 +35,10 @@
  <h4>قائمة العقد: (يتم عرض بعض العقد فقط هنا، يرجى تنزيل التطبيق لعرض جميع العقد)</h4>
     
 ```
-vmess://eyJhZGQiOiAidDEuNjIwNzIwLnh5eiIsICJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJwb3J0IjogODQ0MywgImlkIjogIjUxNmQ4YTdhLTNmMGItNDFkMy1iYWQwLTI0NjExNjM4MTUxNiIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIvIiwgInRscyI6ICJ0bHMifQ==
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvNW9zWmcyNjl2NXpIcFlqcjF4WTlz@151.242.251.137:8080#Iran
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@173.234.29.2:990#United+States
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.182:443#United+Kingdom
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@185.93.173.60:990#Bolivia
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@195.181.160.6:990#Czechia
+vmess://eyJhZGQiOiAiZjMwN2NlZTAtdDcwZjQwLXRwZnRjcC0xM3gxOC5oa3QuZ290b2NoaW5hdG93bi5uZXQiLCAidiI6ICIyIiwgInBzIjogIkhvbmcgS29uZyIsICJwb3J0IjogODAsICJpZCI6ICJlNDQ5OWE2Mi0wY2ZlLTExZWItYWQ4Yy1mMjNjOTE2NGNhNWQiLCAiYWlkIjogIjIiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiYnJvYWRjYXN0bHYuY2hhdC5iaWxpYmlsaS5jb20iLCAicGF0aCI6ICIvIiwgInRscyI6ICIifQ==
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@138.186.142.81:990#Panama
 ```
 <h5>عنوان الاشتراك الدائم للعقدة العليا (جزء): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ar</h5>
  <p>رمز الاستجابة السريعة لعنوان الاشتراك أعلاه</p>

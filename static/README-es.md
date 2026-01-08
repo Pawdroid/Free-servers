@@ -35,10 +35,10 @@
  <h4>Lista de nodos: (aquí solo se muestran algunos nodos; descargue la aplicación para ver todos los nodos)</h4>
     
 ```
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@38.60.247.151:990#Bulgaria
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.205:8080#Reino+Unido
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMTVNOaDIxVHJYalIyb2syNVEybkU4RU5UMnpvQm1QdmthM1JDQ1VBSFpFTENuV29la1ZqdmFmODlxd2NSa2RieEVmZXAyYmMyYVV0bW54cXZGMWF5UVJlejFKSGpVTGo=@exchange.gameaurela.click:52952#Estados+Unidos
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@109.61.39.28:990#Hungr%C3%ADa
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@45.159.250.190:990#Kazajst%C3%A1n
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpIYU5xdzlwSUU0amN4OThzZzdVUWdIZUdOVE00UjJwaw==@194.246.114.101:443#Hong+Kong
+vmess://eyJ2IjogIjIiLCAicHMiOiAiSG9uZyBLb25nIiwgImFkZCI6ICI2YWNmNzU0NC10NnI1czAtdG5rdWtzLXd1am4uaGt0LmdvdG9jaGluYXRvd24ubmV0IiwgInBvcnQiOiAiODAiLCAidHlwZSI6ICJub25lIiwgImlkIjogIjUxMzYyYWI2LWI1ZTYtMTFlYS1hZDI4LWYyM2M5MTNjOGQyYiIsICJhaWQiOiAiMiIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgImhvc3QiOiAiNmFjZjc1NDQtdDZyNXMwLXRua3Vrcy13dWpuLmhrdC5nb3RvY2hpbmF0b3duLm5ldCIsICJ0bHMiOiAiIn0=
 ```
 <h5>La dirección de suscripción permanente del nodo superior (parte): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_es</h5>
  <p>Código QR para la dirección de suscripción anterior</p>

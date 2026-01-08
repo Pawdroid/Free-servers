@@ -35,10 +35,10 @@
  <h4>Lista de nós: (Apenas alguns nós são exibidos aqui, baixe o aplicativo para visualizar todos os nós)</h4>
     
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.171:8080#Litu%C3%A2nia
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.69:8080#Litu%C3%A2nia
-vmess://eyJhZGQiOiAiNTcuMTI5LjY0LjE5OSIsICJ2IjogIjIiLCAicHMiOiAiRnJhblx1MDBlN2EiLCAicG9ydCI6IDQ0MywgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJwZWxhbmcub3JnIiwgInBhdGgiOiAibGlua3Z3cyIsICJ0bHMiOiAidGxzIn0=
-vmess://eyJ2IjogIjIiLCAicHMiOiAiSG9uZyBLb25nIiwgImFkZCI6ICIwMTBlY2U1Ni10NnI1czAtdGhkMGgxLTFyejVzLmhrdC5nb3RvY2hpbmF0b3duLm5ldCIsICJwb3J0IjogIjgwIiwgInR5cGUiOiAibm9uZSIsICJpZCI6ICI0MGUwODRkNi0wMzE2LTExZjAtOTBlMi1mMjNjOTEzYzhkMmIiLCAiYWlkIjogIjIiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLyIsICJob3N0IjogIjAxMGVjZTU2LXQ2cjVzMC10aGQwaDEtMXJ6NXMuaGt0LmdvdG9jaGluYXRvd24ubmV0IiwgInRscyI6ICIifQ==
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@193.29.139.179:8080#Holanda
+trojan://381f2e86233720eacda26d50e9aa26da@160.16.116.227:1281?sni=www.nintendogames.net#Jap%C3%A3o
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.47.254.87:990#Guatemala
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTNmpVSzlGdzVmTUhnTnFscVhPYkhaV3Y4VGY0bkVrbQ==@193.203.203.66:443#Canad%C3%A1
 ```
 <h5>O endereço de assinatura permanente do nó superior (parte): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_pt-BR</h5>
  <p>Código QR do endereço de assinatura acima</p>
