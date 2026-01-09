@@ -35,11 +35,11 @@
  <h4>Danh sách nút: (Chỉ hiển thị một số nút ở đây, vui lòng tải xuống ứng dụng để xem tất cả các nút)</h4>
     
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@79.127.200.169:990#Canada
-trojan://381f2e86233720eacda26d50e9aa26da@160.16.144.208:4006?sni=www.nintendogames.net#Japan
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVQU1WdEhtNTR1YWhkNlNpTjVXY0QxNnJzUFNkYWJQRw==@23.95.72.81:443#Canada
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTRGFGSVNyM0dmbTZZa0JTU3JGSUV3d1dqRUVVN1hibw==@95.164.10.228:443#Denmark
-vmess://eyJhZGQiOiAiNTcuMTI5LjU5LjE5NSIsICJ2IjogIjIiLCAicHMiOiAiRnJhbmNlIiwgInBvcnQiOiA0NDMsICJpZCI6ICIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAia2FtcG9uZy5vcmciLCAicGF0aCI6ICJsaW5rdndzIiwgInRscyI6ICJ0bHMifQ==
+trojan://381f2e86233720eacda26d50e9aa26da@160.16.144.208:1281?sni=www.nintendogames.net#Japan
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.170:443#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYTE9ydkxXa0NCQkJ4THFTRWU5UzhsbkM1UExzTmZSaA==@103.75.118.125:443#Japan
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowMWRjMGQ3Y2JiNjUwYmMz@109.61.39.150:11201#Hungary
+vmess://eyJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJhZGQiOiAidjJyYXkuY29kZWZ5aW5jLmNvbSIsICJwb3J0IjogIjQ0MyIsICJ0eXBlIjogIm5vbmUiLCAiaWQiOiAiMmM5ODExNjQtOWI5My00YmNhLTk0ZmYtYjc4ZDNmODQ5OGQ3IiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi92bWVzc3dzIiwgImhvc3QiOiAidjJyYXkuY29kZWZ5aW5jLmNvbSIsICJ0bHMiOiAiIn0=
 ```
 <h5>Địa chỉ đăng ký vĩnh viễn của nút trên (một phần): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_vi</h5>
  <p>Mã QR cho địa chỉ đăng ký ở trên</p>
