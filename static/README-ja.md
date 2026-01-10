@@ -35,11 +35,10 @@
  <h4>ノード リスト: (ここには一部のノードのみが表示されます。すべてのノードを表示するにはアプリをダウンロードしてください)</h4>
     
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@45.154.204.7:990#%E3%82%AB%E3%83%8A%E3%83%80
-vmess://eyJhZGQiOiAiN2QxYzViMWUtdDhub2cwLXRhNDJjZy0xcGhsYS5oa3QuZ290b2NoaW5hdG93bi5uZXQiLCAidiI6ICIyIiwgInBzIjogIlx1OTk5OVx1NmUyZiIsICJwb3J0IjogODAsICJpZCI6ICI0NjdmMjk0MC03N2NkLTExZWUtYjVlZC1mMjNjOTE2NGNhNWQiLCAiYWlkIjogIjIiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiYnJvYWRjYXN0bHYuY2hhdC5iaWxpYmlsaS5jb20iLCAicGF0aCI6ICIvIiwgInRscyI6ICIifQ==
-trojan://cde8eda2-9c2e-4fae-b308-2fed2cc33e4b@green2.cdntencentmusic.com:31103?allowInsecure=1&sni=green2.cdntencentmusic.com#%E5%8F%B0%E6%B9%BE
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@154.205.159.100:990#%E3%82%BB%E3%83%BC%E3%82%B7%E3%82%A7%E3%83%AB
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.192:8080#%E3%83%AA%E3%83%88%E3%82%A2%E3%83%8B%E3%82%A2%E5%85%B1%E5%92%8C%E5%9B%BD
+trojan://2cfd8fb6-1f17-4d33-a3b9-448b1d723723@green2.cdntencentmusic.com:31101?allowInsecure=1&sni=green2.cdntencentmusic.com#%E5%8F%B0%E6%B9%BE
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.158.171.70:8080#%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNGJhZmE1ZjU5ZmMzMzlm@156.244.36.105:11201#%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB
+vmess://eyJhZGQiOiAidjJyYXkuY29kZWZ5aW5jLmNvbSIsICJ2IjogIjIiLCAicHMiOiAiXHUzMGEyXHUzMGUxXHUzMGVhXHUzMGFiIiwgInBvcnQiOiA0NDMsICJpZCI6ICIyYzk4MTE2NC05YjkzLTRiY2EtOTRmZi1iNzhkM2Y4NDk4ZDciLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiL3ZtZXNzd3MiLCAidGxzIjogIiJ9
 ```
 <h5>上位ノードの永続サブスクリプション アドレス (部分): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ja</h5>
  <p>上記の購読アドレスの QR コード</p>

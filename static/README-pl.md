@@ -35,11 +35,10 @@
  <h4>Lista węzłów: (wyświetlane są tutaj tylko niektóre węzły. Pobierz aplikację, aby wyświetlić wszystkie węzły)</h4>
     
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@154.70.207.97:990#Morocco
-vmess://eyJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJhZGQiOiAiMjE2LjE2Ny4yNi4yMjAiLCAicG9ydCI6ICIzNDEyOCIsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJpZCI6ICI0MTQ1ZWMyYS1iYzYxLTRkNzItYmZkNS1mOWZmYmRmNjZjMjgifQ==
-vmess://eyJhZGQiOiAibjE3NjEyMTQ5MDgud3BnMjcueHl6IiwgInYiOiAiMiIsICJwcyI6ICJIb25nIEtvbmciLCAicG9ydCI6IDQ0MywgImlkIjogIjM1MTRhOTNmLWJiMjYtNDQ0Mi04Zjk5LTk3MWIyZmYzMzg4YSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIvIiwgInRscyI6ICJ0bHMifQ==
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.141:8080#The+Netherlands
+trojan://92690597d6298061459918a371e8d77d@47.242.225.242:443?sni=hezijiasuqi.com#Hong+Kong
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@134.209.147.198:990#India
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@223.165.4.173:990#Taiwan
+trojan://469c8135-8aea-4c7f-8ec2-c5fdfa980b48@tuntro000.instconn.com:443?allowInsecure=1&sni=hkip5.686911.xyz#Hong+Kong
 ```
 <h5>Stały adres subskrypcji górnego węzła (część): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_pl</h5>
  <p>Kod QR dla adresu subskrypcji powyżej</p>

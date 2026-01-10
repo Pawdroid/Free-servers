@@ -35,11 +35,10 @@
  <h4>Knotenliste: (Hier werden nur einige Knoten angezeigt. Bitte laden Sie die App herunter, um alle Knoten anzuzeigen.)</h4>
     
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplNzE2ZDdiYmFlNGJkZDE0@85.90.207.104:18794#Ukraine
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@134.209.147.198:990#Indien
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.166:443#Litauen
-vmess://eyJhZGQiOiAiZjcyM2I3OGUtdDZyNXMwLXRnbDAydS0xanIxdS5oa3QuZ290b2NoaW5hdG93bi5uZXQiLCAidiI6ICIyIiwgInBzIjogIkhvbmdrb25nIiwgInBvcnQiOiA4MCwgImlkIjogIjJjMDFlYWU2LTBiNmEtMTFlZS1hMDU4LWYyM2M5MTM2OWYyZCIsICJhaWQiOiAiMiIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJicm9hZGNhc3Rsdi5jaGF0LmJpbGliaWxpLmNvbSIsICJwYXRoIjogIi8iLCAidGxzIjogIiJ9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.164:8080#Litauen
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplNzE2ZDdiYmFlNGJkZDE0@85.90.207.104:18793#Ukraine
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.167:443#USA
+vmess://eyJhZGQiOiAiNTcuMTI5LjI1LjIyIiwgInYiOiAiMiIsICJwcyI6ICJGcmFua3JlaWNoIiwgInBvcnQiOiA0NDMsICJpZCI6ICIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAid3JtZWxtd3hsZi5na3RldmxycXpud3Fxb3p5LmZhYnBmczY2Z2l6bW5vamhjdnF4d2wua3l0cmNmenFsYTg3Z3ZndnM2Yzdram5ydWJ1aC5jYyIsICJwYXRoIjogIi9saW5rdndzIiwgInRscyI6ICJ0bHMifQ==
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnS1l5Z1RjUlloYzNza2MyeDZ0WjA3M2xZejBEbmllWA==@5.181.21.246:443#%C3%96sterreich
 ```
 <h5>Die permanente Abonnementadresse des oberen Knotens (Teil): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_de</h5>
  <p>QR-Code für die Abonnementadresse oben</p>
