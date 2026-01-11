@@ -36,10 +36,10 @@
 <h4>节点列表：(这里仅展示部分节点，查看全部节点请下载app)</h4>
 
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplNzE2ZDdiYmFlNGJkZDE0@85.90.207.104:18794#%E4%B9%8C%E5%85%8B%E5%85%B0+V2CROSS.COM
-trojan://2683d8cb-6c64-4749-9cb9-24dfe71a5fdb@green2.cdntencentmusic.com:31101?allowInsecure=1&sni=green2.cdntencentmusic.com#%E5%8F%B0%E6%B9%BE%E7%9C%81%E5%8F%B0%E4%B8%AD%E5%B8%82+%E4%B8%AD%E5%8D%8E%E7%94%B5%E4%BF%A1
 trojan://BxceQaOe@58.152.46.60:443?allowInsecure=1&sni=%20%20%20%20%20%20%20%5BBy%20EbraSha%5D%20b2n.io%2Fv2ray-configs%20%7C%2088%20#%E9%A6%99%E6%B8%AF+%E7%94%B5%E8%AE%AF%E7%9B%88%E7%A7%91%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8
-trojan://BxceQaOe@43.207.232.58:2053?allowInsecure=1&sni=t.me%252Fripaojiedian#%E6%97%A5%E6%9C%AC+V2CROSS.COM
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplNzE2ZDdiYmFlNGJkZDE0@85.90.207.104:18794#%E4%B9%8C%E5%85%8B%E5%85%B0+V2CROSS.COM
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU0ZWU1XHU4MjcyXHU1MjE3IFYyQ1JPU1MuQ09NIiwgImFkZCI6ICIxNDkuODguOTUuOTQiLCAicG9ydCI6ICIzNTc2MCIsICJ0eXBlIjogIm5vbmUiLCAiaWQiOiAiMTdlOTY3OTItZDhjMy00NzQxLTljMzQtZTVkMWMxMWQ3NTRmIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJub25lIiwgInBhdGgiOiAiLyIsICJob3N0IjogIiIsICJ0bHMiOiAiIn0=
+trojan://.ie4rghJuMkcf0oF@38.96.254.102:18509?sni=shoppingmall.electricbanana.click#%E7%BE%8E%E5%9B%BD+%E5%8D%8E%E7%9B%9B%E9%A1%BFCogent%E9%80%9A%E4%BF%A1%E5%85%AC%E5%8F%B8
 ```
 
 <h5>上方节点（部分）永久订阅地址：https://proxy.v2gh.com/https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub</h5>
