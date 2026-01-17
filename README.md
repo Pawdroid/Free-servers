@@ -36,10 +36,10 @@
 <h4>节点列表：(这里仅展示部分节点，查看全部节点请下载app)</h4>
 
 ```
-trojan://BxceQaOe@13.115.134.113:4329?sni=t.me%25252Fripaojiedian#%E6%97%A5%E6%9C%AC+%E4%B8%9C%E4%BA%ACAmazon%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
-vmess://eyJhZGQiOiAiOC4yMTcuOTAuMTc1IiwgInYiOiAiMiIsICJwcyI6ICJcdTRlMmRcdTU2ZmQgXHU5NjNmXHU5MWNjXHU0ZTkxIiwgInBvcnQiOiA1MTAwMCwgImlkIjogIjZjODJhOTk0LWI2YmEtNDhjYS1mMmVkLTExMjg4ZmU0OTEzYiIsICJhaWQiOiAiMCIsICJuZXQiOiAibm9uZSIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAiIn0=
-trojan://47f867f8-45bb-43be-aa13-b99ed8f55c7d@green2.cdntencentmusic.com:35501?allowInsecure=1&sni=green2.cdntencentmusic.com#%E5%8F%B0%E6%B9%BE%E7%9C%81%E5%8F%B0%E4%B8%AD%E5%B8%82+%E4%B8%AD%E5%8D%8E%E7%94%B5%E4%BF%A1
-ss://YWVzLTI1Ni1nY206ZDJ1bVZhZFBUMW0vRndJbg==@194.87.10.161:8388#%E4%BF%84%E7%BD%97%E6%96%AF+V2CROSS.COM
+trojan://401a7257-66ad-4b7d-84b0-4745651f4701@green2.cdntencentmusic.com:31103?allowInsecure=1&sni=green2.cdntencentmusic.com#%E5%8F%B0%E6%B9%BE%E7%9C%81%E5%8F%B0%E4%B8%AD%E5%B8%82+%E4%B8%AD%E5%8D%8E%E7%94%B5%E4%BF%A1
+vmess://eyJhZGQiOiAibjE3NjEyMTQ5MDgud3BnMjcueHl6IiwgInYiOiAiMiIsICJwcyI6ICJcdTk5OTlcdTZlMmYgXHU5NjNmXHU5MWNjXHU0ZTkxIiwgInBvcnQiOiA0NDMsICJpZCI6ICIzNTE0YTkzZi1iYjI2LTQ0NDItOGY5OS05NzFiMmZmMzM4OGEiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiLyIsICJ0bHMiOiAidGxzIn0=
+vmess://eyJhZGQiOiAiY2dyb3VwLm5vZGUzLnYubm9kZWxpc3QtYWlycG9ydC5jb20iLCAidiI6ICIyIiwgInBzIjogIlx1NjViMFx1NTJhMFx1NTc2MSBBbWF6b25cdTY1NzBcdTYzNmVcdTRlMmRcdTVmYzMiLCAicG9ydCI6IDI0MzIxLCAiaWQiOiAiOGYzYTgzNWMtOGE0NS00ODBkLWFlMzUtMWRlYjJjNTJkY2FlIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJjZ3JvdXAubm9kZTMudi5ub2RlbGlzdC1haXJwb3J0LmNvbSIsICJwYXRoIjogIiIsICJ0bHMiOiAiIn0=
+trojan://BxceQaOe@13.115.134.113:4329?allowInsecure=1&sni=t.me%2Fripaojiedian#%E6%97%A5%E6%9C%AC+%E4%B8%9C%E4%BA%ACAmazon%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
 ```
 
 <h5>上方节点（部分）永久订阅地址：https://proxy.v2gh.com/https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub</h5>
