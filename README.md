@@ -36,9 +36,18 @@
 <h4>节点列表：(这里仅展示部分节点，查看全部节点请下载app)</h4>
 
 ```
-vmess://eyJhZGQiOiAiOTEuMTA3LjI1Mi4xMTAiLCAidiI6ICIyIiwgInBzIjogIlx1NGZjNFx1N2Y1N1x1NjVhZiBWMkNST1NTLkNPTSIsICJwb3J0IjogNTE2NDksICJpZCI6ICI2NTA3ZmNiZC05ZmIwLTQ0NzAtOGVjNC0yMmYyZGY0MzYwNDciLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiLyIsICJ0bHMiOiAiIn0=
-trojan://4843e94d205f3893f588255a591abe94@58.152.18.124:443?sni=www.nintendogames.net#%E9%A6%99%E6%B8%AF+%E7%94%B5%E8%AE%AF%E7%9B%88%E7%A7%91%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8
-trojan://BxceQaOe@58.152.53.219:443?sni=t.me%25252Fripaojiedian#%E9%A6%99%E6%B8%AF+%E7%94%B5%E8%AE%AF%E7%9B%88%E7%A7%91%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8
+trojan://cTv.9PDdCt-wybBrG1qlxI5UJuaEj@167.17.185.228:10889?security=tls&sni=web.max&allowInsecure=1&type=tcp&headerType=none#%E5%8A%A0%E6%8B%BF%E5%A4%A7+V2CROSS.COM
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsNjY4WEhQZWpvU05OdUQ2NkJZenllaGFDcFpleGlGNw==@45.12.136.170:443#%E6%AC%A7%E7%9B%9F+V2CROSS.COM
+trojan://a5inYFE=JGV89+hjxIqgDp1tcWBd6@80.173.230.196:26279?security=tls&allowInsecure=true#%E8%A5%BF%E7%8F%AD%E7%89%99+V2CROSS.COM
+trojan://BxceQaOe@58.152.46.246:443?sni=t.me%25252Fripaojiedian#%E9%A6%99%E6%B8%AF+%E7%94%B5%E8%AE%AF%E7%9B%88%E7%A7%91%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8
+trojan://9d23ec89-a50a-4634-b09e-37330ce09b37@green2.cdntencentmusic.com:31101?sni=green2.cdntencentmusic.com#%E5%8F%B0%E6%B9%BE%E7%9C%81%E5%8F%B0%E4%B8%AD%E5%B8%82+%E4%B8%AD%E5%8D%8E%E7%94%B5%E4%BF%A1
+trojan://30b2eb56-ce6c-4936-8704-304d5fb19c86@green2.cdntencentmusic.com:35501?security=tls&sni=green2.cdntencentmusic.com#%E5%8F%B0%E6%B9%BE%E7%9C%81%E5%8F%B0%E4%B8%AD%E5%B8%82+%E4%B8%AD%E5%8D%8E%E7%94%B5%E4%BF%A1
+vless://038a50c3-229c-41ef-a7ef-7abb504e4f33@94.141.161.83:2584?security=none&encryption=none&headerType=none&type=tcp#%E4%BF%84%E7%BD%97%E6%96%AF+V2CROSS.COM
+vless://efdd92c0-c32d-4039-a564-374abaa5d8ce@85.133.204.131:2024?security=none&encryption=none&headerType=none&type=tcp#%E4%BC%8A%E6%9C%97+V2CROSS.COM
+vmess://eyJhZGQiOiAiODIuMTk4LjI0Ni45NyIsICJ2IjogIjIiLCAicHMiOiAiXHU4MmYxXHU1NmZkIFYyQ1JPU1MuQ09NIiwgInBvcnQiOiAxODAsICJpZCI6ICJkMTNmYzJmNS0zZTA1LTQ3OTUtODFlYi00NDE0M2EwOWU1NTIiLCAiYWlkIjogIjAiLCAibmV0IjogInRjcCIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAiIn0=
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplNjExMDI3YS03YjU1LTRmNjQtYjhkZi0yNThmMmQ3ZWY5NWM=@e4d7a1c2f3b80976a5e2c1d4b3f0a987.358.onl:18005#%E5%B9%BF%E4%B8%9C%E7%9C%81%E5%B9%BF%E5%B7%9E%E5%B8%82+%E7%94%B5%E4%BF%A1
+trojan://65405672-7170-48be-ab5c-69706048cf61@cdnfire.xiaomispeed.com:25502?security=tls&sni=cdnfire.xiaomispeed.com#%E5%8F%B0%E6%B9%BE%E7%9C%81%E5%8F%B0%E4%B8%AD%E5%B8%82+%E4%B8%AD%E5%8D%8E%E7%94%B5%E4%BF%A1
+vmess://eyJhZGQiOiAidjMwLmhkYWNkLmNvbSIsICJhaWQiOiAiMCIsICJob3N0IjogInYzMC5oZGFjZC5jb20iLCAiaWQiOiAiY2JiM2Y4NzctZDFmYi0zNDRjLTg3YTktZDE1M2JmZmQ1NDg0IiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIvIiwgInBvcnQiOiAiMzA4MzAiLCAicHMiOiAiXHU5OTk5XHU2ZTJmIFx1NzUzNVx1OGJhZlx1NzZjOFx1NzlkMVx1NjcwOVx1OTY1MFx1NTE2Y1x1NTNmOCIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
 ```
 
 <h5>上方节点（部分）永久订阅地址：https://proxy.v2gh.com/https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub</h5>
