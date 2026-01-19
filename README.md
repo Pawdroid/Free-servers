@@ -36,10 +36,10 @@
 <h4>节点列表：(这里仅展示部分节点，查看全部节点请下载app)</h4>
 
 ```
-trojan://BxceQaOe@16.162.252.227:2673?allowInsecure=1&sni=t.me%252Fripaojiedian#%E7%BE%8E%E5%9B%BD+%E6%83%A0%E6%99%AEHP
+vmess://eyJhZGQiOiAiMjMuMTM4LjE0OC40NyIsICJ2IjogIjIiLCAicHMiOiAiXHU1MzE3XHU3ZjhlXHU1NzMwXHU1MzNhIFYyQ1JPU1MuQ09NIiwgInBvcnQiOiA0MjUwNywgImlkIjogIjRkYjA3YjEzLTY1MjQtNDlkMi1iNDMyLTFmMzEyYzBlOWM3YyIsICJhaWQiOiAiMCIsICJuZXQiOiAibm9uZSIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIi8iLCAidGxzIjogIiJ9
 trojan://BxceQaOe@54.95.183.161:3830?allowInsecure=1&sni=t.me%2Fripaojiedian#%E6%97%A5%E6%9C%AC+%E4%B8%9C%E4%BA%ACAmazon%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
-vmess://eyJhZGQiOiAiODIuMTk4LjI0Ni45NyIsICJ2IjogIjIiLCAicHMiOiAiXHU4MmYxXHU1NmZkIFYyQ1JPU1MuQ09NIiwgInBvcnQiOiAxODAsICJpZCI6ICJkMTNmYzJmNS0zZTA1LTQ3OTUtODFlYi00NDE0M2EwOWU1NTIiLCAiYWlkIjogIjAiLCAibmV0IjogInRjcCIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIi8iLCAidGxzIjogIiJ9
 trojan://1f86e372-1ee6-47eb-8c33-72bfc310dee6@green2.cdntencentmusic.com:35502?allowInsecure=1&sni=green2.cdntencentmusic.com#%E5%8F%B0%E6%B9%BE%E7%9C%81%E5%8F%B0%E4%B8%AD%E5%B8%82+%E4%B8%AD%E5%8D%8E%E7%94%B5%E4%BF%A1
+trojan://BxceQaOe@54.238.101.170:2266?allowInsecure=1&sni=t.me%2Fripaojiedian#%E6%97%A5%E6%9C%AC+%E4%B8%9C%E4%BA%ACAmazon%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
 ```
 
 <h5>上方节点（部分）永久订阅地址：https://proxy.v2gh.com/https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub</h5>
