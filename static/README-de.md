@@ -35,10 +35,10 @@
  <h4>Knotenliste: (Hier werden nur einige Knoten angezeigt. Bitte laden Sie die App herunter, um alle Knoten anzuzeigen.)</h4>
     
 ```
-ss://YWVzLTI1Ni1nY206ZDJ1bVZhZFBUMW0vRndJbg==@194.87.10.161:8388#Deutschland
-trojan://kkzh2prsyr2ik47as615@64.94.95.118:57142?sni=64.94.95.118#USA
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@203.23.128.33:990#Hongkong
-vmess://eyJhZGQiOiAiYjA3Yjc4NTEtdDh5c2cwLXRjMng0Mi1uMDlmLmhrdC5nb3RvY2hpbmF0b3duLm5ldCIsICJ2IjogIjIiLCAicHMiOiAiSG9uZ2tvbmciLCAicG9ydCI6IDgwLCAiaWQiOiAiODliMGVhOGMtODA2Yi0xMWVkLTk0YmEtZjIzYzkxM2M4ZDJiIiwgImFpZCI6ICIyIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogImIwN2I3ODUxLXQ4eXNnMC10YzJ4NDItbjA5Zi5oa3QuZ290b2NoaW5hdG93bi5uZXQiLCAicGF0aCI6ICIvIiwgInRscyI6ICIifQ==
+trojan://4843e94d205f3893f588255a591abe94@160.16.87.174:3076?security=tls&sni=www.nintendogames.net#Japan
+trojan://30077070-596e-48ea-9400-14c8ed07bd97@tuntro003.instconn.com:443?allowInsecure=1&sni=login-staticjpc.jasmine-douyin.top#Japan
+vmess://eyJhZGQiOiAiZnJhbmtmdXJ0MDEuemdqb2suY29tIiwgInYiOiAiMiIsICJwcyI6ICJEZXV0c2NobGFuZCIsICJwb3J0IjogNDQzLCAiaWQiOiAiYjcxNTc5YjEtNjU5My00MjZkLTkwYWMtZjAwMmZhOTZhZGUxIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIi8iLCAidGxzIjogInRscyJ9
+trojan://30077070-596e-48ea-9400-14c8ed07bd97@tuntro006.instconn.com:443?sni=torontorm1.686911.xyz#USA
 ```
 <h5>Die permanente Abonnementadresse des oberen Knotens (Teil): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_de</h5>
  <p>QR-Code für die Abonnementadresse oben</p>
