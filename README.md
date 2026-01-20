@@ -36,12 +36,13 @@
 <h4>节点列表：(这里仅展示部分节点，查看全部节点请下载app)</h4>
 
 ```
+vmess://eyJhZGQiOiAiMTcyLjY3LjIwNC44NCIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICJuYXNuZXQtNTExOTUyNDI0Lm1jaXRlbC5jbyIsICJpZCI6ICJuYXNuZXQiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL25hc25ldC9jZG4iLCAicG9ydCI6ICI4MDgwIiwgInBzIjogIlx1N2Y4ZVx1NTZmZCBDbG91ZEZsYXJlXHU4MjgyXHU3MGI5IiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIi0tLSIsICJ2IjogIjIifQ==
+vless://08c7f096-d057-4d53-82fd-c739d372887b@92.60.70.36:2053?&type=tcp&headerType=none&path=%2F#%E6%84%8F%E5%A4%A7%E5%88%A9+V2CROSS.COM
+trojan://a5inYFE=JGV89+hjxIqgDp1tcWBd6@80.173.230.196:26279?security=tls&allowInsecure=true#%E8%A5%BF%E7%8F%AD%E7%89%99+V2CROSS.COM
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxMWU1MjBjY2JlNzM2NWVi@45.82.102.204:11201#%E6%AC%A7%E7%9B%9F+V2CROSS.COM
+trojan://x.8ur1QiCyzlRHXeaB5UwoDfgZ04s@45.32.158.138:20994?security=tls&headerType=none&type=tcp&sni=ads.x5.ru#%E5%BE%B7%E5%9B%BD+%E9%BB%91%E6%A3%AE%E5%B7%9E%E6%B3%95%E5%85%B0%E5%85%8B%E7%A6%8FChoopa%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsNjY4WEhQZWpvU05OdUQ2NkJZenllaGFDcFpleGlGNw==@45.12.136.170:443#%E6%AC%A7%E7%9B%9F+V2CROSS.COM
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAiYWRkIjogIjRENDEtYjUxMC1GYzM1ZjJEN0VDZDcuNjY0LnF6ei5pbyIsICJwb3J0IjogIjQ0MyIsICJpZCI6ICIwNTA3ZmJjZC1iOTgzLTQzYTctOGUxZC0yYzU2MTk2MGFkNGYiLCAiYWlkIjogIjAiLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgInRscyI6ICJ0bHMiLCAiYWxwbiI6ICJodHRwLzEuMSIsICJmcCI6ICIiLCAic25pIjogIjRkNDEtQjUxMC1GQzM1RjJkN2VDRDcuNjY0LlFaei5pbyIsICJwYXRoIjogIi9weXlZNFpWVHlKVjN2cjlub09obiIsICJob3N0IjogIjRENDEtYjUxMC1mQzM1ZjJkN2VjZDcuNjY0LnFaei5pbyJ9
-trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420/?type=tcp&security=tls&sni=www.semanticstaplegun.click&allowInsecure=1#%E8%A5%BF%E7%8F%AD%E7%89%99+V2CROSS.COM
-trojan://a5inYFE=JGV89+hjxIqgDp1tcWBd6@80.173.230.196:26279?security=tls&headerType=none&type=tcp#%E8%A5%BF%E7%8F%AD%E7%89%99+V2CROSS.COM
-trojan://cTv.9PDdCt-wybBrG1qlxI5UJuaEj@167.17.185.172:10889?security=tls&sni=web.max.ru&allowInsecure=true&fp=chrome#%E5%8A%A0%E6%8B%BF%E5%A4%A7+V2CROSS.COM
-vmess://eyJhZGQiOiAiYzcuNjIwNzIwLnh5eiIsICJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAicG9ydCI6IDg0NDMsICJpZCI6ICI1MTZkOGE3YS0zZjBiLTQxZDMtYmFkMC0yNDYxMTYzODE1MTYiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiYzcuNjIwNzIwLnh5eiIsICJwYXRoIjogIi8iLCAidGxzIjogInRscyJ9
+vless://efdd92c0-c32d-4039-a564-374abaa5d8ce@85.133.204.131:2024?security=none&encryption=none&headerType=none&type=tcp#%E4%BC%8A%E6%9C%97+V2CROSS.COM
 ```
 
 <h5>上方节点（部分）永久订阅地址：https://proxy.v2gh.com/https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub</h5>
