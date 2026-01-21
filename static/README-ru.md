@@ -35,10 +35,10 @@
  <h4>Список узлов: (здесь показаны только некоторые узлы. Загрузите приложение, чтобы просмотреть все узлы)</h4>
     
 ```
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.169:443#%D0%A1%D0%A8%D0%90
-vmess://eyJhZGQiOiAiODIuMTk4LjI0Ni45NyIsICJ2IjogIjIiLCAicHMiOiAiXHUwNDExXHUwNDQwXHUwNDM4XHUwNDQyXHUwNDMwXHUwNDNkXHUwNDM4XHUwNDRmIiwgInBvcnQiOiAxODAsICJpZCI6ICJkMTNmYzJmNS0zZTA1LTQ3OTUtODFlYi00NDE0M2EwOWU1NTIiLCAiYWlkIjogIjAiLCAibmV0IjogInRjcCIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIi8iLCAidGxzIjogIiJ9
-ss://YWVzLTI1Ni1nY206dkVZK0V0c3YvS1RFTTN2cQ==@167.17.179.87:8388#%D0%9A%D0%B0%D0%BD%D0%B0%D0%B4%D0%B0
-trojan://30077070-596e-48ea-9400-14c8ed07bd97@tuntro006.instconn.com:443?sni=torontorm1.686911.xyz#%D0%9A%D0%B0%D0%BD%D0%B0%D0%B4%D0%B0
+vmess://eyJhZGQiOiAiNTcuMTI5LjU5LjE5NSIsICJ2IjogIjIiLCAicHMiOiAiXHUwNDI0XHUwNDQwXHUwNDMwXHUwNDNkXHUwNDQ2XHUwNDM4XHUwNDRmIiwgInBvcnQiOiA0NDMsICJpZCI6ICIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAia2FtcG9uZy5vcmciLCAicGF0aCI6ICJsaW5rdndzIiwgInRscyI6ICJ0bHMifQ==
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.158.171.66:8080#%D0%A1%D0%A8%D0%90
+trojan://4843e94d205f3893f588255a591abe94@160.16.130.21:544?security=tls&sni=www.nintendogames.net#%D0%AF%D0%BF%D0%BE%D0%BD%D0%B8%D1%8F
+trojan://4843e94d205f3893f588255a591abe94@160.16.150.76:3901?sni=www.nintendogames.net#%D0%AF%D0%BF%D0%BE%D0%BD%D0%B8%D1%8F
 ```
 <h5>Адрес постоянной подписки верхнего узла (части): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ru</h5>
  <p>QR-код для адреса подписки выше</p>
