@@ -37,11 +37,13 @@
 
 ```
 vless://efdd92c0-c32d-4039-a564-374abaa5d8ce@85.133.204.131:2024?security=none&encryption=none&headerType=none&type=tcp#%E4%BC%8A%E6%9C%97+V2CROSS.COM
+trojan://cTv.9PDdCt-wybBrG1qlxI5UJuaEj@167.17.185.172:10889?security=tls&sni=web.max.ru#%E5%8A%A0%E6%8B%BF%E5%A4%A7+V2CROSS.COM
+vmess://eyJhZGQiOiAibjE3NTM1OTg0NTEuNzRxeHYudG9wIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIm4xNzUzNTk4NDUxLjc0cXh2LnRvcCIsICJpZCI6ICI5Nzk4Njc4Zi01YjhjLTRmZjEtYmJkZC1iOWI1YzE1MzlkZTAiLCAiaW5zZWN1cmUiOiAiMCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgInBvcnQiOiAiNDQzIiwgInBzIjogIlx1NjVlNVx1NjcyYyBcdTRlMWNcdTRlYWNcdTk2M2ZcdTkxY2NcdTRlOTEiLCAic2N5IjogImF1dG8iLCAic25pIjogIm4xNzUzNTk4NDUxLjc0cXh2LnRvcCIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiLS0tIiwgInYiOiAiMiJ9
+trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420/?type=tcp&security=tls&sni=www.semanticstaplegun.click&allowInsecure=1#%E8%A5%BF%E7%8F%AD%E7%89%99+V2CROSS.COM
 trojan://01c7c307-2ae3-4c9e-bfa2-d64b8a2f5e44@green2.cdntencentmusic.com:31102?security=tls&sni=green2.cdntencentmusic.com#%E5%8F%B0%E6%B9%BE%E7%9C%81%E5%8F%B0%E4%B8%AD%E5%B8%82+%E4%B8%AD%E5%8D%8E%E7%94%B5%E4%BF%A1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.199:8080#%E8%8B%B1%E5%9B%BD+V2CROSS.COM
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAiYWRkIjogIjRENDEtYjUxMC1GYzM1ZjJEN0VDZDcuNjY0LnF6ei5pbyIsICJwb3J0IjogIjQ0MyIsICJpZCI6ICIwNTA3ZmJjZC1iOTgzLTQzYTctOGUxZC0yYzU2MTk2MGFkNGYiLCAiYWlkIjogIjAiLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgInRscyI6ICJ0bHMiLCAiYWxwbiI6ICJodHRwLzEuMSIsICJmcCI6ICIiLCAic25pIjogIjRkNDEtQjUxMC1GQzM1RjJkN2VDRDcuNjY0LlFaei5pbyIsICJwYXRoIjogIi9weXlZNFpWVHlKVjN2cjlub09obiIsICJob3N0IjogIjRENDEtYjUxMC1mQzM1ZjJkN2VjZDcuNjY0LnFaei5pbyJ9
 trojan://RPyW62_b9aH.ztJKeArou@83.143.87.9:18581?security=tls&allowInsecure=true#%E6%8C%AA%E5%A8%81+V2CROSS.COM
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU4MmYxXHU1NmZkIFYyQ1JPU1MuQ09NIiwgImFkZCI6ICI4Mi4xOTguMjQ2Ljk3IiwgInBvcnQiOiAiMTgwIiwgInR5cGUiOiAibm9uZSIsICJpZCI6ICJkMTNmYzJmNS0zZTA1LTQ3OTUtODFlYi00NDE0M2EwOWU1NTIiLCAiYWlkIjogIjAiLCAibmV0IjogInRjcCIsICJwYXRoIjogIi9mNnRhT01jT1NaYjlUUFIiLCAiaG9zdCI6ICJiYmJiYmJiYmIuMjIyNzY5Lnh5eiIsICJ0bHMiOiAiIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlfQ==
-trojan://808b5ae2-7b94-43e7-8632-c639c3f72415@green2.cdntencentmusic.com:31103?security=tls&sni=green2.cdntencentmusic.com#%E5%8F%B0%E6%B9%BE%E7%9C%81%E5%8F%B0%E4%B8%AD%E5%B8%82+%E4%B8%AD%E5%8D%8E%E7%94%B5%E4%BF%A1
+trojan://ZblhWr0mqMakCPg.N@212.193.18.144:36158?allowInsecure=1&sni=ya.ru#%E4%BF%84%E7%BD%97%E6%96%AF+V2CROSS.COM
 ```
 
 <h5>上方节点（部分）永久订阅地址：https://proxy.v2gh.com/https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub</h5>
