@@ -35,10 +35,10 @@
  <h4>Lista de nodos: (aquí solo se muestran algunos nodos; descargue la aplicación para ver todos los nodos)</h4>
     
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxN1pET1JXSWxpUUh1TzZXUkdIQ2hYWU16ZFJ0QVlWUA==@45.14.245.2:443#Holanda
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@151.242.251.147:8080#Ir%C3%A1n
-trojan://381f2e86233720eacda26d50e9aa26da@160.16.138.24:1281?sni=www.nintendogames.net#Jap%C3%B3n
-vmess://eyJhZGQiOiAiY2YuMDkwMjI3Lnh5eiIsICJ2IjogIjIiLCAicHMiOiAiRXN0YWRvcyBVbmlkb3MiLCAicG9ydCI6IDQ0MywgImlkIjogIjI5MGNjNjkxLTNhYzYtNDM4Ny05OGExLTI1YzhlYjhjYTJlYSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJzZ2FsLmRhZ3JhdGUuZXUub3JnIiwgInBhdGgiOiAiLyIsICJ0bHMiOiAidGxzIn0=
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVQU1WdEhtNTR1YWhkNlNpTjVXY0QxNnJzUFNkYWJQRw==@23.95.72.81:443#Canad%C3%A1
+vmess://eyJhZGQiOiAiMTQ2LjU2LjExMi4xMTAiLCAidiI6ICIyIiwgInBzIjogIkNvcmVhIGRlbCBTdXIiLCAicG9ydCI6IDg4ODgsICJpZCI6ICJlN2MzMDJmMy05MGQ2LTQyZGQtOWQ3ZC05NGEzNjgzYTM3MDciLCAiYWlkIjogIjAiLCAibmV0IjogInRjcCIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAiIn0=
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.189:8080#Holanda
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.204:443#Estados+Unidos
 ```
 <h5>La dirección de suscripción permanente del nodo superior (parte): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_es</h5>
  <p>Código QR para la dirección de suscripción anterior</p>
