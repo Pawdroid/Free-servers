@@ -36,13 +36,13 @@
 <h4>节点列表：(这里仅展示部分节点，查看全部节点请下载app)</h4>
 
 ```
-trojan://ZblhWr0mqMakCPg.N@212.193.18.144:36158?security=tls&sni=ya.ru#%E4%BF%84%E7%BD%97%E6%96%AF+V2CROSS.COM
-trojan://BxceQaOe@219.76.135.98:443?sni=219.76.135.98#%E9%A6%99%E6%B8%AF+%E7%94%B5%E8%AE%AF%E7%9B%88%E7%A7%91%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8
-vmess://eyJhZGQiOiAiOTIuMjQ2Ljg3LjE3MCIsICJ2IjogIjIiLCAicHMiOiAiXHU0ZmM0XHU3ZjU3XHU2NWFmIFYyQ1JPU1MuQ09NIiwgInBvcnQiOiAxODM1NSwgImlkIjogImNhZjkyMWM3LWFjNjMtNDBiYy1mYWExLWNkYTA5N2ZkN2U0MiIsICJhaWQiOiAiMCIsICJuZXQiOiAibm9uZSIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAiIn0=
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAiYWRkIjogIjEwNC4yMS42OS40NCIsICJwb3J0IjogIjgwODAiLCAiaWQiOiAibmFzbmV0IiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogIm5hc25ldC01MTE5NTI0MjQubWNpdGVsLmNvIiwgInBhdGgiOiAiL25hc25ldC9jZG4iLCAidGxzIjogIiIsICJzbmkiOiAiIiwgInRlc3RfbmFtZSI6ICJVU1x1N2Y4ZVx1NTZmZDYifQ==
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAiYWRkIjogIjE3Mi42Ny4yMDQuODQiLCAicG9ydCI6ICI4MDgwIiwgImlkIjogIm5hc25ldCIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAidGxzIjogIiIsICJhbHBuIjogIiIsICJwYXRoIjogIi9uYXNuZXQvY2RuIiwgImhvc3QiOiAibmFzbmV0LTUxMTk1MjQyNC5tY2l0ZWwuY28ifQ==
-trojan://x.8ur1QiCyzlRHXeaB5UwoDfgZ04s@45.32.158.138:20994?security=tls&sni=ads.x5.ru#%E5%BE%B7%E5%9B%BD+%E9%BB%91%E6%A3%AE%E5%B7%9E%E6%B3%95%E5%85%B0%E5%85%8B%E7%A6%8FChoopa%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
-trojan://x.8ur1QiCyzlRHXeaB5UwoDfgZ04s@140.82.35.244:20994?sni=ads.x5.ru#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
+vmess://eyJhZGQiOiAiMjA2LjExOS4xOTEuOSIsICJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIFYyQ1JPU1MuQ09NIiwgInBvcnQiOiA3MTAwLCAiaWQiOiAiMTA4NTM0ODUtMjZlMS00NzdiLWQyNTctNThhM2Y0ODczZGIzIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJub25lIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiIiwgInRscyI6ICIifQ==
+trojan://RPyW62_b9aH.ztJKeArou@83.143.87.9:18581?security=tls&sni=83.143.87.9#%E6%8C%AA%E5%A8%81+V2CROSS.COM
+trojan://741add2a-b04d-48a1-9507-2a728dc4f428@green2.cdntencentmusic.com:31103?sni=green2.cdntencentmusic.com#%E5%8F%B0%E6%B9%BE%E7%9C%81%E5%8F%B0%E4%B8%AD%E5%B8%82+%E4%B8%AD%E5%8D%8E%E7%94%B5%E4%BF%A1
+vmess://eyJhZGQiOiAiMjA2LjExOS4xOTEuOSIsICJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIFYyQ1JPU1MuQ09NIiwgInBvcnQiOiA3MTAwLCAiaWQiOiAiMTA4NTM0ODUtMjZlMS00NzdiLWQyNTctNThhM2Y0ODczZGIzIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJub25lIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiIiwgInRscyI6ICIifQ==
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5M1Nvd3FVa3J0MWNibTQ4N2c3NEFj@78.129.140.11:443#%E8%8B%B1%E5%9B%BD+V2CROSS.COM
+trojan://a5inYFE=JGV89+hjxIqgDp1tcWBd6@80.173.230.196:26279?allowInsecure=0#%E8%A5%BF%E7%8F%AD%E7%89%99+V2CROSS.COM
+vmess://eyJhZGQiOiAiY2YtcHJveHkuMjAyNTA3Lnh5eiIsICJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAicG9ydCI6IDQ0MywgImlkIjogImZhOGM4MTFiLTdiZDMtNGMwNC1iOWRkLWM3MDE2OThmMWVmZCIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJnYi4yMDI1MDcueHl6IiwgInBhdGgiOiAiLyIsICJ0bHMiOiAidGxzIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlfQ==
 ```
 
 <h5>上方节点（部分）永久订阅地址：https://proxy.v2gh.com/https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub</h5>
@@ -63,11 +63,9 @@ trojan://x.8ur1QiCyzlRHXeaB5UwoDfgZ04s@140.82.35.244:20994?sni=ads.x5.ru#%E7%BE%
 
 <p>下面有几个官网给出的特点：<br>✅智能路由技术，可按应用自定义流量走向：通过VPN、直连网络或阻止访问。<br>✅支持多跳VPN，提升速度和降低延迟。例如从亚洲访问美国的网站，可以通过香港 - 美国进行访问。<br>✅在多种设备使用，包括Android、iOS、Mac、Windows、Chrome扩展程序。<br>✅提供WiFi6路由器（需额外购买硬件），通过VPN保护整个局域网络及所有设备。<br>✅在全球40+国家部署有VPN服务器，包括香港、台湾、美国、新加坡等。<br>✅7/24小时真人在线支持</p>
 <p>Surflare支持1月、半年和1年的订阅计划，可通过信用卡、支付宝等方式付款，同时支持7天无理由退款。</p>
-<p>访问官网：<a href="http://www.surflare.com" target="_blank" rel="noreferrer noopener">http://www.surflare.com</a> ，或在Google Play和App Store中搜索“Surflare”下载。新用户注册可享7天免费试用，直接在App中申请即可。</p>
+<p>访问官网：<a href="http://www.surflare.com" target="_blank" rel="noreferrer noopener">http://www.surflare.com</a> ，或在Google Play和App Store中搜索“Surflare”下载。新用户注册可享免费试用，直接在App中申请即可。</p>
 <p class="wp-block-b2-tips b2-tip b2-alert-primary">限时打骨折</p>
 <p>专属优惠码获得9折优惠：pawdroid</p>
-<p class="wp-block-b2-tips b2-tip b2-alert-info">白嫖党看这里</p>
-<p class="has-vivid-red-color has-text-color has-link-color wp-elements-1bde4acdc4fee6db820c9b4caea0b84d">免费试用<strong>7天</strong>+<strong>7天</strong>无理由退款=白嫖<strong>14天</strong></p>
 <p class="wp-block-b2-tips b2-tip b2-alert-success">实力党看这里</p>
 <p><strong>使用体验觉得还可以的话可以搞个套餐接着用</strong>，可以考虑使用专属限时9折优惠码pawdroid。</p>
 <p></p>
