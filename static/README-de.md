@@ -35,10 +35,10 @@
  <h4>Knotenliste: (Hier werden nur einige Knoten angezeigt. Bitte laden Sie die App herunter, um alle Knoten anzuzeigen.)</h4>
     
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplNjExMDI3YS03YjU1LTRmNjQtYjhkZi0yNThmMmQ3ZWY5NWM=@e4d7a1c2f3b80976a5e2c1d4b3f0a987.358.onl:18005#Hongkong
-trojan://4843e94d205f3893f588255a591abe94@160.16.70.180:3423?sni=www.nintendogames.net#Japan
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpORFJ5U0lBQkFSYkVyTklWc0NOVmt5WUFIaUJ6aHZlVA==@23.95.75.146:443#USA
-trojan://381f2e86233720eacda26d50e9aa26da@160.16.116.227:1281?sni=www.nintendogames.net#Japan
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.158.171.66:8080#USA
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.184:8080#UK
+trojan://381f2e86233720eacda26d50e9aa26da@160.16.68.250:1281?sni=www.nintendogames.net#Japan
+trojan://4843e94d205f3893f588255a591abe94@153.121.38.213:4006?sni=www.nintendogames.net#Japan
 ```
 <h5>Die permanente Abonnementadresse des oberen Knotens (Teil): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_de</h5>
  <p>QR-Code für die Abonnementadresse oben</p>

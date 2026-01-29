@@ -35,10 +35,10 @@
  <h4>Daftar node: (Hanya beberapa node yang ditampilkan di sini, silakan unduh aplikasi untuk melihat semua node)</h4>
     
 ```
+vmess://eyJhZGQiOiAiNTEuNzkuMTAzLjc2IiwgInYiOiAiMiIsICJwcyI6ICJDYW5hZGEiLCAicG9ydCI6IDgwLCAiaWQiOiAiNThmZTE1NDItNTI5MC00MGFkLTgxNWEtNzc3MDdhODFhZmU1IiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogIndybWVsbXd4bGYuZ2t0ZXZscnF6bndxcW96eS5mYWJwZnM2Nmdpem1ub2poY3ZxeHdsLmt5dHJjZnpxbGE4N2d2Z3ZzNmM3a2pucnVidWguY2MiLCAicGF0aCI6ICIvSU9lYmhMTWhsMUNUYkZIYkw5NW15ZlJYMiIsICJ0bHMiOiAiIn0=
 vmess://eyJhZGQiOiAiNTcuMTI5LjI1LjI1IiwgInYiOiAiMiIsICJwcyI6ICJGcmFuY2UiLCAicG9ydCI6IDQ0MywgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJmLmtoaWxlaS5jb20iLCAicGF0aCI6ICIvbGlua3Z3cyIsICJ0bHMiOiAidGxzIn0=
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.202:8080#The+Netherlands
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.240:8080#The+Netherlands
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTRGFGSVNyM0dmbTZZa0JTU3JGSUV3d1dqRUVVN1hibw==@95.164.10.228:443#Denmark
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@156.38.168.58:990#South+Africa
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwSnRERlhNZmRXOVZOZEpwYWY0ZTJMZkZrWGRXZ3hyeg==@167.150.100.115:443#United+States
 ```
 <h5>Alamat langganan permanen node atas (bagian): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_id</h5>
  <p>Kode QR untuk alamat berlangganan di atas</p>
