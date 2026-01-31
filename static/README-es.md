@@ -35,10 +35,10 @@
  <h4>Lista de nodos: (aquí solo se muestran algunos nodos; descargue la aplicación para ver todos los nodos)</h4>
     
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@193.135.174.135:990#Estados+Unidos
-vmess://eyJhZGQiOiAiYzRlYTUxYWItdDdoMzQwLXQ4eGRzdS1ueDNiLmhrdC5nb3RvY2hpbmF0b3duLm5ldCIsICJ2IjogIjIiLCAicHMiOiAiSG9uZyBLb25nIiwgInBvcnQiOiA4MCwgImlkIjogIjMyMzE1MzI0LWNmNmItMTFlZC05NzliLWYyM2M5MTY0Y2E1ZCIsICJhaWQiOiAiMiIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJicm9hZGNhc3Rsdi5jaGF0LmJpbGliaWxpLmNvbSIsICJwYXRoIjogIi8iLCAidGxzIjogIiJ9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@176.123.5.253:990#Moldavia
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.164:8080#Lituania
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkQUhNMXBtOGFnN0tkbHJVeWxRaTZ0@promo18v.bystrivpn.ru:443#Estados+Unidos
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.158.171.70:8080#Estados+Unidos
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.169:443#Estados+Unidos
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.157:8080#Holanda
 ```
 <h5>La dirección de suscripción permanente del nodo superior (parte): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_es</h5>
  <p>Código QR para la dirección de suscripción anterior</p>
