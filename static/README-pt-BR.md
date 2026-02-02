@@ -35,10 +35,10 @@
  <h4>Lista de nós: (Apenas alguns nós são exibidos aqui, baixe o aplicativo para visualizar todos os nós)</h4>
     
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.179:8080#Reino+Unido
-trojan://9d23ec89-a50a-4634-b09e-37330ce09b37@green2.cdntencentmusic.com:31101?sni=green2.cdntencentmusic.com#Taiwan
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@154.70.207.97:990#Marrocos
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWbXNmMDZZVE1xdEFZZGh3TXFkU3VHcWdkVmttMHlkZGk0a1lhQUVWUVdZajlpSEE=@89.223.93.176:41348#Pol%C3%B4nia
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2VHMyWkRUUUFmM2hrRm9COEFGdWZEd3NHcmxGNGUydA==@45.15.126.19:443#Arm%C3%AAnia
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTRGFGSVNyM0dmbTZZa0JTU3JGSUV3d1dqRUVVN1hibw==@95.164.10.228:443#Dinamarca
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.191:8080#Reino+Unido
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsNjY4WEhQZWpvU05OdUQ2NkJZenllaGFDcFpleGlGNw==@45.12.136.170:443#Su%C3%A9cia
 ```
 <h5>O endereço de assinatura permanente do nó superior (parte): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_pt-BR</h5>
  <p>Código QR do endereço de assinatura acima</p>

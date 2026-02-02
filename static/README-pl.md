@@ -35,10 +35,10 @@
  <h4>Lista węzłów: (wyświetlane są tutaj tylko niektóre węzły. Pobierz aplikację, aby wyświetlić wszystkie węzły)</h4>
     
 ```
-vmess://eyJhZGQiOiAiNS4xOTYuMjkuMTIzIiwgInYiOiAiMiIsICJwcyI6ICJGcmFuY2UiLCAicG9ydCI6IDIwODIsICJpZCI6ICIxMTJhYzM2Zi0zZjUzLTRlMjYtODM3MS1kMjVjMDI4ZTFiOWEiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAid3JtZWxtd3hsZi5na3RldmxycXpud3Fxb3p5LmZhYnBmczY2Z2l6bW5vamhjdnF4d2wua3l0cmNmenFsYTg3Z3ZndnM2Yzdram5ydWJ1aC5jYyIsICJwYXRoIjogIi8iLCAidGxzIjogIiJ9
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.204:443#United+States
-vmess://eyJhZGQiOiAiNTcuMTI5LjY0LjE1NyIsICJ2IjogIjIiLCAicHMiOiAiRnJhbmNlIiwgInBvcnQiOiA0NDMsICJpZCI6ICIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAibGFtbWFsYW5kLm9yZyIsICJwYXRoIjogImxpbmt2d3MiLCAidGxzIjogInRscyJ9
-trojan://381f2e86233720eacda26d50e9aa26da@160.16.68.250:1281?sni=www.nintendogames.net#Japan
+trojan://BxceQaOe@58.152.46.246:443?sni=t.me%252Fripaojiedian#Hong+Kong
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.154:8080#Lithuania
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.187:8080#Lithuania
+vmess://eyJhZGQiOiAiODIuMTk4LjI0Ni45NyIsICJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIEtpbmdkb20iLCAicG9ydCI6IDE4MCwgImlkIjogImQxM2ZjMmY1LTNlMDUtNDc5NS04MWViLTQ0MTQzYTA5ZTU1MiIsICJhaWQiOiAiMCIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiLyIsICJ0bHMiOiAiIn0=
 ```
 <h5>Stały adres subskrypcji górnego węzła (część): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_pl</h5>
  <p>Kod QR dla adresu subskrypcji powyżej</p>
