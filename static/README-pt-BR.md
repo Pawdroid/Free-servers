@@ -35,10 +35,10 @@
  <h4>Lista de nós: (Apenas alguns nós são exibidos aqui, baixe o aplicativo para visualizar todos os nós)</h4>
     
 ```
-vmess://eyJhZGQiOiAiMTU0LjIxMS44LjU4IiwgInYiOiAiMiIsICJwcyI6ICJIb25nIEtvbmciLCAicG9ydCI6IDQ0MywgImlkIjogImRlOTRjYzBhLTA1OTItNDk2OS1iMWZjLTk3ZWE4ZjBlYTBiMyIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJ1cy5uYmVlLnBwLnVhIiwgInBhdGgiOiAiL2FhIiwgInRscyI6ICJ0bHMifQ==
-trojan://381f2e86233720eacda26d50e9aa26da@160.16.144.208:1281?sni=www.nintendogames.net#Jap%C3%A3o
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.188:8080#Holanda
-vmess://eyJhZGQiOiAiNDcuMjUwLjQ1LjIzNCIsICJ2IjogIjIiLCAicHMiOiAiTWFsXHUwMGUxc2lhIiwgInBvcnQiOiA4NjEzLCAiaWQiOiAiODAwMzliNGQtYmFjMC00Zjg5LTgyYzctNTRmYWQzYjBhMWVhIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIi9hcmtpP2VkPTIwNDgiLCAidGxzIjogIiJ9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@193.135.174.135:990#EUA
+vmess://eyJhZGQiOiAiMTUuMjM1LjgzLjIyNyIsICJ2IjogIjIiLCAicHMiOiAiQ2FuYWRcdTAwZTEiLCAicG9ydCI6IDQ0MywgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJtYW5rYWRtdS5jb20iLCAicGF0aCI6ICIvbGlua3Z3cyIsICJ0bHMiOiAidGxzIn0=
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.183:8080#Litu%C3%A2nia
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@38.54.59.180:990#Egito
 ```
 <h5>O endereço de assinatura permanente do nó superior (parte): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_pt-BR</h5>
  <p>Código QR do endereço de assinatura acima</p>
