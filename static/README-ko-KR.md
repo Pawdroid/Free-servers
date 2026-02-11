@@ -35,10 +35,10 @@
  <h4>노드 목록: (여기에는 일부 노드만 표시됩니다. 모든 노드를 보려면 앱을 다운로드하세요.)</h4>
     
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.240:8080#The+Netherlands
-trojan://4843e94d205f3893f588255a591abe94@160.16.72.205:1933?sni=www.nintendogames.net#Japan
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@151.242.251.147:8080#Iran
-vmess://eyJhZGQiOiAiNTcuMTI5LjI4LjIxNCIsICJ2IjogIjIiLCAicHMiOiAiRnJhbmNlIiwgInBvcnQiOiA0NDMsICJpZCI6ICIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAia2FtcG9uZy5vcmciLCAicGF0aCI6ICJsaW5rdndzIiwgInRscyI6ICJ0bHMifQ==
+vmess://eyJhZGQiOiAiMmJiOWViZWQtdDcwZjQwLXQ3aHNqMi0xZ2V2Zy5oa3QuZ290b2NoaW5hdG93bi5uZXQiLCAidiI6ICIyIiwgInBzIjogIkhvbmcgS29uZyIsICJwb3J0IjogODAsICJpZCI6ICJmMDJlZTJiNC1kNzYwLTExZWMtYmQ3Yy1mMjNjOTEzYzhkMmIiLCAiYWlkIjogIjIiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiYnJvYWRjYXN0bHYuY2hhdC5iaWxpYmlsaS5jb20iLCAicGF0aCI6ICIvIiwgInRscyI6ICIifQ==
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxN1pET1JXSWxpUUh1TzZXUkdIQ2hYWU16ZFJ0QVlWUA==@45.14.245.2:443#The+Netherlands
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@beesyar.org:8080#Lithuania
+vmess://eyJhZGQiOiAiMTU0LjIxMS44LjU4IiwgInYiOiAiMiIsICJwcyI6ICJIb25nIEtvbmciLCAicG9ydCI6IDQ0MywgImlkIjogImRlOTRjYzBhLTA1OTItNDk2OS1iMWZjLTk3ZWE4ZjBlYTBiMyIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJ1cy5uYmVlLnBwLnVhIiwgInBhdGgiOiAiL2FhIiwgInRscyI6ICJ0bHMifQ==
 ```
 <h5>상위 노드(일부)의 영구 구독 주소: https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ko-KR</h5>
  <p>위 구독 주소의 QR 코드</p>
