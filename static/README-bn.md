@@ -35,10 +35,10 @@
  <h4>নোড তালিকা: (শুধুমাত্র কিছু নোড এখানে প্রদর্শিত হয়, সমস্ত নোড দেখতে অ্যাপটি ডাউনলোড করুন)</h4>
     
 ```
-trojan://xtA6WF92Itmhm9jfvXUH1MDVL@free-de-3.undef.network:443?sni=free-de-3.undef.network#Germany
-vmess://eyJhZGQiOiAiMTUuMjM1LjUwLjE3MiIsICJ2IjogIjIiLCAicHMiOiAiQ2FuYWRhIiwgInBvcnQiOiA0NDMsICJpZCI6ICIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiYmFyYWRpaGEuY29tIiwgInBhdGgiOiAiL2xpbmt2d3MiLCAidGxzIjogInRscyJ9
-vmess://eyJhZGQiOiAidjQuaGRhY2QuY29tIiwgInYiOiAiMiIsICJwcyI6ICJDaGluYSIsICJwb3J0IjogMzA4MDQsICJpZCI6ICJjYmIzZjg3Ny1kMWZiLTM0NGMtODdhOS1kMTUzYmZmZDU0ODQiLCAiYWlkIjogIjIiLCAibmV0IjogInRjcCIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAiIn0=
-trojan://BxceQaOe@58.152.25.236:443?sni=t.me%252Fripaojiedian#Hong+Kong
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.218:8080#United+Kingdom
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.205:8080#United+Kingdom
+vmess://eyJhZGQiOiAiNTcuMTI5LjY0LjE5OSIsICJ2IjogIjIiLCAicHMiOiAiRnJhbmNlIiwgInBvcnQiOiA0NDMsICJpZCI6ICIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAicGVsYW5nLm9yZyIsICJwYXRoIjogImxpbmt2d3MiLCAidGxzIjogInRscyJ9
+vmess://eyJhZGQiOiAiMTQ2LjU2LjExMi4xMTAiLCAidiI6ICIyIiwgInBzIjogIlNvdXRoIEtvcmVhIiwgInBvcnQiOiA4ODg4LCAiaWQiOiAiZTdjMzAyZjMtOTBkNi00MmRkLTlkN2QtOTRhMzY4M2EzNzA3IiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIiLCAidGxzIjogIiJ9
 ```
 <h5>উপরের নোডের স্থায়ী সদস্যতা ঠিকানা (অংশ): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_bn</h5>
  <p>উপরের সদস্যতা ঠিকানার জন্য QR কোড</p>

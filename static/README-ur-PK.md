@@ -35,10 +35,10 @@
  <h4>نوڈ کی فہرست: (یہاں صرف کچھ نوڈس دکھائے گئے ہیں، براہ کرم تمام نوڈس دیکھنے کے لیے ایپ ڈاؤن لوڈ کریں)</h4>
     
 ```
-trojan://4843e94d205f3893f588255a591abe94@58.152.18.124:443?allowInsecure=1#Hong+Kong
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.217:8080#United+Kingdom
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@45.154.204.7:990#Canada
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxN1pET1JXSWxpUUh1TzZXUkdIQ2hYWU16ZFJ0QVlWUA==@45.14.245.2:443#The+Netherlands
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@185.255.123.166:990#Nigeria
+trojan://4843e94d205f3893f588255a591abe94@160.16.72.205:4006?sni=www.nintendogames.net#Japan
+trojan://30077070-596e-48ea-9400-14c8ed07bd97@tuntro006.instconn.com:443?sni=torontorm1.686911.xyz#Canada
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@23.95.76.59:990#United+States
 ```
 <h5>اوپری نوڈ کا مستقل رکنیت کا پتہ (حصہ): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ur-PK</h5>
  <p>اوپر سبسکرپشن ایڈریس کے لیے QR کوڈ</p>
