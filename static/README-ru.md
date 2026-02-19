@@ -35,10 +35,10 @@
  <h4>Список узлов: (здесь показаны только некоторые узлы. Загрузите приложение, чтобы просмотреть все узлы)</h4>
     
 ```
-trojan://4843e94d205f3893f588255a591abe94@160.16.87.174:3076?sni=www.nintendogames.net#%D0%AF%D0%BF%D0%BE%D0%BD%D0%B8%D1%8F
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.199:8080#%D0%91%D1%80%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D1%8F
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvNW9zWmcyNjl2NXpIcFlqcjF4WTlz@151.242.251.137:8080#%D0%98%D1%80%D0%B0%D0%BD
-vmess://eyJhZGQiOiAiNTcuMTI5LjI4LjIxNCIsICJ2IjogIjIiLCAicHMiOiAiXHUwNDI0XHUwNDQwXHUwNDMwXHUwNDNkXHUwNDQ2XHUwNDM4XHUwNDRmIiwgInBvcnQiOiA0NDMsICJpZCI6ICIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAia2FtcG9uZy5vcmciLCAicGF0aCI6ICJsaW5rdndzIiwgInRscyI6ICJ0bHMifQ==
+vmess://eyJhZGQiOiAiNDE5MjQ2MWUtdDcwZjQwLXRiYzBpZy0xc3N1ZC5oa3QuZ290b2NoaW5hdG93bi5uZXQiLCAidiI6ICIyIiwgInBzIjogIlx1MDQxM1x1MDQzZVx1MDQzZFx1MDQzYVx1MDQzZVx1MDQzZFx1MDQzMyIsICJwb3J0IjogODAsICJpZCI6ICJlNmFhMzliNi1mMGI1LTExZWYtYmNhMS1mMjNjOTFjZmJiYzkiLCAiYWlkIjogIjIiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiYnJvYWRjYXN0bHYuY2hhdC5iaWxpYmlsaS5jb20iLCAicGF0aCI6ICIvIiwgInRscyI6ICIifQ==
+vmess://eyJhZGQiOiAidjYuaGRhY2QuY29tIiwgInYiOiAiMiIsICJwcyI6ICJcdTA0MThcdTA0NDBcdTA0MzBcdTA0M2QiLCAicG9ydCI6IDMwODA2LCAiaWQiOiAiY2JiM2Y4NzctZDFmYi0zNDRjLTg3YTktZDE1M2JmZmQ1NDg0IiwgImFpZCI6ICIyIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIiLCAidGxzIjogIiJ9
+trojan://4843e94d205f3893f588255a591abe94@160.16.72.205:1933?sni=www.nintendogames.net#%D0%AF%D0%BF%D0%BE%D0%BD%D0%B8%D1%8F
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@103.106.228.247:990#%D0%AF%D0%BF%D0%BE%D0%BD%D0%B8%D1%8F
 ```
 <h5>Адрес постоянной подписки верхнего узла (части): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ru</h5>
  <p>QR-код для адреса подписки выше</p>
