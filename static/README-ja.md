@@ -35,10 +35,10 @@
  <h4>ノード リスト: (ここには一部のノードのみが表示されます。すべてのノードを表示するにはアプリをダウンロードしてください)</h4>
     
 ```
-trojan://9d23ec89-a50a-4634-b09e-37330ce09b37@green2.cdntencentmusic.com:31101?sni=green2.cdntencentmusic.com#%E5%8F%B0%E6%B9%BE
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.178:8080#%E3%83%AA%E3%83%88%E3%82%A2%E3%83%8B%E3%82%A2%E5%85%B1%E5%92%8C%E5%9B%BD
-vmess://eyJhZGQiOiAidjM1LmhkYWNkLmNvbSIsICJ2IjogIjIiLCAicHMiOiAiXHU0ZTJkXHU1NmZkIiwgInBvcnQiOiAzMDgzNSwgImlkIjogImNiYjNmODc3LWQxZmItMzQ0Yy04N2E5LWQxNTNiZmZkNTQ4NCIsICJhaWQiOiAiMiIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiIiwgInRscyI6ICIifQ==
-vmess://eyJhZGQiOiAiMmJiOWViZWQtdDcwZjQwLXQ3aHNqMi0xZ2V2Zy5oa3QuZ290b2NoaW5hdG93bi5uZXQiLCAidiI6ICIyIiwgInBzIjogIlx1OTk5OVx1NmUyZiIsICJwb3J0IjogODAsICJpZCI6ICJmMDJlZTJiNC1kNzYwLTExZWMtYmQ3Yy1mMjNjOTEzYzhkMmIiLCAiYWlkIjogIjIiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiYnJvYWRjYXN0bHYuY2hhdC5iaWxpYmlsaS5jb20iLCAicGF0aCI6ICIvIiwgInRscyI6ICIifQ==
+vmess://eyJhZGQiOiAibjE3NjEyMTQ5MTEuNzRxeHYudG9wIiwgInYiOiAiMiIsICJwcyI6ICJcdTk5OTlcdTZlMmYiLCAicG9ydCI6IDQ0MywgImlkIjogIjM3MmMxOTM5LTI5OWQtNDk0Ni05NjMzLTVmZmE5NzFmOGI2NyIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJuMTc2MTIxNDkxMS43NHF4di50b3AiLCAicGF0aCI6ICIvIiwgInRscyI6ICJ0bHMifQ==
+trojan://4843e94d205f3893f588255a591abe94@153.121.38.213:3901?sni=www.nintendogames.net#%E6%97%A5%E6%9C%AC
+trojan://4843e94d205f3893f588255a591abe94@160.16.150.76:3901?sni=www.nintendogames.net#%E6%97%A5%E6%9C%AC
+trojan://30077070-596e-48ea-9400-14c8ed07bd97@tuntro006.instconn.com:443?sni=torontorm1.686911.xyz#%E3%82%AB%E3%83%8A%E3%83%80
 ```
 <h5>上位ノードの永続サブスクリプション アドレス (部分): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ja</h5>
  <p>上記の購読アドレスの QR コード</p>
