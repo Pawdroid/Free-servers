@@ -35,10 +35,10 @@
  <h4>Daftar node: (Hanya beberapa node yang ditampilkan di sini, silakan unduh aplikasi untuk melihat semua node)</h4>
     
 ```
-vmess://eyJhZGQiOiAiaGd0cm9qYW4uemFiYy5uZXQiLCAidiI6ICIyIiwgInBzIjogIlVuaXRlZCBTdGF0ZXMiLCAicG9ydCI6IDIwODMsICJpZCI6ICJlNjM5NWMyMC00NTcxLTRiMzQtZDZiMS01NWE1ZDM2ZTQ5ZWEiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiaGd0cm9qYW4uemFiYy5uZXQiLCAicGF0aCI6ICIvZTYzOTVjMjAiLCAidGxzIjogInRscyJ9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@103.97.203.227:990#India
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpIZkFpeXJkRmJLSnVLSVFrR2p2SnJERmVmbUg4WURTQw==@45.83.131.43:443#Peru
-vmess://eyJhZGQiOiAiNTcuMTI5LjI1LjIwIiwgInYiOiAiMiIsICJwcyI6ICJGcmFuY2UiLCAicG9ydCI6IDQ0MywgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsICJhaWQiOiAiMSIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICI1Ny4xMjkuMjUuMjAiLCAicGF0aCI6ICJsaW5rdndzIiwgInRscyI6ICJ0bHMifQ==
+vmess://eyJhZGQiOiAiMTU0LjIxMS44LjU4IiwgInYiOiAiMiIsICJwcyI6ICJIb25nIEtvbmciLCAicG9ydCI6IDQ0MywgImlkIjogImRlOTRjYzBhLTA1OTItNDk2OS1iMWZjLTk3ZWE4ZjBlYTBiMyIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJ1cy5uYmVlLnBwLnVhIiwgInBhdGgiOiAiL2FhIiwgInRscyI6ICJ0bHMifQ==
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@45.87.175.174:8080#Lithuania
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.251:8080#The+Netherlands
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptYmhxc1N0bkZRVDFjVFpZQ2RzbWt1Z0dVQzZHVDZycA==@213.159.67.124:443#Russia
 ```
 <h5>Alamat langganan permanen node atas (bagian): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_id</h5>
  <p>Kode QR untuk alamat berlangganan di atas</p>

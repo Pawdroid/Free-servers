@@ -35,10 +35,10 @@
  <h4>Lista węzłów: (wyświetlane są tutaj tylko niektóre węzły. Pobierz aplikację, aby wyświetlić wszystkie węzły)</h4>
     
 ```
-trojan://4843e94d205f3893f588255a591abe94@160.16.132.38:544?sni=www.nintendogames.net#Japan
-trojan://4843e94d205f3893f588255a591abe94@160.16.87.174:1933?security=tls&sni=www.nintendogames.net#Japan
-trojan://381f2e86233720eacda26d50e9aa26da@202.181.103.246:1281?sni=www.nintendogames.net#Japan
-vmess://eyJhZGQiOiAiNTcuMTI5LjI4LjY5IiwgInYiOiAiMiIsICJwcyI6ICJGcmFuY2UiLCAicG9ydCI6IDQ0MywgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJiYXJhZGloYS5jb20iLCAicGF0aCI6ICIvbGlua3Z3cyIsICJ0bHMiOiAidGxzIn0=
+trojan://381f2e86233720eacda26d50e9aa26da@160.16.116.227:1281?sni=www.nintendogames.net#Japan
+vmess://eyJhZGQiOiAiMTUuMjM1Ljg1LjE0NyIsICJ2IjogIjIiLCAicHMiOiAiQ2FuYWRhIiwgInBvcnQiOiA0NDMsICJpZCI6ICIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAicGVsYW5nLm9yZyIsICJwYXRoIjogImxpbmt2d3MiLCAidGxzIjogInRscyJ9
+trojan://4843e94d205f3893f588255a591abe94@153.121.38.213:3901?sni=www.nintendogames.net#Japan
+trojan://381f2e86233720eacda26d50e9aa26da@160.16.144.208:1281?sni=www.nintendogames.net#Japan
 ```
 <h5>Stały adres subskrypcji górnego węzła (część): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_pl</h5>
  <p>Kod QR dla adresu subskrypcji powyżej</p>

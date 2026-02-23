@@ -35,10 +35,10 @@
  <h4>নোড তালিকা: (শুধুমাত্র কিছু নোড এখানে প্রদর্শিত হয়, সমস্ত নোড দেখতে অ্যাপটি ডাউনলোড করুন)</h4>
     
 ```
-vmess://eyJhZGQiOiAidjJyYXkuY29kZWZ5aW5jLmNvbSIsICJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJwb3J0IjogNDQzLCAiaWQiOiAiMmM5ODExNjQtOWI5My00YmNhLTk0ZmYtYjc4ZDNmODQ5OGQ3IiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogInYycmF5LmNvZGVmeWluYy5jb20iLCAicGF0aCI6ICIvdm1lc3N3cyIsICJ0bHMiOiAiIn0=
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplNjExMDI3YS03YjU1LTRmNjQtYjhkZi0yNThmMmQ3ZWY5NWM=@e4d7a1c2f3b80976a5e2c1d4b3f0a987.358.onl:18005#Hong+Kong
-trojan://30077070-596e-48ea-9400-14c8ed07bd97@tuntro006.instconn.com:443?sni=torontorm1.686911.xyz#Canada
-vmess://eyJhZGQiOiAiMTQxLjk1LjEyNi4xMzQiLCAidiI6ICIyIiwgInBzIjogIkZyYW5jZSIsICJwb3J0IjogNDQzLCAiaWQiOiAiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogImphbWVray5vcmciLCAicGF0aCI6ICJsaW5rdndzIiwgInRscyI6ICJ0bHMifQ==
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTVnQ2WmlXelJJMVl4ZWlnNHhCWndpSk90NmNlWHdHYQ==@95.111.222.113:443#Australia
+vmess://eyJhZGQiOiAiMTQ2LjU5LjU1LjUwIiwgInYiOiAiMiIsICJwcyI6ICJQb2xhbmQiLCAicG9ydCI6IDQ0MywgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJvLm1ldHVqaS5jb20iLCAicGF0aCI6ICIvbGlua3Z3cyIsICJ0bHMiOiAidGxzIn0=
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.240:8080#The+Netherlands
+trojan://4843e94d205f3893f588255a591abe94@160.16.70.180:3423?sni=www.nintendogames.net#Japan
 ```
 <h5>উপরের নোডের স্থায়ী সদস্যতা ঠিকানা (অংশ): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_bn</h5>
  <p>উপরের সদস্যতা ঠিকানার জন্য QR কোড</p>
