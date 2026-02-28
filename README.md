@@ -36,17 +36,17 @@
 <h4>节点列表：(这里仅展示部分节点，查看全部节点请下载app)</h4>
 
 ```
-trojan://a5inYFE=JGV89+hjxIqgDp1tcWBd6@80.173.230.196:26279?allowInsecure=0&sni=io.ozone.ru#%E8%A5%BF%E7%8F%AD%E7%89%99+V2CROSS.COM
-vless://75193bef-8d8f-e823-41e0-2dd083dc1399@dd.openaccessnode.com:50?security=none&encryption=none&headerType=none&type=tcp#%E7%91%9E%E5%85%B8+V2CROSS.COM
-trojan://26635779-8ce6-4c07-ae5d-f3769ec95ddd@green2.cdntencentmusic.com:31101?allowInsecure=0&sni=green2.cdntencentmusic.com#%E5%8F%B0%E6%B9%BE%E7%9C%81%E5%8F%B0%E4%B8%AD%E5%B8%82+%E4%B8%AD%E5%8D%8E%E7%94%B5%E4%BF%A1
-trojan://984c7793-1447-4af5-9200-d514ad6fe329@sg05.stimaysmhy8.com:45005?allowInsecure=1&sni=jsygouer.weixin-baidu-qq.com#%E7%94%98%E8%82%83%E7%9C%81%E5%85%B0%E5%B7%9E%E5%B8%82+%E7%A7%BB%E5%8A%A8
-trojan://11cfbea5-eae4-4654-8aa9-a9481f38dc42@220.130.58.136:31101?allowInsecure=0&sni=green2.cdntencentmusic.com#%E5%8F%B0%E6%B9%BE%E7%9C%81%E5%8F%B0%E4%B8%AD%E5%B8%82+%E4%B8%AD%E5%8D%8E%E7%94%B5%E4%BF%A1
-trojan://984c7793-1447-4af5-9200-d514ad6fe329@bgp1.stimaysmhy8.com:14011?security=tls&sni=jsygouer.weixin-baidu-qq.com#%E5%9B%9B%E5%B7%9D%E7%9C%81%E5%B9%BF%E5%85%83%E5%B8%82+%E7%A7%BB%E5%8A%A8
-trojan://984c7793-1447-4af5-9200-d514ad6fe329@us02.jsyjiedian8.com:40393?allowInsecure=1&sni=jsygouer.weixin-baidu-qq.com#%E7%94%98%E8%82%83%E7%9C%81%E5%85%B0%E5%B7%9E%E5%B8%82+%E7%A7%BB%E5%8A%A8
-trojan://ZblhWr0mqMakCPg.N@212.193.18.144:36158?security=tls&sni=ya.ru#%E4%BF%84%E7%BD%97%E6%96%AF+V2CROSS.COM
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU4MmYxXHU1NmZkIFYyQ1JPU1MuQ09NIiwgImFkZCI6ICI4Mi4xOTguMjQ2Ljk3IiwgInBvcnQiOiAiMTgwIiwgInR5cGUiOiAibm9uZSIsICJpZCI6ICJkMTNmYzJmNS0zZTA1LTQ3OTUtODFlYi00NDE0M2EwOWU1NTIiLCAiYWlkIjogIjAiLCAibmV0IjogInRjcCIsICJwYXRoIjogIi8iLCAiaG9zdCI6ICJ0cm9qYW4uYnVyZ2VyaXAuY28udWsiLCAidGxzIjogIiJ9
+trojan://47d9af53-24a8-4593-a439-a73b88ad53ae@green2.cdntencentmusic.com:35501?allowInsecure=0&sni=green2.cdntencentmusic.com#%E5%8F%B0%E6%B9%BE%E7%9C%81%E5%8F%B0%E4%B8%AD%E5%B8%82+%E4%B8%AD%E5%8D%8E%E7%94%B5%E4%BF%A1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNmQ2MWNkMS1kM2RjLTQwNWUtYWZiMi1kNjc4MTVmNGU0ZGE=@ldu.izenny.com:43076#%E5%B9%BF%E4%B8%9C%E7%9C%81%E4%BA%91%E6%B5%AE%E5%B8%82+%E7%A7%BB%E5%8A%A8
+trojan://qmBSKnAl6LYi9=z23Rs.Z@37.235.49.209:28099?security=tls&sni=celestialcorset.crystalhamster.click#%E5%86%B0%E5%B2%9B+V2CROSS.COM
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNmQ2MWNkMS1kM2RjLTQwNWUtYWZiMi1kNjc4MTVmNGU0ZGE=@ldu.izenny.com:34411#%E5%B9%BF%E4%B8%9C%E7%9C%81%E4%BA%91%E6%B5%AE%E5%B8%82+%E7%A7%BB%E5%8A%A8
+trojan://a1a00c82-5356-4a49-8944-1cd0f94168bb@220.130.58.136:35501?allowInsecure=0&sni=green2.cdntencentmusic.com#%E5%8F%B0%E6%B9%BE%E7%9C%81%E5%8F%B0%E4%B8%AD%E5%B8%82+%E4%B8%AD%E5%8D%8E%E7%94%B5%E4%BF%A1
 trojan://cTv.9PDdCt-wybBrG1qlxI5UJuaEj@167.17.185.169:10889?security=tls&sni=ya.ru#%E5%8A%A0%E6%8B%BF%E5%A4%A7+V2CROSS.COM
-vmess://eyJhZGQiOiAiODIuMTk4LjI0Ni45NyIsICJhaWQiOiAwLCAiaWQiOiAiZDEzZmMyZjUtM2UwNS00Nzk1LTgxZWItNDQxNDNhMDllNTUyIiwgInBvcnQiOiAxODAsICJwcyI6ICJcdTgyZjFcdTU2ZmQgVjJDUk9TUy5DT00iLCAic2VjdXJpdHkiOiAiYXV0byJ9
+vmess://eyJhZGQiOiAibmV2YS5hemxhbi5iaXouaWQiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAibmV2YS5hemxhbi5iaXouaWQiLCAiaWQiOiAiODA3MjI5OGYtY2QyOC00YTYxLThlMDUtNTg3OWM4NGI5MTAwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi92bWVzcyIsICJwb3J0IjogIjQ0MyIsICJwcyI6ICJcdTUzNzBcdTVlYTZcdTVjM2NcdTg5N2ZcdTRlOWEgVjJDUk9TUy5DT00iLCAic2N5IjogImF1dG8iLCAic25pIjogIm5ldmEuYXpsYW4uYml6LmlkIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICIiLCAidiI6ICIyIn0=
+vmess://eyJhZGQiOiAidHVyazEubmV0Lm5ldCIsICJhaWQiOiAiMCIsICJhbHBuIjogImgzLGgyLGh0dHAvMS4xIiwgImZwIjogImNocm9tZSIsICJob3N0IjogInRyMS1zbWFydC5hZGVscGluZy5jb20uIiwgImlkIjogIjQzZGNkY2UxLTNjZWEtNDE5My1iYzhkLTkwYjkyMDcxZDc3OSIsICJpbnNlY3VyZSI6ICIwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi8/QklBX1RFTEVHUkFNQEFaQVJCQVlKQUIxX0FaQVJCQVlKQUIxX0FaQVJCQVlKQUIxX0FaQVJCQVlKQUIxLz9kZT0yNTYwIiwgInBvcnQiOiAiODAiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAic2N5IjogImF1dG8iLCAic25pIjogIlRNX0FaQVJCQVlKQUIxLm5ldy45OS53b3JrZXJzLmRldiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiLS0tIiwgInYiOiAiMiJ9
+trojan://984c7793-1447-4af5-9200-d514ad6fe329@us02.jsyjiedian8.com:40393?allowInsecure=1&sni=jsygouer.weixin-baidu-qq.com#%E5%9B%9B%E5%B7%9D%E7%9C%81%E5%B9%BF%E5%85%83%E5%B8%82+%E7%A7%BB%E5%8A%A8
+trojan://984c7793-1447-4af5-9200-d514ad6fe329@sg05.stimaysmhy8.com:45005?allowInsecure=1&sni=jsygouer.weixin-baidu-qq.com#%E7%94%98%E8%82%83%E7%9C%81%E5%85%B0%E5%B7%9E%E5%B8%82+%E7%A7%BB%E5%8A%A8
+vmess://eyJhZGQiOiAiMTA0LjI2LjE0LjEzNyIsICJhaWQiOiAwLCAiaG9zdCI6ICJ0cjEtc21hcnQuYWRlbHBpbmcuY29tLiIsICJpZCI6ICI0M2RjZGNlMS0zY2VhLTQxOTMtYmM4ZC05MGI5MjA3MWQ3NzkiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLyIsICJwb3J0IjogODAsICJwcyI6ICJcdTdmOGVcdTU2ZmQgQ2xvdWRGbGFyZVx1ODI4Mlx1NzBiOSIsICJ0bHMiOiAiIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiJ9
 ```
 
 <h5>上方节点（部分）永久订阅地址：https://proxy.v2gh.com/https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub</h5>
