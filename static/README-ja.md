@@ -35,10 +35,10 @@
  <h4>ノード リスト: (ここには一部のノードのみが表示されます。すべてのノードを表示するにはアプリをダウンロードしてください)</h4>
     
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwUW1uQzAzSk9iYlBoZGg1RkJKSGdENmpuVExjaHNSQQ==@95.164.116.33:443#%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB
-trojan://4843e94d205f3893f588255a591abe94@160.16.132.38:544?sni=www.nintendogames.net#%E6%97%A5%E6%9C%AC
-vmess://eyJhZGQiOiAiNS4xOTYuMjkuMTIzIiwgInYiOiAiMiIsICJwcyI6ICJcdTMwZDVcdTMwZTlcdTMwZjNcdTMwYjlcdTUxNzFcdTU0OGNcdTU2ZmQiLCAicG9ydCI6IDIwODIsICJpZCI6ICIxMTJhYzM2Zi0zZjUzLTRlMjYtODM3MS1kMjVjMDI4ZTFiOWEiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAid3JtZWxtd3hsZi5na3RldmxycXpud3Fxb3p5LmZhYnBmczY2Z2l6bW5vamhjdnF4d2wua3l0cmNmenFsYTg3Z3ZndnM2Yzdram5ydWJ1aC5jYyIsICJwYXRoIjogIi8iLCAidGxzIjogIiJ9
-trojan://xtA6WF92Itmhm9jfvXUH1MDVL@free-de-3.undef.network:443?sni=free-de-3.undef.network#%E3%83%89%E3%82%A4%E3%83%84%E9%80%A3%E9%82%A6%E5%85%B1%E5%92%8C%E5%9B%BD
+vmess://eyJhZGQiOiAiNTcuMTI5LjU5LjE5NSIsICJ2IjogIjIiLCAicHMiOiAiXHUzMGQ1XHUzMGU5XHUzMGYzXHUzMGI5XHU1MTcxXHU1NDhjXHU1NmZkIiwgInBvcnQiOiA0NDMsICJpZCI6ICIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAia2FtcG9uZy5vcmciLCAicGF0aCI6ICJsaW5rdndzIiwgInRscyI6ICJ0bHMifQ==
+vmess://eyJhZGQiOiAiOTEuMTA3LjI1Mi4xMTAiLCAidiI6ICIyIiwgInBzIjogIlx1MzBjOVx1MzBhNFx1MzBjNFx1OTAyM1x1OTBhNlx1NTE3MVx1NTQ4Y1x1NTZmZCIsICJwb3J0IjogNTE2NDksICJpZCI6ICI2NTA3ZmNiZC05ZmIwLTQ0NzAtOGVjNC0yMmYyZGY0MzYwNDciLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiLyIsICJ0bHMiOiAiIn0=
+trojan://381f2e86233720eacda26d50e9aa26da@160.16.63.16:1281?sni=www.nintendogames.net#%E6%97%A5%E6%9C%AC
+trojan://BxceQaOe@58.152.25.236:443?sni=t.me%252Fripaojiedian#%E9%A6%99%E6%B8%AF
 ```
 <h5>上位ノードの永続サブスクリプション アドレス (部分): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ja</h5>
  <p>上記の購読アドレスの QR コード</p>
