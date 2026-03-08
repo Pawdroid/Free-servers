@@ -35,10 +35,10 @@
  <h4>Lista de nós: (Apenas alguns nós são exibidos aqui, baixe o aplicativo para visualizar todos os nós)</h4>
     
 ```
-vmess://eyJhZGQiOiAiNTcuMTI5LjI4LjYzIiwgInYiOiAiMiIsICJwcyI6ICJGcmFuXHUwMGU3YSIsICJwb3J0IjogNDQzLCAiaWQiOiAiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogImZhcGVuZy5vcmciLCAicGF0aCI6ICJsaW5rdndzIiwgInRscyI6ICJ0bHMifQ==
-vmess://eyJhZGQiOiAiZTEyYzI1ZTgtdDcwZjQwLXQ4N204eS0xcHIzNS5oa3QuZ290b2NoaW5hdG93bi5uZXQiLCAidiI6ICIyIiwgInBzIjogIkhvbmcgS29uZyIsICJwb3J0IjogODAsICJpZCI6ICI2YjdjMTI3OC1mZjlkLTExZWUtODRjYS1mMjNjOTEzYzhkMmIiLCAiYWlkIjogIjIiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiYnJvYWRjYXN0bHYuY2hhdC5iaWxpYmlsaS5jb20iLCAicGF0aCI6ICIvIiwgInRscyI6ICIifQ==
-trojan://BxceQaOe@58.152.53.219:443?allowInsecure=0&sni=t.me%25252Fripaojiedian#Hong+Kong
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.236:443#EUA
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@38.165.231.25:990#Equador
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@185.93.173.60:990#Bol%C3%ADvia
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.205:8080#Reino+Unido
+vmess://eyJhZGQiOiAidjJyYXkuY29kZWZ5aW5jLmNvbSIsICJ2IjogIjIiLCAicHMiOiAiRVVBIiwgInBvcnQiOiA0NDMsICJpZCI6ICIyYzk4MTE2NC05YjkzLTRiY2EtOTRmZi1iNzhkM2Y4NDk4ZDciLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAidjJyYXkuY29kZWZ5aW5jLmNvbSIsICJwYXRoIjogIi92bWVzc3dzIiwgInRscyI6ICIifQ==
 ```
 <h5>O endereço de assinatura permanente do nó superior (parte): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_pt-BR</h5>
  <p>Código QR do endereço de assinatura acima</p>
