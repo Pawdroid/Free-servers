@@ -36,11 +36,11 @@
 <h4>节点列表：(这里仅展示部分节点，查看全部节点请下载app)</h4>
 
 ```
-trojan://jJT7gd5O9vwJzL6RiXpxxXIAL@hl-freedom-2.undef.network:443/?type=ws&host=hl-freedom-2.undef.network&path=/f2fc2a1f&security=tls&sni=hl-freedom-2.undef.network#%E4%B9%8C%E5%85%8B%E5%85%B0+V2CROSS.COM
 trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420?security=tls&sni=www.semanticstaplegun.click#%E8%A5%BF%E7%8F%AD%E7%89%99+V2CROSS.COM
 trojan://cTv.9PDdCt-wybBrG1qlxI5UJuaEj@167.17.185.228:10889?security=tls&sni=web.max#%E5%8A%A0%E6%8B%BF%E5%A4%A7+V2CROSS.COM
 vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU0ZTJkXHU1NmZkIFYyQ1JPU1MuQ09NIiwgImFkZCI6ICJ2MTIuaGRhY2QuY29tIiwgInBvcnQiOiAiMzA4MTIiLCAidHlwZSI6ICJub25lIiwgImlkIjogImNiYjNmODc3LWQxZmItMzQ0Yy04N2E5LWQxNTNiZmZkNTQ4NCIsICJhaWQiOiAiMCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiLyIsICJob3N0IjogIjdiMWRiZGQxLXQ2bmdnMC10OTE3c2EtMTJhY2guaGszLnA1cHYuY29tIiwgInRscyI6ICIifQ==
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU4MmYxXHU1NmZkIFYyQ1JPU1MuQ09NIiwgImFkZCI6ICI4NS4yMTEuMjQyLjg1IiwgInBvcnQiOiAiMTI4ODkiLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJpZCI6ICIzN2M2N2E1ZS0yYjJhLTQ5YjItYTE5Ny04ODllODBiMjhiZWUiLCAiaG9zdCI6ICJiYWlkdS5jb20iLCAicGF0aCI6ICIvIn0=
+vmess://eyJhZGQiOiAiODIuMTk4LjI0Ni45NyIsICJ2IjogIjIiLCAicHMiOiAiXHU4MmYxXHU1NmZkIFYyQ1JPU1MuQ09NIiwgInBvcnQiOiAxODAsICJpZCI6ICJkMTNmYzJmNS0zZTA1LTQ3OTUtODFlYi00NDE0M2EwOWU1NTIiLCAiYWlkIjogIjAiLCAibmV0IjogInRjcCIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAiIn0=
+trojan://cTv.9PDdCt-wybBrG1qlxI5UJuaEj@167.17.185.152:10889?sni=ozon.ru#%E5%8A%A0%E6%8B%BF%E5%A4%A7+V2CROSS.COM
 ```
 
 <h5>上方节点（部分）永久订阅地址：https://proxy.v2gh.com/https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub</h5>
