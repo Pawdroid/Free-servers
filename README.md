@@ -36,10 +36,10 @@
 <h4>节点列表：(这里仅展示部分节点，查看全部节点请下载app)</h4>
 
 ```
-trojan://cTv.9PDdCt-wybBrG1qlxI5UJuaEj@167.17.185.152:10889?sni=ozon.ru#%E5%8A%A0%E6%8B%BF%E5%A4%A7+V2CROSS.COM
-vmess://eyJhZGQiOiAicXZ4YnR4LnVob21kZXguc2hvcCIsICJhaWQiOiAwLCAiaG9zdCI6ICJxdnhidHgudWhvbWRleC5zaG9wIiwgImlkIjogIjI4MjkwNzE0LTk1OWQtNDZlZi05NDBmLTNjM2NkMzgxZDIxYyIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgInBvcnQiOiA0NDMsICJwcyI6ICJcdTdmOGVcdTU2ZmQgQ2xvdWRGbGFyZVx1ODI4Mlx1NzBiOSIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiBmYWxzZSwgInNuaSI6ICJxdnhidHgudWhvbWRleC5zaG9wIn0=
-trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420?security=tls&sni=www.semanticstaplegun.click#%E8%A5%BF%E7%8F%AD%E7%89%99+V2CROSS.COM
+trojan://BxceQaOe@58.152.25.253:443?sni=t.me%252Fripaojiedian#%E9%A6%99%E6%B8%AF+%E7%94%B5%E8%AE%AF%E7%9B%88%E7%A7%91%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8
+vmess://eyJhZGQiOiAidWR0enkuY212dmIub25saW5lIiwgImFpZCI6IDAsICJob3N0IjogInVkdHp5LmNtdnZiLm9ubGluZSIsICJpZCI6ICI4NDdlOTE1OS05NzE2LTQyMTMtOTdhOS01MGQ1ZGIzZmQ3NGEiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLyIsICJwb3J0IjogNDQzLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAidGxzIjogInRscyIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogZmFsc2UsICJzbmkiOiAidWR0enkuY212dmIub25saW5lIn0=
 trojan://cTv.9PDdCt-wybBrG1qlxI5UJuaEj@167.17.185.172:10889?security=tls&sni=web.max.ru#%E5%8A%A0%E6%8B%BF%E5%A4%A7+V2CROSS.COM
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU4MmYxXHU1NmZkIFYyQ1JPU1MuQ09NIiwgImFkZCI6ICI4NS4yMTEuMjQyLjg1IiwgInBvcnQiOiAiMTI4ODkiLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJpZCI6ICIzN2M2N2E1ZS0yYjJhLTQ5YjItYTE5Ny04ODllODBiMjhiZWUiLCAiaG9zdCI6ICJiYWlkdS5jb20iLCAicGF0aCI6ICIvIn0=
 ```
 
 <h5>上方节点（部分）永久订阅地址：https://proxy.v2gh.com/https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub</h5>
