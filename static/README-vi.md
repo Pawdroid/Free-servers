@@ -35,11 +35,11 @@
  <h4>Danh sách nút: (Chỉ hiển thị một số nút ở đây, vui lòng tải xuống ứng dụng để xem tất cả các nút)</h4>
     
 ```
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.179:443#United+Kingdom
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.160:443#United+States
-trojan://ZY07256934@free-duckling.rooster465.autos:443?security=tls#Singapore
-vmess://eyJhZGQiOiAiNDYuMjQ2LjEyNi4xNTQiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogImYyZmQwNzg2LTEwNTktNGY2NC1kNTRlLTNmM2E1NjhjNmM2OCIsICJpbnNlY3VyZSI6ICIwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi8iLCAicG9ydCI6ICI0NDMiLCAicHMiOiAiU3dlZGVuIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIi0tLSIsICJ2IjogIjIiLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWV9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.217:8080#The+Netherlands
+trojan://IL37892054@growing-tuna.rooster465.autos:443?allowInsecure=0#Hong+Kong
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGamdHTk5IUWlFTHp4WG1hSFJ4eHRRYnhERHZHWEZ4WWRUYlllOTFKS1pzanZLTEhvWTlybjlydVlFNDUzNzdXanRVM200a21YUVpEWGlIQkpzZ1ZmaG1wYXdFb0d2cTk=@mx2.drawnrisha.one:55988#United+Kingdom
+vmess://eyJhZGQiOiAiMTQ5LjMwLjIzMi4xMDMiLCAidiI6ICIyIiwgInBzIjogIlVuaXRlZCBTdGF0ZXMiLCAicG9ydCI6IDE4MzkzLCAiaWQiOiAiMmMxODA3Y2UtNmE2My00NDUxLTlhZGQtYTc3OGQyNTA3MTYwIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIi9hcmtpP2VkPTIwNDgiLCAidGxzIjogIiJ9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@188.214.157.58:990#Morocco
+vmess://eyJhZGQiOiAibjE3NTMxMDEyNzIubGllNWQuY3lvdSIsICJ2IjogIjIiLCAicHMiOiAiSG9uZyBLb25nIiwgInBvcnQiOiA0NDMsICJpZCI6ICI1NjhhM2U3YS1jMTNlLTQyMDUtYWYzMC1lNzVlYzNlNWM3NzgiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAibjE3NTMxMDEyNzIubGllNWQuY3lvdSIsICJwYXRoIjogIi8iLCAidGxzIjogInRscyJ9
 ```
 <h5>Địa chỉ đăng ký vĩnh viễn của nút trên (một phần): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_vi</h5>
  <p>Mã QR cho địa chỉ đăng ký ở trên</p>

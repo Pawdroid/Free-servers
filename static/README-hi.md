@@ -35,11 +35,11 @@
  <h4>नोड सूची: (यहां केवल कुछ नोड्स प्रदर्शित हैं, कृपया सभी नोड्स देखने के लिए ऐप डाउनलोड करें)</h4>
     
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjYTVhNWVmYWUwMGE4MzJi@112.197.26.106:45313#Vietnam
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@38.165.231.25:990#Ecuador
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.179:8080#United+Kingdom
-vmess://eyJhZGQiOiAiMTUuMjM1LjQxLjIwMCIsICJ2IjogIjIiLCAicHMiOiAiQ2FuYWRhIiwgInBvcnQiOiA4MCwgImlkIjogIjU4ZmUxNTQyLTUyOTAtNDBhZC04MTVhLTc3NzA3YTgxYWZlNSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIvSU9lYmhMTWhsMUNUYkZIYkw5NW15ZlJYMiIsICJ0bHMiOiAiIn0=
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5S1ZNb0IzQXdpVEV6bnBub3EyRllS@193.47.60.186:28687#Philippines
+vmess://eyJ2IjoiMiIsInBzIjoid3d3Ljg1bGEuY29t8J+Hq/Cfh7dGUsKyXzE5fDAuMk1CL3N8R1BUfFRLfFgiLCJhZGQiOiIyMDAxOmJjODozMmQ3OjMwMjo6MTUiLCJwb3J0IjoiNDQ1NzkiLCJpZCI6IjhlMzRlMTcwLTEzYWUtNDg5Mi05ZDIwLTA1OTYyYWNjOWY4NCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwidGxzIjoiIiwiZnAiOiIiLCJwYXRoIjoiLz9CSUFfVEVMRUdSQU1AQVpBUkJBWUpBQjFfQVpBUkJBWUpBQjFfQVpBUkJBWUpBQjFfQVpBUkJBWUpBQjEiLCJob3N0IjoiVFVSSy5ORVQifQ==
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozMTJlZTliY2M5NTcwMDk1@163.171.148.71:11201#Thailand
+vmess://eyJhZGQiOiAiZGZnLmFlMWF1dHVtbi5jYy5jZCIsICJhaWQiOiAwLCAiaWQiOiAiMTNhZDM2ZTYtYzA5MS00M2YyLTg1MDUtNDdkODY4ZGQ1NDRjIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9Zc21Sb3VBOVpieGdXNCIsICJwb3J0IjogODAsICJwcyI6ICJVbml0ZWQgU3RhdGVzIiwgInNjeSI6ICJhdXRvIiwgInYiOiAiMiIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZX0=
+vmess://eyJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJhZGQiOiAidDEuNjIwNzIwLnh5eiIsICJwb3J0IjogIjg0NDMiLCAidHlwZSI6ICJub25lIiwgImlkIjogIjUxNmQ4YTdhLTNmMGItNDFkMy1iYWQwLTI0NjExNjM4MTUxNiIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgImhvc3QiOiAidDEuNjIwNzIwLnh5eiIsICJ0bHMiOiAidGxzIn0=
+trojan://IL37892054@enhanced-crayfish.rooster465.autos:443?security=tls&sni=enhanced-crayfish.rooster465.autos#Australia
 ```
 <h5>ऊपरी नोड (भाग) का स्थायी सदस्यता पता: https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_hi</h5>
  <p>उपरोक्त सदस्यता पते के लिए QR कोड</p>
