@@ -35,10 +35,10 @@
  <h4>Knotenliste: (Hier werden nur einige Knoten angezeigt. Bitte laden Sie die App herunter, um alle Knoten anzuzeigen.)</h4>
     
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@151.242.251.153:8080#Iran
-vmess://eyJhZGQiOiAiMmJiOWViZWQtdDcwZjQwLXQ3aHNqMi0xZ2V2Zy5oa3QuZ290b2NoaW5hdG93bi5uZXQiLCAidiI6ICIyIiwgInBzIjogIkhvbmdrb25nIiwgInBvcnQiOiA4MCwgImlkIjogImYwMmVlMmI0LWQ3NjAtMTFlYy1iZDdjLWYyM2M5MTNjOGQyYiIsICJhaWQiOiAiMiIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJicm9hZGNhc3Rsdi5jaGF0LmJpbGliaWxpLmNvbSIsICJwYXRoIjogIi8iLCAidGxzIjogIiJ9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpIYU5xdzlwSUU0amN4OThzZzdVUWdIZUdOVE00UjJwaw==@194.246.114.101:443#Hongkong
-vmess://eyJhZGQiOiAiNTcuMTI5LjI1LjIwIiwgInYiOiAiMiIsICJwcyI6ICJGcmFua3JlaWNoIiwgInBvcnQiOiA0NDMsICJpZCI6ICIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCAiYWlkIjogIjEiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiNTcuMTI5LjI1LjIwIiwgInBhdGgiOiAibGlua3Z3cyIsICJ0bHMiOiAidGxzIn0=
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@173.244.56.6:443#USA
+trojan://4843e94d205f3893f588255a591abe94@160.16.72.205:1933?sni=www.nintendogames.net#Japan
+vmess://eyJhZGQiOiAiaGd0cm9qYW4uemFiYy5uZXQiLCAidiI6ICIyIiwgInBzIjogIlVTQSIsICJwb3J0IjogMjA4MywgImlkIjogImU2Mzk1YzIwLTQ1NzEtNGIzNC1kNmIxLTU1YTVkMzZlNDllYSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJoZ3Ryb2phbi56YWJjLm5ldCIsICJwYXRoIjogIi9lNjM5NWMyMCIsICJ0bHMiOiAidGxzIn0=
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkQUhNMXBtOGFnN0tkbHJVeWxRaTZ0@promo18v.bystrivpn.ru:443#USA
 ```
 <h5>Die permanente Abonnementadresse des oberen Knotens (Teil): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_de</h5>
  <p>QR-Code für die Abonnementadresse oben</p>

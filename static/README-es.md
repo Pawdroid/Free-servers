@@ -35,10 +35,10 @@
  <h4>Lista de nodos: (aquí solo se muestran algunos nodos; descargue la aplicación para ver todos los nodos)</h4>
     
 ```
-ss://YWVzLTI1Ni1nY206dkVZK0V0c3YvS1RFTTN2cQ==@167.17.179.87:8388#Canad%C3%A1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@138.186.142.80:990#Panam%C3%A1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWbXNmMDZZVE1xdEFZZGh3TXFkU3VHcWdkVmttMHlkZGk0a1lhQUVWUVdZajlpSEE=@89.223.93.176:41348#Polonia
-vmess://eyJhZGQiOiAiNTcuMTI5LjI4LjIxNSIsICJ2IjogIjIiLCAicHMiOiAiRnJhbmNpYSIsICJwb3J0IjogNDQzLCAiaWQiOiAiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogInNlcmthdC5vcmciLCAicGF0aCI6ICJsaW5rdndzIiwgInRscyI6ICJ0bHMifQ==
+vmess://eyJhZGQiOiAiOTEuMTA3LjI1Mi4xMTAiLCAidiI6ICIyIiwgInBzIjogIkFsZW1hbmlhIiwgInBvcnQiOiA1MTY0OSwgImlkIjogIjY1MDdmY2JkLTlmYjAtNDQ3MC04ZWM0LTIyZjJkZjQzNjA0NyIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIvIiwgInRscyI6ICIifQ==
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.181:8080#Lituania
+vmess://eyJhZGQiOiAiOWY0MmFmOGEtdDcwZjQwLXQ5OWI1bi0xaGh5eS5oa3QuZ290b2NoaW5hdG93bi5uZXQiLCAidiI6ICIyIiwgInBzIjogIkhvbmcgS29uZyIsICJwb3J0IjogODAsICJpZCI6ICJjNTk0YzdlYy04YjEwLTExZWYtYTJiOC1mMjNjOTE2NGNhNWQiLCAiYWlkIjogIjIiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiYnJvYWRjYXN0bHYuY2hhdC5iaWxpYmlsaS5jb20iLCAicGF0aCI6ICIvIiwgInRscyI6ICIifQ==
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.164:8080#Lituania
 ```
 <h5>La dirección de suscripción permanente del nodo superior (parte): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_es</h5>
  <p>Código QR para la dirección de suscripción anterior</p>

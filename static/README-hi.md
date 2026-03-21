@@ -35,11 +35,11 @@
  <h4>नोड सूची: (यहां केवल कुछ नोड्स प्रदर्शित हैं, कृपया सभी नोड्स देखने के लिए ऐप डाउनलोड करें)</h4>
     
 ```
-trojan://humanity@172.67.180.92:443?path=%2Fassignment&security=tls&insecure=1&host=www.multiplydose.com&fp=chrome&type=ws&allowInsecure=1&sni=www.multiplydose.com#United+States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkQUhNMXBtOGFnN0tkbHJVeWxRaTZ0@38.244.136.233:443#United+States
-vmess://eyJhZGQiOiAibjE3NjEyMTQ5MTkubXY3d2gudGVjaCIsICJ2IjogIjIiLCAicHMiOiAiSG9uZyBLb25nIiwgInBvcnQiOiA0NDMsICJpZCI6ICJjNTkyZjA0MC1mYWZmLTQ3ZGMtYTQ2NC05YmNjZjJkZDRlN2IiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAibjE3NjEyMTQ5MTkubXY3d2gudGVjaCIsICJwYXRoIjogIi8iLCAidGxzIjogInRscyJ9
-ss://YWVzLTI1Ni1nY206OHJiNTgwRUJHNGw3dE84Sw==@154.53.60.197:80#United+States
-vmess://eyJhZGQiOiAibjE3NjEyMTQ5MDgud3BnMjcueHl6IiwgImFpZCI6IDAsICJob3N0IjogIm4xNzYxMjE0OTA4LndwZzI3Lnh5eiIsICJpZCI6ICIzNTE0YTkzZi1iYjI2LTQ0NDItOGY5OS05NzFiMmZmMzM4OGEiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLyIsICJwb3J0IjogNDQzLCAicHMiOiAiSG9uZyBLb25nIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIn0=
+vmess://eyJhZGQiOiAiMjMuMTYyLjIwMC4yMjciLCAidiI6ICIyIiwgInBzIjogIkNhbmFkYSIsICJwb3J0IjogNDQzLCAiaWQiOiAiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIi9saW5rdndzIiwgInRscyI6ICJ0bHMifQ==
+vmess://eyJhZGQiOiAibjE3NjEyMTQ5MDQud3BnMjcueHl6IiwgImFpZCI6IDAsICJob3N0IjogIm4xNzYxMjE0OTA0LndwZzI3Lnh5eiIsICJpZCI6ICI3ZjZmNjRhZS0zNzc4LTQzNGMtYWRmYy05NWNiNjdlZThiNzMiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLyIsICJwb3J0IjogNDQzLCAicHMiOiAiSG9uZyBLb25nIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IGZhbHNlLCAic25pIjogIm4xNzYxMjE0OTA0LndwZzI3Lnh5eiJ9
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.169:443#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5Q21jUTZkRjhMRXlaVTBZc01qZ3U4@77.73.68.155:54106#Russia
+trojan://IL37892054@engaging-toucan.rooster465.autos:443?security=tls&sni=engaging-toucan.rooster465.autos#Japan
 ```
 <h5>ऊपरी नोड (भाग) का स्थायी सदस्यता पता: https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_hi</h5>
  <p>उपरोक्त सदस्यता पते के लिए QR कोड</p>

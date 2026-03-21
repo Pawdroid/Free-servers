@@ -35,11 +35,11 @@
  <h4>نوڈ کی فہرست: (یہاں صرف کچھ نوڈس دکھائے گئے ہیں، براہ کرم تمام نوڈس دیکھنے کے لیے ایپ ڈاؤن لوڈ کریں)</h4>
     
 ```
-trojan://BxceQaOe@58.152.25.253:443?allowInsecure=0&sni=t.me%2Fripaojiedian#Hong+Kong
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@109.61.39.28:990#Hungary
-vmess://eyJhZGQiOiAiNDcuMjQzLjEzNS43NCIsICJhaWQiOiAwLCAiaG9zdCI6ICIiLCAiaWQiOiAiMTM3NTk4NWUtMzM0YS00YzI1LThmNjQtNTJhMTgyYmM4MDM3IiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9Ob3RpZl9DaGF0IiwgInBvcnQiOiA1NTE4NSwgInBzIjogIkhvbmcgS29uZyIsICJ0bHMiOiAiIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiJ9
-vmess://eyJhZGQiOiAiMTAzLjE0My4yMzguMTk2IiwgImFpZCI6IDAsICJob3N0IjogInd3dy5jbG91ZGZsYXJlLmNvbSIsICJpZCI6ICIxZTFhNmIzYi0xNGIyLTRhZTQtOWFhOS04ODBiYTVkZmY2ZmEiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL3ZtZXNzd3NzIiwgInBvcnQiOiAyMTg3OSwgInBzIjogIkhvbmcgS29uZyIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiJ9
-trojan://humanity@v1.dabache.top:443?path=%2Fassignment&security=tls&host=www.multiplydose.com&type=ws&sni=www.multiplydose.com#United+States
+vmess://eyJhZGQiOiAiNDcuMjUwLjQ1LjIzNCIsICJhaWQiOiAwLCAiaG9zdCI6ICIiLCAiaWQiOiAiODAwMzliNGQtYmFjMC00Zjg5LTgyYzctNTRmYWQzYjBhMWVhIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9hcmtpP2VkPTIwNDgiLCAicG9ydCI6IDg2MTMsICJwcyI6ICJNYWxheXNpYSIsICJ0bHMiOiAiIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiJ9
+vmess://eyJhZGQiOiAiNDUuMTUuMTg1LjE3IiwgImhvc3QiOiAiNDUuMTUuMTg1LjE3IiwgImlkIjogImM1MDNhOTZhLWEyZjUtNDg0Ny1hMzFmLTIwYzE3ZWNmM2JlNCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvdm1lc3MvIiwgInBvcnQiOiA4MCwgInBzIjogIkJyYXppbCIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlfQ==
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFRFRmaDB6TG1ENWRmZzAzc1FZRmNw@144.31.234.82:45356#United+States
+trojan://Nova-Proxy@141.101.113.223:8443?allowInsecure=1&host=small-morning-2668.drusavm.workers.dev&path=%2F%3Fed&sni=small-morning-2668.drusavm.workers.dev&type=ws#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.69:8080#United+Kingdom
 ```
 <h5>اوپری نوڈ کا مستقل رکنیت کا پتہ (حصہ): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ur-PK</h5>
  <p>اوپر سبسکرپشن ایڈریس کے لیے QR کوڈ</p>

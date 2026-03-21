@@ -36,10 +36,11 @@
 <h4>节点列表：(这里仅展示部分节点，查看全部节点请下载app)</h4>
 
 ```
-trojan://a5inYFE=JGV89+hjxIqgDp1tcWBd6@80.173.230.196:26279?allowInsecure=0&sni=io.ozone.ru#%E8%A5%BF%E7%8F%AD%E7%89%99+V2CROSS.COM
-trojan://BxceQaOe@58.152.25.253:443?security=tls&sni=t.me%2Fripaojiedian#%E9%A6%99%E6%B8%AF+%E7%94%B5%E8%AE%AF%E7%9B%88%E7%A7%91%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8
-vmess://eyJhZGQiOiAiY3hzZnZuLnVob21kZXguc2hvcCIsICJhaWQiOiAwLCAiaG9zdCI6ICJjeHNmdm4udWhvbWRleC5zaG9wIiwgImlkIjogImJiNmUyNjBlLWI4MGQtNDM2NS1iMjUyLTlmYmU0NjZmMWYzNCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgInBvcnQiOiA0NDMsICJwcyI6ICJcdTdmOGVcdTU2ZmQgQ2xvdWRGbGFyZVx1ODI4Mlx1NzBiOSIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogImN4c2Z2bi51aG9tZGV4LnNob3AiLCAidGxzIjogInRscyIsICJ0eXBlIjogImF1dG8ifQ==
 vmess://eyJhZGQiOiAidDEuNjIwNzIwLnh5eiIsICJhaWQiOiAwLCAiaG9zdCI6ICJ0MS42MjA3MjAueHl6IiwgImlkIjogIjUxNmQ4YTdhLTNmMGItNDFkMy1iYWQwLTI0NjExNjM4MTUxNiIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgInBvcnQiOiA4NDQzLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAidGxzIjogInRscyIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIifQ==
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU4MmYxXHU1NmZkIFYyQ1JPU1MuQ09NIiwgImFkZCI6ICI4Mi4xOTguMjQ2Ljk3IiwgInBvcnQiOiAiMTgwIiwgImlkIjogImQxM2ZjMmY1LTNlMDUtNDc5NS04MWViLTQ0MTQzYTA5ZTU1MiIsICJhaWQiOiAwLCAibmV0IjogInRjcCIsICJ0eXBlIjogImF1dG8iLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIiLCAidGxzIjogIiJ9
+trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420?sni=www.semanticstaplegun.click&type=tcp&fp=chrome#%E8%A5%BF%E7%8F%AD%E7%89%99+V2CROSS.COM
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU0ZTJkXHU1NmZkIFYyQ1JPU1MuQ09NIiwgImFkZCI6ICJ2MTIuaGRhY2QuY29tIiwgInBvcnQiOiAiMzA4MTIiLCAidHlwZSI6ICJub25lIiwgImlkIjogImNiYjNmODc3LWQxZmItMzQ0Yy04N2E5LWQxNTNiZmZkNTQ4NCIsICJhaWQiOiAiMCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiLyIsICJob3N0IjogInNuaXBwZXRzLmtraWkuZXUub3JnIiwgInRscyI6ICIifQ==
+trojan://ZblhWr0mqMakCPg.N@212.193.18.144:36158?allowInsecure=0&sni=ya.ru#%E4%BF%84%E7%BD%97%E6%96%AF+V2CROSS.COM
 ```
 
 <h5>上方节点（部分）永久订阅地址：https://proxy.v2gh.com/https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub</h5>

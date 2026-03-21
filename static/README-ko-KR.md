@@ -35,11 +35,11 @@
  <h4>노드 목록: (여기에는 일부 노드만 표시됩니다. 모든 노드를 보려면 앱을 다운로드하세요.)</h4>
     
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcEtBQmNPcE5OQTBsNUcyQVZPbXc4@213.109.147.242:62685#United+Kingdom
-vmess://eyJhZGQiOiAiNjEuMjQ1LjExLjYwIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICJhM2UzYTcxMC03OWY4LTRhZTAtYjgzYy02MDdhYWI0MGQxOTciLCAiaW5zZWN1cmUiOiAiMSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvdm1lc3MvIiwgInBvcnQiOiAiODAiLCAicHMiOiAiUGhpbGlwcGluZXMiLCAic2N5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICItLS0iLCAidiI6ICIyIn0=
-ss://YWVzLTI1Ni1nY206WWh6cU9lSnNmdVo5cmtrYw==@149.102.132.186:80#United+Kingdom
-trojan://T9BpZIVMNv@104.18.185.26:8443?allowInsecure=1&host=sweden.vmaxpanel.com&path=%2Famd&sni=sweden.vmaxpanel.com&type=ws#United+States
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.244:443#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@193.29.139.189:8080#The+Netherlands
+vmess://eyJhZGQiOiAiNTEuMTU4LjE1MS4yNCIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiNDBlMzA2YTYtN2NhYi00MGFjLWEwODUtYTk2MTg5NWViMTFiIiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL2Fya2kiLCAicG9ydCI6ICIyMDEwNCIsICJwcyI6ICJGcmFuY2UiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiLS0tIiwgInYiOiAiMiIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZX0=
+trojan://q2GRUM1-odJBWq_KV6xv2fuNvu8ed-@8443.golden-cards.me:443?security=tls&sni=8443.golden-cards.me#United+Kingdom
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.169:443#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.189:8080#United+Kingdom
 ```
 <h5>상위 노드(일부)의 영구 구독 주소: https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ko-KR</h5>
  <p>위 구독 주소의 QR 코드</p>
