@@ -35,10 +35,10 @@
  <h4>ノード リスト: (ここには一部のノードのみが表示されます。すべてのノードを表示するにはアプリをダウンロードしてください)</h4>
     
 ```
-trojan://381f2e86233720eacda26d50e9aa26da@160.16.116.227:1281?sni=www.nintendogames.net#%E6%97%A5%E6%9C%AC
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpORFJ5U0lBQkFSYkVyTklWc0NOVmt5WUFIaUJ6aHZlVA==@23.95.75.146:443#%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB
-vmess://eyJhZGQiOiAiNDE5MjQ2MWUtdDcwZjQwLXRiYzBpZy0xc3N1ZC5oa3QuZ290b2NoaW5hdG93bi5uZXQiLCAidiI6ICIyIiwgInBzIjogIlx1OTk5OVx1NmUyZiIsICJwb3J0IjogODAsICJpZCI6ICJlNmFhMzliNi1mMGI1LTExZWYtYmNhMS1mMjNjOTFjZmJiYzkiLCAiYWlkIjogIjIiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiYnJvYWRjYXN0bHYuY2hhdC5iaWxpYmlsaS5jb20iLCAicGF0aCI6ICIvIiwgInRscyI6ICIifQ==
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@151.242.251.153:8080#%E3%82%A4%E3%83%A9%E3%83%B3%E3%83%BB%E3%82%A4%E3%82%B9%E3%83%A9%E3%83%A0%E5%85%B1%E5%92%8C%E5%9B%BD
+vmess://eyJhZGQiOiAidjJyYXkuY29kZWZ5aW5jLmNvbSIsICJ2IjogIjIiLCAicHMiOiAiXHUzMGEyXHUzMGUxXHUzMGVhXHUzMGFiIiwgInBvcnQiOiA0NDMsICJpZCI6ICIyYzk4MTE2NC05YjkzLTRiY2EtOTRmZi1iNzhkM2Y4NDk4ZDciLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAidjJyYXkuY29kZWZ5aW5jLmNvbSIsICJwYXRoIjogIi92bWVzc3dzIiwgInRscyI6ICIifQ==
+vmess://eyJhZGQiOiAiMTQxLjk1LjEyNi4xMzQiLCAidiI6ICIyIiwgInBzIjogIlx1MzBkNVx1MzBlOVx1MzBmM1x1MzBiOVx1NTE3MVx1NTQ4Y1x1NTZmZCIsICJwb3J0IjogNDQzLCAiaWQiOiAiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogImphbWVray5vcmciLCAicGF0aCI6ICJsaW5rdndzIiwgInRscyI6ICJ0bHMifQ==
+trojan://4843e94d205f3893f588255a591abe94@160.16.150.76:544?security=tls&sni=www.nintendogames.net#%E6%97%A5%E6%9C%AC
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@beesyar.org:8080#%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB
 ```
 <h5>上位ノードの永続サブスクリプション アドレス (部分): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ja</h5>
  <p>上記の購読アドレスの QR コード</p>

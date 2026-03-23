@@ -35,11 +35,11 @@
  <h4>নোড তালিকা: (শুধুমাত্র কিছু নোড এখানে প্রদর্শিত হয়, সমস্ত নোড দেখতে অ্যাপটি ডাউনলোড করুন)</h4>
     
 ```
-vmess://eyJhZGQiOiAibjE3NjEyMTQ5MDcuNzRxeHYudG9wIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIm4xNzYxMjE0OTA3Ljc0cXh2LnRvcCIsICJpZCI6ICI0YzE3Mzk5Zi1jOTNkLTQ1MjctOGFjZS01YmRjMmYwOTAxZjMiLCAiaW5zZWN1cmUiOiAiMCIsICJuYW1lIjogIj4+QERhaWx5VjJSWTo6SEs6OlhYOjpISzo6SEs6OkhLIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi8iLCAicG9ydCI6IDQ0MywgInBzIjogIkhvbmcgS29uZyIsICJzY3kiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIiLCAidGxzIjogInRscyIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=
-trojan://86e150eb21c6faee48e81d496d7f61c2@160.16.72.33:4674?security=tls&sni=www.nintendogames.net#Japan
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5aHJITURnWjJlZ0tmdHZyZWN2a3BVUHFwVVR5YWM3cQ==@195.66.25.220:8388#United+Kingdom
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.54.20.59:8881#Chile
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.190:8080#United+Kingdom
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@147.78.1.230:990#Mexico
+vmess://eyJhZGQiOiAiNDYuMjQ2LjEyNi4xNTQiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogImYyZmQwNzg2LTEwNTktNGY2NC1kNTRlLTNmM2E1NjhjNmM2OCIsICJpbnNlY3VyZSI6ICIwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi8iLCAicG9ydCI6ICI0NDMiLCAicHMiOiAiU3dlZGVuIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIi0tLSIsICJ2IjogIjIiLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWV9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.208:8080#United+Kingdom
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@188.214.157.30:990#Morocco
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@138.186.142.81:990#Panama
 ```
 <h5>উপরের নোডের স্থায়ী সদস্যতা ঠিকানা (অংশ): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_bn</h5>
  <p>উপরের সদস্যতা ঠিকানার জন্য QR কোড</p>

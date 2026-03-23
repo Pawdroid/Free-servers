@@ -35,11 +35,11 @@
  <h4>قائمة العقد: (يتم عرض بعض العقد فقط هنا، يرجى تنزيل التطبيق لعرض جميع العقد)</h4>
     
 ```
-trojan://86e150eb21c6faee48e81d496d7f61c2@160.16.72.33:2001?security=tls&sni=www.nintendogames.net#Japan
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.227:8080#The+Netherlands
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@154.205.146.153:990#Seychelles
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@89.46.239.231:990#Romania
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@154.70.207.97:990#Morocco
+ss://YWVzLTEyOC1nY206OTM0OTg1MzktNzgzOC00ODM2LWI5YjMtODMxMWZmYzc5YmNm@82.180.146.173:35652#Belgium
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@185.93.173.60:990#Bolivia
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKT1o1TWIzbkpDbW1vS2hkOENjOWFD@5.181.2.76:36608#Russia
+vmess://eyJhZGQiOiAiMTY1LjE0MC4yMTYuMTQxIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICJlN2Q3MmE4ZC0yNmYyLTRiNTQtYjM2Ni0wYzQzZTBiY2JhN2QiLCAibmFtZSI6ICJDaGFubmVsIDogQEZyZWVDb25maWdGb3JZb3VcdWQ4M2NcdWRmZjRcdWQ4M2NcdWRmZjMiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogNDQzLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZX0=
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@188.214.157.58:990#Morocco
 ```
 <h5>عنوان الاشتراك الدائم للعقدة العليا (جزء): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ar</h5>
  <p>رمز الاستجابة السريعة لعنوان الاشتراك أعلاه</p>

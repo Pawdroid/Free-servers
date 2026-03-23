@@ -35,11 +35,11 @@
 <h4>Node list: (Only some nodes are shown here, please download the app to view all nodes)</h4>
     
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFRFRmaDB6TG1ENWRmZzAzc1FZRmNw@144.31.234.82:45356#United+States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkQUhNMXBtOGFnN0tkbHJVeWxRaTZ0@38.244.136.233:443#United+States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.210:8080#United+Kingdom
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.189:8080#United+Kingdom
-trojan://86e150eb21c6faee48e81d496d7f61c2@160.16.72.33:2001?security=tls&sni=www.nintendogames.net#Japan
+vmess://eyJhZGQiOiAibjE3NDc2MjQyNzEubGllNWQuY3lvdSIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICJuMTc0NzYyNDI3MS5saWU1ZC5jeW91IiwgImlkIjogImEyMzFiYThiLTg4NzEtNDE2Yy04MTNiLWUyMjQwYmM2NmJiMiIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgInBvcnQiOiAiNDQzIiwgInBzIjogIlNpbmdhcG9yZSIsICJzY3kiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiYXV0byIsICJ2IjogIjIifQ==
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.122:8080#United+Kingdom
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.206:8080#The+Netherlands
+vmess://eyJ2IjogIjIiLCAicHMiOiAiUG9ydHVnYWwiLCAiYWRkIjogInBxLWh1bmdhcnkxLjA5dnBuLmNvbSIsICJwb3J0IjogIjgwIiwgImlkIjogIjcwM2Y3MjJhLTRiZGYtNGU5ZC05YWZkLWE2ODFmZGY4N2M3NCIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIvdm1lc3MvIiwgInRscyI6ICIiLCAic25pIjogIiIsICJ0ZXN0X25hbWUiOiAiMTgifQ==
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@38.165.231.25:990#Ecuador
 ```
 <h5>Permanent subscription address of the node above (part): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_en</h5>
 <p>QR code of the subscription address above</p>
