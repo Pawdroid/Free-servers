@@ -35,11 +35,11 @@
  <h4>नोड सूची: (यहां केवल कुछ नोड्स प्रदर्शित हैं, कृपया सभी नोड्स देखने के लिए ऐप डाउनलोड करें)</h4>
     
 ```
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.167:443#United+States
-trojan://a5inYFE=JGV89+hjxIqgDp1tcWBd6@80.173.230.196:26279?allowInsecure=0&sni=io.ozone.ru#Portugal
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2YzgxNWJiODRjNzgxZGE1@51.75.168.50:13030#United+Kingdom
-trojan://86e150eb21c6faee48e81d496d7f61c2@160.16.72.33:4674?security=tls&sni=www.nintendogames.net#Japan
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3NDkxOGJjODAxZDUzYTRi@57.130.28.148:11201#France
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBVkxiRVVFdEJENTlGc1JxY055RWli@203.202.232.78:60299#India
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNaG9sU3R5SEw3RGhyZXdLYnBRYTIw@185.176.221.72:24637#Latvia
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFRFRmaDB6TG1ENWRmZzAzc1FZRmNw@144.31.234.82:45356#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@20.50.123.224:443#United+Kingdom
+vmess://eyJ2IjoiMiIsInBzIjoid3d3Ljg1bGEuY29t8J+Hq/Cfh7dGUsKyXzE0fDMuN01CL3N8R1BU4oG6fFlUfFh8SGlzdG9yeSIsImFkZCI6IjIwMDE6YmM4OjMyZDc6MzAyOjoxMCIsInBvcnQiOiI0NDU3OSIsImlkIjoiOGUzNGUxNzAtMTNhZS00ODkyLTlkMjAtMDU5NjJhY2M5Zjg0IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJ0bHMiOiIiLCJmcCI6IiIsInBhdGgiOiIvP0JJQV9URUxFR1JBTUBBWkFSQkFZSkFCMV9BWkFSQkFZSkFCMV9BWkFSQkFZSkFCMV9BWkFSQkFZSkFCMSJ9
 ```
 <h5>ऊपरी नोड (भाग) का स्थायी सदस्यता पता: https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_hi</h5>
  <p>उपरोक्त सदस्यता पते के लिए QR कोड</p>
