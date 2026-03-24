@@ -35,11 +35,11 @@
  <h4>نوڈ کی فہرست: (یہاں صرف کچھ نوڈس دکھائے گئے ہیں، براہ کرم تمام نوڈس دیکھنے کے لیے ایپ ڈاؤن لوڈ کریں)</h4>
     
 ```
-trojan://M08tvzYWtUEJNtbpHp@nl-4.tr202512.com:443?security=tls&sni=nl-4.tr202512.com#The+Netherlands
-vmess://eyJhZGQiOiAibmV2YS5hemxhbi5iaXouaWQiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAibmV2YS5hemxhbi5iaXouaWQiLCAiaWQiOiAiODA3MjI5OGYtY2QyOC00YTYxLThlMDUtNTg3OWM4NGI5MTAwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi92bWVzcyIsICJwb3J0IjogIjQ0MyIsICJwcyI6ICJJbmRvbmVzaWEiLCAic2N5IjogImF1dG8iLCAic25pIjogIm5ldmEuYXpsYW4uYml6LmlkIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICIiLCAidiI6ICIyIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlfQ==
-trojan://IL37892054@growing-tuna.rooster465.autos:443?allowInsecure=0#Hong+Kong
-trojan://86e150eb21c6faee48e81d496d7f61c2@153.121.45.139:4674?allowInsecure=0&sni=www.nintendogames.net#Japan
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.124:8080#United+Kingdom
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@23.95.76.59:990#United+States
+ss://YWVzLTI1Ni1nY206OHJiNTgwRUJHNGw3dE84Sw==@154.53.60.197:80#United+States
+trojan://qmBSKnAl6LYi9=z23Rs.Z@37.235.49.209:28099?allowInsecure=0&sni=celestialcorset.crystalhamster.click#Iceland
+vmess://eyJhZGQiOiAibjE3NTM1OTg0NDguNzRxeHYudG9wIiwgImFpZCI6IDAsICJob3N0IjogIm4xNzUzNTk4NDQ4Ljc0cXh2LnRvcCIsICJpZCI6ICIzY2Q2Zjg0OS0wNzhlLTRkYTktODA4MC1hMjc5MWI1MWI3NjYiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLyIsICJwb3J0IjogNDQzLCAicHMiOiAiSmFwYW4iLCAidGxzIjogInRscyIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogZmFsc2UsICJzbmkiOiAibjE3NTM1OTg0NDguNzRxeHYudG9wIn0=
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.189:8080#United+Kingdom
 ```
 <h5>اوپری نوڈ کا مستقل رکنیت کا پتہ (حصہ): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ur-PK</h5>
  <p>اوپر سبسکرپشن ایڈریس کے لیے QR کوڈ</p>
