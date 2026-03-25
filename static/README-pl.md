@@ -35,11 +35,11 @@
  <h4>Lista węzłów: (wyświetlane są tutaj tylko niektóre węzły. Pobierz aplikację, aby wyświetlić wszystkie węzły)</h4>
     
 ```
-vmess://eyJhZGQiOiAibjE3NTIyNDg5NDYuNHU5bWEuaWN1IiwgInYiOiAiMiIsICJwcyI6ICJIb25nIEtvbmciLCAicG9ydCI6IDQ0MywgImlkIjogImVmMTY3OTg2LWQxNTQtNDQwOS04OGIxLTc1N2VmYjZhZTgyMyIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJuMTc1MjI0ODk0Ni40dTltYS5pY3UiLCAicGF0aCI6ICIvIiwgInRscyI6ICJ0bHMifQ==
-trojan://T9BpZIVMNv@v1.dabache.top:8443?path=/amd&security=tls&insecure=1&host=sweden.vmaxpanel.com&fp=chrome&type=ws&allowInsecure=1&sni=sweden.vmaxpanel.com#United+States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.101:8080#United+Kingdom
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@46.183.217.204:990#Latvia
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@185.93.173.60:990#Bolivia
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplYWZhZDk2ODI2Yzc5ZGRk@163.171.137.76:47394#Ukraine
+trojan://86e150eb21c6faee48e81d496d7f61c2@160.16.72.33:4674?security=tls&sni=www.nintendogames.net#Japan
+vmess://eyJhZGQiOiAibjE3NTM1OTg0NTIud3BnMjcueHl6IiwgInYiOiAiMiIsICJwcyI6ICJKYXBhbiIsICJwb3J0IjogNDQzLCAiaWQiOiAiNGYyM2ViN2MtZWYyZi00M2IwLTkwZGQtZjJiOGE3NTk1NGE1IiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogIm4xNzUzNTk4NDUyLndwZzI3Lnh5eiIsICJwYXRoIjogIi8iLCAidGxzIjogInRscyJ9
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@141.164.45.187:6679#South+Korea
+trojan://T9BpZIVMNv@v3.dabache.top:8443?allowInsecure=1&host=sweden.vmaxpanel.com&path=%2Famd&sni=sweden.vmaxpanel.com&type=ws#United+States
 ```
 <h5>Stały adres subskrypcji górnego węzła (część): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_pl</h5>
  <p>Kod QR dla adresu subskrypcji powyżej</p>

@@ -35,10 +35,10 @@
  <h4>Список узлов: (здесь показаны только некоторые узлы. Загрузите приложение, чтобы просмотреть все узлы)</h4>
     
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.191:8080#%D0%91%D1%80%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D1%8F
-trojan://BxceQaOe@58.152.53.219:443?allowInsecure=0&sni=t.me%25252Fripaojiedian#%D0%93%D0%BE%D0%BD%D0%BA%D0%BE%D0%BD%D0%B3
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.204:443#%D0%A1%D0%A8%D0%90
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcEtBQmNPcE5OQTBsNUcyQVZPbXc4@213.109.147.242:62685#%D0%91%D1%80%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D1%8F
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.205:8080#%D0%91%D1%80%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D1%8F
+vmess://eyJhZGQiOiAiNTcuMTI4LjE4OS4yMTEiLCAidiI6ICIyIiwgInBzIjogIlx1MDQyNFx1MDQ0MFx1MDQzMFx1MDQzZFx1MDQ0Nlx1MDQzOFx1MDQ0ZiIsICJwb3J0IjogNDQzLCAiaWQiOiAiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogInlpY2h1ZW5nLm9yZyIsICJwYXRoIjogImxpbmt2d3MiLCAidGxzIjogInRscyJ9
+vmess://eyJhZGQiOiAiMjMuMTYyLjIwMC4yMjciLCAidiI6ICIyIiwgInBzIjogIlx1MDQxYVx1MDQzMFx1MDQzZFx1MDQzMFx1MDQzNFx1MDQzMCIsICJwb3J0IjogNDQzLCAiaWQiOiAiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIi9saW5rdndzIiwgInRscyI6ICJ0bHMifQ==
+vmess://eyJhZGQiOiAiMTUuMjM1Ljg1LjE0NyIsICJ2IjogIjIiLCAicHMiOiAiXHUwNDFhXHUwNDMwXHUwNDNkXHUwNDMwXHUwNDM0XHUwNDMwIiwgInBvcnQiOiA0NDMsICJpZCI6ICIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAicGVsYW5nLm9yZyIsICJwYXRoIjogImxpbmt2d3MiLCAidGxzIjogInRscyJ9
 ```
 <h5>Адрес постоянной подписки верхнего узла (части): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ru</h5>
  <p>QR-код для адреса подписки выше</p>

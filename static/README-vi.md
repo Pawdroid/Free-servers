@@ -35,11 +35,11 @@
  <h4>Danh sách nút: (Chỉ hiển thị một số nút ở đây, vui lòng tải xuống ứng dụng để xem tất cả các nút)</h4>
     
 ```
-trojan://86e150eb21c6faee48e81d496d7f61c2@160.16.106.99:2001?sni=www.nintendogames.net#Japan
-trojan://f389ed926e512e15f382dc3804029474@160.16.130.21:4019?security=tls&sni=www.nintendogames.net#Japan
-vmess://eyJhZGQiOiAiNDcuMjQ0LjEyMC4xOTciLCAidiI6ICIyIiwgInBzIjogIkhvbmcgS29uZyIsICJwb3J0IjogNDQ4NjcsICJpZCI6ICI4NDVlNmIwOC0yOTE5LTQyOTAtYWRlMC01ZGM3ZGNlYTU5Y2EiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiL2Fya2k/ZWQ9MjA0OCIsICJ0bHMiOiAiIn0=
-trojan://IL37892054@outgoing-ladybird.rooster465.autos:443?security=tls&type=tcp&headerType=none#Hungary
-vmess://eyJ2IjogIjIiLCAiYWRkIjogIjEwNC4xNy43Ny43NyIsICJwb3J0IjogODQ0MywgImlkIjogIjYwNDQxNTQ4LWI2OGUtNDNiMi04MTkxLWUzYjg4NGJlNGIzYyIsICJhaWQiOiAiMCIsICJzY3kiOiAibm9uZSIsICJuZXQiOiAid3MiLCAidHlwZSI6ICItLS0iLCAiaG9zdCI6ICJ2MnJheTEuZG96YXBwLnh5eiIsICJwYXRoIjogIi9sTW5zWlVONC8iLCAidGxzIjogInRscyIsICJzbmkiOiAidjJyYXkxLmRvemFwcC54eXoiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImluc2VjdXJlIjogIjEiLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJuYW1lIjogIj4+QHYybm9kZXM6OlVTOjpVUzo6VVM6OlVTOjpVUzo6WFg6OlVTOjpVUzo6VVM6OlVTOjpVUzo6VVM6OlVTIiwgInBzIjogIlVuaXRlZCBTdGF0ZXMifQ==
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@103.97.203.227:990#India
+vmess://eyJhZGQiOiAiOTQuMjMyLjI0Ny4xNjUiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogIjllOTFkMTlhLWM3M2YtNDI3Ni1hZGJjLWIzMzdjMzc0MjU5YyIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBvcnQiOiA0NTY1MywgInBzIjogIkF1c3RyYWxpYSIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICIiLCAidiI6ICIyIiwgIm5hbWUiOiAiPj5Ab25lY2xpY2t2cG5rZXlzOjpGUjo6RlI6OkZSOjpGUjo6RlI6OkZSOjpGUjo6RlI6OkZSOjpGUjo6RlI6OkZSOjpGUjo6RlI6OkZSOjpYWDo6WFg6OlhYOjpYWDo6WFgifQ==
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@158.173.20.171:443#Denmark
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMXY1ZzlGZWZkb08=@57.129.140.88:8388#France
+trojan://T9BpZIVMNv@v3.dabache.top:8443?allowInsecure=1&host=sweden.vmaxpanel.com&path=%2Famd&sni=sweden.vmaxpanel.com&type=ws#United+States
 ```
 <h5>Địa chỉ đăng ký vĩnh viễn của nút trên (một phần): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_vi</h5>
  <p>Mã QR cho địa chỉ đăng ký ở trên</p>

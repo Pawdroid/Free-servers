@@ -35,11 +35,11 @@
  <h4>قائمة العقد: (يتم عرض بعض العقد فقط هنا، يرجى تنزيل التطبيق لعرض جميع العقد)</h4>
     
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@188.214.157.30:990#Morocco
-vmess://eyJhZGQiOiAibjE3NTMxMDEyNzIubGllNWQuY3lvdSIsICJ2IjogIjIiLCAicHMiOiAiSG9uZyBLb25nIiwgInBvcnQiOiA0NDMsICJpZCI6ICI1NjhhM2U3YS1jMTNlLTQyMDUtYWYzMC1lNzVlYzNlNWM3NzgiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAibjE3NTMxMDEyNzIubGllNWQuY3lvdSIsICJwYXRoIjogIi8iLCAidGxzIjogInRscyJ9
-vmess://eyJhZGQiOiAiMjA5LjEyNi44NC4xODkiLCAidiI6ICIyIiwgInBzIjogIlVuaXRlZCBTdGF0ZXMiLCAicG9ydCI6IDQ0MywgImlkIjogIjJjOTgxMTY0LTliOTMtNGJjYS05NGZmLWI3OGQzZjg0OThkNyIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIvdm1lc3N3cyIsICJ0bHMiOiAiIn0=
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MGM0NTVjOWYxOWFhM2E1@57.129.94.79:11206#France
-trojan://qmBSKnAl6LYi9=z23Rs.Z@37.235.49.209:28099?allowInsecure=0&sni=celestialcorset.crystalhamster.click#Iceland
+trojan://a5inYFE=JGV89+hjxIqgDp1tcWBd6@80.173.230.196:26279?allowInsecure=0&sni=io.ozone.ru#Portugal
+vmess://eyJhZGQiOiAibjE3NDc2MjQyODAubGllNWQuY3lvdSIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICJuMTc0NzYyNDI4MC5saWU1ZC5jeW91IiwgImlkIjogIjQ5ZGNmNGI0LTgxZWItNGZlMi05MWQzLTg2ZGMyZTI3Y2VkNSIsICJpbnNlY3VyZSI6ICIwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi8iLCAicG9ydCI6ICI0NDMiLCAicHMiOiAiU2luZ2Fwb3JlIiwgInNjeSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIm4xNzQ3NjI0MjgwLmxpZTVkLmN5b3UiLCAidGxzIjogInRscyIsICJ0eXBlIjogImF1dG8iLCAidiI6ICIyIn0=
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@193.135.174.135:990#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@138.186.142.80:990#Panama
+trojan://BxceQaOe@58.152.25.253:443?allowInsecure=0&sni=t.me%2Fripaojiedian#Hong+Kong
 ```
 <h5>عنوان الاشتراك الدائم للعقدة العليا (جزء): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ar</h5>
  <p>رمز الاستجابة السريعة لعنوان الاشتراك أعلاه</p>

@@ -35,11 +35,11 @@
 <h4>Node list: (Only some nodes are shown here, please download the app to view all nodes)</h4>
     
 ```
-vmess://eyJhZGQiOiAiNTEuNzkuMTAyLjI1MyIsICJhaWQiOiAwLCAiaG9zdCI6ICIiLCAiaWQiOiAiNThmZTE1NDItNTI5MC00MGFkLTgxNWEtNzc3MDdhODFhZmU1IiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9JT2ViaExNaGwxQ1RiRkhiTDk1bXlmUlgyIiwgInBvcnQiOiA4MCwgInBzIjogIkNhbmFkYSIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiYXV0byJ9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.61:8080#United+Kingdom
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.191:8080#United+Kingdom
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@38.60.247.151:990#Bulgaria
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmZDdiMGQxNGI1OTBiY2Vi@112.197.26.106:26417#Vietnam
+vmess://eyJhZGQiOiAiNDUuOTIuNzAuMjM2IiwgImFpZCI6ICIwIiwgImlkIjogIjA0NjIxYmFlLWFiMzYtMTFlYy1iOTA5LTAyNDJhYzEyMDAwMiIsICJuZXQiOiAidGNwIiwgInBvcnQiOiAiMjIzMjQiLCAicHMiOiAiSXRhbHkiLCAic2N5IjogImF1dG8iLCAidGxzIjogIiIsICJ0eXBlIjogIiIsICJ2IjogIjIiLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWV9
+trojan://a5inYFE=JGV89+hjxIqgDp1tcWBd6@80.173.230.196:26279?allowInsecure=0&sni=io.ozone.ru#Portugal
+trojan://q2GRUM1-odJBWq_KV6xv2fuNvu8ed-@195.66.25.251:443?allowInsecure=1&sni=8443.golden-cards.me#United+Kingdom
+trojan://86e150eb21c6faee48e81d496d7f61c2@160.16.214.104:3419?security=tls&sni=www.nintendogames.net#Japan
+vmess://eyJhZGQiOiAibjE3NTM1OTg0NDYud3BnMjcueHl6IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIm4xNzUzNTk4NDQ2LndwZzI3Lnh5eiIsICJpZCI6ICJhNTA0N2Q5NS0yNGI4LTQ1MWEtOTNlMy1mMmEzODdiOTNkNWEiLCAiaW5zZWN1cmUiOiAiMCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgInBvcnQiOiAiNDQzIiwgInBzIjogIkphcGFuIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogInRscyIsICJ0eXBlIjogIi0tLSIsICJ2IjogIjIiLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWV9
 ```
 <h5>Permanent subscription address of the node above (part): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_en</h5>
 <p>QR code of the subscription address above</p>

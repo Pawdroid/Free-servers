@@ -35,11 +35,11 @@
  <h4>नोड सूची: (यहां केवल कुछ नोड्स प्रदर्शित हैं, कृपया सभी नोड्स देखने के लिए ऐप डाउनलोड करें)</h4>
     
 ```
-vmess://eyJhZGQiOiAiMTcyLjIzMy4yMjkuOTEiLCAidiI6ICIyIiwgInBzIjogIlVuaXRlZCBTdGF0ZXMiLCAicG9ydCI6IDE0MTAyLCAiaWQiOiAiMjdiYTg3ZmMtNTgzZi00NzYzLTkwNjAtODNjZjBiOTI2NGRiIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIiLCAidGxzIjogIiJ9
-ss://YWVzLTI1Ni1nY206OEpDc1Bzc2ZnUzh0aVJ3aU1saEFSZz09@144.217.7.33:12000#Canada
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.180.152.210:8881#The+Netherlands
-vmess://eyJhZGQiOiAibjE3NTE0NjgwOTIubGllNWQuY3lvdSIsICJhaWQiOiAiMCIsICJob3N0IjogIm4xNzUxNDY4MDkyLmxpZTVkLmN5b3UiLCAiaWQiOiAiN2FjZTE4NzMtOTgyMi00NmFmLTk5MjAtYmQ2NGY3MjUyMTJjIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi8iLCAicG9ydCI6ICI0NDMiLCAicHMiOiAiSmFwYW4iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIifQ==
-vmess://eyJhZGQiOiAiNTEuNzkuMTAzLjc2IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogImdvb2dsZS5jb20iLCAiaWQiOiAiNThmZTE1NDItNTI5MC00MGFkLTgxNWEtNzc3MDdhODFhZmU1IiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9JT2ViaExNaGwxQ1RiRkhiTDk1bXlmUlgyIiwgInBvcnQiOiA4MCwgInBzIjogIkNhbmFkYSIsICJzY3kiOiAiYWVzLTEyOC1nY20iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiIiwgInYiOiAiMiIsICJuYW1lIjogIj4+QG9uZWNsaWNrdnBua2V5czo6Q0E6OkNBOjpDQTo6Q0E6OkNBOjpDQTo6Q0E6OkNBOjpDQTo6Q0E6OkNBOjpDQTo6Q0E6OkNBOjpDQTo6Q0E6OkNBOjpDQTo6Q0E6OkNBOjpDQTo6Q0E6OkNBOjpDQTo6Q0E6OkNBOjpDQTo6Q0E6OkNBIn0=
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@193.29.139.179:8080#The+Netherlands
+trojan://humanity@185.18.250.245:443?security=tls&sni=www.calmlunch.com&allowInsecure=1&type=ws&host=www.calmlunch.com&path=%2Fassignment#Switzerland
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@138.186.142.80:990#Panama
+vmess://eyJ2IjogIjIiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJhZGQiOiAiaGp1LmFlMWF1dHVtbi5jYy5jZCIsICJwb3J0IjogIjgwIiwgImlkIjogIjEzYWQzNmU2LWMwOTEtNDNmMi04NTA1LTQ3ZDg2OGRkNTQ0YyIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAidGxzIjogIiIsICJwYXRoIjogIi9Zc21Sb3VBOVpieGdXNCIsICJob3N0IjogImhqdS5hZTFhdXR1bW4uY2MuY2QifQ==
+ss://YWVzLTI1Ni1nY206azZydUp1d2dBVXhJcmtIYg==@154.53.63.32:80#United+States
 ```
 <h5>ऊपरी नोड (भाग) का स्थायी सदस्यता पता: https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_hi</h5>
  <p>उपरोक्त सदस्यता पते के लिए QR कोड</p>
