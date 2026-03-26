@@ -35,10 +35,10 @@
  <h4>Liste des nœuds: (Seuls certains nœuds sont affichés ici, veuillez télécharger l'application pour afficher tous les nœuds)</h4>
     
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@156.38.168.58:990#Afrique+du+Sud
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@89.46.239.231:990#Roumanie
-vmess://eyJhZGQiOiAiMjA5LjEyNi44NC4xODkiLCAidiI6ICIyIiwgInBzIjogIlx1MDBjOXRhdHMgVW5pcyIsICJwb3J0IjogNDQzLCAiaWQiOiAiMmM5ODExNjQtOWI5My00YmNhLTk0ZmYtYjc4ZDNmODQ5OGQ3IiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIi92bWVzc3dzIiwgInRscyI6ICIifQ==
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@193.135.174.135:990#%C3%89tats+Unis
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.69:8080#Lituanie
+vmess://eyJhZGQiOiAiOTEuMTM0LjguOTMiLCAidiI6ICIyIiwgInBzIjogIkZyYW5jZSIsICJwb3J0IjogNDQzLCAiaWQiOiAiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogInBlbGFuZy5vcmciLCAicGF0aCI6ICJsaW5rdndzIiwgInRscyI6ICJ0bHMifQ==
+vmess://eyJhZGQiOiAiODkuMzEuMTIwLjE5MiIsICJ2IjogIjIiLCAicHMiOiAiXHUwMGM5bWlyYXRzIEFyYWJlcyBVbmlzIiwgInBvcnQiOiA0NDMsICJpZCI6ICI0NDUzNzU5NS05Y2NjLTRiODMtODkzNi01ZjlhZDMyMjkwMTkiLCAiYWlkIjogIjAiLCAibmV0IjogInRjcCIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAiIn0=
+trojan://381f2e86233720eacda26d50e9aa26da@160.16.138.24:1281?sni=www.nintendogames.net#Japon
 ```
 <h5>L'adresse d'abonnement permanente du nœud supérieur (partie): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_fr</h5>
  <p>Code QR pour l'adresse d'abonnement ci-dessus</p>

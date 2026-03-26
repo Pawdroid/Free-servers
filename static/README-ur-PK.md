@@ -35,10 +35,10 @@
  <h4>نوڈ کی فہرست: (یہاں صرف کچھ نوڈس دکھائے گئے ہیں، براہ کرم تمام نوڈس دیکھنے کے لیے ایپ ڈاؤن لوڈ کریں)</h4>
     
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@156.59.243.6:990#Singapore
-vmess://eyJhZGQiOiAiMTcyLjIzMy4yMjkuOTEiLCAidiI6ICIyIiwgInBzIjogIlVuaXRlZCBTdGF0ZXMiLCAicG9ydCI6IDE0MTAyLCAiaWQiOiAiMjdiYTg3ZmMtNTgzZi00NzYzLTkwNjAtODNjZjBiOTI2NGRiIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIiLCAidGxzIjogIiJ9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5dHFoTWRJclRrZ1E0NlB2aHlBdE1I@92.112.126.90:443#Ukraine
-trojan://IL37892054@outgoing-ladybird.rooster465.autos:443?security=tls&sni=outgoing-ladybird.rooster465.autos#Hungary
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkQUhNMXBtOGFnN0tkbHJVeWxRaTZ0@promo18v.bystrivpn.ru:443#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@38.54.59.180:990#Egypt
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.167:443#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5S1ZNb0IzQXdpVEV6bnBub3EyRllS@193.47.60.186:28687#Philippines
 ```
 <h5>اوپری نوڈ کا مستقل رکنیت کا پتہ (حصہ): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ur-PK</h5>
  <p>اوپر سبسکرپشن ایڈریس کے لیے QR کوڈ</p>

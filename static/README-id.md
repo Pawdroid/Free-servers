@@ -35,10 +35,10 @@
  <h4>Daftar node: (Hanya beberapa node yang ditampilkan di sini, silakan unduh aplikasi untuk melihat semua node)</h4>
     
 ```
-trojan://humanity@172.64.152.23:443?encryption=none&security=tls&sni=www.multiplydose.com&fp=chrome&insecure=1&type=ws&host=www.multiplydose.com&path=%2Fassignment#United+States
-vmess://eyJhZGQiOiAibjE3NTMzNTYzNjEubGllNWQuY3lvdSIsICJhaWQiOiAiMCIsICJob3N0IjogIm4xNzUzMzU2MzYxLmxpZTVkLmN5b3UiLCAiaWQiOiAiY2RmZDk3ODctZGFjOC00YzFlLTlhZTUtMTA0ZTIzYTlkOTk0IiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi8iLCAicG9ydCI6ICI0NDMiLCAicHMiOiAiSG9uZyBLb25nIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAidGxzIjogInRscyIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@79.127.200.169:990#Canada
-trojan://IL37892054@fluent-stingray.crayfish192.xyz:443?allowInsecure=1&sni=fluent-stingray.crayfish192.xyz#Hungary
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.182:443#United+Kingdom
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.151:8080#The+Netherlands
+trojan://humanity@www.multiplydose.com:443?security=tls&sni=www.multiplydose.com&allowInsecure=1&type=ws&host=www.multiplydose.com&path=%2Fassignment#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYkdycGZ2TnJKc1VtS21QYlIzaVky@38.135.24.131:443#United+States
 ```
 <h5>Alamat langganan permanen node atas (bagian): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_id</h5>
  <p>Kode QR untuk alamat berlangganan di atas</p>

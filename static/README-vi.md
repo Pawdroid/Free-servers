@@ -35,10 +35,10 @@
  <h4>Danh sách nút: (Chỉ hiển thị một số nút ở đây, vui lòng tải xuống ứng dụng để xem tất cả các nút)</h4>
     
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnQzdhUXY5RHNFTmFWZkt6VFBES1lW@212.192.14.226:41968#Russia
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MGM0NTVjOWYxOWFhM2E1@57.129.94.79:11206#France
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5ZDk3NDMzNjg4ZTdlZmQ1@163.171.206.24:44233#United+States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@147.78.0.182:990#United+Arab+Emirates
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.176:8080#United+Kingdom
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5NGFhZTA1MTAxODhlOGM1@141.95.106.127:11201#France
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmNTRjZGVlMTBmOGIyNWNl@57.129.95.38:11201#France
+trojan://qmBSKnAl6LYi9=z23Rs.Z@37.235.49.209:28099?sni=celestialcorset.crystalhamster.click&type=tcp&fp=chrome#Iceland
 ```
 <h5>Địa chỉ đăng ký vĩnh viễn của nút trên (một phần): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_vi</h5>
  <p>Mã QR cho địa chỉ đăng ký ở trên</p>
