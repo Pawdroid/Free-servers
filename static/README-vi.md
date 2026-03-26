@@ -35,10 +35,10 @@
  <h4>Danh sách nút: (Chỉ hiển thị một số nút ở đây, vui lòng tải xuống ứng dụng để xem tất cả các nút)</h4>
     
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@103.97.203.227:990#India
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.227:8080#The+Netherlands
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.236:443#United+States
-trojan://humanity@www.gossipglove.com:443?sni=www.gossipglove.com&type=ws&path=%2Fassignment&fp=chrome#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@193.135.174.135:990#United+States
+vmess://eyJhZGQiOiAibjE3NTMzNTYzNjEubGllNWQuY3lvdSIsICJhaWQiOiAiMCIsICJob3N0IjogIm4xNzUzMzU2MzYxLmxpZTVkLmN5b3UiLCAiaWQiOiAiY2RmZDk3ODctZGFjOC00YzFlLTlhZTUtMTA0ZTIzYTlkOTk0IiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi8iLCAicG9ydCI6ICI0NDMiLCAicHMiOiAiSG9uZyBLb25nIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAidGxzIjogInRscyIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=
+vmess://eyJhZGQiOiAibmV2YS5hemxhbi5iaXouaWQiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAibmV2YS5hemxhbi5iaXouaWQiLCAiaWQiOiAiODA3MjI5OGYtY2QyOC00YTYxLThlMDUtNTg3OWM4NGI5MTAwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi92bWVzcyIsICJwb3J0IjogIjQ0MyIsICJwcyI6ICJJbmRvbmVzaWEiLCAic2N5IjogImF1dG8iLCAic25pIjogIm5ldmEuYXpsYW4uYml6LmlkIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICIiLCAidiI6ICIyIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlfQ==
 ```
 <h5>Địa chỉ đăng ký vĩnh viễn của nút trên (một phần): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_vi</h5>
  <p>Mã QR cho địa chỉ đăng ký ở trên</p>
