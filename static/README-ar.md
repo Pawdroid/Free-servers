@@ -35,10 +35,10 @@
  <h4>قائمة العقد: (يتم عرض بعض العقد فقط هنا، يرجى تنزيل التطبيق لعرض جميع العقد)</h4>
     
 ```
-vmess://eyJhZGQiOiAibjE3NTMzNDg3MzYubGllNWQuY3lvdSIsICJob3N0IjogIm4xNzUzMzQ4NzM2LmxpZTVkLmN5b3UiLCAiaWQiOiAiZjI2N2VhYzMtZGZiNC00NWJlLWE0ODAtN2UxODQ3Y2EwNGFiIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi8iLCAicG9ydCI6IDQ0MywgInBzIjogIkhvbmcgS29uZyIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICJuMTc1MzM0ODczNi5saWU1ZC5jeW91IiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@158.173.20.171:443#Denmark
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyYjE5NWQ5MTZjYjg0MDA3@185.163.1.90:11201#Mexico
-vmess://eyJ2IjoiMiIsInBzIjoid3d3Ljg1bGEuY29t8J+Hq/Cfh7dGUsKyXzE1fDAuMk1CL3N8R1BUfFlUfFRLfFgiLCJhZGQiOiIyMDAxOmJjODozMmQ3OjMwMjo6MTYiLCJwb3J0IjoiNDQ1NzkiLCJpZCI6IjhlMzRlMTcwLTEzYWUtNDg5Mi05ZDIwLTA1OTYyYWNjOWY4NCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwidGxzIjoiIiwiZnAiOiIiLCJwYXRoIjoiLz9CSUFfVEVMRUdSQU1AQVpBUkJBWUpBQjFfQVpBUkJBWUpBQjFfQVpBUkJBWUpBQjFfQVpBUkJBWUpBQjEiLCJob3N0IjoiQVpFUkIuTkVUIn0=
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@89.46.239.231:990#Romania
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.208:8080#United+Kingdom
+trojan://IL37892054@steady-lemming.rooster465.autos:443?security=tls&sni=steady-lemming.rooster465.autos#Australia
+trojan://ZblhWr0mqMakCPg.N@212.193.18.144:36158?security=tls&sni=ya.ru#Russia
 ```
 <h5>عنوان الاشتراك الدائم للعقدة العليا (جزء): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ar</h5>
  <p>رمز الاستجابة السريعة لعنوان الاشتراك أعلاه</p>

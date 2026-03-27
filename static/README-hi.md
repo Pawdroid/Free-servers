@@ -35,10 +35,10 @@
  <h4>नोड सूची: (यहां केवल कुछ नोड्स प्रदर्शित हैं, कृपया सभी नोड्स देखने के लिए ऐप डाउनलोड करें)</h4>
     
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@173.234.29.2:990#United+States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@89.46.239.231:990#Romania
-vmess://eyJhZGQiOiAibjE3NDc2MjQyNjcuNHU5bWEuaWN1IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIm4xNzQ3NjI0MjY3LjR1OW1hLmljdSIsICJpZCI6ICI4YzVkMTUwYy1iMDQ2LTQ0NDAtODIzMC1lODQ1MDZhMDY1YTMiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLyIsICJwb3J0IjogIjQ0MyIsICJwcyI6ICJTaW5nYXBvcmUiLCAic2N5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAibjE3NDc2MjQyNjcuNHU5bWEuaWN1IiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@193.29.139.179:8080#The+Netherlands
+vmess://eyJhZGQiOiAiY2YuMDkwMjI3Lnh5eiIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICJzZ2FsLmRhZ3JhdGUuZXUub3JnIiwgImlkIjogIjI5MGNjNjkxLTNhYzYtNDM4Ny05OGExLTI1YzhlYjhjYTJlYSIsICJpbnNlY3VyZSI6ICIwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi8iLCAicG9ydCI6ICI0NDMiLCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAic2dhbC5kYWdyYXRlLmV1Lm9yZyIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiLS0tIiwgInYiOiAiMiIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZX0=
+vmess://eyJhZGQiOiAiMTQwLjIzOC4yLjI1MCIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiNDFhNzA4OWEtMDQwYi00NTM4LThiOGQtMDEwOTAyNDA1YmRlIiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogIjQ0MyIsICJwcyI6ICJTb3V0aCBLb3JlYSIsICJzY3kiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5dHFoTWRJclRrZ1E0NlB2aHlBdE1I@switcher-nick-croquet.freesocks.work:443#Ukraine
+trojan://ZblhWr0mqMakCPg.N@212.193.18.144:36158?security=tls&sni=ya.ru#Russia
 ```
 <h5>ऊपरी नोड (भाग) का स्थायी सदस्यता पता: https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_hi</h5>
  <p>उपरोक्त सदस्यता पते के लिए QR कोड</p>
