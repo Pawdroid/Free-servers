@@ -35,10 +35,10 @@
  <h4>नोड सूची: (यहां केवल कुछ नोड्स प्रदर्शित हैं, कृपया सभी नोड्स देखने के लिए ऐप डाउनलोड करें)</h4>
     
 ```
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@158.173.20.171:443#Denmark
-trojan://WF42809561@funky-platypus.rooster465.autos:443?security=tls&sni=funky-platypus.rooster465.autos#Hungary
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.182:443#United+Kingdom
-vmess://eyJhZGQiOiAibjE3NDc2MjQyNjcuNHU5bWEuaWN1IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIm4xNzQ3NjI0MjY3LjR1OW1hLmljdSIsICJpZCI6ICI4YzVkMTUwYy1iMDQ2LTQ0NDAtODIzMC1lODQ1MDZhMDY1YTMiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLyIsICJwb3J0IjogIjQ0MyIsICJwcyI6ICJTaW5nYXBvcmUiLCAic2N5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAibjE3NDc2MjQyNjcuNHU5bWEuaWN1IiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRRld6Q3cydVg5QjlpNnFBWWVGQklF@154.46.31.106:443#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOTRmMGI2OTE2ZjY3YmRj@38.54.14.156:11201#Vietnam
+trojan://IL37892054@caring-ghoul.rooster465.autos:443?security=tls#Hong+Kong
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyRW1XUlMxVGtTM1RreEtBcG5yaWhiM2FIakRTWFJ2VDFUMUs5VTJCcnV4cm5wNUE4em1wVHh3d1ROamU2QmtWcW1uOUJnUkY2cHE4cW9SSENmWmRjYWg3QkxianJwVDE=@185.5.38.111:55988#United+Kingdom
 ```
 <h5>ऊपरी नोड (भाग) का स्थायी सदस्यता पता: https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_hi</h5>
  <p>उपरोक्त सदस्यता पते के लिए QR कोड</p>

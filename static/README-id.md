@@ -35,10 +35,10 @@
  <h4>Daftar node: (Hanya beberapa node yang ditampilkan di sini, silakan unduh aplikasi untuk melihat semua node)</h4>
     
 ```
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.169:443#United+States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4NWQzZDhjY2JhMjg3ZDNl@135.125.245.131:20939#France
-ss://YWVzLTI1Ni1nY206OEpDc1Bzc2ZnUzh0aVJ3aU1saEFSZz09@144.217.164.29:12000#Canada
-trojan://WF42809561@touching-pigeon.rooster465.autos:443?allowInsecure=1#United+Kingdom
+trojan://6d29eb2f74293cb01a19b32cf08ad2e9@160.16.106.99:4937?allowInsecure=0&sni=www.nintendogames.net#Japan
+ss://YWVzLTI1Ni1nY206azZydUp1d2dBVXhJcmtIYg==@154.53.63.32:80#United+States
+trojan://humanity@188.114.96.3:443?encryption=none&security=tls&sni=www.creationlong.org&insecure=1&type=ws&host=www.creationlong.org&path=%2Fassignment#The+Netherlands
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@141.164.45.187:7001#South+Korea
 ```
 <h5>Alamat langganan permanen node atas (bagian): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_id</h5>
  <p>Kode QR untuk alamat berlangganan di atas</p>
