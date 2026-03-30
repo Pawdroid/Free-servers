@@ -35,10 +35,10 @@
  <h4>Daftar node: (Hanya beberapa node yang ditampilkan di sini, silakan unduh aplikasi untuk melihat semua node)</h4>
     
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@37.143.130.203:990#Spain
-ss://YWVzLTI1Ni1nY206WmZiUEZEZGVCajBCMVR4cw==@154.53.60.212:80#United+States
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@109.61.39.28:990#Hungary
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.199:8080#United+Kingdom
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@38.89.142.56:990#United+States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNaG9sU3R5SEw3RGhyZXdLYnBRYTIw@185.176.221.72:24637#Latvia
+trojan://humanity@185.18.250.245:443?security=tls&sni=www.calmlunch.com&allowInsecure=1&type=ws&host=www.calmlunch.com&path=/assignment#Switzerland
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.204:8080#The+Netherlands
 ```
 <h5>Alamat langganan permanen node atas (bagian): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_id</h5>
  <p>Kode QR untuk alamat berlangganan di atas</p>

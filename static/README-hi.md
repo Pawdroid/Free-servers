@@ -35,10 +35,10 @@
  <h4>नोड सूची: (यहां केवल कुछ नोड्स प्रदर्शित हैं, कृपया सभी नोड्स देखने के लिए ऐप डाउनलोड करें)</h4>
     
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@138.186.142.81:990#Panama
-trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&insecure=1&host=www.multiplydose.com&type=ws&allowInsecure=1&sni=www.multiplydose.com#United+States
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@141.164.45.187:7001#South+Korea
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5NGFhZTA1MTAxODhlOGM1@141.95.106.127:11201#France
+vmess://eyJhZGQiOiAiNDcuMjQzLjEzNS43NCIsICJhaWQiOiAwLCAiaG9zdCI6ICIiLCAiaWQiOiAiMTM3NTk4NWUtMzM0YS00YzI1LThmNjQtNTJhMTgyYmM4MDM3IiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9Ob3RpZl9DaGF0IiwgInBvcnQiOiA1NTE4NSwgInBzIjogIkhvbmcgS29uZyIsICJ0bHMiOiAiIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiJ9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@89.46.239.231:990#Romania
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNaG9sU3R5SEw3RGhyZXdLYnBRYTIw@185.176.221.72:24637#Latvia
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRRld6Q3cydVg5QjlpNnFBWWVGQklF@154.46.31.106:443#United+States
 ```
 <h5>ऊपरी नोड (भाग) का स्थायी सदस्यता पता: https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_hi</h5>
  <p>उपरोक्त सदस्यता पते के लिए QR कोड</p>
