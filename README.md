@@ -36,10 +36,10 @@
 <h4>节点列表：(这里仅展示部分节点，查看全部节点请下载app)</h4>
 
 ```
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU0ZTlhXHU1OTJhXHU1NzMwXHU1MzNhIFYyQ1JPU1MuQ09NIiwgImFkZCI6ICIxMDMuMTgxLjE2NC4xNDUiLCAicG9ydCI6ICI1MTU1NiIsICJ0eXBlIjogIm5vbmUiLCAiaWQiOiAiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIvIiwgImhvc3QiOiAiIiwgInRscyI6ICIifQ==
-trojan://strong-secret-pass-777@94.131.105.125:4443?allowInsecure=1#%E4%B9%8C%E5%85%8B%E5%85%B0+V2CROSS.COM
 trojan://ZblhWr0mqMakCPg.N@212.193.18.144:36158?security=tls&sni=ya.ru#%E4%BF%84%E7%BD%97%E6%96%AF+V2CROSS.COM
 vmess://eyJhZGQiOiAiODIuMjEuODAuMjI0IiwgInYiOiAiMiIsICJwcyI6ICJcdTgyZjFcdTU2ZmQgXHU0ZjI2XHU2NTY2VmlyZ2luIE1lZGlhIiwgInBvcnQiOiAxNzMxMCwgImlkIjogIjY1NjkyMGRjLWVkMDUtNGY0MS04YzQ5LWJkZmY0MWUzODNhOSIsICJhaWQiOiAiMCIsICJuZXQiOiAibm9uZSIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIi8iLCAidGxzIjogInRscyJ9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptMDJYOXA5Q3FuM0ljNGw2UHlKTUY4@185.223.82.82:10021#%E8%A5%BF%E7%8F%AD%E7%89%99+V2CROSS.COM
+trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420?sni=www.semanticstaplegun.click&allowInsecure=1&type=tcp&fp=chrome#%E8%A5%BF%E7%8F%AD%E7%89%99+V2CROSS.COM
 ```
 
 <h5>上方节点（部分）永久订阅地址：https://proxy.v2gh.com/https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub</h5>
