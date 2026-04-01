@@ -35,10 +35,10 @@
  <h4>Список узлов: (здесь показаны только некоторые узлы. Загрузите приложение, чтобы просмотреть все узлы)</h4>
     
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.122:8080#%D0%91%D1%80%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D1%8F
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5NGFhZTA1MTAxODhlOGM1@141.95.106.127:11201#%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D1%8F
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.141:8080#%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B
-trojan://humanity@v3.dabache.top:443?allowInsecure=1&sni=www.gossipglove.com&type=ws&host=www.gossipglove.com&path=%2Fassignment%23%E2%9C%85%40AR14N24b%F0%9F%A4%96%D8%A8%D9%87%D8%AA%D8%B1%DB%8C%D9%86%2B%D8%B1%D8%A7%D9%87%DA%A9%D8%A7%D8%B1%2B%D8%B1%D9%81%D8%B9%2B%D9%85%D8%B4%DA%A9%D9%84%2B%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%2B%D8%A8%D9%87%2B%D9%BE%D8%B1%D9%88%DA%A9%D8%B3%DB%8C%2F%D9%81%DB%8C%D9%84%D8%AA%D8%B1%D8%B4%DA%A9%D9%86%2B%F0%9F%A7%A0%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%2B%23proxy%2B%23v2ray%2B%23%D8%A7%DB%8C%D9%86%D8%AA%D8%B1%D9%86%D8%AA#%D0%A1%D0%A8%D0%90
+vmess://eyJhZGQiOiAiMTM0LjE5NS4xOTguMTQ3IiwgImFpZCI6IDAsICJob3N0IjogIiIsICJpZCI6ICIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL2xpbmt2d3MiLCAicG9ydCI6IDQ0MywgInBzIjogIlx1MDQxYVx1MDQzMFx1MDQzZFx1MDQzMFx1MDQzNFx1MDQzMCIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiJ9
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.180.152.210:8881#%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.243:443#%D0%A1%D0%A8%D0%90
+trojan://humanity@104.21.40.34:443?security=tls&sni=www.gossipglove.com&allowInsecure=1&type=ws&host=www.gossipglove.com&path=%2Fassignment#%D0%A1%D0%A8%D0%90
 ```
 <h5>Адрес постоянной подписки верхнего узла (части): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ru</h5>
  <p>QR-код для адреса подписки выше</p>
