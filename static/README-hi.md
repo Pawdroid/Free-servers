@@ -35,12 +35,12 @@
  <h4>नोड सूची: (यहां केवल कुछ नोड्स प्रदर्शित हैं, कृपया सभी नोड्स देखने के लिए ऐप डाउनलोड करें)</h4>
     
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@138.186.142.80:990#Panama
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.82:8080#United+Kingdom
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@38.165.231.25:990#Ecuador
-vmess://eyJhZGQiOiAiOTU5MzBiZmEtdDcwZjQwLXQ4M2J3MS0xZjU5Ni5oa3QuZ290b2NoaW5hdG93bi5uZXQiLCAidiI6ICIyIiwgInBzIjogIkhvbmcgS29uZyIsICJwb3J0IjogODAsICJpZCI6ICJlMzk3NWEwNS1iODllLTExZWMtYTUwZC1mMjNjOTFjZmJiYzkiLCAiYWlkIjogIjIiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiYnJvYWRjYXN0bHYuY2hhdC5iaWxpYmlsaS5jb20iLCAicGF0aCI6ICIvIiwgInRscyI6ICIifQ==
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@138.186.142.81:990#Panama
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@193.135.174.135:990#United+States
+vmess://eyJhZGQiOiAiNDcuMjUwLjQ1LjIzNCIsICJhaWQiOiAwLCAiaG9zdCI6ICIiLCAiaWQiOiAiYzc3ZjQ4ZjUtNGJlMy00NDYxLWI1MmItNDk5OThlN2I4OTdiIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9hcmtpP2VkPTIwNDgiLCAicG9ydCI6IDQzMDYzLCAicHMiOiAiTWFsYXlzaWEiLCAidGxzIjogIiIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIifQ==
+trojan://Puj01Rc8UcA9IzcFcYOs8KMOhCz6aX2Q@188.114.97.3:443?path=/tjwsLhx0SFASG4l9FERJ1g&security=tls&host=mfyousheng.nl.eu.org&type=ws&sni=mfyousheng.nl.eu.org#The+Netherlands
+trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@170.168.102.234:2083?allowInsecure=1&host=xo.e0f.cx&path=/trojan-ws&sni=xo.e0f.cx&type=ws#United+States
+vmess://eyJhZGQiOiAiMmNlNjIxOWEtdDZyNXMwLXRpYWV4Zi11ZmMwLmhrdC5nb3RvY2hpbmF0b3duLm5ldCIsICJ2IjogIjIiLCAicHMiOiAiSG9uZyBLb25nIiwgInBvcnQiOiA4MCwgImlkIjogIjIyMzA4OTg4LTg1NDgtMTFlYS1hMjJlLWYyM2M5MWNmYmJjOSIsICJhaWQiOiAiMiIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJicm9hZGNhc3Rsdi5jaGF0LmJpbGliaWxpLmNvbSIsICJwYXRoIjogIi8iLCAidGxzIjogIiJ9
+vmess://eyJ2IjogIjIiLCAicHMiOiAiSG9uZyBLb25nIiwgImFkZCI6ICI5YzQwMmIwZC10NzBmNDAtdGZlY2l5LTFpZGR5LmhrdC5nb3RvY2hpbmF0b3duLm5ldCIsICJwb3J0IjogIjgwIiwgImlkIjogImUxNjhjNDNlLWM2ZDktMTFlZC1hOGJmLWYyM2M5MWNmYmJjOSIsICJhaWQiOiAyLCAibmV0IjogIndzIiwgInR5cGUiOiAiYXV0byIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAiIn0=
+vmess://eyJ2IjogIjIiLCAicHMiOiAiSG9uZyBLb25nIiwgImFkZCI6ICJjNGVhNTFhYi10N2gzNDAtdDh4ZHN1LW54M2IuaGt0LmdvdG9jaGluYXRvd24ubmV0IiwgInBvcnQiOiAiODAiLCAiaWQiOiAiMzIzMTUzMjQtY2Y2Yi0xMWVkLTk3OWItZjIzYzkxNjRjYTVkIiwgImFpZCI6IDIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJhdXRvIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiIiwgInRscyI6ICIifQ==
 ```
 <h5>ऊपरी नोड (भाग) का स्थायी सदस्यता पता: https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_hi</h5>
  <p>उपरोक्त सदस्यता पते के लिए QR कोड</p>

@@ -35,10 +35,10 @@
  <h4>Lista de nodos: (aquí solo se muestran algunos nodos; descargue la aplicación para ver todos los nodos)</h4>
     
 ```
-trojan://humanity@104.21.40.34:443?security=tls&sni=www.gossipglove.com&allowInsecure=1&type=ws&host=www.gossipglove.com&path=%2Fassignment#Estados+Unidos
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2YzgxNWJiODRjNzgxZGE1@51.75.168.50:13030#Reino+Unido
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5ZDk3NDMzNjg4ZTdlZmQ1@163.171.206.24:44233#Estados+Unidos
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.214:8080#Reino+Unido
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmNTRjZGVlMTBmOGIyNWNl@57.129.95.38:11201#Francia
+vmess://eyJhZGQiOiAiNjEuMjQ1LjExLjYwIiwgImhvc3QiOiAiNjEuMjQ1LjExLjYwIiwgImlkIjogImEzZTNhNzEwLTc5ZjgtNGFlMC1iODNjLTYwN2FhYjQwZDE5NyIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvdm1lc3MvIiwgInBvcnQiOiA4MCwgInBzIjogIkZpbGlwaW5hcyIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlfQ==
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.217:8080#Reino+Unido
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.157:8080#Holanda
 ```
 <h5>La dirección de suscripción permanente del nodo superior (parte): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_es</h5>
  <p>Código QR para la dirección de suscripción anterior</p>

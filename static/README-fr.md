@@ -35,10 +35,10 @@
  <h4>Liste des nœuds: (Seuls certains nœuds sont affichés ici, veuillez télécharger l'application pour afficher tous les nœuds)</h4>
     
 ```
-trojan://humanity@www.multiplydose.com:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#%C3%89tats+Unis
-vmess://eyJhZGQiOiAiMjMuMTYyLjIwMC4yMjciLCAiYWlkIjogMCwgImhvc3QiOiAiIiwgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvbGlua3Z3cyIsICJwb3J0IjogNDQzLCAicHMiOiAiQ2FuYWRhIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIn0=
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2YzgxNWJiODRjNzgxZGE1@51.75.168.50:13030#Royaume-Uni
-vmess://eyJhZGQiOiAiMTcyLjIzMy4yMjkuOTEiLCAidiI6ICIyIiwgInBzIjogIlx1MDBjOXRhdHMgVW5pcyIsICJwb3J0IjogMTQxMDIsICJpZCI6ICIyN2JhODdmYy01ODNmLTQ3NjMtOTA2MC04M2NmMGI5MjY0ZGIiLCAiYWlkIjogIjAiLCAibmV0IjogInRjcCIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAiIn0=
+ss://YWVzLTI1Ni1nY206UXpNME5mdU1ObmdiVm5aSw==@144.126.145.77:443#%C3%89tats+Unis
+ss://YWVzLTI1Ni1nY206OEpDc1Bzc2ZnUzh0aVJ3aU1saEFSZz09@144.217.164.29:12000#Canada
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@38.60.247.151:990#Bulgarie
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.251:8080#Pays-Bas
 ```
 <h5>L'adresse d'abonnement permanente du nœud supérieur (partie): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_fr</h5>
  <p>Code QR pour l'adresse d'abonnement ci-dessus</p>
