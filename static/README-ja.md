@@ -35,10 +35,10 @@
  <h4>ノード リスト: (ここには一部のノードのみが表示されます。すべてのノードを表示するにはアプリをダウンロードしてください)</h4>
     
 ```
-vmess://eyJhZGQiOiAidDEuNjIwNzIwLnh5eiIsICJhaWQiOiAwLCAiaG9zdCI6ICJ0MS42MjA3MjAueHl6IiwgImlkIjogIjUxNmQ4YTdhLTNmMGItNDFkMy1iYWQwLTI0NjExNjM4MTUxNiIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgInBvcnQiOiA4NDQzLCAicHMiOiAiXHUzMGEyXHUzMGUxXHUzMGVhXHUzMGFiIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIn0=
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.202:8080#%E3%82%AA%E3%83%A9%E3%83%B3%E3%83%80%E7%8E%8B%E5%9B%BD
-trojan://kkzh2prsyr2ik47as615@64.94.95.118:57142?security=tls&sni=64.94.95.118#%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmZDdiMGQxNGI1OTBiY2Vi@112.197.26.106:26417#%E3%83%99%E3%83%88%E3%83%8A%E3%83%A0
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.204:443#%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB
+trojan://IL37892054@outgoing-ladybird.rooster465.autos:443?security=tls&sni=outgoing-ladybird.rooster465.autos#%E5%A4%A7%E9%9F%93%E6%B0%91%E5%9B%BD
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.191:8080#%E8%8B%B1%E5%9B%BD
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5dHFoTWRJclRrZ1E0NlB2aHlBdE1I@92.112.126.90:443#%E3%82%A6%E3%82%AF%E3%83%A9%E3%82%A4%E3%83%8A%E5%85%B1%E5%92%8C%E5%9B%BD
 ```
 <h5>上位ノードの永続サブスクリプション アドレス (部分): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ja</h5>
  <p>上記の購読アドレスの QR コード</p>

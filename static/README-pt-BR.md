@@ -35,10 +35,10 @@
  <h4>Lista de nós: (Apenas alguns nós são exibidos aqui, baixe o aplicativo para visualizar todos os nós)</h4>
     
 ```
-vmess://eyJhZGQiOiAibjE3NTMzNTYzNjEubGllNWQuY3lvdSIsICJhaWQiOiAiMCIsICJob3N0IjogIm4xNzUzMzU2MzYxLmxpZTVkLmN5b3UiLCAiaWQiOiAiY2RmZDk3ODctZGFjOC00YzFlLTlhZTUtMTA0ZTIzYTlkOTk0IiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi8iLCAicG9ydCI6ICI0NDMiLCAicHMiOiAiSG9uZyBLb25nIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAidGxzIjogInRscyIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=
-trojan://humanity@www.multiplydose.com:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#EUA
-trojan://IL37892054@outgoing-ladybird.rooster465.autos:443?security=tls&sni=outgoing-ladybird.rooster465.autos#Coreia+do+Sul
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@138.186.142.81:990#Panam%C3%A1
+vmess://eyJhZGQiOiAibjE3NTMzNDg3MzYubGllNWQuY3lvdSIsICJob3N0IjogIm4xNzUzMzQ4NzM2LmxpZTVkLmN5b3UiLCAiaWQiOiAiZjI2N2VhYzMtZGZiNC00NWJlLWE0ODAtN2UxODQ3Y2EwNGFiIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi8iLCAicG9ydCI6IDQ0MywgInBzIjogIkhvbmcgS29uZyIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICJuMTc1MzM0ODczNi5saWU1ZC5jeW91IiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080#Holanda
+trojan://IL37892054@select-marmoset.rooster465.autos:443?security=tls&sni=select-marmoset.rooster465.autos#Coreia+do+Sul
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYc3k4T3g0eU9WM3hMbHB4dGp6czNY@102.133.165.160:16233#%C3%81frica+do+Sul
 ```
 <h5>O endereço de assinatura permanente do nó superior (parte): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_pt-BR</h5>
  <p>Código QR do endereço de assinatura acima</p>
