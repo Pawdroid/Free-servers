@@ -1,0 +1,91 @@
+
+<div align="center">
+
+**Languages:**
+
+[![English](https://img.shields.io/badge/Language-English-red?style=for-the-badge)](README-en.md)
+[![Arabic](https://img.shields.io/badge/Language-Arabic-red?style=for-the-badge)](README-ar.md)
+[![German](https://img.shields.io/badge/Language-German-red?style=for-the-badge)](README-de.md)
+[![Vietnamese](https://img.shields.io/badge/Language-Vietnamese-red?style=for-the-badge)](README-vi.md)
+[![Indonesian](https://img.shields.io/badge/Language-Indonesian-red?style=for-the-badge)](README-id.md)
+[![Urdu](https://img.shields.io/badge/Language-Urdu-red?style=for-the-badge)](README-ur-PK.md)
+[![Portuguese](https://img.shields.io/badge/Language-Portuguese-red?style=for-the-badge)](README-pt-BR.md)
+[![Spanish](https://img.shields.io/badge/Language-Spanish-red?style=for-the-badge)](README-es.md)
+[![Russian](https://img.shields.io/badge/Language-Russian-red?style=for-the-badge)](README-ru.md)
+[![Polish](https://img.shields.io/badge/Language-Polish-red?style=for-the-badge)](README-pl.md)
+[![Korean](https://img.shields.io/badge/Language-Korean-red?style=for-the-badge)](README-ko-KR.md)
+[![French](https://img.shields.io/badge/Language-French-red?style=for-the-badge)](README-fr.md)
+[![Japanese](https://img.shields.io/badge/Language-Japanese-red?style=for-the-badge)](README-ja.md)
+[![Hindi](https://img.shields.io/badge/Language-Hindi-red?style=for-the-badge)](README-hi.md)
+[![Bangla](https://img.shields.io/badge/Language-Bangla-red?style=for-the-badge)](README-bn.md)
+
+</div>
+<h2>टेलीग्राम संचार समूह में शामिल होने के लिए क्लिक करें:</h2>
+ <blockquote>
+ <p शैली = "टेक्स्ट-एलाइन: सेंटर;"><a href = "https://t.me/shadowrocket_android">https://t.me/shadowrocket_android</a></p>
+ </blockquote>
+ <h2>निःशुल्क नोड और सदस्यता पता:</h2>
+ <blockquote>
+ <p style=”text-ign:center;”>उच्च-गुणवत्ता वाले नोड्स को हर दिन वास्तविक समय की गति में अपडेट किया जाता है, हर 6 घंटे में अपडेट किया जाता है</p>
+ </blockquote>
+ <h4>इस पृष्ठ पर, किसी ने वास्तविक समय में प्रत्येक नोड की गति को मैन्युअल रूप से मापा है, लेकिन विभिन्न क्षेत्रों में ऑपरेटर नेटवर्क में अभी भी अंतर हैं, और टाइमआउट नोड्स हो सकते हैं। </h4>
+ <blockquote>
+ <p style="text-align: center;">खाएं -> सोएं -> परीक्षण नोड्स। </p>
+ </blockquote>
+ <h4>नोड सूची: (यहां अधिकतम 20 नोड दिखाए जाते हैं। अन्य मुफ्त नोड ऐप में प्राप्त करें)</h4>
+    
+```
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.7:8080#United+Kingdom
+vless://2756d45c-2d91-4783-8114-ad1e128799ba@www.ipget.net:8880?type=ws&host=blue-breeze-e33c.261.workers.dev&path=/pyip=ProxyIP.SG.CMLiussss.net#
+vless://06b65903-406d-4a41-8400-6fd5c0ee7798@104.16.72.2:2096?path=%2Fproxyip&security=tls&encryption=none&host=sp.linuxdododo.ccwu.cc&fp=chrome&type=ws&sni=sp.linuxdododo.ccwu.cc#
+vless://06462f62-5f9c-4632-9041-d35fedd0df97@fast.motorbazan.com:443?path=/&security=tls&encryption=none&insecure=1&host=bazaryabab.global.ssl.fastly.net&type=ws&allowInsecure=1&sni=ssl.fastly.com#United+States
+vless://b320eba7-5380-4bd1-b5e6-32daab16066f@147.135.214.161:3443?encryption=none&fp=chrome&mode=gun&pbk=Ps_w7KP3VFrZv1niWfX3synmJq_d2c7sVSckxa3sgio&security=reality&sni=api.github.com&type=grpc#France
+vless://7f89560c-b9f0-4c56-b3e0-1b1bdafe0b08@45.195.137.29:8443?security=reality&encryption=none&pbk=IdqrygjwHBEMCOamBl7a504TVk6uMAtTRj0xLWcFcxY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=e3d38cee79d4f94c#Mauritius
+vless://4454f3d1-6359-401b-b10c-81d0b3f0b7c2@104.21.82.201:2087?path=/eyJqdW5rIjoiY0lZS1FrazRnIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=v2ngfast-mnbjhv.akbarbikar.workers.dev&fp=chrome&type=ws&sni=V2NgFaST-MNBjhv.AkbarbikAr.WorKErs.DEV#
+vless://86442a2b-417d-426d-9b42-955573b5c6e4@172.67.215.44:2052?type=ws&host=ez-bfa272.ezaccess1d90628.workers.dev&path=/eyJqdW5rIjoiaUhoWE5FbWloZWY1MGxobSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjg5LjE2OS4zNC45OSJdfQ==?ed=2560#United+States
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.197:23576?security=reality&type=tcp&packetEncoding=xudp&sni=fuck.rkn&fp=chrome&flow=xtls-rprx-vision&sid=01&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&encryption=none#United+States
+vless://a6704fb4-4874-4e6b-98f4-571b048e3d90@31.77.161.2:8443?encryption=none&security=reality&sni=prod.de-node-01.security-sbrf.ru&fp=chrome&pbk=4XxjInQuDp4SqaYF03yQ1VY61exkKi9e0RS5-kgyxAE&sid=db04ce8bdb8900f1&type=tcp&headerType=none&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI#United+Kingdom
+vless://6a372c32-1b32-4c23-9671-bb1c1a13a54e@192.144.13.35:18054?encryption=none&security=none&type=tcp#United+States
+trojan://afbcd89a-5a90-4a44-a42a-be08f444aa3f@blog.webex.com:443?host=unnes.ac.id.yxls.eu.cc&path=%2Fbr-orcl&security=tls&sni=unnes.ac.id.yxls.eu.cc&type=ws#United+States
+vless://e286cebe-7473-44e9-8c30-273ac36ac83b@usa.mohammadaz2.shop:42348?security=none&type=tcp&headerType=http&path=%2F&host=play.google.com&packetEncoding=xudp&encryption=none#%F0%9F%87%BA%F0%9F%87%B8US_27%7C2.5MB%2Fs%20%7C%20%E6%9B%B4%E5%A4%9A%E8%8A%82%E7%82%B9%3A%20https%3A%2F%2Ft.me%2Fbyxiaoxi
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.167.174:8880?encryption=none&mode=gun&security=tls&type=grpc#France
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@cf7.466688.xyz:8880?encryption=none&security=none&type=ws&host=vms.lifetime54.workers.dev&path=/?ed=2560&https://t.me/QiangLieTuiJian#
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpid2pOUGN3Z3o1KzFnQ3lpK3JCK25mcXVndzM4Qjd0cVZh@38.180.221.145:17283#The+Netherlands
+vless://af1e0692-6c91-4d61-bc6b-108f2e897c37@193.233.174.195:27331?security=none&type=tcp&packetEncoding=xudp&encryption=none#Russia
+vmess://eyJhZGQiOiAiNTcuMTUxLjEwMC4yNyIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiNTUwZTg0MDAtZTI5Yi00MWQ0LWE3MTYtNDQ2NjU1NDQwMDAwIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIiLCAicG9ydCI6IDEwMDg2LCAicHMiOiAiVW5pdGVkIFN0YXRlcyIsICJzY3kiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=
+vless://7f89560c-b9f0-4c56-b3e0-1b1bdafe0b08@45.195.137.240:8443?security=reality&encryption=none&pbk=IdqrygjwHBEMCOamBl7a504TVk6uMAtTRj0xLWcFcxY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=e3d38cee79d4f94c#Mauritius
+```
+<h5>ऊपरी नोड (भाग) का स्थायी सदस्यता पता: https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_hi</h5>
+ <p>उपरोक्त सदस्यता पते के लिए QR कोड</p>
+ <img src='https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_hi.png' width=250 height=250>
+ <blockquote style='text-align: center;'>अधिक नोड्स, मुफ्त सदस्यता पते और सदस्यता रूपांतरण के लिए, कृपया इस साइट द्वारा प्रदान किया गया साझा नोड ऐप सॉफ़्टवेयर डाउनलोड करें <a href='https://shadowsharing.com'>ShadowShare </a> निर्यात नोड उपयोग, आईओएस और एंड्रॉइड डाउनलोड का समर्थन, एंड्रॉइड उपयोगकर्ताओं को सीधे <a href='https://github.com/Pawdroid/shadowrocket_for_android'>एंड्रॉइड के लिए शैडोरॉकेट</a> एंड्रॉइड रॉकेट का उपयोग करने की सलाह दी जाती है। सभी निःशुल्क नोड्स अंतर्निर्मित। </blockquote>
+ <h4>यह अनुशंसा की जाती है कि घरेलू iOS उपयोगकर्ता <a href='https://apps.apple.com/cn/app/shadowshare/id1612647259'>ऐप स्टोर डाउनलोड करें</a> और इसे जल्द से जल्द सेव करें रैक को भविष्य में किसी समय डाउनलोड किया जा सकता है</h4>
+ <h4>हाई-स्पीड और हाई-क्वालिटी वीपीएन की नवीनतम रिलीज <a href='https://letgovpn.com'>क्विक वीपीएन</a> ने एंड्रॉइड और विंडोज प्लेटफॉर्म को सपोर्ट किया है, इसे डाउनलोड करने और उपयोग करने के लिए आपका स्वागत है सीमित समय के लिए असीमित निःशुल्क परीक्षण प्रदान किया जाता है। </h4>
+ <div class='nv-content-wrap Entry-content'>
+ <h2>क्लैश और एसएस जैसे क्लाइंट सदस्यता पतों का एक-क्लिक रूपांतरण:</h2>
+ <p>यदि SS/SSR/V2ray क्लाइंट सीधे SSR नोड लिंक का उपयोग नहीं कर सकता है, तो इसे सदस्यता पते में बदलने के लिए नीचे दिए गए टूल का उपयोग करें। फिर SSR/SSD/सर्ज/क्वांटम/सर्फ़बोर्ड/लून और अन्य मोबाइल और कंप्यूटर क्लाइंट यहां इस्तेमाल किया जा सकता है:</p>
+ <p><a href='https://acl4ssr-sub.github.io' target='_blank' rel='noreferrer noopener nofollow'>https://acl4ssr-sub.github.io</a></p>
+ <h2>V2ray/SSR Android iPhone/PC क्लाइंट डाउनलोड</h2>
+ <h3>V2Ray क्लाइंट डाउनलोड</h3>
+ <p>V2ray Windows क्लाइंट, V2ray Android क्लाइंट, Apple कंप्यूटर के लिए V2ray MacOS क्लाइंट, iPhones के लिए V2ray iOS क्लाइंट और V2ray Linux क्लाइंट के नवीनतम संस्करणों के लिए डाउनलोड लिंक भी प्रदान किए गए हैं। </p>
+ <h4>Windows7/8/10-<strong>V2ray WinPC कंप्यूटर क्लाइंट</strong>प्रोग्राम डाउनलोड</h4>
+ <figure class="wp-block-table alignwide is-style-stripes"><table><tbody><tr><td>V2rayN download</td><td><a href="https://github.com/2dust/v2rayN/releases" target="_blank" rel="noreferrer noopener">Official website download</a></td></tr><tr><td>V2rayW download</td><td><a href="https://github.com/Cenmrev/V2RayW/releases" target="_blank" rel="noreferrer noopener">Official website download</a></td></tr><tr><td>Clash download</td><td><a href="https://github.com/Fndroid/clash_for_windows_pkg/releases" target="_blank" rel="noreferrer noopener">Official website download</a></td></tr><tr><td>V2rayS download</td><td><a href="https://github.com/Shinlor/V2RayS/releases" target="_blank" rel="noreferrer noopener">Official website download</a></td></tr><tr><td>Mellow download</td><td><a href="https://github.com/mellow-io/mellow/releases" target="_blank" rel="noreferrer noopener">Official website download</a></td></tr><tr><td>Qv2ray download</td><td><a href="https://github.com/Qv2ray/Qv2ray" target="_blank" rel="noreferrer noopener">Official website download</a></td></tr></tbody></table></figure>
+ <h4><strong>Android/Xiaomi MIUI/Huawei EMUI-V2ray Android mobile client</strong>Apk program download</h4>
+ <figure class="wp-block-table alignwide is-style-stripes"><table><tbody><tr><td>V2rayNG download</td><td><a href="https://github.com/2dust/v2rayNG/releases" target="_blank" rel="noreferrer noopener">Official website download</a></td></tr><tr><td>Android Rocket download</td><td><a href="https://github.com/Pawdroid/shadowrocket_for_android/releases" target="_blank" rel="noreferrer noopener">Official website download</a></td></tr><tr><td>BifrostV download</td><td><a rel="noreferrer noopener" href="https://www.appsapk.com/downloading/latest/com.github.dawndiy.bifrostv-0.6.8.apk" target="_blank">Market Download</a></td></tr><tr><td>Clash Download</td><td><a href="https://github.com/Kr328/ClashForAndroid/releases" target="_blank" rel="noreferrer noopener">Official Website Download</a></td></tr><tr><td>Kitsunebi Download</td><td><a rel="noreferrer noopener" href="https://apkpure.com/kitsunebi/fun.kitsunebi.kitsunebi4android" target="_blank">Market Download</a></td></tr></tbody></table></figure>
+ <h4><strong>MacOS-V2ray <strong>Apple Computer</strong> Client</strong> Program Download</h4>
+ <figure class="wp-block-table alignwide is-style-stripes"><table><tbody><tr><td>V2rayU Download</td><td><a href="https://github.com/yanue/V2rayU/releases" target="_blank" rel="noreferrer noopener">Official website download</a></td></tr><tr><td>V2rayX Download</td><td><a href="https://github.com/Cenmrev/V2RayX/releases" target="_blank" rel="noreferrer noopener">Official website download</a></td></tr><tr><td>ClashX Download</td><td><a href="https://github.com/yichengchen/clashX/releases" target="_blank" rel="noreferrer noopener">Official website download</a></td></tr></tbody></table></figure>
+ <h4><strong>Linux</strong>–<strong>V2ray Ubuntu/Centos PC Client</strong> Program Download</h4>
+ <figure class="wp-block-table alignwide is-style-stripes"><table><tbody><tr><td>Qv2ray Download</td><td><a href="https://github.com/Qv2ray/Qv2ray" target="_blank" rel="noreferrer noopener">Official Website Download</a></td></tr><tr><td>Mellow Download</td><td><a href="https://github.com/mellow-io/mellow/releases" target="_blank" rel="noreferrer noopener">Official Website Download</a></td></tr><tr><td>V2rayL Download</td><td><a rel="noreferrer noopener" href="https://github.com/jiangxufeng/v2rayL" target="_blank">Official installation document</a></td></tr></tbody></table></figure>
+ <p>Apple AppStore बाज़ार में कोई निःशुल्क V2ray iOS क्लाइंट नहीं है, शैडोरॉकेट, पेपी, i2Ray, कित्सुनेबी और क्वांटमल्ट जैसे पेड ऐप्स वर्तमान में उपलब्ध हैं। </p>
+ <h3>ShadowsocksR/SSR क्लाइंट डाउनलोड</h3>
+ <p>शैडोज़ॉक्सआर को संक्षेप में एसएसआर कहा जाता है, और इसमें खट्टा दही, गुलाबी हवाई जहाज और कागज हवाई जहाज जैसे प्यारे उपनाम भी हैं, जो व्यापक रूप से उपयोग किए जाते हैं। </p>
+ <p>हमने सभी के साथ साझा करने के लिए SSR Windows क्लाइंट, SSR Android क्लाइंट, Apple कंप्यूटर के लिए SSR MacOS क्लाइंट और Apple फोन के लिए SSR iOS क्लाइंट के नवीनतम संस्करणों के डाउनलोड पते संकलित किए हैं। </p>
+ <h4><strong>वाईndows7/8/10-<strong>SSR स्मॉल प्लेन WinPC कंप्यूटर क्लाइंट</strong>प्रोग्राम डाउनलोड</strong></h4>
+ <p><a rel='noreferrer noopener' href='https://github.com/shadowsocksrr/shadowsocksr-csharp/releases' target='_blank'>आधिकारिक वेबसाइट डाउनलोड</a></p>
+ <h4><strong><strong>Android/Xiaomi MIUI/Huawei EMUI-SSR छोटा विमान Android मोबाइल क्लाइंट</strong>Apk प्रोग्राम डाउनलोड</strong></h4>
+ <p><a rel='noreferrer noopener' href='https://github.com/shadowsocksrr/shadowsocksr-android/releases' target='_blank'>आधिकारिक वेबसाइट डाउनलोड</a></p>
+ <h4><strong><strong>MacOS-SSR स्मॉल प्लेन Apple कंप्यूटर क्लाइंट</strong>प्रोग्राम डाउनलोड</strong></h4>
+ <p><a href='https://github.com/qinyuhang/ShadowsocksX-NG-R/releases' target=”_blank” rel=”noreferrer noopener”>आधिकारिक वेबसाइट डाउनलोड</a></p>
+ <h4><strong>iOS-<strong>SSR स्मॉल प्लेन एप्पल मोबाइल क्लाइंट ऐप</strong></strong>डाउनलोड</h4>
+ <p>आईफोन या आईपैड पर ऐप्पल ऐप स्टोर खोलें और म्यूम, पोटासो लाइट, फास्टसॉक्स और शैडरॉकेट खोजें। </p></div>
+    
