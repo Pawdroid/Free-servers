@@ -1,0 +1,435 @@
+{
+  "schema": 1,
+  "languages": [
+    "zh",
+    "en",
+    "vi",
+    "id",
+    "ur-PK",
+    "pt-BR",
+    "es",
+    "ru",
+    "pl",
+    "ko-KR",
+    "fr",
+    "ja",
+    "hi",
+    "bn",
+    "ar",
+    "de"
+  ],
+  "clients": [
+    {
+      "id": "v2rayn",
+      "names": [
+        "v2rayN"
+      ],
+      "format": "URI / Base64",
+      "workflow": "uri",
+      "notes": [],
+      "reference": [],
+      "official": {
+        "url": "https://github.com/2dust/v2rayN/wiki/Description-of-some-ui",
+        "language": "中文"
+      }
+    },
+    {
+      "id": "clash-verge-rev",
+      "names": [
+        "Clash Verge Rev"
+      ],
+      "format": "Clash / Mihomo YAML",
+      "workflow": "yaml",
+      "notes": [],
+      "reference": [],
+      "official": {
+        "url": "https://www.clashverge.dev/guide/quickstart.html",
+        "language": "中文"
+      }
+    },
+    {
+      "id": "hiddify",
+      "names": [
+        "Hiddify"
+      ],
+      "format": "URI / Base64 · Clash YAML · sing-box JSON",
+      "workflow": "uri",
+      "notes": [
+        "mixed"
+      ],
+      "reference": [],
+      "official": {
+        "url": "https://hiddify.com/app/How-to-use-Hiddify-app/",
+        "language": "English"
+      }
+    },
+    {
+      "id": "clash-party",
+      "names": [
+        "Clash Party"
+      ],
+      "format": "Clash / Mihomo YAML",
+      "workflow": "yaml",
+      "notes": [],
+      "reference": [],
+      "official": {
+        "url": "https://clashparty.org/docs/handson",
+        "language": "中文"
+      }
+    },
+    {
+      "id": "flclash",
+      "names": [
+        "FlClash"
+      ],
+      "format": "Clash / Mihomo YAML",
+      "workflow": "yaml",
+      "notes": [],
+      "reference": [
+        {
+          "url": "https://github.com/chen08209/FlClash#usage",
+          "language": "English",
+          "kind": "reference"
+        }
+      ]
+    },
+    {
+      "id": "karing",
+      "names": [
+        "Karing"
+      ],
+      "format": "URI / Base64 · Clash YAML · sing-box JSON",
+      "workflow": "uri",
+      "notes": [
+        "mixed"
+      ],
+      "reference": [],
+      "official": {
+        "url": "https://karing.app/en/quickstart",
+        "language": "English"
+      },
+      "official_zh": {
+        "url": "https://karing.app/quickstart",
+        "language": "中文"
+      }
+    },
+    {
+      "id": "throne",
+      "names": [
+        "Throne"
+      ],
+      "format": "URI / Base64 · sing-box JSON · Clash YAML proxies",
+      "workflow": "uri",
+      "notes": [
+        "nodeonly"
+      ],
+      "reference": [],
+      "official": {
+        "url": "https://throneproj.github.io/get_started/configuration/",
+        "language": "English"
+      },
+      "official_zh": {
+        "url": "https://throneproj.github.io/zh/get_started/configuration/",
+        "language": "中文"
+      }
+    },
+    {
+      "id": "surge",
+      "names": [
+        "Surge Mac",
+        "Surge"
+      ],
+      "format": "Surge INI / Managed Profile",
+      "workflow": "app",
+      "notes": [
+        "surge"
+      ],
+      "reference": [],
+      "official": {
+        "url": "https://manual.nssurge.com/getting-started/quick-start.html",
+        "language": "English"
+      }
+    },
+    {
+      "id": "quantumult-x",
+      "names": [
+        "Quantumult X"
+      ],
+      "format": "Quantumult X / server_remote",
+      "workflow": "app",
+      "notes": [
+        "quantum"
+      ],
+      "reference": [
+        {
+          "url": "https://github.com/crossutility/Quantumult-X/blob/master/sample.conf",
+          "language": "中文 / English",
+          "kind": "reference"
+        }
+      ]
+    },
+    {
+      "id": "sing-box",
+      "names": [
+        "sing-box for Apple platforms",
+        "sing-box for Android"
+      ],
+      "format": "sing-box JSON",
+      "workflow": "singbox",
+      "notes": [],
+      "reference": [],
+      "official": {
+        "url": "https://sing-box.sagernet.org/clients/general/",
+        "language": "English"
+      },
+      "official_zh": {
+        "url": "https://sing-box.sagernet.org/zh/clients/general/",
+        "language": "中文"
+      }
+    },
+    {
+      "id": "v2rayng",
+      "names": [
+        "v2rayNG"
+      ],
+      "format": "URI / Base64",
+      "workflow": "uri",
+      "notes": [],
+      "reference": [
+        {
+          "url": "https://github.com/2dust/v2rayNG/wiki/Mode",
+          "language": "English",
+          "kind": "reference"
+        }
+      ]
+    },
+    {
+      "id": "clash-meta-android",
+      "names": [
+        "Clash Meta for Android"
+      ],
+      "format": "Clash / Mihomo YAML",
+      "workflow": "yaml",
+      "notes": [],
+      "reference": [
+        {
+          "url": "https://wiki.metacubex.one/en/handbook/syntax/",
+          "language": "English",
+          "kind": "reference"
+        },
+        {
+          "url": "https://github.com/MetaCubeX/ClashMetaForAndroid#automation",
+          "language": "English",
+          "kind": "reference"
+        }
+      ]
+    },
+    {
+      "id": "surfboard",
+      "names": [
+        "Surfboard"
+      ],
+      "format": "Surfboard / Surge profile",
+      "workflow": "app",
+      "notes": [
+        "surge"
+      ],
+      "reference": [
+        {
+          "url": "https://getsurfboard.com/docs/profile-format/overview/",
+          "language": "English",
+          "kind": "reference"
+        }
+      ]
+    },
+    {
+      "id": "nekobox-android",
+      "names": [
+        "NekoBox for Android"
+      ],
+      "format": "URI / Base64 · Clash proxies · sing-box outbounds",
+      "workflow": "uri",
+      "notes": [
+        "nodeonly"
+      ],
+      "reference": [],
+      "official": {
+        "url": "https://matsuridayo.github.io/nb4a-configuration/",
+        "language": "中文"
+      }
+    },
+    {
+      "id": "shadowrocket",
+      "names": [
+        "Shadowrocket"
+      ],
+      "format": "Shadowrocket subscriptions / profiles",
+      "workflow": "nodeapp",
+      "notes": [],
+      "reference": [
+        {
+          "url": "https://apps.apple.com/us/app/shadowrocket/id932747118",
+          "language": "English",
+          "kind": "source"
+        }
+      ]
+    },
+    {
+      "id": "stash",
+      "names": [
+        "Stash"
+      ],
+      "format": "Stash / Clash YAML",
+      "workflow": "yaml",
+      "notes": [],
+      "reference": [],
+      "official": {
+        "url": "https://stash.wiki/en/get-started",
+        "language": "English"
+      },
+      "official_zh": {
+        "url": "https://stash.wiki/get-started",
+        "language": "中文"
+      }
+    },
+    {
+      "id": "loon",
+      "names": [
+        "Loon"
+      ],
+      "format": "URI / Base64 · Loon configuration",
+      "workflow": "uri",
+      "notes": [
+        "loon"
+      ],
+      "reference": [],
+      "official": {
+        "url": "https://nsloon.app/en/docs/Node/subscription/",
+        "language": "English"
+      },
+      "official_zh": {
+        "url": "https://nsloon.app/docs/Node/subscription/",
+        "language": "中文"
+      }
+    },
+    {
+      "id": "egern",
+      "names": [
+        "Egern"
+      ],
+      "format": "Egern Profile.yaml / proxies YAML",
+      "workflow": "app",
+      "notes": [
+        "egern"
+      ],
+      "reference": [
+        {
+          "url": "https://egernapp.com/docs/configuration/policy_groups/",
+          "language": "English",
+          "kind": "reference"
+        }
+      ]
+    },
+    {
+      "id": "streisand",
+      "names": [
+        "Streisand"
+      ],
+      "format": "Supported node configurations",
+      "workflow": "nodeapp",
+      "notes": [],
+      "reference": [
+        {
+          "url": "https://streisand.pages.dev/",
+          "language": "English",
+          "kind": "source"
+        }
+      ]
+    },
+    {
+      "id": "potatso",
+      "names": [
+        "Potatso"
+      ],
+      "format": "Mihomo / Clash YAML · supported node links",
+      "workflow": "yaml",
+      "notes": [],
+      "reference": [
+        {
+          "url": "https://potatso.com/",
+          "language": "English",
+          "kind": "source"
+        }
+      ]
+    },
+    {
+      "id": "openclash",
+      "names": [
+        "OpenClash"
+      ],
+      "format": "Clash / Mihomo YAML",
+      "workflow": "router",
+      "notes": [],
+      "reference": [],
+      "official": {
+        "url": "https://github.com/vernesong/OpenClash#快速开始",
+        "language": "中文"
+      }
+    },
+    {
+      "id": "passwall",
+      "names": [
+        "PassWall2 / PassWall"
+      ],
+      "format": "Supported node URI subscriptions",
+      "workflow": "router",
+      "notes": [
+        "nodeonly"
+      ],
+      "reference": [
+        {
+          "url": "https://github.com/Openwrt-Passwall/openwrt-passwall2",
+          "language": "English",
+          "kind": "reference"
+        },
+        {
+          "url": "https://github.com/Openwrt-Passwall/openwrt-passwall",
+          "language": "English",
+          "kind": "reference"
+        }
+      ]
+    },
+    {
+      "id": "nikki",
+      "names": [
+        "Nikki"
+      ],
+      "format": "Mihomo YAML: proxies / proxy-providers",
+      "workflow": "router",
+      "notes": [],
+      "reference": [],
+      "official": {
+        "url": "https://github.com/nikkinikki-org/OpenWrt-nikki/wiki",
+        "language": "中文"
+      }
+    },
+    {
+      "id": "homeproxy",
+      "names": [
+        "HomeProxy"
+      ],
+      "format": "HomeProxy node subscriptions",
+      "workflow": "router",
+      "notes": [
+        "homeproxy"
+      ],
+      "reference": [
+        {
+          "url": "https://github.com/immortalwrt/homeproxy",
+          "language": "English",
+          "kind": "reference"
+        }
+      ]
+    }
+  ]
+}
